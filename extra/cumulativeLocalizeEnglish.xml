@@ -1027,8 +1027,8 @@
     <string id="3wXjMEwI" text="Segmented Leather Covered Arming Sword Grip" />
     <string id="3wzCrzEq" text="{HERO.LINK} gained a level." />
     <string id="3wzexaA7" text="the She-Wolf" />
-    <string id="3Wzhxkn1" text="Pot" />
     <string id="3Wzhxkn1" text="Fire Pot" />
+    <string id="3Wzhxkn1" text="Pot" />
     <string id="3xeuA9VP" text="+{TROOP_AMOUNT} Troop{?ISPLURAL}s{?} {\?} to Settlement" />
     <string id="3XimdHOn" text="How do I know he's not forcing you to say that?" />
     <string id="3xIv2cP9" text="Hold high ground" />
@@ -8379,8 +8379,8 @@
     <string id="k3CLKsrz" text="By Mouse Movement" />
     <string id="k3cm9EgA" text="Undul" />
     <string id="k3djFmuO" text="fen Penraic" />
-    <string id="k3LajvfJ" text="Open Banner Editor screen." />
     <string id="k3LajvfJ" text="Banner Editor" />
+    <string id="k3LajvfJ" text="Open Banner Editor screen." />
     <string id="K42QfOpv" text="sturgia conservative headman" />
     <string id="K4AMwxCZ" text="{FIRST_NAME} the Wart" />
     <string id="k4CF68S6" text="We abstain" />
@@ -13866,8 +13866,8 @@
     <string id="tE3KvbeZ" text="Ha! Looks like you've developed a bit of a limp there. Don't worry, even losses have their value, provided you learn from them. Shake the stars out of your eyes and get back in there. There's no other way to win." />
     <string id="te48yHa8" text="Leafblade Throwing Knife" />
     <string id="Te4pxfWF" text="So can I join?" />
-    <string id="Te4xxzzK" text="Denars" />
     <string id="Te4xxzzK" text="Current Denars" />
+    <string id="Te4xxzzK" text="Denars" />
     <string id="tEimkEsU" text="Nordic Shortbow" />
     <string id="teLnMBXG" text="I like my men to be aggressive, but there are limits. Good-day, sir." />
     <string id="TeMExjrH" text="This option is disabled during current active quest." />

@@ -39,7 +39,7 @@
     <string id="06rWnUbn" text="You must be {PLAYER.LINK}. We have just had the honor of watching you distinguish yourself in the recent tournament{s8}." />
     <string id="06sHvThK" text="Охотничий Лук Наездника" />
     <string id="074bIPbm" text="Llum" />
-    <string id="074YAjOk" text="Вы выгнали из-за неактивности" />
+    <string id="074YAjOk" text="Вас выгнали из-за неактивности" />
     <string id="07jVF3yT" text="sturgia Child Townsman Male" />
     <string id="07OrsbVH" text="Сильный Болт" />
     <string id="07qBenIW" text="кувшин Эля" />
@@ -746,7 +746,7 @@
     <string id="2Sal30D2" text="+{BONUS_AMOUNT} бонус к влиянию владельца" />
     <string id="2SalBp7H" text="Hm. I'm disappointed, {PLAYER.LINK}. Very disappointed. We'll talk later, I need to go and find somebody to scout for us." />
     <string id="2SDWhGmQ" text="Ваша семья причислены к бедным мигрантам, живущим в трущобах, которые растут вне стен города, реки, том, какие деньги они могут из различных случайными заработками. Иногда они делали услуг для одной из многих преступных группировок региона." />
-    <string id="2SEofGth" text="Команда Изменить " />
+    <string id="2SEofGth" text="Сменить команду" />
     <string id="2SLVVWL0" text="Мои извинения - вы, должно быть, неправильно поняли меня. Конечно, вы можете уйти." />
     <string id="2Sn4uK35" text="Orgunda" />
     <string id="2soXRcrp" text="Привет, незнакомец." />
@@ -797,7 +797,7 @@
     <string id="2YYRyrOO" text="Оставить..." />
     <string id="2YYRyrOO" text="Оставить..." />
     <string id="2YYRyrOO" text="Оставить..." />
-    <string id="2ZarUUbw" text="{KILLERPLAYERNAME} уже убил {KILLEDPLAYERNAME}!" />
+    <string id="2ZarUUbw" text="{KILLERPLAYERNAME} убил {KILLEDPLAYERNAME}!" />
     <string id="2zCD2BZI" text="{MINOR_FACTION_SURRENDER_DEMAND_STRING}[ib:agressive][rb:positive]" />
     <string id="2zcrC0h1" text="Игра" />
     <string id="2ZhEriLa" text="I have written a fake letter to {s15}, bearing my own seal, which implicates him in a conspiracy with us to stage a coup in {s14}, in my favour. If we can make {s13} believe the letter is genuine, he will deal with {s15} very swiftly. Of course, the challenge there is to convince {s13} that the letter is indeed real..." />
@@ -2497,7 +2497,7 @@
     <string id="9cHyHQ7a" text="Ламеллярные Пластины Сапоги" />
     <string id="9cje3b42" text="Зачем вы говорите такие вещи? Чтобы оскорблять меня, несмотря на нашу дружбу ... как гораздо более жестоко-это нож в спину от бывших друзей, чем меч заклятый враг. Я не знаю, в какую игру вы играете, но я не хочу в этом участвовать. Уходи. Я не хочу смотреть на тебя." />
     <string id="9CJWdoCO" text="{FIRST_NAME} of the Ram" />
-    <string id="9CnRKZOb" text="{KILLEDPLAYERNAME} он умер!" />
+    <string id="9CnRKZOb" text="{KILLEDPLAYERNAME} погиб!" />
     <string id="9cSjq1CA" text="Мои Леди, мои глаза радуются видеть вас. Мы можем приступить к клятвам." />
     <string id="9cZeHcAC" text="The cruelty of {CURRENT_LIEGE.NAME} is legendary. Who cares what he stands for if the realm is drenched in blood?" />
     <string id="9D37wOvO" text="Моя леди, приносит мое сердце огромной радостью увидеть тебя снова..." />
@@ -2685,7 +2685,7 @@
     <string id="a09WG8vK" text="Traitorous {NAME}" />
     <string id="A0bqGRQc" text="F" />
     <string id="a0erBuF1" text="Кривой обух топора" />
-    <string id="a0IHtkoa" text="Вы не выгнали на игровой сервер" />
+    <string id="a0IHtkoa" text="Вас выгнал хост игры" />
     <string id="a0JxUMgo" text="Что случилось? Ты нашел кусок баннера?" />
     <string id="a0mJ0cVV" text="Расход(ы)" />
     <string id="a0MVffcN" text="Backstreet" />
@@ -3112,7 +3112,7 @@
     <string id="akGCrW3r" text="{NAME} the Butcher" />
     <string id="aKghgqEl" text="ВыбратьПриказ1 DESC" />
     <string id="AkgIYqHT" text="султанша" />
-    <string id="aKjpbRP5" text="Неизвестной причине" />
+    <string id="aKjpbRP5" text="Неизвестная причина" />
     <string id="AKJzOQkF" text="Восточный клинок тесака" />
     <string id="aKLak7nn" text="давая правитель широкие полномочия накладывать вето на законы" />
     <string id="aKndIvmi" text="{FIRST_NAME} of the Trident" />
@@ -7792,7 +7792,7 @@
     <string id="iNFahwv3" text="Nia" />
     <string id="InFseOAA" text="Это ограничивает возможность судей осуждать тех, кого они быстро считают преступниками. Это предотвращает произвольное злоупотребление властью, но землевладельцы или главари банд могут иногда использовать угрозы и взятки, чтобы манипулировать им." />
     <string id="InGwtrWt" text="Бросить" />
-    <string id="InGwtrWt" text="Бросить" />
+    <string id="InGwtrWt" text="Выйти" />
     <string id="iNJr5HOM" text="Шилом Щука" />
     <string id="iNJr5HOM" text="Шилом Щука" />
     <string id="inKr3PbA" text="Армий" />
@@ -7938,7 +7938,7 @@
     <string id="iVEZrZzs" text="Ездить в Авангард" />
     <string id="ivH8RWyb" text="Проффисиональный Кузнец" />
     <string id="ivKl4mV2" text="Твой отец был доверенным лицом из местных землевладельцев аристократ. Он ехал с Господом кавалерии, сражались, как бронированный Лансер." />
-    <string id="ivKntfNA" text="Уже просила, чтобы присоединиться, ждем ответа сервера " />
+    <string id="ivKntfNA" text="Запрос на вход уже отправлен, ожидаем ответ от сервера" />
     <string id="IvlOdk6X" text="{ARMY_LEADER} sends word that he wishes you to join {?LEADER_GENDER}her{?}his{\?} new military campaign. You need to bring at least {TROOP_COUNT} troops to the army, and are instructed to raise more men with all due haste if you do not have enough." />
     <string id="IvlOul28" text="О, рифма! Я помню, что один.." />
     <string id="IVnvHF8S" text="of the Eleftheroi" />
@@ -8023,7 +8023,7 @@
     <string id="IZ8OmByJ" text="Имперский Опытный Пехотинец" />
     <string id="izaW6jEJ" text="Вы можете сказать, что я заинтересован." />
     <string id="IzfCE0zf" text="{FIRST_NAME} Stewbones" />
-    <string id="IzJ7f5SQ" text="Емкость сервера" />
+    <string id="IzJ7f5SQ" text="Сервер полон" />
     <string id="iZKtGI6Y" text="Ваша семья приготовила для вас, чтобы сопровождать незначительный барон Vlandian королевства. Вы не были даны Основные обязанности - в основном, несущие сообщения и стремящейся к своей лошади-но это даст вам возможность увидеть, как было запланировано кампаний и мужчины были развернуты в бою." />
     <string id="IZl3Bhw6" text="Ты в этом новичок, не так ли? Позвольте мне объяснить в простых терминах. Основное правило принимать кого-то в плен стучит его вниз с тупым оружием, как булаву или дубину, а не разрезать его мечом. Таким образом, он идет спать на некоторое время, а не истекать кровью до смерти, вы понимаете? Я предполагаю, что у вас есть дубины с вами . . ." />
     <string id="iznpu0ih" text="Раздробленная кожаная одноручная рукоять Каскары" />
@@ -8363,7 +8363,7 @@
     <string id="JlMQfcQf" text="Я жду..." />
     <string id="JLqe3lrb" text="Сложность боевого ИИ" />
     <string id="JLtTANZg" text="Движение Влево" />
-    <string id="JluTW3Qw" text="Игра Закончилась" />
+    <string id="JluTW3Qw" text="Игра закончилась" />
     <string id="jLWPSiOR" text="Поговорить со Старостой" />
     <string id="JLWxF0yJ" text="Южные платье с поясом" />
     <string id="JLXPDR9K" text="Я не знаю: {reg1} {s1} (ERROR)" />
@@ -8455,7 +8455,7 @@
     <string id="jQQjOLWN" text="Your lord offers to extend your fiefs! {KING.LINK} sends word that he is willing to grant {TOWN_NAME} to you in payment for your loyal service, adding it to your holdings. What is your answer?" />
     <string id="jQt9cLzS" text="Caustic sturgian merchant" />
     <string id="JQuCuaVv" text="Я это уже слышал {ENEMY_NAME} они совершали набеги на границу... Людям здесь лучше проснуться." />
-    <string id="JQVixeQs" text="Не могли получить доступ к игровому серверу" />
+    <string id="JQVixeQs" text="Нет доступа к игровому серверу" />
     <string id="jqWBGBo7" text="Усиленная Кавалерией Малый Щитовой" />
     <string id="jQWgYr6r" text="У персонажа есть 10% шанс создать (мастерское) оружие, если требования будут выполнены." />
     <string id="JqXb0TM3" text="Бандиты такие, как они, как правило, будет создать базу в горах, часто на крутой выступ, где они имеют вид на окружающую загородную местность. Это делает их трудно удивить. Лучшим способом, чтобы обнаружить его местоположение будет найти группу горных бандитов, которые появляются, возвращаюсь на свою базу для пополнения запасов и следить за ними." />
@@ -8992,7 +8992,7 @@
     <string id="kRKYHQ6V" text="Когда стек земли ровно на дому-плитка, все пешки игрока, который управляет стека возвращаются в руку игрока, и могут быть использованы повторно. Пешки, принадлежащих другой игрок выбывает из игры." />
     <string id="krMVSoId" text="Bawthan" />
     <string id="krmvzGaV" text="Как играть" />
-    <string id="KRNdlbkq" text="Своя игра заканчивается" />
+    <string id="KRNdlbkq" text="Пользовательская игра заканчивается" />
     <string id="krOebKaD" text="ArabianHair" />
     <string id="kRoumRN1" text="Farewell then, {s21}, for a little while" />
     <string id="kRraos2Z" text="Вы причинили неприятности на моей территории... я не придал тогда этому значения." />
@@ -9983,7 +9983,7 @@
     <string id="mNWwGT9C" text="{FIRST_NAME} Knucklebones" />
     <string id="mNxN5oeT" text="You heard me. You will {s4}" />
     <string id="mo4rbYvm" text="A couple of powerful wolves against a flock of helpless sheep. {GAME_NAME} is a game of uneven odds and seemingly all-powerful adversaries. But through strategy and sacrifice, even the sheep can dominate the wolves." />
-    <string id="mO9bh5sy" text="Не смог присоединиться к пользовательской игре" />
+    <string id="mO9bh5sy" text="Не получается подключиться к пользовательской игре" />
     <string id="Mo9hvqPV" text="You offer your prisoners freedom if they agree to join you as soldiers. {s18}" />
     <string id="mOa9CX13" text="Горные Бандиты" />
     <string id="mOa9CX13" text="Горные Бандиты" />
@@ -10851,7 +10851,7 @@
     <string id="Ohdrbpiw" text="Vlandian" />
     <string id="OhEQUMk0" text="Широкий Нагревателя" />
     <string id="OhEQUMk0" text="Широкий Нагревателя" />
-    <string id="OhF7NqSb" text="Вы запретили игру на опрос" />
+    <string id="OhF7NqSb" text="Вы были забанены в результате голосования" />
     <string id="OHFZ9EAk" text="МММ.... Ну, сейчас, я не знаю что с собой делать. Возможно, я мог бы подумать о вступлении в отряд, если командир был хорошо воспитан и сдержал свое слово." />
     <string id="OHHpwD0F" text="Прямой Клинок Сабли" />
     <string id="OhI7N6ap" text="Если вы хотите драки, то в бой вы получите!" />
@@ -12496,7 +12496,7 @@
     <string id="rGuYLmez" text="Ascyron" />
     <string id="rGy8vjOv" text="Defending {TARGET_SETTLEMENT}." />
     <string id="RGZWdKDx" text="Ах. Это заставляет меня так рад слышать это от тебя!" />
-    <string id="RGzyUTzm" text="Formation arrangement switching to {ARRANGEMENT_ORDER}" />
+    <string id="RGzyUTzm" text="Порядок формирования переключен на {ARRANGEMENT_ORDER}" />
     <string id="Rh0DlvvE" text="Я рад, что ты это понимаешь. Перейти на. Продолжить свое обучение." />
     <string id="Rh3h5NIg" text="Закаленные Короткий Деревянный Метательный Топор Ручка" />
     <string id="rH6gEaNP" text="Бросить Оружие DESC" />
@@ -13949,7 +13949,7 @@
     <string id="SR7a3qlO" text="Круглый Бит Боевой Топор Голова" />
     <string id="SRa9NyP1" text="Нет, мой друг. Я на охоте?" />
     <string id="SraI0yxb" text="Закаленные Длинной Дубовой Ручке" />
-    <string id="srAJw3Tg" text="Игрок забанен с сервера" />
+    <string id="srAJw3Tg" text="Игрок забанен на сервере" />
     <string id="srbMyPXl" text="You can have one of my companions and {REQUIRED_TROOP_AMOUNT} of my men to take your goods to {TARGET_TOWN}" />
     <string id="sRBvUj6U" text="The deserter party is defeated. Return back to {QUEST_GIVER.LINK} to claim your rewards." />
     <string id="srByX06Y" text="сдача всех граждан отвечать и голосовать по некоторым вопросам" />
@@ -15778,7 +15778,7 @@
     <string id="WbaIorOh" text="Tuned {ITEMNAME}" />
     <string id="wBBidWVw" text="Что тут у нас? Вы не можете войти в город столько оружия. Отдайте их мне! Вы можете получить их, когда вы покидаете." />
     <string id="WBE6MeCl" text="В тот день моя жизнь изменилась. Группа из соседней деревни пришли и напали на нас. Мы не причинили им никакого вреда; мы никогда даже не думала о них, как наши враги. Но они хотели, чтобы наш скот. Они убили мою мать и юноша, которого я должен был жениться, и сожгли нашу деревню. Все ушли. Те, кто жил бежали в лес." />
-    <string id="wbFB3N72" text="Вы выгнали из игры опрос" />
+    <string id="wbFB3N72" text="Вы были выгнаны в результате голосования" />
     <string id="wBfGpcCO" text="Чайник Шляпу На Мягкие Ткани" />
     <string id="wBfGpcCO" text="Чайник Шляпу На Мягкие Ткани" />
     <string id="WbGAg4Wi" text="Как вам мой главный министр, я хотел бы говорить о делах государственных" />
@@ -15953,7 +15953,7 @@
     <string id="wlhJGG0q" text="{PRISONER_LORD.LINK_AND_FACTION} has been freed because of peace declaration." />
     <string id="wlKtDR2z" text="Thank you {?PLAYER.GENDER}lady{?}sir{\?}." />
     <string id="wlKtDR2z" text="Thank you {?PLAYER.GENDER}lady{?}sir{\?}." />
-    <string id="wLpJEkKY" text="Боя Сервер Упал" />
+    <string id="wLpJEkKY" text="Критическая ошибки Battle Server" />
     <string id="WlqnaH0D" text="60 ярдов." />
     <string id="wltdyF2j" text="Охотничий Лук" />
     <string id="wltdyF2j" text="Охотничий Лук" />
@@ -16504,7 +16504,7 @@
     <string id="xNprkuJl" text="Бросить Оружие" />
     <string id="xnR3sXJP" text="{PLAYER.NAME}" />
     <string id="xnR3sXJP" text="{PLAYER.NAME}" />
-    <string id="XnsAbUE3" text="Уволить" />
+    <string id="XnsAbUE3" text="Отклонить" />
     <string id="XnsAbUE3" text="Уволить" />
     <string id="xnT03Yv0" text="Я слушаю." />
     <string id="xNTQuRQS" text="Помните, что никаких пленных у вас есть, приведите их ко мне. Я заплачу тебе хорошие серебра за каждого." />

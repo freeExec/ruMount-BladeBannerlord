@@ -608,7 +608,7 @@
     <string id="Y94H6XnK" text="Принять"/>
     <string id="ya8eMCpj" text="Объединить империю"/>
     <string id="YAWCkOYa" text="Следы выглядели свежими, и я видел дым на горизонте. Они не могут двигаться слишком быстро, если они все еще грабят и убивают. Нет, я уверен, что мы сможем спасти их... или умерем, пытаясь."/>
-    <string id="YBqmnNGv" text="  +{VALUE} золота"/>
+    <string id="YBqmnNGv" text="\n+{VALUE} золота"/>
     <string id="YcnK0Thk" text="Охотников"/>
     <string id="YEeb0B1V" text="Я {HEADMAN.FIRSTNAME}, староста этой деревни. Что вас сюда привело?"/>
     <string id="yflx4LNc" text="Одолейте тренера!"/>

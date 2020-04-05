@@ -215,7 +215,7 @@
     <string id="8bSHlWBL" text="В настоящее время в городе не проводится турнир."/>
     <string id="8cY08v3s" text="Деревня со средним достатком. Люди и животные выглядят сытыми. Жители занимаются сезонными делами."/>
     <string id="8geYNpC9" text="Метательный {THRUST_DAMAGE_TYPE} Урон: "/>
-    <string id="8HMyTKF6" text="Вландия"/>
+    <string id="8HMyTKF6" text="Vlandians"/>
     <string id="8Jb61k7G" text="(+{GAIN_AMOUNT} сплоченности)"/>
     <string id="8kVhiTmu" text="Следующий Уровень:"/>
     <string id="8l8xEu64" text="Купить и Надеть"/>
@@ -974,7 +974,7 @@
     <string id="N6QTvjMf" text="Заключенных"/>
     <string id="N7w6zi0F" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} pulling back."/>
     <string id="N84HlDaV" text="{NUMBER_OF} {ITEM} ({AMOUNT}{GOLD_ICON})"/>
-    <string id="NaNMRPv4" text="Асераи"/>
+    <string id="NaNMRPv4" text="Aserai"/>
     <string id="NaorUInI" text="Understrength Сторон"/>
     <string id="nbBgbwM2" text="In Queue: {NUMBER}"/>
     <string id="NBv29XpJ" text="Вы не можете распустить армию, а ты в эту армию."/>
@@ -1380,7 +1380,7 @@
     <string id="ViYdZUbQ" text="Расформировать Армию"/>
     <string id="vJmBi58H" text="Маршалл"/>
     <string id="VJNJsdif" text="{COMPANION.LINK} joined your party."/>
-    <string id="vJOWy1QF" text="Кузаит"/>
+    <string id="vJOWy1QF" text="Khuzaits"/>
     <string id="vLU6nNwp" text="You bet {BET_AMOUNT} on {FIGHTER_NAME} and {?FIGHTER_GENDER}she{?}he{\?} won the fight. Here is your reward {REWARD_AMOUNT}{GOLD_ICON}."/>
     <string id="vmMqs3Ck" text="Благородный"/>
     <string id="vn7A8aXV" text="You are outside {SETTLEMENT_NAME}. Your banner flies over the castle gate."/>

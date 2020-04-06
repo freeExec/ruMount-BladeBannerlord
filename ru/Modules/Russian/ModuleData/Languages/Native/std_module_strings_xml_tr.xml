@@ -95,8 +95,8 @@
     <string id="3sRdGQou" text="Уйти"/>
     <string id="3sWa2Hmt" text="мой сын {REFERING_HERO.LINK}"/>
     <string id="3syV6ymi" text="дробящего"/>
-    <string id="3tJq5QyQ" text="{HEALTHY_NUM}+{WOUNDED_NUM}w"/>
-    <string id="3TXGG01D" text="Хорошее решение, {?PLAYER.GENDER}madam{?}sir{\?}. Мои парни знают, как держать свое слово и зарабатывать свои деньги.[rb:very_positive]"/>
+    <string id="3tJq5QyQ" text="{HEALTHY_NUM}+{WOUNDED_NUM}р"/>
+    <string id="3TXGG01D" text="Хорошее решение, {?PLAYER.GENDER}мадам{?}сер{\?}. Мои парни знают, как держать свое слово и зарабатывать свои деньги.[rb:very_positive]"/>
     <string id="3uR8wLko" text="наш вассал {REFERING_HERO.LINK}"/>
     <string id="3V0bvyLC" text="{STR1}{STR2}"/>
     <string id="3vT6TQmF" text="{PLAYER.LINK}, Вы в {SIDE_STRING} {CLASS_NAME}."/>
@@ -745,7 +745,7 @@
     <string id="IPjqLEdQ" text="{DAY} дней назад"/>
     <string id="iQao7Ct6" text="Голодающие Партии"/>
     <string id="iRo4meJR" text="Нельзя открыть энциклопедию прямо сейчас!"/>
-    <string id="Is3O8NXW" text=" ({NUMBER_OF_MEN}+{NUMBER_OF_WOUNDED_MEN}w)"/>
+    <string id="Is3O8NXW" text=" ({NUMBER_OF_MEN}+{NUMBER_OF_WOUNDED_MEN}р)"/>
     <string id="ISJ8Tt8a" text="{COUNT} частей {ITEM}"/>
     <string id="itLpRUtF" text="Клан не имеет пустых слотов партии."/>
     <string id="ITTGMEUJ" text="Финик"/>
@@ -970,8 +970,8 @@
     <string id="n3e3g6Rq" text="Ставка"/>
     <string id="N5fmlTza" text="{LEFT}, {RIGHT}"/>
     <string id="N6O2GtTK" text="Переработки"/>
-    <string id="n6Q6vv5t" text="You plundered {GOLD} gold."/>
-    <string id="N6QTvjMf" text="Заключенных"/>
+    <string id="n6Q6vv5t" text="Ты награбил {GOLD} золота."/>
+    <string id="N6QTvjMf" text="Заключенных "/>
     <string id="N7w6zi0F" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} pulling back."/>
     <string id="N84HlDaV" text="{NUMBER_OF} {ITEM} ({AMOUNT}{GOLD_ICON})"/>
     <string id="NaNMRPv4" text="Aserai"/>

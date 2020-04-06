@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Русский"/>
@@ -41,7 +41,7 @@
     <string id="1MStGeRa" text="Побежденных противников: {BEATEN_OPPONENT_COUNT}"/>
     <string id="1NbY2O5q" text="Замок"/>
     <string id="1o1TyPib" text="Дополнительные Ограничения Компаньона"/>
-    <string id="1oeak0OC" text="Кузница"/>
+    <string id="1oeak0OC" text="Ковать"/>
     <string id="1PwQxaOu" text="Похоже, идет подготовка к турниру. Награда {ITEM}."/>
     <string id="1pxLpZ4r" text="Вычисления:"/>
     <string id="1sJcKkVP" text="Охранник"/>

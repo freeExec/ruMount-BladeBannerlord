@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Русский"/>
@@ -1051,7 +1051,7 @@
     <string id="emH1yQAs" text="Средний бонус XP за день для войск уровня 1-2-3."/>
     <string id="emLBsWj6" text="Мне ужасно жаль. Нам практически невозможно пожениться."/>
     <string id="EMri2uIu" text="{NAME} Вор"/>
-    <string id="EMVLtu5L" text="{HERO.LINK} повысил {?PLURAL}{GAINED_POINTS} очки навыка{?} очко навыка {\?} {SKILL_NAME} до {UPDATED_SKILL_LEVEL}."/>
+    <string id="EMVLtu5L" text="{HERO.LINK} навык &quot;{SKILL_NAME}&quot; повысился {?PLURAL}на {GAINED_POINTS}{?}{\?} до {UPDATED_SKILL_LEVEL}."/>
     <string id="EmXai6dm" text="обесценивание денег"/>
 	<string id="eN08n5zi" text="Уменьшение штрафа за езду на лошади." />
     <string id="ENPjGrBX" text="Описание частоты"/>
@@ -1075,7 +1075,7 @@
     <string id="eRoZ0IVy" text="Прирост лояльности от города на 20% больше.."/>
     <string id="es0Y3Bxc" text="Участвовать"/>
     <string id="ES6AN5pO" text="Боевая готовность"/>
-	  <string id="esgxog1B" text="Влиятельный торговец" />
+    <string id="esgxog1B" text="Влиятельный торговец" />
     <string id="ESM0NhLy" text="{ARMY} разбежалась, так как мораль была исчерпана."/>
     <string id="eSpRuda1" text="Вы решили сохранить одолженные войска которые {QUEST_GIVER.LINK} {?QUEST_GIVER.GENDER}дала{?}дал{\?} вам для тренировки. Когда {?QUEST_GIVER.GENDER}Она{?}Он{\?} слышит об этом {?QUEST_GIVER.GENDER}она{?}он{\?} отправляет вам следующее письмо.     “{?PLAYER.GENDER}Мадам{?}Сир{\?}, я ясно {?QUEST_GIVER.GENDER}дала{?}дал{\?} вам понять, что я {?QUEST_GIVER.GENDER}ожидала{?}ожидал{\?} возвращения моих людей ко мне. Я считаю, что вы злоупотребили моим доверием.”"/>
     <string id="esSm5V6t" text="Идти в подземелье"/>

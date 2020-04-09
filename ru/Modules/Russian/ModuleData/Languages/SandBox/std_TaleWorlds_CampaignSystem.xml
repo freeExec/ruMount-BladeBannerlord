@@ -363,7 +363,7 @@
     <string id="723ig40Q" text="Держать"/>
     <string id="72tbUfrz" text="Чистейшие улицы"/>
     <string id="76lo5qsy" text="Урон, наносимый колющими ударами, созданным вами оружием вырастает на 2%."/>
-	<string id="76LpKaEb" text="На 5% снижается потребление еды и стоимость содержания отряда" />
+    <string id="76LpKaEb" text="На 5% снижается потребление еды и стоимость содержания отряда" />
     <string id="76nH9Kwe" text="У вас недостаточно кавалерии."/>
     <string id="76TgEba5" text="позволяет правителю собирать дополнительные налоги в военное время"/>
     <string id="77IZYMpm" text="+0,5 пищи на болотах."/>
@@ -385,7 +385,7 @@
     <string id="7Jwuax4w" text="Дополнительное Здоровье"/>
     <string id="7K13R6SV" text="Вы должны отдохнуть, и позволить вашим ранам зажить."/>
     <string id="7kALTmxP" text="{FIRST_NAME} светило"/>
-    <string id="7kGGgkro" text="Сбор каравана на 30% дешевле. Торговый штраф на 10% меньше."/> <!--Здесь был Cas. Финальная версия!--> 
+    <string id="7kGGgkro" text="Сбор каравана на 30% дешевле. Торговый штраф на 10% меньше."/> <!--Здесь был Cas. Финальная версия!-->
     <string id="7kGwP1Lf" text="{NAME} из пустыни"/>
     <string id="7kH1W04c" text="{FIRST_NAME} наковальня"/>
     <string id="7kNxogN8" text="назначение независимых старейшин для соблюдения закона"/>
@@ -691,7 +691,9 @@
     <string id="beK0AZ2y" text="Я обеспокоен тем, что у вас нет средств, чтобы содержать семью." />
     <string id="BExNNwm0" text="рейдерство" />
     <string id="BeYbp6M2" text="Отлично. Вы убедили меня, что это то, что я могу рассмотреть." />
-    <string id="BF2ukIpg" text="Налог с городов" />    <string id="bfPsE9M1" text="Вы, должно быть, неправильно поняли меня. Идите с миром." />    <string id="bgfTuU2U" text="Вы больше не являетесь частью этого мира." />
+    <string id="BF2ukIpg" text="Налог с городов" />
+    <string id="bfPsE9M1" text="Вы, должно быть, неправильно поняли меня. Идите с миром." />
+    <string id="bgfTuU2U" text="Вы больше не являетесь частью этого мира." />
     <string id="bGX2Iojc" text="10% больше шансов на двойной успех" />
     <string id="BGxfe9mv" text="Пришел курьер из села и попросил встречи с лидером преступников." />
     <string id="bGyrPe8c" text="Производство" />
@@ -995,8 +997,8 @@
     <string id="DxVKumDj" text="Два дополнительных метательных оружия в упаковке" />
     <string id="dY2PzpIV" text="Я не уверен, сколько у нас общего .." />
     <string id="dYa9oVSP" text="Судьба жестока. Итак, я ваш пленник. Но вам не нужно делать для {QUEST_GIVER.NAME} грязную работу. Ради вашей чести, {?PLAYER.GENDER} миледи {?}, сэр {\?}, послушайте меня!" />
-    <string id="Dysq3pw5" text="Но я не думаю, что у нас есть что-то общее." />    
-	<string id="dzAk1HTK" text="Описание навыков боевой кавалерии"/>
+    <string id="Dysq3pw5" text="Но я не думаю, что у нас есть что-то общее." />
+    <string id="dzAk1HTK" text="Описание навыков боевой кавалерии"/>
     <string id="DzhaleC7" text="У этого компаньона недостаточный уровень навыка {TWO_HANDED_SKILL} для этого задания."/>
     <string id="dZJCsR7A" text="{FIRST_NAME} {?FEMALE}служанка{?}слуга{\?}"/>
     <string id="E1CoZti4" text="Приоритет устанавливается, чтобы сохранить преимущество, когда враги начинают нападать."/>
@@ -1005,7 +1007,7 @@
     <string id="E3b8iKjc" text="позволяя правителю назначать судей"/>
     <string id="e3e79n9B" text="Это все, что я ожидал, и даже больше, капитан. Я рад, что вы взял меня с собой."/>
     <string id="E57VFXqU" text="Могу попробовать."/>
-	<string id="E7qFYRjE" text="Ваши удары руками и пинки сбивают врагов" />
+    <string id="E7qFYRjE" text="Ваши удары руками и пинки сбивают врагов" />
     <string id="E8wdxbui" text="Хорошо, я согласен, я отпускаю тебя сейчас. Теперь заплати мне."/>
     <string id="E9s2bjqw" text="Я могу только надеяться, что когда-нибудь вы поменяете свое мнение."/>
     <string id="EA9YX6BQ" text="Ваша фракция теперь в состоянии войны с {ISSUEGIVER.LINK}ой фракцией. Ваши соглашения с {ISSUEGIVER.LINK} более недействительны."/>
@@ -1051,7 +1053,7 @@
     <string id="EMri2uIu" text="{NAME} Вор"/>
     <string id="EMVLtu5L" text="{HERO.LINK} навык {SKILL_NAME} повысился {?PLURAL}на {GAINED_POINTS}{?}{\?} до {UPDATED_SKILL_LEVEL}."/>
     <string id="EmXai6dm" text="обесценивание денег"/>
-	<string id="eN08n5zi" text="Уменьшение штрафа за езду на лошади." />
+    <string id="eN08n5zi" text="Уменьшение штрафа за езду на лошади." />
     <string id="ENPjGrBX" text="Описание частоты"/>
     <string id="EnS6NwaH" text="Спасибо вам {?PLAYER.GENDER}моя леди{?}мой лорд{\?}. Я уверен, ваши люди позаботятся о проблеме."/>
     <string id="eNtRt6F5" text="Свой собственный клан"/>
@@ -1254,7 +1256,7 @@
     <string id="GhPGpR90" text="тарелка даты"/>
     <string id="Giblfhdx" text="Выполнить"/>
     <string id="GIkvhuCC" text="Maybe one of your men who knows a thing or two about scouting, with {TROOP_AMOUNT} good men can deal with these scum. So what do you say?"/>
-    <string id="GIljHGh9" text="20% бонус к скорости строительства городских проектов, осадных орудий и ремонту стен."/> <!--Здесь был Cas. Финальная версия!--> 
+    <string id="GIljHGh9" text="20% бонус к скорости строительства городских проектов, осадных орудий и ремонту стен."/> <!--Здесь был Cas. Финальная версия!-->
     <string id="gjGb044I" text="Я надеюсь, что они будут..."/>
     <string id="gJhqA727" text="Wretched {NAME}"/>
     <string id="GKlmIYik" text="Трамплер"/>
@@ -1435,7 +1437,7 @@
     <string id="IMEBieog" text="{NAME} the Wise"/>
     <string id="ImLDk2tg" text="IsEquipmentTemplate"/>
     <string id="ImN8Cfk6" text="Max difficulty of weapon that can be smithed without penalty: {a0}"/>
-    <string id="Impk9uLu" text="На 20% меньше штрафа к скорости от снега."/> <!--Здесь был Cas. Финальная версия!--> 
+    <string id="Impk9uLu" text="На 20% меньше штрафа к скорости от снега."/> <!--Здесь был Cas. Финальная версия!-->
     <string id="iN1kBsac" text="Я не думаю, что они будут долго. Наши охотники заметили их готовности. Продолжаю ждать."/>
     <string id="InFseOAA" text="Это ограничивает возможность судей осуждать тех, кого они быстро считают преступниками. Это предотвращает произвольное злоупотребление властью, но землевладельцы или главари банд могут иногда использовать угрозы и взятки, чтобы манипулировать им."/>
     <string id="InLGoUbB" text="Купец"/>

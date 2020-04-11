@@ -4,13 +4,13 @@
     <tag language="Русский"/>
   </tags>
   <strings>
-	<string id="7ZhNilg8" text="Легко (5% бонус)"/>
-	<string id="9jSxo790" text="Реалистично"/>
-	<string id="AQfVclN8" text="Приз"/>
-	<string id="B0uvwKae" text="Герои могут умереть на поле боя."/>
-	<string id="bLwIgxXa" text="Сложность набора войск"/>
-	<string id="cA1D2Ua3" text="Вам нужно улучшить отношения со знатью, чтобы открыть все их войска."/>
-	<string id="carorTAF" text="Уменьшен до 2/3 (Легко)"/>
+    <string id="7ZhNilg8" text="Легко (5% бонус)"/>
+    <string id="9jSxo790" text="Реалистично"/>
+    <string id="AQfVclN8" text="Приз"/>
+    <string id="B0uvwKae" text="Герои могут умереть на поле боя."/>
+    <string id="bLwIgxXa" text="Сложность набора войск"/>
+    <string id="cA1D2Ua3" text="Вам нужно улучшить отношения со знатью, чтобы открыть все их войска."/>
+    <string id="carorTAF" text="Уменьшен до 2/3 (Легко)"/>
     <string id="cUHlzCRx" text="Разрешить смерть"/>
     <string id="D9GkBqyW" text="Вы можете покинуть тренировочное поле зажав [{LEAVE_KEY}]{newline}Вы можете вернуться в любое время с глобальной карты."/>
     <string id="DFMhzFGV" text="Несколько дополнительных лошадей в вашем инвентаре могут значительно ускорить ваш отряд, так как они увеличат вашу грузоподъемность, а пехота будет ехать на запасных лошадях. Вьючные лошади и мулы полезны только для перевозки грузов."/>
@@ -45,43 +45,5 @@
     <string id="wip6jLEM" text="Коэффициент получаемого урона своими войсками."/>
     <string id="ZcyJePFm" text="Получаемый урон дружественными отрядами"/>
     <string id="ZWiFWA2W" text="Пропустить Обучение Главного Сюжета "/>
-    
-    <string id="3TQTClro" text="AgainstGreatOdds"/>
-    
-    <string id="9GjxRWET" text="HereticQuarrel"/>
-    
-    <string id="AJcTPuPN" text="NPCFreed"/>
-    
-    <string id="bZusb8s6" text="SacrificedTroops"/>
-    
-    <string id="DxJ9OS7c" text="RuthlessBusinessQuarrel"/>
-    
-    <string id="fatCKnBU" text="PartyHungry"/>
-    
-    <string id="hgDMPXaT" text="VengeanceQuarrel"/>
-    
-    <string id="j9cE7oic" text="BattleValor"/>
-    
-    <string id="kwVELZN1" text=""/>
-    
-    <string id="prj0jVxk" text="QuestBetrayal"/>
-    
-    <string id="R2XhM9yO" text="QuestSuccess"/>
-    
-    <string id="SFAawqR1" text="DishonestBusinessQuarrel"/>
-    
-    <string id="U1zsHey1" text="ExtortingQuarrel"/>
-    
-    <string id="v3hXzd35" text="QuestFailed"/>
-    
-    <string id="Vn6n7KCO" text="PlayerLastStand"/>
-    
-    <string id="X7g4Kz7F" text="IgnoredPeace"/>
-    
-    <string id="xyn4YBvp" text="CalculatingStrategyQuarrel"/>
-    
-    <string id="zmCwsjEw" text="FiefQuarrel"/>
-    
-    <string id="zwV2tyb4" text="NoQuarrel"/>
   </strings>
 </base>

@@ -988,7 +988,6 @@ INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
 ('3TGug4Vb', 'SandBox', 'std_comment_strings_xml', 'Ваше имя мне знакомо. Говорят, что вы один из самых доблестных воинов. Я могу только надеяться, что ваша честь и милосердие соответствуют вашей доблести.'),
 ('3tJq5QyQ', 'Native', 'std_module_strings_xml', '{HEALTHY_NUM}+{WOUNDED_NUM}р'),
 ('3tmXBpRH', 'SandBox', 'std_SandBox', 'Вы правы. Я не могу этого сделать. Я вернусь к моей семье. '),
-('3TQTClro', 'SandBox', 'std_module_strings_xml', 'AgainstGreatOdds'),
 ('3tsuUf0H', 'SandBox', 'std_companion_strings_xml', 'И он был прав, сказав это. Хорошего дня, сир'),
 ('3TXGG01D', 'Native', 'std_module_strings_xml', 'Хорошее решение, {?PLAYER.GENDER}madam{?}sir{\?}. Мои парни знают, как держать свое слово и зарабатывать свои деньги.[rb:very_positive]'),
 ('3tzaxDI6', 'SandBox', 'std_TaleWorlds_CampaignSystem', 'Каждый сельский отряд, входящий в ваш город, приносит доход 10 золота.'),
@@ -1000,9 +999,9 @@ INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
 ('3UQ1YOHc', 'SandBox', 'std_concept_strings_xml', 'Заработная Плата Отряда'),
 ('3uqxbhZn', 'SandBox', 'std_conversations_xml', 'Yes, {PLAYER.LINK}? What can I do for you?'),
 ('3uR8wLko', 'Native', 'std_module_strings_xml', 'наш вассал {REFERING_HERO.LINK}'),
-('3uSMU7zy', 'SandBoxCore', 'std_spnpccharacters_xml', 'Стургианский Манекен Для Тренировок');
+('3uSMU7zy', 'SandBoxCore', 'std_spnpccharacters_xml', 'Стургианский Манекен Для Тренировок'),
+('3uUaFQ9Y', 'Native', 'std_crafting_pieces_xml', 'Молотообразная гарда с гравировкой');
 INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
-('3uUaFQ9Y', 'Native', 'std_crafting_pieces_xml', 'Молотообразная гарда с гравировкой'),
 ('3UucAOBW', 'SandBox', 'std_comment_strings_xml', 'Я {CONVERSATION_CHARACTER.LINK}, военачальник Battanians.'),
 ('3V0bvyLC', 'Native', 'std_global_strings_xml', '{STR1}{STR2}'),
 ('3V0bvyLC', 'Native', 'std_module_strings_xml', '{STR1}{STR2}'),
@@ -1346,6 +1345,7 @@ INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
 ('587q6IS6', 'SandBox', 'std_wanderer_strings_xml', 'Неплохо. Звучишь как будто живешь ради эшафота, так что можешь насладиться одним-двумя горячими обедами.'),
 ('58eAHUQi', 'Native', 'std_global_strings_xml', 'Группа 4 слушай DESC'),
 ('58vdP9Ef', 'SandBox', 'std_spspecialcharacters_xml', '{FIRSTNAME} Кладовщик'),
+('5939sUCg', 'SandBox', 'std_heroes_xml', 'Olek is patriarch of the Kuloving, one of the oldest of the Sturgian clans, which never really accepted the idea of the monarchy. He believes the boyars should be lords in their own lands. He is famed for once telling the prince, ''Every wound I suffer in battle under your banner is like my wife''s caress, but every denar I pay to your treasury in tax is like an arrow in my gut.'' He is older now, and keeps his counsel, but few believe that his resentment of princely authority has in any way diminished.'),
 ('59hbrhfY', 'Native', 'std_module_strings_xml', 'Текущий ХР Отряда'),
 ('59ijHPtR', 'SandBox', 'std_TaleWorlds_CampaignSystem', 'Да. Это очень много, но я могу заплатить.'),
 ('59PSpyu8', 'Native', 'std_module_strings_xml', 'Связанное поселение: {SETTLEMENT_LINK}'),
@@ -1723,6 +1723,7 @@ INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
 ('6LRFHHqT', 'SandBox', 'std_companions_xml', 'Имулир'),
 ('6LRFHHqT', 'SandBoxCore', 'std_spcultures_xml', 'Imulir'),
 ('6Ls9naf4', 'SandBoxCore', 'std_spitems_xml', 'Восточные Степные Кожаные Сапоги'),
+('6lZGNChB', 'SandBox', 'std_heroes_xml', 'Godun is lord of the Vagiroving, one of the younger houses of the Sturgians. His people have always been as interested in trade as they have been in war, although Godun himself is everything a prince might want: cooperative, prompt to pay his feudal dues, quick to respond to his liege''s calls to arms. Yet Raganvad has never fully trusted him, because it is hard to imagine a Vagiroving without his own long-term plan for personal aggrandizement.'),
 ('6MBoNlxj', 'SandBox', 'std_TaleWorlds_CampaignSystem', 'Уловка'),
 ('6mhVzBKL', 'SandBox', 'std_TaleWorlds_CampaignSystem', 'Городской гарнизон на 20% эффективнее (в охране).'),
 ('6MQaCah5', 'Native', 'std_TaleWorlds_MountAndBlade_ViewModelCollection', 'Присоединиться к игре'),
@@ -1925,6 +1926,7 @@ INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
 ('7Hv984Sf', 'SandBox', 'std_StoryMode', 'В доках и на строительных площадках'),
 ('7HvtT8bm', 'Native', 'std_TaleWorlds_Core', 'Кованное железо'),
 ('7hx2Nlmd', 'SandBox', 'std_spworkshops_xml', 'Кожевенный завод'),
+('7HzwCQld', 'SandBox', 'std_heroes_xml', 'Penton Neretzes was once considered one of the rising stars of the Empire, winning a number of battles against the Aserai and the Vlandians. He is best known, however, for having taken two of the Empire''s last professional legions into the Battanians woods, and losing them in an ambush. He has tried to blame others for the defeat, including the then-emperor Arenicos and his lieutenant, Garios, but the stigma of the defeat has stuck with him. In the civil war he supported Lucon as emperor, though more out of his hatred for Garios and Rhagaea then from any belief in Lucon''s legalistic principles.'),
 ('7IqpjCDY', 'Native', 'std_module_strings_xml', 'Казнь пленного негативно отразится на Вашей репутации и уменьшит отношения с кланом пленного.{newline}Вы не сможете отменить это действие.{newline}Вы уверены, что хотите казнить этого персонажа?'),
 ('7IxFrati', 'SandBox', 'std_SandBox', 'Приветствую вас, {?PLAYER.GENDER}миледи{?}милорд{\?}, чем я могу вам помочь?'),
 ('7J9KNFTz', 'SandBox', 'std_TaleWorlds_CampaignSystem', 'Отдать войска в гарнизон'),
@@ -1999,10 +2001,10 @@ INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
 ('7qfZbVii', 'SandBox', 'std_companion_strings_xml', 'Я думаю, мне бы мог пригодиться такой человек, как вы.'),
 ('7QKjVON8', 'Native', 'std_global_strings_xml', 'Прыжок'),
 ('7qPda0SA', 'SandBox', 'std_SandBox', 'Один из моих родственников разгневался во время ссоры и убил человека из {TARGET_VILLAGE}. Мы предложили заплатить за кровь, но семья покойного упрямо отказалась. Как оказалось, покойный - родственник  {TARGET_NOTABLE}, старейшины региона, а теперь люди  {TARGET_VILLAGE} поклялись убить моего родственника.'),
-('7Qr1yZhJ', 'SandBox', 'std_SandBox', 'Так и будет. Заходи ко мне если захочется ещё.'),
-('7qUKHtDR', 'SandBox', 'std_conversations_xml', 'Есть ли изменения в планах?'),
-('7qySRF2T', 'Native', 'std_native_strings_xml', 'Пинг');
+('7Qr1yZhJ', 'SandBox', 'std_SandBox', 'Так и будет. Заходи ко мне если захочется ещё.');
 INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
+('7qUKHtDR', 'SandBox', 'std_conversations_xml', 'Есть ли изменения в планах?'),
+('7qySRF2T', 'Native', 'std_native_strings_xml', 'Пинг'),
 ('7qySRF2T', 'Native', 'std_TaleWorlds_MountAndBlade_ViewModelCollection', 'Пинг'),
 ('7R8r1WvR', 'Native', 'std_mpitems_xml', 'Топор для Испытания'),
 ('7rGaUG0W', 'SandBoxCore', 'std_spitems_xml', 'Восточный Меховой Капюшон'),
@@ -2281,6 +2283,7 @@ INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
 ('8S6ZYPFD', 'Native', 'std_crafting_pieces_xml', 'Обух топора из погнутой тонкой стали'),
 ('8SBw5PzN', 'SandBoxCore', 'std_spcultures_xml', 'Armund'),
 ('8sG5bTtK', 'Native', 'std_native_strings_xml', 'Период возрождения'),
+('8SiW73EF', 'SandBox', 'std_heroes_xml', 'The current High King of Battania is Caladog, a brilliant war captain adopted by the prior king, Uthelhain, who then died in mysterious circumstances. Despite the doubts around his accession, Caladog has made himself popular among the lesser clans of the land who admire him, a man of no great lineage, for having discomfited the Battanians'' traditional clan hierarchy. His clan is the fen Gruffendoc, a formerly obscure family now swollen with his comrades-in-arms with whom he has made marriage alliances.'),
 ('8SJ02xNi', 'SandBox', 'std_SandBox', 'Так кто же они?'),
 ('8SNS2wF9', 'Native', 'std_mpitems_xml', 'Тюрбан'),
 ('8SNS2wF9', 'SandBoxCore', 'std_spitems_xml', 'Тюрбан'),
@@ -2458,7 +2461,6 @@ INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
 ('9gAVbJAR', 'Native', 'std_global_strings_xml', 'Возобновить время'),
 ('9GAxQCJg', 'SandBox', 'std_SandBox', 'Вернуть их все.'),
 ('9GIK6fnm', 'SandBoxCore', 'std_spnpccharacters_xml', 'Крадус'),
-('9GjxRWET', 'SandBox', 'std_module_strings_xml', 'HereticQuarrel'),
 ('9GLHCI0I', 'SandBox', 'std_conversations_xml', 'It is so delightful to have a chance to spend some time together.{s12}'),
 ('9gNjg4P0', 'Native', 'std_module_strings_xml', 'Это действие не сохранит вам игру и вернет в Главное Меню. Вы уверены, что хотите выйти?'),
 ('9Gsusawm', 'Native', 'std_mpitems_xml', 'Западный топор'),
@@ -3000,10 +3002,9 @@ INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
 ('aJaWfn5c', 'SandBox', 'std_conversations_xml', 'Я хочу знать местонахождение истца.'),
 ('ajBBFq1D', 'SandBox', 'std_StoryMode', 'Ай... Эти черти ... Они совершили набег на нашу деревню. Взяли всех, кого только смогли поймать. Работорговцы, держу пари.'),
 ('aJBVGNkW', 'SandBox', 'std_conversations_xml', 'Я могу убедить вас, а не поддержать меня?'),
-('AJcTPuPN', 'SandBox', 'std_module_strings_xml', 'NPCFreed'),
-('aJhRX6Lz', 'SandBox', 'std_lords_xml', 'Peric'),
-('ajifXc8I', 'Native', 'std_mpitems_xml', 'Плюмбата');
+('aJhRX6Lz', 'SandBox', 'std_lords_xml', 'Peric');
 INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
+('ajifXc8I', 'Native', 'std_mpitems_xml', 'Плюмбата'),
 ('ajjSonIo', 'Native', 'std_item_modifiers_xml', 'Жёсткий {ITEMNAME}'),
 ('ajLElAyS', 'Native', 'std_item_modifiers_xml', 'Утяжелённый {ITEMNAME}'),
 ('aJLQz9iZ', 'SandBox', 'std_TaleWorlds_CampaignSystem', 'Серебряный рудник'),
@@ -3059,6 +3060,7 @@ INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
 ('aloUgbgW', 'SandBox', 'std_conversations_xml', 'You... have convinced me, {PLAYER.LINK}. Very well then, you''ve my blessing to bring a peace offer to {s14}. I cannot guarantee they will accept it, but on the off-chance they do, I will stand by it.'),
 ('aLsVKIRy', 'SandBox', 'std_TaleWorlds_CampaignSystem', 'Раненые люди'),
 ('alti0PsZ', 'Native', 'std_crafting_pieces_xml', 'Заостренный клинок боевого меча'),
+('ALtZaRzc', 'SandBox', 'std_heroes_xml', 'Mesui is leader of the Khergit. Once one of the largest clans in the Khuzait confederacy, they suffered many losses during Urkhun Khan''s conquests and their lands were subsequently targeted by other tribes. Mesui has ruthlessly defended her clan''s rights, and frequently complained about the injustices suffered by smaller clans that she says have shed blood for the khanate without reaping any rewards.'),
 ('aLwhz53W', 'SandBox', 'std_game_menus_xml', '{!}Force rethink.'),
 ('ALYCFEZR', 'SandBox', 'std_lords_xml', 'Alynneth'),
 ('AlZB8WIb', 'SandBox', 'std_TaleWorlds_CampaignSystem', 'Военный налог'),
@@ -4001,10 +4003,10 @@ INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
 ('bT18TRLs', 'SandBox', 'std_conversations_xml', 'I am looking for a murderer by the name of {s4}. You fit his description.'),
 ('bT3veT4T', 'Native', 'std_mpitems_xml', 'Южное Тяжёлое Копьё'),
 ('Bt4MdhYE', 'SandBoxCore', 'std_spcultures_xml', 'Olguna'),
-('bT6YtmSs', 'SandBox', 'std_lords_xml', 'Morcan'),
-('bT77aWti', 'Native', 'std_global_strings_xml', 'Переключатель использование оружия '),
-('btA10FML', 'SandBox', 'std_TaleWorlds_CampaignSystem', 'Что я могу получить за пленного?');
+('bT6YtmSs', 'SandBox', 'std_lords_xml', 'Morcan');
 INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
+('bT77aWti', 'Native', 'std_global_strings_xml', 'Переключатель использование оружия '),
+('btA10FML', 'SandBox', 'std_TaleWorlds_CampaignSystem', 'Что я могу получить за пленного?'),
 ('bTAkmho7', 'Native', 'std_module_strings_xml', 'Необходимое XP для повышения: {XP_AMOUNT}'),
 ('bTApMxWr', 'SandBoxCore', 'std_spnpccharacters_xml', 'Вландийский Знаменосец'),
 ('btAV7mmq', 'SandBox', 'std_StoryMode', 'Вы потерпели поражение от налётчиков в убежище, но вам удалось бежать. Вам нужно немного подождать, прежде чем вы снова сможете атаковать.'),
@@ -4158,7 +4160,6 @@ INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
 ('bzrVXGAl', 'SandBoxCore', 'std_spitems_xml', 'Бронзовый Каркасный Шлем Обитый Кожей'),
 ('bZSQpada', 'Native', 'std_mpitems_xml', 'Имперский Тяжёлый топор'),
 ('bzTb5Ft5', 'SandBox', 'std_conversations_xml', 'Я могу научить вас стихотворение, ''аргумент в саду''.Это шуточное стихотворение, в котором высмеивает условности куртуазной любви. Любовник ворует в саду в Veluca, и слоев ее с большим количеством остроумных линий уговорить своего любовника, чтобы представить его объятия. Она сбивает все его успехи один за другим, затем, когда он удручен, она берет его на руки и говорит ему, что она хотела его только вместе, только на ее условиях, а не его. Леди с чувством юмора может найти это забавным, но другие могут чувствовать, что они являются теми, кто дразнит.'),
-('bZusb8s6', 'SandBox', 'std_module_strings_xml', 'SacrificedTroops'),
 ('bZVj3of6', 'SandBox', 'std_conversations_xml', 'Вот, возьми деньги. Просто выберите девушку бесплатно.'),
 ('bZvmjYPE', 'SandBox', 'std_action_strings_xml', '{PARTY} защищает {SETTLEMENT}'),
 ('bzXmtoC6', 'SandBoxCore', 'std_spcultures_xml', 'Koleg'),
@@ -4642,6 +4643,7 @@ INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
 ('czhTpYo8', 'Native', 'std_crafting_pieces_xml', 'Железный клинок сабли'),
 ('cZIhxH9e', 'SandBoxCore', 'std_spcultures_xml', 'Pacarios'),
 ('cZjaGL9R', 'SandBox', 'std_TaleWorlds_CampaignSystem', 'Есть ли что-то ещё, с чем я вам могу помочь?'),
+('CzM6y3MT', 'SandBox', 'std_heroes_xml', 'The current khan of the Khuzaits is Monchug, With the Empire in a state of disarray, he dreams of surpassing his ancestor Urkhun and conquering even deeper into the settled lands. Some of the clans have been decimated by the Urkhunids'' wars, however, and feel their sacrifices have not been properly rewarded. They yearn for a khan who is less interested in glory, and more interested in justice.'),
 ('cZms8Ivb', 'SandBoxCore', 'std_spnpccharacters_xml', 'Баттанийский Высокородный Юноша'),
 ('czOFRtGw', 'SandBox', 'std_TaleWorlds_CampaignSystem', 'Положение'),
 ('cZptYTYd', 'SandBox', 'std_SandBox', 'Ну... Вокруг города много товаров, которые могут принести хорошие деньги, если их продать. Созданный вами караван сделает это за вас. Вам нужно заплатить как минимум {AMOUNT}{GOLD_ICON}, чтобы нанять охранников для формирования каравана, и вам нужен один спутник, чтобы вести их.'),
@@ -4736,7 +4738,6 @@ INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
 ('D9hP21YA', 'SandBox', 'std_companion_strings_xml', 'Хм, может быть. У вас есть какой-то опыт?'),
 ('d9qUbj3I', 'SandBox', 'std_wanderer_strings_xml', 'Я вам расскажу... кхм...'),
 ('D9RoNGJg', 'SandBox', 'std_StoryMode', 'Купите 2 мешка {GRAIN}{.s}. Нажмите "Купить продукты" - опцию в меню деревни чтобы купить продукты..'),
-('D9WJXQ9Z', 'Native', 'std_module_strings_xml', 'Reject'),
 ('D9WJXQ9Z', 'Native', 'std_module_strings_xml', 'Reject'),
 ('D9WJXQ9Z', 'SandBox', 'std_game_menus_xml', 'Отклонить'),
 ('D9XZcdid', 'Native', 'std_mpclassdivisions_xml', 'Дает Франциски, метательные топоры, эффективны против щитов, но мало.'),
@@ -5003,9 +5004,9 @@ INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
 ('dOC4WvBM', 'SandBox', 'std_TaleWorlds_CampaignSystem', 'Ваши магазины возвращают 5000 золота, когда город захвачен врагом. {newline} Кроме того, налог, полученный от города, увеличился на 70% во время ожидания'),
 ('DOD4AUPA', 'SandBox', 'std_TaleWorlds_CampaignSystem', 'Персонаж имеет 10% шанс создать «прекрасное» оружие, если выполнены требования сложности.'),
 ('dOdp1aKA', 'SandBox', 'std_SandBox', 'Вы не смогли найти шпиона и попытались убить невинного человека, {QUEST_GIVER.LINK} {?QUEST_GIVER.GENDER}разачорована{?}разачарован{\?}.'),
-('DoDZGYf6', 'Native', 'std_TaleWorlds_MountAndBlade_ViewModelCollection', 'Выберите тип голосования'),
-('DOEGWa5a', 'SandBox', 'std_TaleWorlds_CampaignSystem', 'Сбалансированные Боевые Навыки');
+('DoDZGYf6', 'Native', 'std_TaleWorlds_MountAndBlade_ViewModelCollection', 'Выберите тип голосования');
 INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
+('DOEGWa5a', 'SandBox', 'std_TaleWorlds_CampaignSystem', 'Сбалансированные Боевые Навыки'),
 ('DoiwC1Qa', 'Native', 'std_mpitems_xml', 'Кольчужные Ножные Доспехи'),
 ('DoiwC1Qa', 'SandBoxCore', 'std_spitems_xml', 'Кольчужные Плундры'),
 ('dojUqbv8', 'Native', 'std_native_strings_xml', 'Высота носа '),
@@ -5164,7 +5165,6 @@ INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
 ('dx8dw22j', 'Native', 'std_mpitems_xml', 'Восточное Копьё'),
 ('DxGecvb6', 'SandBox', 'std_TaleWorlds_CampaignSystem', 'Что случилось с остальными? Ну, в любом случае это лучше, чем ничего, я полагаю.'),
 ('dxhbGSaC', 'SandBox', 'std_conversations_xml', 'Поднимайся! Пусть все присутствующие сегодня засвидетельствуют, что я победил вас, и теперь вы обязаны отказаться от ухаживаний за {s10}. Я позволю вам нанести последний визит, чтобы попрощаться. После этого, если ты будешь упорствовать в своих попытках увидеться с ней, все узнают, что ты человек скудной чести.'),
-('DxJ9OS7c', 'SandBox', 'std_module_strings_xml', 'RuthlessBusinessQuarrel'),
 ('dXjbxaKQ', 'Native', 'std_item_modifiers_xml', 'Ветхий {ITEMNAME}'),
 ('dXk7LOkb', 'SandBox', 'std_TaleWorlds_CampaignSystem', 'Резня'),
 ('dxlkHhw5', 'Native', 'std_native_strings_xml', 'Игр выйграно'),
@@ -5420,6 +5420,7 @@ INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
 ('EhELIf65', 'StoryMode', 'std_module_strings_xml', 'Теруин'),
 ('EHFibjkM', 'SandBox', 'std_action_strings_xml', '{TOWN_NAME} был осажден армией во главе с {LORD.LINK} из фракции {FACTION_NAME}!'),
 ('EHHVVfgW', 'SandBox', 'std_lords_xml', 'Forest Bandits Hero'),
+('EHiQI7ps', 'SandBox', 'std_heroes_xml', 'The current king of Vlandia is Derthert. In his youth, he dreamt of glorious conquest. In fact he spent most of his reign simply putting down revolts, quashing pretenders, and keeping the fractious barons in line. When possible, he prefers to rule by arbitration, cajoling his vassals to set aside claims to each other''s lands and enjoy what they have. But some Vlandians murmur that a warrior people deserve a more virile king.'),
 ('EHkzaZBi', 'Native', 'std_module_strings_xml', 'Турнир поселения {SETTLEMENT_NAME}'),
 ('ehnbi5yD', 'SandBox', 'std_StoryMode', 'Боюсь, что не видел никаких детей. Но после того, как наш караван был атакован, главарь налетчиков, которого, они называли его Радагос, ускакал с нашими наиболее ценными вещами, включая сундук, который был у меня.'),
 ('eHVgfyPH', 'SandBoxCore', 'std_spnpccharacters_xml', 'Кузаитский Всадник Лучник'),
@@ -5819,7 +5820,6 @@ INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
 ('FAPHmzxQ', 'SandBoxCore', 'std_spitems_xml', 'Саб'),
 ('FaQDaRri', 'SandBox', 'std_StoryMode', 'Думаю, тренировка не будет лишней. Мне нужно быть уверенным в своих силах, если мы вступим в бой. (Начать обучение)'),
 ('fasAZDvM', 'SandBox', 'std_SandBox', 'Мы направляемся к {HERO.LINK}...[ib:demure][rb:positive]'),
-('fatCKnBU', 'SandBox', 'std_module_strings_xml', 'PartyHungry'),
 ('faUooB7V', 'SandBox', 'std_TaleWorlds_CampaignSystem', '{KINGDOM} не будет {POLICY_DESCRIPTION} ({POLICY}). {POLICY_SUPPORT}'),
 ('FaW2RuA8', 'Native', 'std_mpclassdivisions_xml', 'Дополнительные Метательные Дротики'),
 ('FaWA8c50', 'SandBoxCore', 'std_spitems_xml', 'Северное Тяжелое Пальто'),
@@ -6958,7 +6958,6 @@ INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
 ('hG9Ty8av', 'SandBox', 'std_conversations_xml', 'Вы пытаетесь спровоцировать меня? Знайте, что я не дерусь с женщинами, простолюдинами, повстанцами или дураками. Но я могу приказать своим людям захватить тебя и высечь плетью. Хотите этого? Я могу это устроить.'),
 ('HGBuP0wy', 'Native', 'std_module_strings_xml', 'После этого пленных получит {CONFORMITY_AMOUNT} согласованности, еще один пленных будет доступен для вербовки. Пленыые получают {CONFORMITY_PER_HOUR} согласности за час.'),
 ('HGBWqbhQ', 'SandBox', 'std_lords_xml', 'Temion'),
-('hgDMPXaT', 'SandBox', 'std_module_strings_xml', 'VengeanceQuarrel'),
 ('hGL3LHSN', 'SandBox', 'std_wanderer_strings_xml', 'Тебе очень не повезло.'),
 ('hGPdLssq', 'SandBox', 'std_StoryMode', 'Правитель {PLAYER_SUPPORTED_FACTION} принял предложение мира, предложенного разорённой войной {FACTION}.'),
 ('HgpdpYuK', 'Native', 'std_native_strings_xml', 'Тело'),
@@ -7005,6 +7004,7 @@ INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
 ('hjcjbEYn', 'SandBox', 'std_comment_on_action_strings_xml', 'Я слышал, вы взяли {SETTLEMENT_NAME}. вы заставили их страдать за то, что они сделали с нами..'),
 ('hJdC49pX', 'SandBox', 'std_TaleWorlds_CampaignSystem', 'Паршивый {FIRST_NAME}'),
 ('hJFCi1zu', 'SandBox', 'std_action_strings_xml', '{FACTION1} и {FACTION2} заключили мир.'),
+('HjGYftkH', 'SandBox', 'std_heroes_xml', 'Ergeon is head of the fen Derngil and brother of the vanished king Uthelhain. Although his clan deeply resents Caladog, whom they consider a lowborn upstart who probably had something to do with King Uthelhain''s disappearance, Ergeon insists that his relatives remain loyal to the new king. The fen Derngils have always stood for a strong monarchy, and he is loathe to return the Battanians to the anarchy that consumed them for much of their history.'),
 ('HjqcmY6X', 'Native', 'std_native_strings_xml', 'Бан'),
 ('hjSF6VaZ', 'SandBox', 'std_TaleWorlds_CampaignSystem', '{BANDIT_NEUTRAL_GREETING}');
 INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
@@ -7882,7 +7882,6 @@ INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
 ('J8qFgwal', 'SandBox', 'std_TaleWorlds_CampaignSystem', 'Отлично. Я скажу ребятам, чтобы присоединились к вашему отряду.'),
 ('j8uZBakZ', 'SandBox', 'std_TaleWorlds_CampaignSystem_ViewModelCollection', '{PROPERTIES}'),
 ('J9agCWMa', 'SandBox', 'std_TaleWorlds_CampaignSystem', 'Арбалет наносит на 7% больше урона.'),
-('j9cE7oic', 'SandBox', 'std_module_strings_xml', 'BattleValor'),
 ('j9f9Ts7i', 'SandBox', 'std_StoryMode', 'У меня есть идея получше. У нас будет больше шансов, если мы сейчас разделимся. Я возьму {RADAGOS.NAME}а и пойду искать рынок рабов и поищу способ освободить детей.  Однако мы должны быть осторожны, чтобы не подвергать их жизни опасности, и может быть лучше просто купить их. Хотя для этого наши кошельки должны быть полны монет....'),
 ('J9fJlz2Y', 'SandBox', 'std_SandBox', 'Вы можете начать.'),
 ('j9RrkCvM', 'SandBox', 'std_SandBox', 'Там проходит турнир?'),
@@ -8007,9 +8006,9 @@ INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
 ('jg3T5AyE', 'SandBox', 'std_StoryMode', 'Как и многие семьи в Кальрадии, ваша жизнь была разрушена войной. Ваш дом был опустошен проходом армии за армией. В конце концов, вы продали свою собственность и отправились с отцом, матерью, братом и двумя младшими братом и сестрой в новый город, который, как вы слышали, был более безопасным. Но вам не удалось дойти. По пути, на гостиницу в которой вы остановились, напали налетчики. Ваши родители были убиты, а два младших родственника были схвачены, но вы с братом выжили, потому что...'),
 ('jg6SMQLc', 'SandBox', 'std_world_lore_strings_xml', 'Наша семья всегда посылал своих сыновей, становится генералами. Это была наша привилегия-вести людей империи в бой. Без этих людей не было бы никакой империи. Огромные поместья сенаторов превратились бы в почерневший пепел.'),
 ('jgbVweOs', 'SandBox', 'std_SandBox', '{GRATITUDE_SENTENCE}[rf:happy][rb:very_positive]'),
-('jgCb0sga', 'Native', 'std_global_strings_xml', 'Включить прицел для оружия дальнего боя.');
+('jgCb0sga', 'Native', 'std_global_strings_xml', 'Включить прицел для оружия дальнего боя.'),
+('JGCtv8om', 'SandBox', 'std_TaleWorlds_CampaignSystem', 'Поднять Кроткий');
 INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
-('JGCtv8om', 'SandBox', 'std_TaleWorlds_CampaignSystem', 'Поднять Кроткий'),
 ('jGFEbaex', 'Native', 'std_module_strings_xml', 'Бросить Кости'),
 ('jGhWOnjx', 'SandBox', 'std_StoryMode', 'Да. Это было безумие. Величайший удар, нанесенный Империи за всю жизнь, и мы не смогли воспользоваться этой победой, ссорясь между собой из-за знамени.'),
 ('jGIxKb99', 'SandBox', 'std_TaleWorlds_CampaignSystem', 'Наемники присоединились к вашему отряду.'),
@@ -8439,7 +8438,6 @@ INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
 ('K9XhWUQi', 'Native', 'std_TaleWorlds_MountAndBlade_ViewModelCollection', 'Отклонить (F2)'),
 ('ka1PM7rw', 'SandBox', 'std_conversations_xml', 'Ну вот, {s21}, наконец-то я нашел тебя. Я только что распространил слух о ваших притязаниях и готов вернуться в отряд.'),
 ('kA5tlKTz', 'Native', 'std_module_strings_xml', 'Free Attribute Points: You can use these points to increase attributes. You''ll gain one free attribute for every three levels you gain. '),
-('kA5tlKTz', 'Native', 'std_module_strings_xml', 'Free Attribute Points: You can use these points to increase attributes. You''ll gain one free attribute for every three levels you gain. '),
 ('ka7vAxgo', 'Native', 'std_module_strings_xml', 'Атаковать противника {TARGET_FORMATION}'),
 ('ka8trb7d', 'SandBox', 'std_concept_strings_xml', 'Типы Формирования'),
 ('kAbebv72', 'SandBox', 'std_SandBox', 'Я хочу, чтобы ты поехал за едой.'),
@@ -8833,7 +8831,6 @@ INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
 ('kWVbHPtT', 'SandBox', 'std_TaleWorlds_CampaignSystem_ViewModelCollection', 'Общий'),
 ('kwVELZN1', 'SandBox', 'std_conversations_xml', ''),
 ('kwVELZN1', 'SandBox', 'std_game_menus_xml', ''),
-('kwVELZN1', 'SandBox', 'std_module_strings_xml', ''),
 ('kwW6v202', 'SandBox', 'std_StoryMode', 'Перейдите к стрелковой позиции.'),
 ('kwW6v202', 'StoryMode', 'std_module_strings_xml', 'Перейдите к стрелковой позиции.'),
 ('KWXEMsHC', 'Native', 'std_module_strings_xml', '{LORD.LINK} в {SETTLEMENT_NAME}'),
@@ -8960,6 +8957,7 @@ INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
 ('L8uOuwsM', 'SandBoxCore', 'std_spnpccharacters_xml', 'tournament_template_sturgia_one_participant_set_v1'),
 ('l8VmFxIp', 'SandBox', 'std_conversations_xml', 'Очень хорошо - я пошлю {s11} в {s12} в {s14}.'),
 ('L8ymiEab', 'Native', 'std_mpitems_xml', 'Северный Двуручный Топор'),
+('L90aSR5J', 'SandBox', 'std_heroes_xml', 'The current Sultan of Aserai is Unqid. He wears his authority lightly, preferring to charm rather than to coerce, always deferring to the laws of the Banu Asera in his judgments. But there are some who say that Udhain is remiss in his duty to administer justice, allowing the wealthiest clans - such as his own - to use bribes and clever legal arguments to oppress the others.'),
 ('l91l1TJo', 'Native', 'std_mpitems_xml', 'Цветной Тюрбан'),
 ('l91l1TJo', 'SandBoxCore', 'std_spitems_xml', 'Цветной Тюрбан'),
 ('l91xAgmU', 'SandBox', 'std_TaleWorlds_CampaignSystem', 'Казарма ополчения'),
@@ -9008,10 +9006,10 @@ INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
 ('lazOrQ9J', 'SandBox', 'std_conversations_xml', 'Ты хочешь чтобы мы поженились?'),
 ('lB7b7N1b', 'SandBoxCore', 'std_spcultures_xml', 'Deven'),
 ('Lb9yaPNJ', 'SandBox', 'std_TaleWorlds_CampaignSystem', 'PersonaIronic Description'),
-('LBb7YgXU', 'SandBox', 'std_comment_strings_xml', 'Законный Император Кальрадии');
-INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
+('LBb7YgXU', 'SandBox', 'std_comment_strings_xml', 'Законный Император Кальрадии'),
 ('lbdSaDpI', 'Native', 'std_module_strings_xml', 'Осталось времени'),
-('lbGarlra', 'SandBox', 'std_TaleWorlds_CampaignSystem', 'Потребление пищи уменьшается на половину и +5% к более быстрому передвижению в лесах.'),
+('lbGarlra', 'SandBox', 'std_TaleWorlds_CampaignSystem', 'Потребление пищи уменьшается на половину и +5% к более быстрому передвижению в лесах.');
+INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
 ('lbH0Fw9s', 'SandBox', 'std_voice_strings_xml', 'Долго же я ждал этого дня. Осмотри всё вокруг хорошенько пока можешь, ибо скоро всё, что ты сможешь скоро разглядеть, будут внутренности вороны.'),
 ('lbIgOHea', 'SandBox', 'std_spspecialcharacters_xml', 'Почтенная стургийская торговка'),
 ('LbjxH9yp', 'SandBoxCore', 'std_spnpccharacters_xml', 'Имперский Лучник'),
@@ -9344,6 +9342,7 @@ INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
 ('LVX2x6Jf', 'SandBox', 'std_SandBox', 'Я хотел бы расторгнуть контракт с  {FACTION_NAME}.'),
 ('lVx35dWp', 'SandBox', 'std_SandBox', 'Если подумать, то пусть этот матч будет товарищеским.'),
 ('lw7kr1df', 'SandBox', 'std_conversations_xml', 'Давайте рассылайте приглашения'),
+('LW92PgZz', 'SandBox', 'std_heroes_xml', 'The current Grand Prince of Sturgia is Raganvad. Harsh and uncompromising, he believes that it is the right of the prince to command the boyars in all things, not just in making war. For the time being they obey him, not least for his ability to call on the kinsmen of his mother, a Nordic princess with ties to the fearsome Skolderbroda mercenary company.'),
 ('LWbJKKK1', 'Native', 'std_mpitems_xml', 'Северная Упряжь Знати'),
 ('LWbJKKK1', 'SandBoxCore', 'std_spitems_xml', 'Северная Благородная Упряжь'),
 ('LwbqCwne', 'SandBox', 'std_lords_xml', 'Ospir'),
@@ -10009,9 +10008,9 @@ INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
 ('NBv29XpJ', 'Native', 'std_module_strings_xml', 'Вы не можете распустить армию, а ты в эту армию.'),
 ('nBwkihN7', 'SandBox', 'std_SandBox', 'STUB: Мы едем спасать людей из{TARGET_VILLAGE}. Мы слышали, что враги напали на их деревню.'),
 ('NC0eK5D8', 'SandBox', 'std_TaleWorlds_CampaignSystem', 'Я делаю все, что могу.'),
-('NC9bbrt5', 'SandBox', 'std_TaleWorlds_CampaignSystem_ViewModelCollection', 'Конец дня денаров');
+('NC9bbrt5', 'SandBox', 'std_TaleWorlds_CampaignSystem_ViewModelCollection', 'Конец дня денаров'),
+('NC9bBV4t', 'SandBox', 'std_conversations_xml', 'Очень хорошо. Вы это делаете');
 INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
-('NC9bBV4t', 'SandBox', 'std_conversations_xml', 'Очень хорошо. Вы это делаете'),
 ('nc9KELFA', 'SandBox', 'std_TaleWorlds_CampaignSystem', 'торговля товарами'),
 ('NCC4VUOc', 'SandBox', 'std_TaleWorlds_CampaignSystem', '{ISSUE_GIVER.LINK} хочет избавиться от браконьеров которые когда-то служили {?ISSUEGIVER.GENDER}ей{?}ему{\?}, а сейчас вышли из под контроля.'),
 ('ncEWiljT', 'SandBoxCore', 'std_spcultures_xml', 'Rhia'),
@@ -10093,6 +10092,7 @@ INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
 ('NiaLmb1S', 'Native', 'std_mpclassdivisions_xml', 'Заменяет Охотничий Лук на Короткий Лук, наносит больше урона, но медленнее.'),
 ('niBshU8L', 'SandBox', 'std_conversations_xml', 'С возвращением, друг!'),
 ('nIhIU9t8', 'SandBox', 'std_SandBox', 'Хорошо. Посмотрим, сможем ли мы выплатить справедливую компенсацию за защиту дорог.'),
+('niI9dpuu', 'SandBox', 'std_heroes_xml', 'The western third of the Empire is ruled by Garios, a charismatic general who represents a longstanding populist trend in imperial politics. He is deeply loved by his soldiers, both for his solid record in winning battles and for his insistence that his veterans be compensated in land afterwards. He often demands that the ''people'' should settle key issues, but in practice this usually means an assembly of his soldiers, where his veterans can be counted on to shut down opposition.'),
 ('nisA6W98', 'SandBoxCore', 'std_spcultures_xml', 'Baheshtur'),
 ('NItH4oL6', 'SandBox', 'std_StoryMode', 'Ну, если они по-прежнему грабят, они могут разделиться на несколько групп. Надеюсь, нам не придется сражаться со всеми сразу. Да и это пойдет нам на пользу, если мы сможем нанять или уговорить кого-то к нам присоединиться.'),
 ('nixINYwE', 'SandBox', 'std_TaleWorlds_CampaignSystem', 'Да конечно. Было приятно иметь с вами дело.'),
@@ -11111,6 +11111,7 @@ INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
 ('PL3Ut0vL', 'SandBoxCore', 'std_spitems_xml', 'Южное Крестьянское Одеяние'),
 ('PL5SG9hI', 'Native', 'std_mpitems_xml', 'Кожаная Чешуйчатая Броня'),
 ('PL5SG9hI', 'SandBoxCore', 'std_spitems_xml', 'Кожаная Чешуйчатая Броня'),
+('pl86rbh9', 'SandBox', 'std_heroes_xml', 'Pharon is patriarch of the Leonipardes, an imperial house that owns vast estates on the hot plains of the south. The family has traditionally taken the welfare of its tenants seriously, but expects total loyalty from them. He has little to do with the Senate and the politics of the capital. Dynastic inheritance seems to him the natural order of things, so he has leaned towards Rhagaea in the civil wars.'),
 ('PLbxHyPu', 'SandBox', 'std_TaleWorlds_CampaignSystem', 'Она варьируется. Мне кажется, что у меня прекрасные глаза для оценки выкуп. Есть с десяток мелочи о человеке, который подскажет, сможет ли он ложится спать голодным, или специи, мясо с перцем и гвоздикой с востока. Деньги, конечно, в аристократии, и если вы хотите, чтобы делать свою работу, вы хотите узнать о каждом из помещичьей семьи или племенного вождя в Кальрадии, их поместьях, их отпрысков как законного, так и сволочь, и, конечно же, их кредит с продавцами.'),
 ('pLCcV4GU', 'Native', 'std_global_strings_xml', 'UI Switch To Left Tab DESC'),
 ('PLeBeUqu', 'SandBox', 'std_conversations_xml', '''Все шелка Велуки...'''),
@@ -11211,7 +11212,6 @@ INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
 ('pRbKbPK3', 'SandBoxCore', 'std_spcultures_xml', 'Vadrios'),
 ('prcBBqMR', 'SandBox', 'std_TaleWorlds_CampaignSystem', '{HIDEOUT_DESCRIPTION} Вы видите вооруженных людей. Подслушав, вы распознали их беседы о налётах, выкупах и лучших местах, где можно подкараулить путешественников.'),
 ('PRE5RKpp', 'SandBox', 'std_TaleWorlds_CampaignSystem_ViewModelCollection', 'Вы должны немного отдохнуть, прежде чем снова сможете заняться этим.'),
-('prj0jVxk', 'SandBox', 'std_module_strings_xml', 'QuestBetrayal'),
 ('prJBRboS', 'SandBox', 'std_SandBox', 'мы заботимся о честных людях. Следим, чтобы никто не разбил их магазины. А если они захотят дать нам пару монет в качестве благодарности, кто будет возражать?'),
 ('pRQxxcfj', 'SandBox', 'std_TaleWorlds_CampaignSystem', '{FIRST_NAME} Кошачьи Глазки'),
 ('prs0jRAy', 'Native', 'std_module_strings_xml', 'общая'),
@@ -11953,7 +11953,6 @@ INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
 ('R2haBQK7', 'SandBox', 'std_wanderer_strings_xml', 'У меня не было особого желания жениться, но семья всё равно нашли мне жениха. Я согласилась, но мы с мужем начали ненавидеть друг друга с первого взгляда. Один раз он меня оскорбил меня на рыночной площади, я прокляла всю его семью, а он ударил меня и достал нож. И я достала нож. Победа была за мной.'),
 ('R2HP4EiX', 'SandBox', 'std_SandBox', 'У меня больше нет вопросов.'),
 ('r2XC8nbZ', 'SandBox', 'std_StoryMode', '{YOUTH_INTRO}'),
-('R2XhM9yO', 'SandBox', 'std_module_strings_xml', 'QuestSuccess'),
 ('r2xp7C5e', 'SandBox', 'std_conversations_xml', 'Рад тебя видеть, старый друг'),
 ('r2y3n7dR', 'SandBox', 'std_TaleWorlds_CampaignSystem', 'Посещенные Поселения'),
 ('r312jCKr', 'Native', 'std_module_strings_xml', 'Предложить мир'),
@@ -12011,9 +12010,9 @@ INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
 ('r9F1W4KZ', 'SandBox', 'std_TaleWorlds_CampaignSystem', 'Да? Вы натренировали моих людей?'),
 ('R9KivNZ6', 'SandBox', 'std_wanderer_strings_xml', 'Вы могли слышать о Ладимосе Красном. Он проповедовал, что готовятся Небеса сокрушить гневом своим и помещиков и торговцев, и что следовало их увезти оттуда и жить чистой жизнью и получим мы награду от Непорочного Императора, пришедшего с небес. Было это примерно лет 10 назад. Ну, много кто убежал последовать за ним, парочка наших поверила ему, другие же были вовсю в долгах и хотели просто посмотреть как облажались те, кто нас обижал.'),
 ('R9R6imnU', 'SandBox', 'std_TaleWorlds_CampaignSystem', 'Разведчики работающие на {QUEST_GIVER.NAME} отметили логово на вашей карте.'),
-('r9r9pe2q', 'SandBox', 'std_conversations_xml', 'Итак, как вы можете видеть, хитрость заключается в том, чтобы как можно дольше растягивать ситуацию, когда кажется, что вы проигрываете, и люди начнут ставитьпротив вас, быстро возвращаетесь и выигрываете до того, как ставки могут измениться. Лучший способ заработать деньги - позволить избить себя почти полностью, а затем быстро вернуться и побить остальных. Однако, в конце концов, вы должны выиграть, чтобы я и вы заработали деньги. ');
+('r9r9pe2q', 'SandBox', 'std_conversations_xml', 'Итак, как вы можете видеть, хитрость заключается в том, чтобы как можно дольше растягивать ситуацию, когда кажется, что вы проигрываете, и люди начнут ставитьпротив вас, быстро возвращаетесь и выигрываете до того, как ставки могут измениться. Лучший способ заработать деньги - позволить избить себя почти полностью, а затем быстро вернуться и побить остальных. Однако, в конце концов, вы должны выиграть, чтобы я и вы заработали деньги. '),
+('r9tGsO4Z', 'Native', 'std_global_strings_xml', 'Игре требуется перезагрузка');
 INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
-('r9tGsO4Z', 'Native', 'std_global_strings_xml', 'Игре требуется перезагрузка'),
 ('R9ZFMEvz', 'SandBox', 'std_conversations_xml', 'Со мной отряд хороших, закаленных солдат. Мы готовы присоединиться к вам.'),
 ('Ra17aK4e', 'SandBox', 'std_TaleWorlds_CampaignSystem_ViewModelCollection', 'Столица: '),
 ('rA3KybBX', 'SandBoxCore', 'std_spcultures_xml', 'Ethirea'),
@@ -13012,9 +13011,9 @@ INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
 ('Settlements.Settlement.name.village_EN1_2', 'SandBox', 'std_settlements_xml', 'Stathymos'),
 ('Settlements.Settlement.name.village_EN1_3', 'SandBox', 'std_settlements_xml', 'Gymos'),
 ('Settlements.Settlement.name.village_EN2_1', 'SandBox', 'std_settlements_xml', 'Alosea'),
-('Settlements.Settlement.name.village_EN2_2', 'SandBox', 'std_settlements_xml', 'Jeracos');
+('Settlements.Settlement.name.village_EN2_2', 'SandBox', 'std_settlements_xml', 'Jeracos'),
+('Settlements.Settlement.name.village_EN3_1', 'SandBox', 'std_settlements_xml', 'Enoisa');
 INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
-('Settlements.Settlement.name.village_EN3_1', 'SandBox', 'std_settlements_xml', 'Enoisa'),
 ('Settlements.Settlement.name.village_EN3_3', 'SandBox', 'std_settlements_xml', 'Crios'),
 ('Settlements.Settlement.name.village_EN4_2', 'SandBox', 'std_settlements_xml', 'Alatys'),
 ('Settlements.Settlement.name.village_EN4_4', 'SandBox', 'std_settlements_xml', 'Hetania'),
@@ -13388,7 +13387,6 @@ INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
 ('sf5BT9lA', 'SandBox', 'std_conversations_xml', 'Хорошо. Я заплачу тебе свой долг.'),
 ('SF7dqoEe', 'SandBox', 'std_StoryMode', 'Конечно, высокомерие Нимра росло и росло. И тогда он нанес нам страшное оскорбление. Я не буду говорить что это за оскорбление, потому что это больше не важно. Мы его стерпели, как велят традиции. Вы можете спросить кого-то еще об этом.'),
 ('sf9aMBbq', 'SandBox', 'std_TaleWorlds_CampaignSystem', 'Босс {FIRST_NAME}'),
-('SFAawqR1', 'SandBox', 'std_module_strings_xml', 'DishonestBusinessQuarrel'),
 ('SfaIn0Ml', 'SandBox', 'std_conversations_xml', 'Да. Открой дверь.'),
 ('sFBxQ3iE', 'SandBox', 'std_TaleWorlds_CampaignSystem', 'Повреждение Стены'),
 ('sfcbd6QS', 'Native', 'std_module_strings_xml', 'Вы набрали {CURRENT_PROGRESS} баллов из {TARGET_PROGRESS}, необходимых попытки успеха в убеждении.'),
@@ -14013,10 +14011,10 @@ INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
 ('TMoMxErl', 'SandBox', 'std_conversations_xml', 'Деньги очень приветствуются, и я рад, что был вам полезен. '),
 ('TmQpdK7M', 'SandBox', 'std_voice_strings_xml', '{STR_SALUTATION}... Твоя красота бальзам на мои проблемы.'),
 ('tmqYGwMa', 'SandBox', 'std_SandBox', 'Превосходно, {PLAYER.NAME}, превосходно. Я полностью тебе доверяю.[rb:positive][if:idle_happy]'),
-('tMwsE9IR', 'Native', 'std_mpitems_xml', 'Кожаные Сапоги На Ремешках');
-INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
+('tMwsE9IR', 'Native', 'std_mpitems_xml', 'Кожаные Сапоги На Ремешках'),
 ('tMwsE9IR', 'SandBoxCore', 'std_spitems_xml', 'Стянутые Кожаные Сапоги'),
-('TmYMCahH', 'SandBox', 'std_spspecialcharacters_xml', 'Грозная женщина - главарь имперской банды'),
+('TmYMCahH', 'SandBox', 'std_spspecialcharacters_xml', 'Грозная женщина - главарь имперской банды');
+INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
 ('TN5MjMJU', 'SandBoxCore', 'std_spcultures_xml', 'Risa'),
 ('tnaGywrE', 'Native', 'std_crafting_pieces_xml', 'Грубая Кожа Песочные Часы Двуручный Хват'),
 ('tNBprXaZ', 'SandBox', 'std_TaleWorlds_CampaignSystem', 'Каждый раз, когда враг убит выстрелом вашего болта, боевой дух противников снижается на 1.'),
@@ -14243,7 +14241,6 @@ INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
 ('u1pgwiaY', 'SandBox', 'std_conversations_xml', 'Я не хочу быть вовлеченным в вашу ссору с {s6}.'),
 ('u1Pkt4HC', 'SandBox', 'std_StoryMode', 'Налетчики'),
 ('u1yi8YOM', 'SandBox', 'std_wanderer_strings_xml', 'Ну, я думаю, я показал себя немного слишком нетерпеливым. Советы перестали принимать меня как чемпион. Сказал мне, что я продал мой меч слишком дешево, они сказали. Что я могу сказать? Мне придется искать другую работу сейчас. '),
-('U1zsHey1', 'SandBox', 'std_module_strings_xml', 'ExtortingQuarrel'),
 ('U29XvRU6', 'SandBox', 'std_concept_strings_xml', 'Черты личности отражают репутацию персонажа. Они влияют на ваши отношения со всеми в вашем мире, и, возможно, даже с вашими врагами. Для неигровых персонажей они также представляют предположения персонажа о том, что преуспевает в мире:  должны ли вы неукоснительно выполнять свои клятвы, или все гибки и обещания для лохов? Должны ли вы планировать каждое движение с долгосрочной целью или люди не будут вам доверять, если вы не проявите немного эмоций? Черты характера :  Доблесть / Осторожность, Милосердие / Жестокость, Честь / Коварство, Щедрость / Неверность и Расчет / Эмоциональность. Как правило, первый из них рассматривается более благоприятно, чем второй, но не всегда: щедрые лидеры, преданные своим войскам, отлично подходят для командования армиями, но вы можете пожелать, чтобы судья был немного более беспристрастным. Личные качества NPC фиксированы, в то время как вы, игрок, будете развивать свои черты своими действиями в игре. Дополнительная информация по отдельным признакам доступна, когда вы наводите на них курсор мыши.'),
 ('u2dQaVY2', 'Native', 'std_global_strings_xml', 'Экипировать предмет в третий слот.'),
 ('U2Kr8vTy', 'SandBox', 'std_voice_strings_xml', 'Я поймал вас. Все ваши трюки бесполезны. Есть что сказать?'),
@@ -14672,6 +14669,7 @@ INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
 ('UwXP9UAR', 'Native', 'std_global_strings_xml', 'Хорошо'),
 ('UwXP9UAR', 'Native', 'std_native_strings_xml', 'Хорошо'),
 ('UWzQsHA2', 'SandBox', 'std_TaleWorlds_CampaignSystem', '{SETTLEMENT_LINK} находится под управлением {LORD.LINK}, {FACTION_OFFICIAL} из {FACTION_TERM}. {PROSPERITY_INFO} {MORALE_INFO}'),
+('uX0dbuLa', 'SandBox', 'std_heroes_xml', 'The southern third of the Empire is ruled by Rhagaea, widow of the murdered emperor. For her, politics is personal: all men want their families to inherit what they have, and if you loved Arenicos then you will support the rights of his heirs. Arenicos was indeed loved, and also there are some Calradians who believe that the endless squabbling and civil wars can only be overcome by a king, or, if necessary, by a queen. '),
 ('UX1R6rnO', 'SandBox', 'std_game_menus_xml', 'Вор.'),
 ('UX7reJ3K', 'Native', 'std_module_strings_xml', 'Мы должны спешить, чтобы защитить наши осадные машины и недопустить их уничтожения'),
 ('UxacCAuS', 'Native', 'std_module_strings_xml', 'У некоторых из ваших солдат теперь достаточно опыта для повышения.{newline}{newline}Об этом будет сообщено небольшим значком над иконкой отряда.{newline}{newline}Чтобы просмотреть и повысить свои войска, нажмите на этот значок.'),
@@ -14734,7 +14732,6 @@ INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
 ('V2zwBILU', 'SandBox', 'std_spspecialcharacters_xml', 'Консервативный вландийский староста'),
 ('V305MaOP', 'Native', 'std_TaleWorlds_MountAndBlade_ViewModelCollection', 'Онлайн'),
 ('v3cY44N1', 'Native', 'std_module_strings_xml', 'Вы не можете принять решение для поселения клана'),
-('v3hXzd35', 'SandBox', 'std_module_strings_xml', 'QuestFailed'),
 ('V3JMuFEg', 'Native', 'std_crafting_pieces_xml', 'Привязана Палица Ручка'),
 ('v3LBusjY', 'SandBox', 'std_conversations_xml', 'Я думаю о том, чтобы ворваться в тюрьму в {s24}, найти {s13} и с боем пробиться наружу.'),
 ('v3lIxLvX', 'Native', 'std_mpitems_xml', 'Пила'),
@@ -15013,13 +15010,12 @@ INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
 ('vN4spwD1', 'SandBox', 'std_comment_strings_xml', 'Знайте, что если вы когда-нибудь помешаете мне, вы окажетесь едой для шакалов.'),
 ('Vn4uzMUH', 'Native', 'std_global_strings_xml', 'Группа 6 слушай DESC'),
 ('Vn4vmKq3', 'SandBox', 'std_conversations_xml', 'Отлично! Отправляйтесь в {s13} как можно скорее, шпион будет ждать вас там.'),
-('Vn6n7KCO', 'SandBox', 'std_module_strings_xml', 'PlayerLastStand'),
-('vn7A8aXV', 'Native', 'std_module_strings_xml', 'Вы находитесь снаружи {SETTLEMENT_NAME}. Ваше знамя развевается над воротами замка.');
-INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
+('vn7A8aXV', 'Native', 'std_module_strings_xml', 'Вы находитесь снаружи {SETTLEMENT_NAME}. Ваше знамя развевается над воротами замка.'),
 ('VnaT2Ipq', 'SandBox', 'std_trait_strings_xml', 'добротой'),
 ('VnCilmW9', 'SandBox', 'std_minor_faction_conversations_xml', 'Я думаю, что они прекрасно справляются с работой. Вам нужны собаки, чтобы следить за другими собаками, и эти всегда готовы качественно поработать для своих хозяев. Если бы они не существовали, то мне пришлось бы их создавать.'),
 ('VnECJbmq', 'SandBox', 'std_TaleWorlds_CampaignSystem', 'Этого не достаточно.'),
-('vney5HbZ', 'SandBox', 'std_wanderer_strings_xml', 'Годы проехал вместе с Ханом Мончуг, даже еще до того как он стал ханом. Были у меня и имя и деньги неплохие. Была там одна девчонка в соседской деревне. Тихая такая, зато какие бедра! Думал она бы стала хорошей невестой.'),
+('vney5HbZ', 'SandBox', 'std_wanderer_strings_xml', 'Годы проехал вместе с Ханом Мончуг, даже еще до того как он стал ханом. Были у меня и имя и деньги неплохие. Была там одна девчонка в соседской деревне. Тихая такая, зато какие бедра! Думал она бы стала хорошей невестой.');
+INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
 ('VNFKqpyV', 'SandBox', 'std_TaleWorlds_CampaignSystem', 'Да, я думал об этом.'),
 ('VnfPb4ji', 'SandBox', 'std_wanderer_strings_xml', 'Действительно. Много чего можно узнать от иностранца, кого бы вы иностранцем не считали.'),
 ('vnG1q18y', 'SandBox', 'std_TaleWorlds_CampaignSystem', 'Носитель щитов'),
@@ -15363,6 +15359,7 @@ INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
 ('WbH2HS8j', 'SandBoxCore', 'std_spnpccharacters_xml', 'Имперская Горожанка'),
 ('WbHfGCbd', 'SandBox', 'std_StoryMode', 'Ты пережил осаду'),
 ('wbJzSg3X', 'SandBoxCore', 'std_spcultures_xml', 'Ulbesos'),
+('WBl5hS0e', 'SandBox', 'std_heroes_xml', 'The northern third of the Empire is ruled by Lucon, who represents a long-standing oligarchic trend in imperial politics. It holds that strict adherance to imperial law is the best guarantee that the empire will not become a tyranny. Oligarchs like Lucon also tend to believe that only landowners can have the extensive education, experience in government, and stake in property to really understand and appreciate the law, and thus the Senate should be supreme.'),
 ('wbLnJrJA', 'SandBox', 'std_TaleWorlds_CampaignSystem', 'Ну и ладно. Полагаю, я смогу найти помощь в другом месте.'),
 ('wbLqHvjE', 'SandBox', 'std_lords_xml', 'Zerosica'),
 ('wbLqHvjE', 'SandBoxCore', 'std_spcultures_xml', 'Zerosica'),
@@ -15812,7 +15809,6 @@ INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
 ('x6qI4aBP', 'SandBox', 'std_lord_conversations_xml', 'Что я делаю? А на что это похоже? На сырая цыпленок?! Идиот! Я здесь заключённый!'),
 ('X6uMhfCo', 'SandBox', 'std_conversations_xml', 'Мельница и пекарня необходимы, чтобы производить хлеб из зерна.'),
 ('X7Fod9WN', 'SandBox', 'std_SandBox', 'Я в вашей власти.[rb:positive]'),
-('X7g4Kz7F', 'SandBox', 'std_module_strings_xml', 'IgnoredPeace'),
 ('x7kYOUfi', 'Native', 'std_global_strings_xml', 'Громкость эффектов'),
 ('x7OgHYfc', 'Native', 'std_global_strings_xml', '{LEFT}'),
 ('X7OrRebK', 'Native', 'std_crafting_pieces_xml', 'Узкое Лезвие Отеля Sparth'),
@@ -16015,12 +16011,13 @@ INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
 ('xKXcqRJI', 'SandBox', 'std_StoryMode', 'Вы вложили деньги в земли'),
 ('XKxeaF0I', 'SandBoxCore', 'std_spcultures_xml', 'Dalidos'),
 ('Xl25HtPL', 'SandBox', 'std_comment_strings_xml', 'Хорошо бы знать ваше имя. Если я увижу Вас на празднике, я буду знать, как вас приветствовать, и если я увижу вас в стене щитов, я узнаю, кого убью.'),
-('xL3WGYsw', 'SandBox', 'std_StoryMode', 'Собранные части');
-INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
+('xL3WGYsw', 'SandBox', 'std_StoryMode', 'Собранные части'),
 ('xl4K9ecB', 'SandBox', 'std_TaleWorlds_CampaignSystem', 'Открыть тайник'),
 ('xl5MgK49', 'Native', 'std_mpitems_xml', 'Стургианский Тяжёлый Кавалерийский Шлем'),
 ('xl5MgK49', 'SandBoxCore', 'std_spitems_xml', 'Стургианский Тяжелый Кавалерийский Шлем'),
-('xl6SnA6n', 'SandBox', 'std_wanderer_strings_xml', 'Я был солдатом поскольку и отец тоже был им. Думал легко все будет. Не боялся ни смерти ни всяких невзгод. Но то, что было на войне... Ни крики, ни смерти, ни открытые раны не сравнятся с ужасными вещами, которые там творились. Трудно объяснить.'),
+('xl6SnA6n', 'SandBox', 'std_wanderer_strings_xml', 'Я был солдатом поскольку и отец тоже был им. Думал легко все будет. Не боялся ни смерти ни всяких невзгод. Но то, что было на войне... Ни крики, ни смерти, ни открытые раны не сравнятся с ужасными вещами, которые там творились. Трудно объяснить.');
+INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
+('xL95EfpQ', 'SandBox', 'std_heroes_xml', 'Apys Varros was one of the most notoriously debauched, unscrupulous, and wealthy members of the old imperial Senate. But he made an early alliance with Garios, in whom he recognized a rising star. Garios provided the fame, Apys provided the money. And even if the populist general ever puts one of his land redistribution schemes into practice, few doubt that Apys would find a way to emerge even richer than before.'),
 ('Xlb7Xxyl', 'SandBox', 'std_TaleWorlds_CampaignSystem', '{CURRENT_LIEGE.LINK} олицетворяет то, во что я верю.'),
 ('XlbDnuJx', 'SandBox', 'std_TaleWorlds_CampaignSystem', 'Подойти к воротам и окликнуть стражу'),
 ('xlFEUjhk', 'SandBox', 'std_SandBox', 'Только мои верные вассалы могут владеть землями и замками в моем королевстве. Наемнику нельзя доверять такую ответственность. Однако, прослужив некоторое время, ты можешь поклясться мне в верности и стать моим вассалом. Тогда ты будешь вознаграждён наделом.'),
@@ -16265,7 +16262,6 @@ INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
 ('xyFNxwyH', 'Native', 'std_global_strings_xml', '(Двойное Нажатие) Внезапный '),
 ('xYgJN0Ja', 'Native', 'std_crafting_pieces_xml', 'Украшенный Клинок Ятагана'),
 ('xyIDKleR', 'SandBoxCore', 'std_spcultures_xml', 'Saidh'),
-('xyn4YBvp', 'SandBox', 'std_module_strings_xml', 'CalculatingStrategyQuarrel'),
 ('xyNy8bsX', 'SandBox', 'std_TaleWorlds_CampaignSystem', 'PersonaCurt'),
 ('xYUHruEl', 'Native', 'std_mpitems_xml', 'Горный Капюшон'),
 ('xYUHruEl', 'SandBoxCore', 'std_spitems_xml', 'Горный Капюшон'),
@@ -17016,12 +17012,12 @@ INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
 ('zfN0N8xN', 'Native', 'std_TaleWorlds_MountAndBlade_ViewModelCollection', 'Общее время игры:'),
 ('zFpCM7ai', 'SandBox', 'std_TaleWorlds_CampaignSystem', 'Ты утвердил указ, разрешающий ремесленникам вести себя как торговцы.'),
 ('zfPQlDbQ', 'SandBox', 'std_TaleWorlds_CampaignSystem', 'То, что я сказал о нашей еде...'),
-('ZFqlqyci', 'SandBox', 'std_conversations_xml', '[Уйти]');
-INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
+('ZFqlqyci', 'SandBox', 'std_conversations_xml', '[Уйти]'),
 ('zfRqM4mr', 'Native', 'std_TaleWorlds_Core', 'Контроль'),
 ('zFSQJsZb', 'SandBox', 'std_conversations_xml', 'Чем именно вы здесь занимаетесь?'),
 ('zfUhnG7y', 'SandBoxCore', 'std_spcultures_xml', 'Themestios'),
-('ZFwKlHIJ', 'SandBoxCore', 'std_spitems_xml', 'Лесной Длинный Лук'),
+('ZFwKlHIJ', 'SandBoxCore', 'std_spitems_xml', 'Лесной Длинный Лук');
+INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
 ('zg0q1aqD', 'Native', 'std_module_strings_xml', 'Вы не можете распустить войска гарнизона'),
 ('zG5jo0bJ', 'SandBox', 'std_SandBox', 'Да, у вас есть какие-нибудь успехи?'),
 ('Zg5Zmgui', 'Native', 'std_module_strings_xml', 'Мы возвращаемся с рынка {TOWN} обратно в нашу деревню.'),
@@ -17110,7 +17106,6 @@ INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
 ('Zmajp2o1', 'SandBoxCore', 'std_spnpccharacters_xml', 'Копейщик Стургийского Ополчения'),
 ('ZMbvMK6K', 'SandBox', 'std_SandBox', 'Тогда прощай, {PLAYER.NAME}, и удачи тебе.'),
 ('zMbYCQa5', 'Native', 'std_TaleWorlds_MountAndBlade_ViewModelCollection', 'Средний Балл:'),
-('zmCwsjEw', 'SandBox', 'std_module_strings_xml', 'FiefQuarrel'),
 ('ZMdOAbTd', 'Native', 'std_module_strings_xml', 'Атакующие'),
 ('zMElX4NU', 'SandBox', 'std_conversations_xml', 'Да.'),
 ('zmEnxUpL', 'Native', 'std_mpitems_xml', 'Имперский Объёмный Бард'),
@@ -17297,6 +17292,7 @@ INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
 ('ZW9OGfEt', 'StoryMode', 'std_module_strings_xml', 'Спасение & Взятие Пленных'),
 ('zWaCtOJU', 'SandBox', 'std_TaleWorlds_CampaignSystem_ViewModelCollection', '{SETTLEMENTS}'),
 ('zwAjXuEk', 'Native', 'std_module_strings_xml', '{TRAIT_NAME} ({TRAIT} {TRAIT_VALUE})'),
+('ZwavTRcF', 'SandBox', 'std_heroes_xml', 'Ira is the daughter of Rhagaea, one of the three claimants to the imperial throne, and the slain emperor Arenicos. At one point, her father appeared to be grooming her as his heir. But though she took well to military campaigns, she also displayed a wild side unbecoming of imperial dignity, carousing in taverns with other young aristocrats and even appearing in the arenas as a gladiator. She is Rhagaea''s heir-apparent, but her mother makes no secret of wishing to find her a responsible consort to ensure the continuity of the dynasty.'),
 ('zWaVxD6T', 'SandBox', 'std_TaleWorlds_CampaignSystem_ViewModelCollection', 'Скорость отряда'),
 ('Zwb65ufG', 'Native', 'std_module_strings_xml', 'Глина'),
 ('Zwb65ufG', 'SandBoxCore', 'std_spitems_xml', 'Глина'),
@@ -17310,7 +17306,6 @@ INSERT INTO 'localize_russian' (mbid, module, file, string) VALUES
 ('ZwpWX8Zx', 'SandBox', 'std_TaleWorlds_CampaignSystem', 'Голосование за изгнание {CLAN_NAME} из королевства'),
 ('zwRbpQJ0', 'SandBox', 'std_comment_strings_xml', 'Я слышал о вас! Жаль, что мы встретились вот так.'),
 ('zWTNOfHm', 'SandBox', 'std_TaleWorlds_CampaignSystem', 'Я хочу тебя и если ты хочешь меня, этого должно быть достаточно!'),
-('zwV2tyb4', 'SandBox', 'std_module_strings_xml', 'NoQuarrel'),
 ('Zwy8JybD', 'SandBox', 'std_TaleWorlds_CampaignSystem', 'Вы находитесь в подворотнях. В местной таверне, которая, кажется, привлекает одну и ту же толпу.'),
 ('ZwyPnboN', 'Native', 'std_module_strings_xml', '+{BONUS_AMOUNT} бонуса к морали поселения'),
 ('zX3hVUKI', 'SandBox', 'std_wanderer_strings_xml', 'Похоже, у тебя не было выбора.'),

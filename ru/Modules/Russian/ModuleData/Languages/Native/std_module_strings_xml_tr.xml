@@ -505,7 +505,7 @@
     <string id="dyLYsWPf" text="Обеспечение Присутствия Бонус Перка "/>
     <string id="dyY3hkH1" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} атакуют {?IS_PLURAL}несколько вражеских формаций{?}вражескую формацию{\?}."/>
     <string id="Dzntsudy" text="Вы нанесли {AMOUNT} {DAMAGE_TYPE} урона по {VICTIM_NAME} ({LOST_HP_PERCENTAGE}% HP)."/>
-    <string id="E05lmb5n" text="Ваши отношения {HERO_NAME} &lt;a style=&quot;DecreaseStyle&quot; &gt;&lt;b&gt;ухудшатся&lt;/b&gt;&lt;/a&gt;"/>
+    <string id="E05lmb5n" text="Ваши отношения с {HERO_NAME} &lt;a style=&quot;DecreaseStyle&quot; &gt;&lt;b&gt;ухудшились&lt;/b&gt;&lt;/a&gt;"/>
     <string id="E1HbgxyM" text="Вы можете зарабатывать очки атрибутов на ЧЕМ_ТО. Тодо:"/>
     <string id="E1OwmQFb" text="Назад"/>
     <string id="e1tZ4kEY" text="Все Вещи"/>
@@ -1413,7 +1413,7 @@
     <string id="W1seGc3t" text="Картридж"/>
     <string id="w2j9LGvZ" text="Размер цели"/>
     <string id="W2WXkiAh" text="Работорговец"/>
-    <string id="w3v2S03V" text="Ваши отношения с {HERO_NAME} will &lt;a style=&quot;УлучшилисьStyle&quot; &gt;&lt;b&gt;улучшились&lt;/b&gt;&lt;/a&gt;"/>
+    <string id="w3v2S03V" text="Ваши отношения с {HERO_NAME} &lt;a style=&quot;IncreaseStyle&quot; &gt;&lt;b&gt;улучшились&lt;/b&gt;&lt;/a&gt;"/>
     <string id="W4iKIM2s" text="Маленький Щит"/>
     <string id="W5gPypVY" text="Используйте кузницу, для создания оружия, улучшения материалов, а так же расплавляйте ненужное оружие."/>
     <string id="w758X31N" text="Товар"/>

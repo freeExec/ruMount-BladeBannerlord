@@ -999,7 +999,6 @@
     <string id="NEEsWlOX" text="I am {PLAYER.LINK}. Perhaps you have heard of my exploits."/>
     <string id="NFxQYGPT" text="Молодец, {PLAYER.LINK}, это последний товар, который мне нужен. Вот деньги за ваш {s6} и небольшой бонус за помощь мне. Боюсь, что мне больше не придется платить ни за товары, ни за награды мародерам, но вы можете продолжать охоту на этих ублюдков, если таковые останутся. Спасибо вам за помощь, я этого не забуду." />" />
     <string id="NfY9tSAf" text="Я слышал о ваших деяниях. Вы преподали этим бандитам заслуженное наказание. Вы действительно так хороши, как о вас говорят. Вот ваша награда: {reg5}{GOLD_ICON}. Я хотел бы дать больше, но эти бандиты чуть не довели меня до банкротства." />
-    <string id="NfY9tSAf" text="I have heard about your deeds. You have given those bandits the punishment they deserved. You are really as good as they say. Here is your reward: {reg5}{GOLD_ICON}. I would like to give more but those bandits almost brought me to bankruptcy."/>
     <string id="nG2aJsav" text="Мне жаль. Я не мог ничего поделать."/>
     <string id="nG4FT8jJ" text="{CONVERSATION_STUB}"/>
     <string id="NHSvnlXa" text="Я хотел бы задать вам вопрос..."/>
@@ -1539,7 +1538,7 @@
     <string id="yARXQlEN" text="You'll not help a woman in need? You should be ashamed, {PLAYER.LINK}... Please leave me, I have some important embroidery to catch up."/>
     <string id="yaY6mO9t" text="Скажи мне, какую практику вы хотите."/>
     <string id="ybLYC8eo" text="Каждый так часто, король или Великий Владыка Кальрадии проведет праздник. В городах они часто сопровождаются турнирах, а в замках они будут сопровождаться охоты. Праздники дают возможность для лордов, чтобы восстановить некоторые из конкуренции, которая может подорвать силы королевства. Они также дают возможность для семьи, чтобы показать свое право дочерей, и дамы часто разрешается без присмотра пообщаться с гостями."/>
-    <string id="yc0McwdT" text="Может быть, я смогу помочь вам. Кого вы ищете?"/> <!--Здесь фиксил Cas.--> 
+    <string id="yc0McwdT" text="Может быть, я смогу помочь вам. Кого вы ищете?"/> <!--Здесь фиксил Cas.-->
     <string id="Yd2ATzbQ" text="Oh, yes, of course. We had already got the money for you. Here, please accept these {reg12}{GOLD_ICON} together with our most sincere thanks. Me and the people of our town will not forget your help."/>
     <string id="yD3bFyqa" text="Truly, {PLAYER.LINK}, you are nothing short of totally incompetent. Failing to capture both the spy AND his handler plumbs astonishing new depths of failure. Forget any reward I offered you. You've done nothing to earn it."/>
     <string id="YDbO3Nyk" text="Haven't you already taken up the cause of {s17}? You must have a very strong sense of justice, indeed. But no, thank you. I will not be part of your game."/>

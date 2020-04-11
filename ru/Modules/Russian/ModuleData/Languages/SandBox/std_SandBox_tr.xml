@@ -329,7 +329,7 @@
     <string id="boXF9dvD" text="{ALLEY_GREETING}"/>
     <string id="bQ8CxZIy" text="Ну, это будет стоить вам {COST}{GOLD_ICON}. Вы будете платить?"/>
     <string id="bSo9hKwr" text="{PERSUASION_OPTION_LINE} {SUCCESS_CHANCE}"/>
-    <string id="bsUVDLXa" text="Я {CONVERSATION_HERO.FIRSTNAME}, торговец из {LOCATION_STRING}. {BUSINESS_STRING}"/>
+    <string id="bsUVDLXa" text="Я {CONVERSATION_HERO.FIRSTNAME}, торговец {LOCATION_STRING}. {BUSINESS_STRING}"/>
     <string id="BsXNJHCu" text="До встречи.[rb:positive]"/>
     <string id="btJkBTSF" text="Я уверен, что ты сможешь это решить."/>
     <string id="bTnmpqU4" text="Боюсь, у меня нет времени на еще одну игру."/>
@@ -621,7 +621,7 @@
     <string id="ixyzGRPw" text="Тогда веди."/>
     <string id="IY5b9vZV" text="Все не так, он из низкородной семьи, из тех, кто всегда вовлечен в какую-то схему земельного мошенничества, или имел дело с известными бандитами. В каждой деревне есть такая черная овца, но я никогда не думал, что он зацепит мою дочь своими крючками!"/>
     <string id="IYRJKtkb" text="Боюсь, мои финансы не позволят сделать такой подарок."/>
-    <string id="J0cxPrZU" text=" здесь в {SETTLEMENT_STRING}"/>
+    <string id="J0cxPrZU" text=" из {SETTLEMENT_STRING}"/>
     <string id="J1TykdEn" text="Я слышал, что в лесу проходили тайные встречи. Торжественные клятвы, подписанные кровью. Скоро дует сильный ветер - помяните мои слова."/>
     <string id="J3Bi5K51" text="{WANDERER_BACKSTORY_A}"/>
     <string id="J5cQPqGQ" text="Вы правы. Вы вольны вершить правосудие так, как считаете нужным."/>
@@ -932,7 +932,7 @@
     <string id="Qm6SGjkb" text="Прощай, моя жена. Пусть дорога твоя будет безопасной, а возврат домой скорым.[rb:positive]"/>
     <string id="qmqTLZ9R" text="Спасибо, {?PLAYER.GENDER}миледи, Вы моя спасительница{?}сир, Вы, мой спаситель{\?}."/>
     <string id="QmWCUrok" text="Прошу прощения, {?PLAYER.GENDER}миледи{?}сир{\?}. {ALLEY_BOSS.NAME} передает свои наилучшие пожелания. Что тебя привело?"/>
-    <string id="qN2LYVIO" text="Да, я знаю {HERO.LINK}.[rb:positive]"/> <!--Здесь фиксил Cas.--> 
+    <string id="qN2LYVIO" text="Да, я знаю {HERO.LINK}.[rb:positive]"/> <!--Здесь фиксил Cas.-->
     <string id="qObicX7y" text="Я клянусь прислушиваться к вашим решениям в соответствии с законами Асерая, и следить за тем, чтобы мои родные тоже прислушивались к ним..."/>
     <string id="qOlKTKOy" text="{DAUGHTER_PERSUADE_TO_COME_PERSUADE_ATTEMPT_3}"/>
     <string id="QP7L2YLG" text="Звучит весело."/>
@@ -1148,7 +1148,7 @@
     <string id="Wuxn9sDq" text="Мой меч - твой меч. Если заплатишь."/>
     <string id="WVkc4UgX" text="Продолжить."/>
     <string id="WVorNMNc" text="Соперничающая банда переезжает в {SETTLEMENT}"/>
-    <string id="wVRwj2ff" text="Я {CONVERSATION_HERO.FIRSTNAME}. Поспрашивайте обо мне. Вы узнаете, что я такой человек, с которым вы не захотите связываться.[rb:trivial]"/> <!--Здесь фиксил Cas.--> 
+    <string id="wVRwj2ff" text="Я {CONVERSATION_HERO.FIRSTNAME}. Поспрашивайте обо мне. Вы узнаете, что я такой человек, с которым вы не захотите связываться.[rb:trivial]"/> <!--Здесь фиксил Cas.-->
     <string id="WwbDoZXg" text="Сколько призовых мест в турнирах?"/>
     <string id="wxK1bTZm" text="Подумай об этом. Но убедитесь, что вы не окажетесь на стороне проигравших."/>
     <string id="X18yfvX7" text="Просто прохожу мимо."/>

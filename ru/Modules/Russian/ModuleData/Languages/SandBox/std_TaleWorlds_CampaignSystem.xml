@@ -985,7 +985,7 @@
     <string id="dv2ZNazN" text="Идти в зал лорда" />
     <string id="dvEkfaab" text="Признание простых людей в качестве полноправных граждан" />
     <string id="DVI4RDVq" text="Оттолкнуть" />
-    <string id="dVNqCZMl" text="Если кто-то выследит несколько человек, скажем, {TOTAL_COUNT} группу {BRIGAND_TYPE}, и слово обернется, то воровство не будет таким прибыльным, что это заставит потенциальных разбойников колебаться. Как вы думаете, {?PLAYER.GENDER} леди {?}, сэр {\?}, как вы думаете, вы можете помочь нам?" />
+    <string id="dVNqCZMl" text="Если кто-то выследит несколько человек, скажем, группу из {TOTAL_COUNT} {BRIGAND_TYPE}, и молва распространится, то воровство не будет таким прибыльным. Это заставит потенциальных разбойников задуматься. Как вы думаете, {?PLAYER.GENDER}леди{?}сэр{\?}, как вы думаете, вы можете помочь нам?" />
     <string id="dvu6gYTJ" text="Производство глины / железа / шелка / серебра из ваших деревень в связанных деревнях увеличилось на 20%" />
     <string id="DVWXya3T" text="Большой колчан" />
     <string id="Dw78MmFR" text="{RECRUIT_START}" />
@@ -1355,7 +1355,7 @@
     <string id="hMiJvlJ5" text="Yes, Since we last spoke, I've learned a lot about hand-to-hand combat my {?PLAYER.GENDER}lady{?}lord{\?}. Correct timing and putting your whole body behind the blow means a lot more than I initially thought."/>
     <string id="hNmz5OL8" text="Показать Ваши Шрамы"/>
     <string id="hOVr77fd" text="Ты никогда не увидишь рассвет!"/>
-    <string id="hp4jLl3M" text="{PRISONER_LORD.LINK_AND_FACTION} has been relased after battle."/>
+    <string id="hp4jLl3M" text="{PRISONER_LORD.LINK_AND_FACTION} был отпущен после битвы."/>
     <string id="hq13B7Ok" text="Да.. вы правы."/>
     <string id="HQ6hyVNH" text="All right. Here is {TOTAL_PRICE}{GOLD_ICON}."/>
     <string id="HQGUoRTW" text="Правитель является полу-богов и определенные ритуалы должны быть выполнены в его присутствии, увеличивая его или ее полномочий."/>

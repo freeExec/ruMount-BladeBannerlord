@@ -1154,7 +1154,7 @@
     <string id="FILG5eZD" text="Покинуть {SETTLEMENT}."/>
     <string id="FirEOQaI" text="Поговорить с командиром гарнизона"/>
     <string id="FJ0uAo6p" text="{CRAFTING_END_TEXT}"/>
-    <string id="fj5mYvNE" text="признавая формальное наследование феодальных владений"/>
+    <string id="fj5mYvNE" text="признавать формальное наследование феодальных владений"/>
     <string id="FjbtOLEi" text="+10 размер отряда для всех вассалов."/>
     <string id="fjcrKwxl" text="Боевые навыки рыцаря"/>
     <string id="fjj0pJXV" text="Землевладельцы часто отстаивают законное право на взимание денег с селян за использование общественных территорий. Однако если простые люди ходатайствуют перед правителем, он может дать им право использовать все места общего пользования для охоты или выпаса скота, как жителям."/>
@@ -1695,7 +1695,7 @@
     <string id="Lbs2bNlg" text="{KINGDOM} начинает {POLICY_DESCRIPTION} ({POLICY}). {POLICY_SUPPORT}"/>
     <string id="LbTETjZu" text="Я хочу, что бы вы их сокрушили. Отправляйтесь в {VILLAGE} и убейте их всех."/> <!--Здесь был Cas. Фикс недочётов!-->
     <string id="LBxJky9p" text="Содержание"/>
-    <string id="LcppL68A" text="признавая права, которыми пользуются все свободные мужчины и женщины королевства"/>
+    <string id="LcppL68A" text="признавать права, которыми пользуются все свободные мужчины и женщины королевства"/>
     <string id="LD6ATanq" text="+2% к скорости передвижения в бою с древковым оружием"/>
     <string id="LDhU5urT" text="Так вот как это бывает, не так ли? Прямо сейчас - я заставлю одного из них истекать кровью, прежде чем упаду.[if:idle_angry][rb:very_negative]"/>
     <string id="lDJUL4lZ" text="Я думаю, что мы возможно видим мир немного иначе."/>
@@ -2034,7 +2034,7 @@
     <string id="P5zS7OmD" text="GentryEquipment Описание"/>
     <string id="p6TbhleL" text="{NAME} the Red"/>
     <string id="p78FaTqe" text="То, что я сказал про нашу зарплату вовремя..."/>
-    <string id="P7MZ0hZb" text="{QUEST_GIVER.LINK} is a Gang Leader from {QUEST_SETTLEMENT}, has told you that some bounty hunters captured some of {?QUEST_GIVER.GENDER}her{?}his{\?} gang members and are holding them in their hideout. {?QUEST_GIVER.GENDER}She{?}He{\?} wants them found and rescued. You told him you would find them yourself."/>
+    <string id="P7MZ0hZb" text="Главарь банды {QUEST_GIVER.LINK} из {QUEST_SETTLEMENT}, сказал вам, что некоторые охотники за головами захватили {?QUEST_GIVER.GENDER}ее{?}его{\?} членов банды и удерживают их в своем убежище. {?QUEST_GIVER.GENDER}Она{?}Он{\?} хочет чтобы вы нашли и спасли их. Вы сказали ему, что найдете их сами."/>
     <string id="p8Kfl5u6" text="You lost the battle against the poachers and failed to help {QUEST_GIVER.LINK} as promised."/>
     <string id="p8vl2ic5" text="Осадные машины получают на 20% больше прочности."/>
     <string id="p9F90bc0" text="New Smithing Part Unlocked: {PARTNAME}."/>
@@ -2220,7 +2220,7 @@
     <string id="qt5bkw8l" text="По вашему приказу ваши солдаты ограбили деревню и забрали все ценное, а затем сожгли всё. От их добычи вы получили свою долю."/>
     <string id="qTFKvGSg" text="Нехватка Продовольствия "/>
     <string id="qTFKXGSg" text="База"/>
-    <string id="QtmPWQ5a" text="Некоторые из моих парней пропали без вести. У меня есть свидетель, который говорит, что они бы сами мертвецки пьяный пьет с другой группой в этих краях, которые оказались грязные охотники за головами. Сейчас мои ребята все упаковали, и эти коварные животные стремятся превратить их в &quot;баунти&quot;."/>
+    <string id="QtmPWQ5a" text="Некоторые из моих парней пропали без вести. У меня есть свидетель, который говорит, что они были сами мертвецки пьяны и пили с другой группой в этих краях, которые оказались грязными охотники за головами. Сейчас моих ребята скрутили, и эти коварные животные хотят получить за них выкуп."/>
     <string id="QtSz6JNJ" text="{PRISONER.NAME} has escaped from {?PRISONER.GENDER}her{?}his{\?} captors"/>
     <string id="QUeJ4gc3" text="Крепость духа"/>
     <string id="QUn2ugIX" text="Спасибо. Вот ваша оплата."/>
@@ -2278,7 +2278,7 @@
     <string id="rhqAfYSc" text="SteppeScoutSkills"/>
     <string id="rHrIM4PI" text="Связи с сельчанами"/>
     <string id="RIiVDdi0" text="Усилие Ради Народа"/>
-    <string id="riYecgOn" text="Прошел слушок, что вы купили пару вещей у  {QUEST_GIVER.NAME}. Что ж. Наши законы гласят, что только ремесленники из нашего города могут купить довары напрямую у ремесленника"/>
+    <string id="riYecgOn" text="Прошел слушок, что вы купили пару вещей у {QUEST_GIVER.NAME}. Что ж. Наши законы гласят, что только ремесленники из нашего города могут купить товары напрямую у ремесленника."/>
     <string id="rJIY7OiR" text="Вам нужно отпправить {NEEDED_TROOP_COUNT} солдать с хотя бы tier 2 для этого задания."/>
     <string id="rjNunOyE" text="Мощный удар"/>
     <string id="rJwExPKb" text="Вам не нужны бойцы, {?PLAYER.GENDER}мадам{?}сэр{\?}? Я ищу хозяина, к которому могу присоединиться за {GOLD_AMOUNT}{GOLD_ICON}"/>
@@ -2295,7 +2295,7 @@
     <string id="RMxm1FJt" text="-25% получаемого урона щитами"/>
     <string id="rmydcPP3" text="Размер Отряда:"/>
     <string id="rMydJO93" text="Ironskull {FIRST_NAME}"/>
-    <string id="rNDRyFP4" text="You cleared the hideout and rescued the {QUEST_GIVER.LINK}'s associates. {?QUEST_GIVER.GENDER}She{?}He{\?} sends you the following letter. "/>
+    <string id="rNDRyFP4" text="Вы зачистили логово и спасли партнеров {QUEST_GIVER.LINK}. {?QUEST_GIVER.GENDER}Она{?}Он{\?} отправляет вам следующее письмо. "/>
     <string id="RNT5hMVb" text="Товары С Рынка"/>
     <string id="RnUOrIb8" text="Без Чести"/>
     <string id="rO704KOG" text="Поблизости нет никого авторитетного, кто мог бы поговорить с вами."/>
@@ -2463,7 +2463,7 @@
     <string id="tam7KZni" text="Деревни восстанавливаются быстрее, чем обычно после разграбления."/>
     <string id="TauRjAud" text="{NAME} из {FACTION}"/>
     <string id="taz5cAtw" text="You failed to train the {YOUNG_HERO.LINK} enough as {QUEST_GIVER.LINK} expected. {?QUEST_GIVER.GENDER}She{?}He{\?} is disappointed."/>
-    <string id="tb0gqxDZ" text="Мы лежали в засаде в деревне. Когда они появятся, мы весной. Если вы присоединитесь к нам, я думаю, у нас есть хорошие шансы избавиться от этой напасти, прежде чем они убивают нас по одному."/>
+    <string id="tb0gqxDZ" text="Мы будем лежать в засаде в деревне. Когда они появиятся, мы набросимся на них. Если вы присоединитесь к нам, я думаю, у нас есть хорошие шансы избавиться от этой напасти, прежде чем они убьют нас по одиночке."/>
     <string id="Tbedapqy" text="Торговый штраф за лошадей -10%."/>
     <string id="tbehDX9t" text="Snotnose {FIRST_NAME}"/>
     <string id="tbSMt926" text="Я принимаю твой вызов!"/>
@@ -3026,7 +3026,7 @@
     <string id="ywUGYbRT" text="Хитрый {NAME}"/>
     <string id="yWXtcxqb" text="Построить жилье, чтобы больше народу могло поселиться тем самым увеличив население."/>
     <string id="yXb8bphB" text="Дворяне должны поднять большой свитой."/>
-    <string id="YXbKXUDu" text="{ISSUEGIVER.LINK}, торговец из {SETTLEMENT}, {?ISSUEGIVER.GENDER}сообщила{?}сообщил{\?} о своих проблемах с бандитами. {?ISSUEGIVER.GENDER}Она попросила{?}он попросил{\?} вас посторожить {?ISSUEGIVER.GENDER}ее{?}его{\?} караван какое-то время и отбивать нападающих. {newline}Вы согласились сторожить его самому, пока он не проедет {NUMBER_OF_SETTLEMENTS} поселений."/>
+    <string id="YXbKXUDu" text="{ISSUEGIVER.LINK}, торговец из {SETTLEMENT}, {?ISSUEGIVER.GENDER}сообщила{?}сообщил{\?} о своих проблемах с бандитами. {?ISSUEGIVER.GENDER}Она попросила{?}Он попросил{\?} вас посторожить {?ISSUEGIVER.GENDER}ее{?}его{\?} караван какое-то время и отбиваться от нападающих.{newline}Вы согласились сторожить его сами, пока он не проедет {NUMBER_OF_SETTLEMENTS} поселение."/>
     <string id="YXCGUSYd" text="Мм. Возможно, выйдет необычный мачт. Но не мне решать."/>
     <string id="YYl1W2jU" text="Лесник"/>
     <string id="yYTotiqW" text="Поговорить..."/>

@@ -464,6 +464,7 @@
     <string id="D7ooUTqV" text="Вы потеряли сознание!"/>
     <string id="D8wa0m1m" text="m"/>
     <string id="D8Wjbw9K" text="Я попал в плен, но позже смог бежать"/>
+    <string id="D9WJXQ9Z" text="Reject" />
     <string id="DaE0N37L" text="Знать"/>
     <string id="dbdliaP3" text="моя жена {REFERING_HERO.LINK}"/>
     <string id="DbHLHwkX" text="Плавить"/>
@@ -820,6 +821,7 @@
     <string id="k8PxNh7x" text="Щит V"/>
     <string id="k8QpbFnj" text="Плащ"/>
     <string id="k9QvIYaR" text="Очки фокуса используются для увеличения скорости обучения навыка."/>
+    <string id="kA5tlKTz" text="Free Attribute Points: You can use these points to increase attributes. You'll gain one free attribute for every three levels you gain. " />
     <string id="ka7vAxgo" text="Атаковать противника {TARGET_FORMATION}"/>
     <string id="KawqKhwh" text="Тяжелая Броня"/>
     <string id="KC5AZohd" text="Приветствую, путник. Добро пожаловать в наш лес. Нам нужно собрать небольшую пошлину."/>

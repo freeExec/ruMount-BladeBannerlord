@@ -458,7 +458,7 @@
     <string id="8Yb3IVvb" text="{SETTLEMENT_NAME} Buildings"/>
     <string id="8ym6UvxE" text="Я думаю отправить новый караван, но боюсь, что его сразу же разграбят не принеся мне никакой прибыли. ТАк что я ищу хороших бойцов, что смогут провести его пока тот не дойдет до места назначения, посещая при этом пару поселений."/>
     <string id="8Z4vlcib" text="Ваш клан сейчас воюет с лордом {ISSUE_GIVER.LINK}. Ваше соглашение с {ISSUE_GIVER.LINK} было отменено."/>
-    <string id="90YOVmcG" text="Good day to you." />
+    <string id="90YOVmcG" text="Всего хорошего." />
     <string id="92F9HlQy" text="Уменьшает штраф за запугивание."/>
     <string id="92M0Pb5T" text="Разведчик"/>
     <string id="94wCiGjB" text="Видно, что {ENEMY_NAME} хватило войны. Ну и хорошо. Мир никому не помешает."/>

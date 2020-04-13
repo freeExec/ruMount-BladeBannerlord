@@ -45,6 +45,7 @@
     <string id="1PwQxaOu" text="Похоже, идет подготовка к турниру. Награда {ITEM}." />
     <string id="1pxLpZ4r" text="Вычисления:" />
     <string id="1sJcKkVP" text="Стражник" />
+    <string id="1wHTYnxh" text="Вы поддерживали заговор против Империи!" />
     <string id="1wkANMRC" text="Наш план состоит в том, чтобы попытаться удержать этот узкий проход." />
     <string id="1XVvU23F" text="Нет возможности использовать текст в буфере обмена в качестве ключевых свойств тела!" />
     <string id="1Zq8mzzJ" text="Хорошо. Давайте посмотрим, какая муха попалась в нашу паутину." />
@@ -253,6 +254,7 @@
     <string id="a0YMy8E5" text="{REQUIRED_ITEM} необходимо для улучшения." />
     <string id="a10WGnBr" text="Правила нарушены! Никаких боев вне турнира. Вы были дисквалифицированы!" />
     <string id="a15eUf3B" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} воюют с врагами внутри стен." />
+    <string id="A1tkQyBb" text="{KINGDOM_NAME} теперь побежден. Вы потерпели неудачу!" />
     <string id="a3hmB91k" text="Стройте и управляйте осадными машинами. Успешно используйте осадные машины при нападении или при обороне." />
     <string id="A3T5z4Mv" text="Оборонительный" />
     <string id="a3uKkLez" text="{LORD.LINK} находится около {SETTLEMENT_NAME}" />
@@ -307,7 +309,9 @@
     <string id="anHqaNK0" text="королева" />
     <string id="anrHk7ea" text="{PARTY} собирается атаковать врагов. Вы присоединитесь к {?ARMY_COMMANDER_GENDER}ней{?}нему{\?} со своими войсками." />
     <string id="aNSAaHk9" text="Bagh Chal это игра овец (white) против волков (black).{newline}Волки начинают с четыремя пешками, расположенными по углам доски. Каждый ход, одна овца помещается на доске, а волк ходит либо захватывает овцу до тех пор, пока все овцы не будет размещены на доске.{newline}После того, как все овцы будут выставлены на доску, овцы также смогут ходить." />
+    <string id="AONnsaao" text="Вы лидер Империи!" />
     <string id="aOvxxLZ8" text="Разнообразие Пищи" />
+    <string id="Aph8CcKO" text="Свободные точки атрибутов: Эти точки можно использовать для увеличения атрибутов. Вы получите один бесплатный атрибут за каждый {ATTRIBUTE_EVERY_LEVEL} уровень, который вы получите. " />
     <string id="ar2Y8Xs9" text="{LEFT}: " />
     <string id="aR4e8B2A" text="II" />
     <string id="arHXmqqc" text="мольба" />
@@ -464,7 +468,7 @@
     <string id="D7ooUTqV" text="Вы потеряли сознание!" />
     <string id="D8wa0m1m" text="m" />
     <string id="D8Wjbw9K" text="Я попал в плен, но позже смог бежать" />
-    <string id="D9WJXQ9Z" text="Reject" />
+    <string id="D9WJXQ9Z" text="Отклонять" />
     <string id="DaE0N37L" text="Знать" />
     <string id="dbdliaP3" text="моя жена {REFERING_HERO.LINK}" />
     <string id="DbHLHwkX" text="Плавить" />
@@ -480,6 +484,7 @@
     <string id="DJgeYv9X" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} перемещаются в резерв." />
     <string id="DjoYTx2w" text="Наемники не могут собирать армии" />
     <string id="dKcvwi6V" text="Ну и ну, посмотрите на это! Друг, тебе лучше начать выкашливать серебро, или мне и моим парням придется покалечить тебя." />
+    <string id="DKnL0IcO" text="Вы уничтожили Империю!" />
     <string id="DKqLY1aJ" text="Экипировать" />
     <string id="dKXdN4BL" text="Вы ведете армию" />
     <string id="dLXZaEI1" text="Покупка Продуктов Питания" />
@@ -501,6 +506,7 @@
     <string id="Duoo5R2P" text="Мастер Арены " />
     <string id="DvecWeGT" text="Зима {DAY}, {YEAR}" />
     <string id="DvGueBrU" text="Белье" />
+    <string id="Dw3CViwY" text="Вы победили Империю!" />
     <string id="dxtuFW8b" text="Ты устроил довольно неплохую схватку тут. Несколько очень хороших приемов. Несколько ошибок, да, но выглядит обещающе. И ты заработал приз в размере {PRIZE}{GOLD_ICON} за оглушение {OPPONENT_COUNT} оппонентов." />
     <string id="DyarV8i7" text="Уже есть предложенное решения для этой политики." />
     <string id="dyLYsWPf" text="Обеспечение Присутствия Бонус Перка " />
@@ -775,6 +781,7 @@
     <string id="Jd0Kq9lD" text="Щит" />
     <string id="jd4ULLGr" text="Активные Задания" />
     <string id="JdNTRtpJ" text="Поддерживайте высокий боевой дух вашего отряда. Собирайте и возглавляйте армии." />
+    <string id="jEaglTuQ" text="Вы объединили Империю!" />
     <string id="Jelvod71" text="Захват" />
     <string id="jfIbp2Hg" text="Последующий: " />
     <string id="JflqTj4T" text="Разное" />
@@ -856,6 +863,7 @@
     <string id="KTGG9EgL" text="Безопасного путешествия! Не позволяйте себе быть ограбленным кем-либо, кроме нас!" />
     <string id="Ktk2FaFn" text="Отряды ({CURRENT}\{LIMIT})" />
     <string id="KUEHAD4U" text="Задания" />
+    <string id="kUh3nsAF" text="Вы нашли третью и последнюю часть знамени!" />
     <string id="kuKad3dj" text="{MISSION_MODE}" />
     <string id="kuLjsNgz" text="Сельская Знать" />
     <string id="kvykuTJS" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}были атакованы{?}был атакован{\?}  осадным оружием." />
@@ -955,6 +963,7 @@
     <string id="MrtzlaYt" text="Во время боя, удерживая нажатой клавишу Alt, показывает метки на вражеских и союзных образований." />
     <string id="mSPDO0Fe" text="Вы оказались в ловушке врагов. Вы не в состоянии сражаться. Ваш единственный вариант-это сдаться." />
     <string id="MT4b8H9h" text="Неизвестно" />
+    <string id="mtndRgOg" text="Вы начали заговор против Империи!" />
     <string id="mTTWkewD" text="Дать" />
     <string id="MUCmJaXQ" text="Правитель {FACTION}" />
     <string id="MW8rlyfL" text="Метательное" />
@@ -1036,6 +1045,7 @@
     <string id="OhLXo0gb" text="Губернатор-преступник" />
     <string id="OIBpCGYv" text="Этот отряд будет уменьшаться в размерах. Его текущий целевой размер  {TARGET_SIZE}" />
     <string id="OiCCv0EL" text="Деревня переживает трудные времена. Сельскохозяйственные инструменты ржавые и сломанные. Кустарник и сорняки простираются до дальних полей." />
+    <string id="OikiOJgf" text="Вы нашли второй кусок Знамени!" />
     <string id="oiSW6MyB" text="Нагрудник" />
     <string id="OJbpmlXu" text="Дальний бой" />
     <string id="OJmC1Ckc" text="Осталось противников: {REMAINING_OPPONENT_COUNT}" />
@@ -1050,6 +1060,7 @@
     <string id="OPhlqUVl" text="Говорить" />
     <string id="OpSGWdrk" text="Бандит" />
     <string id="OqCodBZJ" text="Стой собака! Покажи нам на что ты способен!" />
+    <string id="oqEV14Lm" text="Вы поддерживали заговор против врагов Империи!" />
     <string id="oRaa1yls" text="Расходник" />
     <string id="OSZUvWbG" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL} {?} {\?}  готовы." />
     <string id="ot2M62R8" text="+{BONUS_AMOUNT} xp бонус гарнизонным войскам" />
@@ -1080,6 +1091,7 @@
     <string id="PE4nuMc7" text="Эта страница объясняет основные игровые принципы в Bannerlord" />
     <string id="PEKxMxal" text="STUB: теперь вы можете выйти." />
     <string id="pEm60xEX" text="Ваш противник захватывает пешку." />
+    <string id="pERXhX7A" text="Вы нашли первый кусок Знамени!" />
     <string id="pftVKkgq" text="Для отслеживания поселения на карте кампании, нажмите на круг рядом с его названием." />
     <string id="pgbC8UkU" text="Восстание" />
     <string id="pgd7Dp78" text="Жилища" />
@@ -1227,6 +1239,7 @@
     <string id="s5h0Yarn" text="Управляйте своей армией" />
     <string id="s6ofDDii" text="Барикада" />
     <string id="s9oED1IR" text="Застрельщик" />
+    <string id="SBp4Ja1u" text="Вы можете использовать очки фокусировки для увеличения лимита обучения для навыков. Персонажи зарабатывают {FOCUS_PER_LEVEL} очко(в) фокусировки каждый раз, когда повышают свой уровень." />
     <string id="sbricRaZ" text="Доход от ставок: {BET}" />
     <string id="SdcpdfaV" text="Эй - ты. Что у тебя в сумках? Что ты несешь?" />
     <string id="SdXS4lxN" text="Бонус лидера фракции" />
@@ -1364,6 +1377,7 @@
     <string id="v5bJd6mZ" text="+{BONUS_AMOUNT} бонус к изменению благосостояния" />
     <string id="V7ESaOJU" text="Выбрете свое знамя" />
     <string id="v7HPTy2y" text="С сильной армией под вашим командованием, вы можете покорить вражеский замок или город. Хорошая цель для осады." />
+    <string id="v8gFAT88" text="Вы начали заговор против врагов Империи!" />
     <string id="Vap6ahft" text="Воины! {BEHAVIOUR_NAME_BEGIN}!" />
     <string id="VbeHEAsa" text="Сдаться" />
     <string id="VbL6GFmy" text="Масло" />
@@ -1439,6 +1453,7 @@
     <string id="WSk5Sibs" text="Сыр" />
     <string id="WSoZkkqD" text="Тюремный охранник" />
     <string id="wtDdqXGW" text="Хорошо, я рад, что вы уважаете наши древние и священные традиции." />
+    <string id="wTEYR4kc" text="You've chosen to pledge your alliance to the {KINGDOM_NAME}!" />
     <string id="WTR5Lr8W" text="Защитники выиграют, тогда, когда они могут переместить своего короля на любой край доски.{newline}Нападающие выиграют, если они захватят короля, или если они заблокируют перемещения защитников." />
     <string id="wTT3Fyzl" text="сэр" />
     <string id="WusvipsF" text="Недостаточно средств!" />

@@ -109,6 +109,7 @@
     <string id="1Wa1ROJ8" text="{MINOR_FACTION_SELFDESCRIPTION}" />
     <string id="1WxrzNXx" text="Он будет в восторге. Я скажу ему, чтобы он присоединился к вам как можно скорее." />
     <string id="1Y5p40uP" text="предоставление селянам право пастись на земле, находящейся в общей" />
+    <string id="1zLZf5rw" text="Your troops dragged you out." />
     <string id="22xPl7Y0" text="Штраф бартера снижается на 15%." />
     <string id="25ifdWOy" text="Вернуться к осаде" />
     <string id="26LW5lgJ" text="{FIRST_NAME} из Гордии" />
@@ -458,6 +459,7 @@
     <string id="8Yb3IVvb" text="{SETTLEMENT_NAME} Buildings" />
     <string id="8ym6UvxE" text="Я думаю отправить новый караван, но боюсь, что его сразу же разграбят не принеся мне никакой прибыли. Так что я ищу хороших бойцов, что смогут провести его пока тот не дойдет до места назначения, посещая при этом пару поселений." />
     <string id="8Z4vlcib" text="Ваш клан сейчас воюет с лордом {ISSUE_GIVER.LINK}. Ваше соглашение с {ISSUE_GIVER.LINK} было отменено." />
+    <string id="90YOVmcG" text="Доброго вам дня." />
     <string id="90YOVmcG" text="Всего хорошего." />
     <string id="92F9HlQy" text="Уменьшает штраф за запугивание." />
     <string id="92M0Pb5T" text="Разведчик" />
@@ -1083,6 +1085,7 @@
     <string id="esgxog1B" text="Влиятельный торговец" />
     <string id="ESM0NhLy" text="{ARMY} разбежалась, так как мораль была исчерпана." />
     <string id="eSpRuda1" text="Вы решили сохранить одолженные войска которые {QUEST_GIVER.LINK} {?QUEST_GIVER.GENDER}дала{?}дал{\?} вам для тренировки. Когда {?QUEST_GIVER.GENDER}Она{?}Он{\?} слышит об этом {?QUEST_GIVER.GENDER}она{?}он{\?} отправляет вам следующее письмо.     “{?PLAYER.GENDER}Мадам{?}Сир{\?}, я ясно {?QUEST_GIVER.GENDER}дала{?}дал{\?} вам понять, что я {?QUEST_GIVER.GENDER}ожидала{?}ожидал{\?} возвращения моих людей ко мне. Я считаю, что вы злоупотребили моим доверием.”" />
+    <string id="essaRvXP" text=" King's support" />
     <string id="esSm5V6t" text="Идти в подземелье" />
     <string id="EsX026Y0" text="Предложение о смене владельца {SETTLEMENT} было отклонено, несмотря на поддержку большинства." />
     <string id="Eth2Z6qK" text="Проскользнуть в тени" />
@@ -1128,6 +1131,7 @@
     <string id="fa8sla4i" text="{SIEGE_ENGINE} {BESIEGER_PARTY} был уничтожен." />
     <string id="faa9sFfE" text="Я делаю все возможное, чтобы облегчить страдания в этом мире. Я надеюсь, что этого достаточно." />
     <string id="fAdwIqbg" text="Я думаю, вы должны попытаться заслужить одобрение моей семьи." />
+    <string id="FAIYN0vN" text="You have {NUMBER} new updates to your quests." />
     <string id="FAjplXj4" text="Мечи как Награда" />
     <string id="faUooB7V" text="{KINGDOM} не будет {POLICY_DESCRIPTION} ({POLICY}). {POLICY_SUPPORT}" />
     <string id="fAxjyMt5" text="Ночь" />
@@ -1191,6 +1195,7 @@
     <string id="Fr7wzk97" text="Я законный правитель этой земли. Я буду рад вашей поддержке." />
     <string id="fSFfgCAB" text="У вас будет +1 метательного оружия, если вы начинаете бой верхом." />
     <string id="fSGY71wd" text="Груз" />
+    <string id="FSl1LFP6" text="{CLAN} has gained {AMOUNT_TO_ADD} renown. New renown is {NEW_RENOWN}" />
     <string id="ft08QZrA" text="Право владения землей" />
     <string id="FTjKWm8s" text="{KING.NAME} должен править нами" />
     <string id="FUosyQUq" text="Вы должны отправить одного из ваших компаньонов с {TRADE_SKILL} навыком выше чем {SKILL_LEVEL_1} и {ROGUERY_SKILL} выше чем {SKILL_LEVEL_2} на эту миссию!" />
@@ -1595,6 +1600,7 @@
     <string id="k9SksaXg" text="Наемники покинули ваш отряд, потому что вы не заплатили им, как и обещали. Теперь наемники сформировали бандитский отряд и начали грабить сельскую местность." />
     <string id="kaEzJUTW" text="Вдохновляющий Лидер " />
     <string id="kakxnaN5" text="{?SUPPORT}Да{?}Нет{\?}" />
+    <string id="kaQ7DsW3" text="Character does not have upgrade target." />
     <string id="KBcNYbIC" text="Эксперт по строительству" />
     <string id="KbFJJfl6" text="Мне очень жаль, но я сделаю то, что должен." />
     <string id="kbKmlMbu" text="Королевские наемники " />
@@ -1767,6 +1773,7 @@
     <string id="LyVZYGkN" text="Баллистика" />
     <string id="lZSsdydd" text="{ROMANCE_PERSUADE_ATTEMPT_1}" />
     <string id="M0Gpl0dH" text="В поселении" />
+    <string id="m1bIfPf1" text="Character does not have enough experience for upgrade." />
     <string id="m1rzHfxI" text="{VILLAGE_ENCOUNTER_RESULT}" />
     <string id="m24bXmOD" text="Вы хотите легких денег? Мне нужны кое-какие инструменты для моего частного бизнеса. Я вас заинтересовал?" />
     <string id="M26XhddN" text="Этот вопрос был решен. Ваши люди вернутся." />
@@ -1779,7 +1786,7 @@
     <string id="M5iR1e5h" text="Вы прибыли в свои владения {SETTLEMENT_LINK}. {PROSPERITY_INFO}" />
     <string id="M6yluBb3" text="{FIRST_NAME} {?FEMALE}Вдова{?}Сирота{\?}" />
     <string id="m72wpzG2" text="Продолжайте, Я слушаю" />
-    <string id="m8LA0EpY" text="+15 to party size" />
+    <string id="m8LA0EpY" text="+15 к размеру отряда" />
     <string id="m9goGUzg" text="Легендарный воин с двуручным оружием" />
     <string id="MacG8ikN" text="Я подумаю об этом." />
     <string id="mAEaO8jM" text="{PRISONER.NAME} был освобожден" />
@@ -2093,6 +2100,7 @@
     <string id="PIukmFYA" text="You decided not to get involved in all of this and left village. You have failed to help {QUEST_GIVER.LINK} as promised." />
     <string id="pj3frf8g" text="This companion's {LEADERSHIP_SKILL} skill level is not enough for this quest." />
     <string id="pJBz7hhl" text="Собери своих людей, у нас есть другая работа!" />
+    <string id="PJMbfSPJ" text="You have {NUMBER} new prisoners to recruit." />
     <string id="PjtkgIuR" text="Меньше потери боевого духа во время осад." />
     <string id="pKquYFTX" text="Создатель стали I" />
     <string id="PLbxHyPu" text="Она варьируется. Мне кажется, что у меня прекрасные глаза для оценки выкуп. Есть с десяток мелочи о человеке, который подскажет, сможет ли он ложится спать голодным, или специи, мясо с перцем и гвоздикой с востока. Деньги, конечно, в аристократии, и если вы хотите, чтобы делать свою работу, вы хотите узнать о каждом из помещичьей семьи или племенного вождя в Кальрадии, их поместьях, их отпрысков как законного, так и сволочь, и, конечно же, их кредит с продавцами." />
@@ -2237,6 +2245,7 @@
     <string id="QuVgluRH" text="мой муж" />
     <string id="qWAmxyYz" text="Вернуться в центр города" />
     <string id="qWLq2y84" text="мертворожденный ребенок" />
+    <string id="QwpHoMJu" text="Незначительный" />
     <string id="Qx8LaNhC" text="{DEFENDER} сражается с {ATTACKER}." />
     <string id="QxEPwLyp" text="Я возьму ваших людей к себе в отряд и покажу им как устроен мир" />
     <string id="qXex0UOm" text="{NAME} Ловкач" />
@@ -2260,7 +2269,7 @@
     <string id="r9F1W4KZ" text="Да? Вы натренировали моих людей?" />
     <string id="R9R6imnU" text="Разведчики работающие на {QUEST_GIVER.NAME} отметили логово на вашей карте." />
     <string id="ra9VRabB" text="Каждый 5-й навык после 250 дает вам +1 очко влияния ежедневно." />
-    <string id="radvxImF" text="Mercenary Trader" />
+    <string id="radvxImF" text="Наемный торговец" />
     <string id="RaIGUE8F" text="Мне просто не комфортно обсуждать это с вами. (Убеждение доверием не удалось.)" />
     <string id="RB16LnUO" text="Отряды ваших армий движутся быстрее." />
     <string id="rbJEuVKg" text="У нас появились проблемы, {?HERO.GENDER}миледи{?}милорд{\?}. Торговцы говорят, что дела идут плохо и много товаров в дефиците." />
@@ -2301,6 +2310,7 @@
     <string id="rLlIVqmY" text="Итак, после битвы вы схватили пару пленных и вам нужно куда-то их деть, чтобы не мешались. Тут то я и мои коллеги будем рады заплатить вам за них." />
     <string id="RlP8aYVJ" text="Никто сейчас не ищет помощи." />
     <string id="RLPWmTT7" text="+4 К размеру отряда." />
+    <string id="rlqjkZ9Q" text="You have {NUMBER} new perks available for selection." />
     <string id="rMagXCrI" text="Вам не хватает влияния, чтобы снять обвинения." />
     <string id="RmE4mLT4" text="Плотный Захват" />
     <string id="RMpv7FIh" text="+1 влиянию, если вы правитель." />
@@ -2771,6 +2781,7 @@
     <string id="Wb9ZCZi0" text="{FIRST_NAME} Жучара" />
     <string id="wBBidWVw" text="Что тут у нас? Вы не можете войти в город с таким количеством оружия. Отдайте его мне! Вы можете забрать его, когда уйдете." />
     <string id="wbLnJrJA" text="Ну и ладно. Полагаю, я смогу найти помощь в другом месте." />
+    <string id="Wbm4XGB6" text="You have {NUMBER} new troops to upgrade." />
     <string id="wD1YDmmg" text="{PARTY_NAME} вступил в {ARMY_NAME}." />
     <string id="WDdeTHgZ" text="Мастер метательного оружия." />
     <string id="WdIGdHuL" text="Осадить город" />

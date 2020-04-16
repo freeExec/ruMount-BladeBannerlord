@@ -645,7 +645,7 @@
     <string id="GnWy8WAW" text="Лояльность:" />
     <string id="gNzXoCrq" text="Можешь идти, букашка." />
     <string id="GopVkA1q" text="Бандит" />
-    <string id="gOSpzTrt" text="Стой на месте. Это ограбление.[if:idle_furious]" />
+    <string id="gOSpzTrt" text="Стой на месте. Это ограбление.[sp:/Modules/Russian/Sounds/bandit_caught3.ogg][if:idle_furious]" />
     <string id="gPAkLi7l" text="({STR})" />
     <string id="GPESFoWD" text="Онагр" />
     <string id="GPW3ku2Y" text="{?RULER.GENDER}Принцесса{?}Принц{\?} {RULER.NAME}" />
@@ -828,9 +828,9 @@
     <string id="k9QvIYaR" text="Очки фокуса используются для увеличения скорости обучения навыка." />
     <string id="ka7vAxgo" text="Атаковать противника {TARGET_FORMATION}" />
     <string id="KawqKhwh" text="Тяжелая Броня" />
-    <string id="KC5AZohd" text="Приветствую, путник. Добро пожаловать в наш лес. Нам нужно собрать небольшую пошлину." />
+    <string id="KC5AZohd" text="Приветствую, путник. Добро пожаловать в наш лес. Нам нужно собрать небольшую пошлину. [sp:/Modules/Russian/Sounds/bandit_caught_l0.ogg]" />
     <string id="KcQiDE6b" text="Можно продать в {SETTLEMENT_NAME} за: {SELL_PRICE}" />
-    <string id="kdV0tx9K" text="Приветствую, путник. Надеюсь ты принёс кошель. Видишь ли, нас называют здесь головорезами, и боюсь мы не можем пропустить тебя без небольшого количества монеток.[if:convo_delighted]" />
+    <string id="kdV0tx9K" text="Приветствую, путник. Надеюсь ты принёс кошель. Видишь ли, нас называют здесь головорезами, и боюсь мы не можем пропустить тебя без небольшого количества монеток.[sp:/Modules/Russian/Sounds/bandit_caught_g1_test.ogg][if:convo_delighted]" />
     <string id="kDV7wCtI" text="Будет выполнено через: {PREPARATION_TIME}" />
     <string id="KFGfTXqE" text="Вьючная Лошадь" />
     <string id="kftE5nvv" text="Бронированная Лошадь" />
@@ -982,7 +982,7 @@
     <string id="N6QTvjMf" text="Пленные " />
     <string id="N7w6zi0F" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} pulling back." />
     <string id="N84HlDaV" text="{NUMBER_OF} {ITEM} ({AMOUNT}{GOLD_ICON})" />
-    <string id="NaNMRPv4" text="Aserai" />
+    <string id="NaNMRPv4" text="Асераи" />
     <string id="NaorUInI" text="Understrength Сторон" />
     <string id="nbBgbwM2" text="In Queue: {NUMBER}" />
     <string id="NBv29XpJ" text="Вы не можете распустить армию, а ты в эту армию." />
@@ -1021,7 +1021,6 @@
     <string id="o1MtbgEi" text="Нерешенная проблема" />
     <string id="o2ce7bhY" text="Это мудро с вашей стороны." />
     <string id="O3dhjtOS" text="Шлем" />
-    <string id="o5ho2Txg" text="Сплоченности Армии" />
     <string id="O69Vhqxk" text="Так сколько ты собираешься дать нам?" />
     <string id="O6IcvFoO" text="&lt;b&gt;Fire Onager&lt;/b&gt;{NEWLINE}TODO FIRE ONAGER DESC." />
     <string id="o7I8qayN" text="Ха! Нет ничего лучше, чем хорошенько ударить по кишкам, чтобы дать тебе понять, что ты жив, да? Похоже вам удалось победить {OPPONENT_COUNT} противников. Неплохо. Но это не принесет вам никаких призовых денег. А сейчас, я бы на твоем месте вернулся туда и показал всем на что способен..." />

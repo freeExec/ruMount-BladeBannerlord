@@ -4,6 +4,7 @@
     <tag language="Русский" />
   </tags>
   <strings>
+    <string id="0m0IUnL1" text="фон Увэйн" />
     <string id="0m0IUnL1" text="fen Uvain" />
     <string id="0u8ipbgn" text="Племена, известные как Лесные Люди, занимаются земледелием в глухих лесах, вне досягаемости Стругийской знати. Они выжигают участки лесов, выращивая урожай на почве, удобренной золой, в течение нескольких лет, пока земля не истощится, и двигаются дальше. Это неэффективное использование земли, но очень эффективное использование труда, подходящее для небольшого племени, населяющего огромную территорию. Кроме того, поскольку эти участки трудно измерить и обложить налогом, это очень удобно для людей, которые не хотят, чтобы ими кто то правил." />
     <string id="1sbJQR4H" text="Looters" />
@@ -50,7 +51,7 @@
     <string id="fvYgmrjG" text="Banu Sarran" />
     <string id="fXENjJJL" text="Osticos" />
     <string id="GCy0xb6U" text="Company" />
-    <string id="GgMVWlkr" text="Test Clan" />
+    <string id="GgMVWlkr" text="Догерстерс" />
     <string id="gXeF1yKn" text="Harfit" />
     <string id="H5iWxbbl" text="Ghilman" />
     <string id="h7ujXmDx" text="Mestricaros" />

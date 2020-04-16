@@ -15,7 +15,7 @@
     <string id="0WrKbmfz" text="SMAA x2" />
     <string id="0x44y8fb" text="Группа 2 Слушай DESC" />
     <string id="0YV6wbsq" text="Пауза на глобальной карте." />
-    <string id="16EUzfcH" text="Adjust the exposure level according to your preference using the slider." />
+    <string id="16EUzfcH" text="Отрегулируйте уровень экспозиции в соответствии с вашими предпочтениями с помощью ползунка." />
     <string id="1awQTVqN" text="Количество Ragdoll-моделей" />
     <string id="1dQFNvhQ" text="Numpad +" />
     <string id="1ebaa1Wf" text="Режим Ходьбы/Бега" />
@@ -72,13 +72,13 @@
     <string id="6auWfPnA" text="Выбратьприказ6 DESC" />
     <string id="6CeL6iOp" text="Выбрать группу 1" />
     <string id="6g0y182U" text="Детализация окружения" />
-    <string id="6HJxnF3G" text="Save Failed!" />
+    <string id="6HJxnF3G" text="Не удалось сохранить игру!" />
     <string id="6QiPm27r" text="Переместить отряд вверх на глобальной карте." />
     <string id="6sIFj7K9" text="Ускорить время" />
     <string id="6Uh76bYG" text="Остановить время на карте" />
     <string id="6uNvJbdx" text="Выбрать группу 4" />
     <string id="7MU008BT" text="F11" />
-    <string id="7pBx0s07" text="Enable Controller Vibration" />
+    <string id="7pBx0s07" text="Включить вибрацию контроллера" />
     <string id="7phVPcDc" text="Устанавливает качество шейдеров. Более высокое значение означает лучшие графические эффекты." />
     <string id="7QKjVON8" text="Прыжок" />
     <string id="7RV38Hoy" text="Группа 7 слушай DESC" />
@@ -120,13 +120,13 @@
     <string id="aFPK4kIi" text="Переместить карту влево DESC" />
     <string id="AhrWBKx9" text="Экипировать предмет 1" />
     <string id="AiYklNiQ" text="Переместить интерфейс вправо" />
-    <string id="AJFpx99v" text="Exposure Adjustment" />
+    <string id="AJFpx99v" text="Регулировка экспозиции" />
     <string id="aJxmDbur" text="Удерживайте, чтобы покинуть площадь. " />
     <string id="aKghgqEl" text="Выбратьприказ1 DESC" />
     <string id="aky3YmaT" text="Карту ждать DESC" />
     <string id="amdYLZ6o" text="Окно заданий " />
     <string id="aNs2hcVi" text="Переместить интерфейс вниз" />
-    <string id="aombIn07" text="Set the exposure amount." />
+    <string id="aombIn07" text="Установите величину экспозиции." />
     <string id="ap1wEfdW" text="V" />
     <string id="aqcFXbir" text="Правый стик вверх" />
     <string id="ar2Y8Xs9" text="{LEFT}: " />
@@ -149,7 +149,7 @@
     <string id="bgwA4Pd8" text="2" />
     <string id="BJJl0qam" text="Быстрее" />
     <string id="bJRFVONJ" text="Кнопка X " />
-    <string id="Bl8cKwhL" text="Display Calibration" />
+    <string id="Bl8cKwhL" text="Калибровка дисплея" />
     <string id="bmpagYCb" text="Экипировать щит или переключится на следующий." />
     <string id="BmSzvXlZ" text="Вперед" />
     <string id="bNWx8Zqb" text="Окно Знамени DESC" />
@@ -161,7 +161,7 @@
     <string id="bW2urPqE" text="Выбратьприказ6" />
     <string id="bWV5BOyc" text="Крестовина вниз" />
     <string id="bYwwY9qh" text="Numpad 5" />
-    <string id="c49AY7yF" text="Low (128)" />
+    <string id="c49AY7yF" text="Низкий (128)" />
     <string id="C7zwur4k" text="Escape" />
     <string id="cAkgnVr5" text="Num Lock" />
     <string id="CbwmI1JY" text="Включает глубину резкости." />
@@ -180,7 +180,7 @@
     <string id="cWRA5VVr" text="Левый Alt" />
     <string id="czYbd1vo" text="H" />
     <string id="D008gyKC" text="Выберите приказ 1" />
-    <string id="d5a3QdBR" text="Cannot access save folder." />
+    <string id="d5a3QdBR" text="Не удается получить доступ, к папке сохранений." />
     <string id="d6DkPU2b" text="Все" />
     <string id="d75b5uSL" text="Билинейная" />
     <string id="dB6cFDmz" text="/" />
@@ -283,7 +283,7 @@
     <string id="iPx4jep6" text="Exposure" />
     <string id="Irhxad7u" text="Качество воды" />
     <string id="iTau5cxh" text="Средняя" />
-    <string id="iUFgqwkA" text="Medium (256)" />
+    <string id="iUFgqwkA" text="Средний (256)" />
     <string id="iwO3g6Rz" text="Выберите насколько сложным будет боевой ИИ." />
     <string id="IYLn67Xm" text="Х" />
     <string id="Iz2vu6xM" text="Колесико вниз" />
@@ -330,7 +330,7 @@
     <string id="koX9okuG" text="Нет" />
     <string id="KtYtBnvP" text="Устанавливает ограничение частоты кадров." />
     <string id="KUEHAD4U" text="Задания" />
-    <string id="KUGomrhD" text="Don't Show Again" />
+    <string id="KUGomrhD" text="Больше не показывать" />
     <string id="KwNTg7BT" text="Режим экрана" />
     <string id="lC5xsoSh" text="Неограничено" />
     <string id="lCucoVwJ" text="Использование памяти GPU " />
@@ -353,7 +353,7 @@
     <string id="Mf5qVgAv" text="Экипировать предмет 3" />
     <string id="MFbBFDqx" text="Map Fast Move" />
     <string id="MfsNAPh6" text="Включает подповерхностное рассеивание." />
-    <string id="MfunBOxF" text="Calibrate contrast levels." />
+    <string id="MfunBOxF" text="Откалибруйте уровни контрастности." />
     <string id="mG4rCrfE" text="0" />
     <string id="MkKL3Y4P" text="Numpad 7" />
     <string id="mLtHlKzD" text="Правый Alt" />
@@ -449,7 +449,7 @@
     <string id="ro0NhUnJ" text="Задает поле зрения от первого лица." />
     <string id="roJLc9oH" text="Половинная" />
     <string id="rP058aIm" text="Экипировать предмет в первый слот." />
-    <string id="rs0wImmD" text="Cannot create save data." />
+    <string id="rs0wImmD" text="Не удается сохранить данные." />
     <string id="RSmsn6mb" text="Возобновить/Остановить время" />
     <string id="rwE0VVQX" text="Режим следования камеры на карте DESC" />
     <string id="RX76Kfa8" text="Переключение камеры" />
@@ -496,7 +496,7 @@
     <string id="TvGJqPGp" text="Включить отчеты о смертях и нокаутах." />
     <string id="TVXacQUJ" text="Общий чат" />
     <string id="tw5Wxv3b" text="Numpad ." />
-    <string id="TybJcG0A" text="Very Low (64) " />
+    <string id="TybJcG0A" text="Очень низкий (64) " />
     <string id="u2dQaVY2" text="Экипировать предмет в третий слот." />
     <string id="u5aqR1ys" text="Временное SMAA" />
     <string id="U5xKAHGi" text="Блум" />
@@ -515,7 +515,7 @@
     <string id="UoxjMhfJ" text="Выбратьприказ1" />
     <string id="UqB9zKfE" text="Экипировать первичное оружие" />
     <string id="uQfDuGem" text="Отдаление камеры" />
-    <string id="urbLiiQJ" text="Configure Exposure" />
+    <string id="urbLiiQJ" text="Настройка экспозиции" />
     <string id="urSa4wQG" text="Показывать знамена у дружественных войск" />
     <string id="uRXlSUVh" text="N" />
     <string id="uSGPBRFS" text="Приближение" />
@@ -616,6 +616,6 @@
     <string id="ZvtKqPt3" text="Двойное нажатие влево : Резко влево" />
     <string id="zwL5NFAr" text="Insert" />
     <string id="zxMOqlhs" text="Атака" />
-    <string id="zzonsjpL" text="High (512)" />
+    <string id="zzonsjpL" text="Высокий (512)" />
   </strings>
 </base>

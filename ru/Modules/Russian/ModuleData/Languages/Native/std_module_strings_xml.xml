@@ -742,7 +742,6 @@
     <string id="InGwtrWt" text="Выйти" />
     <string id="inKr3PbA" text="Армии" />
     <string id="iNriAkLl" text="Используется для увеличения скорости" />
-    <string id="ioBKEA6x" text="Вы можете заработать очки персонажа, повышая его уровень. Вы получите {POINT_PER_LEVEL} очков за каждый полученный уровень." />
     <string id="ioKVFDcQ" text="{?AND} {?}и {\?}{SENTENCE_3} " />
     <string id="iOLa5rjZ" text="Обычно, зерно - самая дешевая еда, которую можно купить.{newline}{newline}Другие виды пищи могут гарантировать бонусы при ее потреблении.{newline}{newline}Теперь купите немного еды." />
     <string id="IoLK7Lec" text="Базовый Размер" />
@@ -827,7 +826,6 @@
     <string id="k8PxNh7x" text="Щит V" />
     <string id="k8QpbFnj" text="Плащ" />
     <string id="k9QvIYaR" text="Очки фокуса используются для увеличения скорости обучения навыка." />
-    <string id="kA5tlKTz" text="Free Attribute Points: You can use these points to increase attributes. You'll gain one free attribute for every three levels you gain. " />
     <string id="ka7vAxgo" text="Атаковать противника {TARGET_FORMATION}" />
     <string id="KawqKhwh" text="Тяжелая Броня" />
     <string id="KC5AZohd" text="Приветствую, путник. Добро пожаловать в наш лес. Нам нужно собрать небольшую пошлину." />

@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
-    <tag language="Русский"/>
+    <tag language="Русский" />
   </tags>
   <strings>
     <string id="66Mzk0NZ" text="Глушь" />
@@ -209,105 +209,105 @@
     <string id="Settlements.Settlement.name.castle_village_V7_2" text="Rodetan" />
     <string id="Settlements.Settlement.name.castle_village_V8_1" text="Verecsand" />
     <string id="Settlements.Settlement.name.castle_village_V8_2" text="Marin" />
-    <string id="Settlements.Settlement.name.hideout_desert_1" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_desert_10" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_desert_11" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_desert_12" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_desert_13" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_desert_14" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_desert_15" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_desert_16" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_desert_17" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_desert_18" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_desert_19" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_desert_2" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_desert_20" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_desert_3" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_desert_4" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_desert_5" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_desert_6" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_desert_7" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_desert_8" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_desert_9" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_forest_1" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_forest_10" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_forest_11" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_forest_12" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_forest_13" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_forest_14" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_forest_15" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_forest_16" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_forest_17" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_forest_18" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_forest_19" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_forest_2" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_forest_3" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_forest_4" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_forest_5" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_forest_6" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_forest_7" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_forest_8" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_forest_9" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_mountain_1" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_mountain_10" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_mountain_11" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_mountain_12" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_mountain_13" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_mountain_14" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_mountain_15" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_mountain_16" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_mountain_17" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_mountain_18" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_mountain_19" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_mountain_2" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_mountain_20" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_mountain_3" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_mountain_4" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_mountain_5" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_mountain_6" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_mountain_7" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_mountain_8" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_mountain_9" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_seaside_1" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_seaside_10" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_seaside_11" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_seaside_12" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_seaside_13" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_seaside_14" text="Побережное убежище"/>
-    <string id="Settlements.Settlement.name.hideout_seaside_15" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_seaside_16" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_seaside_17" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_seaside_18" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_seaside_19" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_seaside_2" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_seaside_20" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_seaside_3" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_seaside_4" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_seaside_5" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_seaside_6" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_seaside_7" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_seaside_8" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_seaside_9" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_steppe_1" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_steppe_10" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_steppe_11" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_steppe_12" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_steppe_13" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_steppe_14" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_steppe_15" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_steppe_16" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_steppe_17" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_steppe_18" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_steppe_19" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_steppe_2" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_steppe_20" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_steppe_3" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_steppe_4" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_steppe_5" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_steppe_6" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_steppe_7" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_steppe_8" text="Убежище"/>
-    <string id="Settlements.Settlement.name.hideout_steppe_9" text="Убежище"/>
+    <string id="Settlements.Settlement.name.hideout_desert_1" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_desert_10" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_desert_11" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_desert_12" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_desert_13" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_desert_14" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_desert_15" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_desert_16" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_desert_17" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_desert_18" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_desert_19" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_desert_2" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_desert_20" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_desert_3" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_desert_4" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_desert_5" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_desert_6" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_desert_7" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_desert_8" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_desert_9" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_forest_1" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_forest_10" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_forest_11" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_forest_12" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_forest_13" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_forest_14" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_forest_15" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_forest_16" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_forest_17" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_forest_18" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_forest_19" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_forest_2" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_forest_3" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_forest_4" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_forest_5" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_forest_6" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_forest_7" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_forest_8" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_forest_9" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_mountain_1" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_mountain_10" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_mountain_11" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_mountain_12" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_mountain_13" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_mountain_14" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_mountain_15" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_mountain_16" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_mountain_17" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_mountain_18" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_mountain_19" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_mountain_2" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_mountain_20" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_mountain_3" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_mountain_4" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_mountain_5" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_mountain_6" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_mountain_7" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_mountain_8" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_mountain_9" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_seaside_1" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_seaside_10" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_seaside_11" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_seaside_12" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_seaside_13" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_seaside_14" text="Побережное убежище" />
+    <string id="Settlements.Settlement.name.hideout_seaside_15" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_seaside_16" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_seaside_17" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_seaside_18" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_seaside_19" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_seaside_2" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_seaside_20" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_seaside_3" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_seaside_4" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_seaside_5" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_seaside_6" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_seaside_7" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_seaside_8" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_seaside_9" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_steppe_1" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_steppe_10" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_steppe_11" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_steppe_12" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_steppe_13" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_steppe_14" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_steppe_15" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_steppe_16" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_steppe_17" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_steppe_18" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_steppe_19" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_steppe_2" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_steppe_20" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_steppe_3" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_steppe_4" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_steppe_5" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_steppe_6" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_steppe_7" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_steppe_8" text="Убежище" />
+    <string id="Settlements.Settlement.name.hideout_steppe_9" text="Убежище" />
     <string id="Settlements.Settlement.name.town_A1" text="Quyaz" />
     <string id="Settlements.Settlement.name.town_A2" text="Husn Fulq" />
     <string id="Settlements.Settlement.name.town_A3" text="Iyakis" />
@@ -514,7 +514,7 @@
     <string id="Settlements.Settlement.text.castle_village_A7_1" text="Укба находится в устье Опаленных ворот - перевала, где река Дамар пробивает известняковые хребты между пустыней Нахаса и озером Бахр-эль-Ишм. Эта земля известна своими прекрасными финиковыми пальмами." />
     <string id="Settlements.Settlement.text.castle_village_A7_2" text="Бунказ - деревня на правом берегу реки Дамар, которая омывает засушливый юг. Река расширяется и замедляется вблизи озера, и может быть использована для полива мелкозернистых культур пшеницы." />
     <string id="Settlements.Settlement.text.castle_village_A8_1" text="Тамнух находится в небольшой впадине, где узкая равнина у озера Бахр-эль-Ишм поднимается навстречу хребтам Джеджара.Глину можно добывать из местного русла реки." />
-    <string id="Settlements.Settlement.text.castle_village_A9_1" text="Оазис Берихаля находиться в впадине на плато к востоку от Бахр-эль-Йешма. Сельскохозяйственные угодья богаты, но ограничены, и эта земля больше всего известна лошадьми, которые пасутся на недолговечных, но богатых весной травах пустыни.. " /> 
+    <string id="Settlements.Settlement.text.castle_village_A9_1" text="Оазис Берихаля находиться в впадине на плато к востоку от Бахр-эль-Йешма. Сельскохозяйственные угодья богаты, но ограничены, и эта земля больше всего известна лошадьми, которые пасутся на недолговечных, но богатых весной травах пустыни.. " />
     <string id="Settlements.Settlement.text.castle_village_B1_1" text="Аб Комер находиться лесистой местности на Баттанинской стороне Гаронторского перевала. Здесь племена меньше склонны к войне и больше торгуют со своими имперскими соседями, а также выращивают виноград на экспорт." />
     <string id="Settlements.Settlement.text.castle_village_B2_1" text="Лланок Хен находиться в Гальфине, долина, которая является самой южной границей Баттанского королевства. Жители этих краев научились выращивать тутовник, поскольку шелк очень ценится соседями из Вландии и Империи, с которыми они торгуют, когда не воюют." />
     <string id="Settlements.Settlement.text.castle_village_B2_2" text="Кантрэк - один из самых южных районов Калрадии, где до сих пор говорят на старом баттанском языке. Деревня находится в лесистой пограничной зоне, которую баттанцы называют Галфин. Жители занимаются выращиванием оливок на склонах холмов." />
@@ -548,56 +548,56 @@
     <string id="Settlements.Settlement.text.castle_village_ES8_1" text="Ханопсис находится возле маленького, но глубокого озера Офтиса в центральном нагорье империи. В долине хорошо растут тутовые деревья, на них выращивают шелкопрядных червей." />
     <string id="Settlements.Settlement.text.castle_village_EW1_1" text="Гаронтор лежит в северной части долины Зеос. Здесь, на границе с Баттанией, дома располагаются на склонах скал, чтобы вовремя замечать налетчиков, проходящих через долину.  Поля засеяли недалеко от деревни, где за ними можно наблюдать и охранять, в то время как лесники выезжают дальше, для заготовки леса в этом районе" />
     <string id="Settlements.Settlement.text.castle_village_EW2_1" text="Ториос находится в долине Зеос, на пологих холмах, которые обеспечивают одни из самых ценных сортов винограда империи." />
-    <string id="Settlements.Settlement.text.castle_village_EW2_2" text="Bergon сидит в сторону берега прибрежной Epiric холмов, между морем и долиной Зиос. Земли, леса, сравнительно недавно поселились, теперь дают прекрасный урожай зерна."/>
-    <string id="Settlements.Settlement.text.castle_village_EW3_1" text="Оникэ сидит возле перекрестка над нижней Aminys, просто, прежде чем попасть в залив Чарас. В теплую погоду здесь хорошо подходят для выращивания оливковых деревьев."/>
-    <string id="Settlements.Settlement.text.castle_village_EW4_1" text="Thractorae сидит на катаракту, которая пересекает озерами Гаве, реки, озера Perasos выход к морю. Даты пальмы хорошо растут в этих южных границ империи."/>
-    <string id="Settlements.Settlement.text.castle_village_EW5_1" text="Верон лежит в небольшой долине, идущая от плато Porea к реке Aminys. Жители разводят овец на близлежащие горы."/>
-    <string id="Settlements.Settlement.text.castle_village_EW5_2" text="Goleryn сидит на крутом спуске от плато Porea в долину Amynis, затмили горе Танона на юго-восток. Жители разводят овец на крутых склонах."/>
-    <string id="Settlements.Settlement.text.castle_village_EW6_1" text="Hertogea лежит в дубовых лесах в предгорьях массива Carassic. Жители регулярно поднимаясь на более высокие склоны к богатым вен шахты в горах руды."/>
-    <string id="Settlements.Settlement.text.castle_village_EW7_1" text="Ористокорис находится на плоской части рифа у основания Карассинского массива. Землевладельцы Империи импортировали тутовые деревья, позволяя выращивать тутовый шелкопряд."/>
-    <string id="Settlements.Settlement.text.castle_village_EW8_1" text="Герсегос находится в долине на холмах Карсии, на границе с Баттаном. Этот лесистый, малонаселенный район является одним из основных источников древесины империиCarsian."/>
-    <string id="Settlements.Settlement.text.castle_village_K1_1" text="Деревня Усек находится на вершине перевала через холмы Аккан. Многие её обитатели живут за счет глины, которую можно собрать с близлежащих русел ручьев."/>
-    <string id="Settlements.Settlement.text.castle_village_K1_2" text="Деревня Эсме и прилегающие к ней селения находятся в центре плоскогорья Девсег, основном пастбище для скоплений Хузаитов и их союзников."/>
-    <string id="Settlements.Settlement.text.castle_village_K2_1" text="Акисер расположен на скалистых холмах у истоков реки Витис. Пласты железной руды можно найти в известняковых ущельях, прорезанных горными потоками."/>
-    <string id="Settlements.Settlement.text.castle_village_K3_1" text="Деревня Хаккун расположена к востоку от плоскогорья Девсег, в неровной местности, изрезанной оврагами. Хоть здесь и выпадает мало осадков, с холмов все еще достаточно стока для выращивания пшеницы и других культур."/>
-    <string id="Settlements.Settlement.text.castle_village_K4_1" text="Поселение Цепеш находится на холмах к юго востоку от озера Танэлис, где в защищенных долинах растут прекрасные дубы, высоко ценимые архитекторами и корабельниками Калрадии."/>
-    <string id="Settlements.Settlement.text.castle_village_K5_1" text="Химли и селения в их окрестности, лежат в укромном уголке холмов на краю плоскогорья Девсег. Они известны своей прекрасной глиной, которую можно собирать с их русел рек."/>
-    <string id="Settlements.Settlement.text.castle_village_K6_1" text="Динар расположен в засушливом высокогорье к востоку от озера Персон. Среди колючих кустарников этой земли есть несколько кустов, которые дают смолу и сушеные ягоды, которые очень ценятся в императорских кухнях."/>
-    <string id="Settlements.Settlement.text.castle_village_K6_2" text="Карахалли лежит в скалистых предгорьях, которые поднимаются из степей к востоку от Персона к плоскогорью Девсег. Несмотря на сухость большую часть года, известняковые почвы этой земли дают прекрасный выпас для лошадей после весенних дождей."/>
-    <string id="Settlements.Settlement.text.castle_village_K7_1" text="Симира расположена на восточной стороне горы Илтан, вулканического массива, который отделяет границы между Стургийскими и Хузаитскими землями. Высокогорные пастбища хороши для выпаса скота, хотя зимы здесь суровые."/>
-    <string id="Settlements.Settlement.text.castle_village_K8_1" text="Эрзенур и его отдаленные поселения лежат под скалистым хребтом на западном краю плоскогорья Девсег, на одном из самых ценных пастбищ степных народов."/>
-    <string id="Settlements.Settlement.text.castle_village_K9_1" text="Кайсар - это центр сельского округа на южных склонах холмов Аккан, где весенние дожди приносят пышную траву, способную поддерживать прекрасные стада крупного рогатого скота и овец."/>
-    <string id="Settlements.Settlement.text.castle_village_K9_2" text="Пайам расположен на прибрежной равнине к востоку от озера Танэлис. Несмотря на относительную сухость, земли здесь получают достаточно дождей, чтобы дать хороший урожай пшеницы."/>
-    <string id="Settlements.Settlement.text.castle_village_S1_1" text="Устокол расположен там, где река Сиворн впадает в залив Верчег. Здесь, в прохладных и туманных низинах, сельские жители выращивают лен."/>
-    <string id="Settlements.Settlement.text.castle_village_S2_1" text="Мажадан расположен в изгибе Ледогоры, острого хребта, отделяющего Баликский залив от Долины Сиворн. В этих дождливых высокогорьях поселенцы научились выращивать лен."/>
-    <string id="Settlements.Settlement.text.castle_village_S3_1" text="Невьянск находится в лесном массиве, недавно заселенном потоком искателей из стран Стургии, который продвигался в верховья Сиворна. Они добыли одни из самых богатых деревьев в этом регионе, что вызвало напряженность в отношениях с соседними Баттанианскими селениями."/>
-    <string id="Settlements.Settlement.text.castle_village_S3_2" text="Днин был недавно заселен Стургитами, переселяющимися в традиционные Баттанианские земли. Они частично скрыты в долине для защиты,как и многие деревни на границе. Здешние жители-лесники продают древесину, чтобы заработать себе на жизнь."/>
-    <string id="Settlements.Settlement.text.castle_village_S4_1" text="Кранирог лежит на невысоких холмах к востоку от озера Лакония, где участки степи прерываются участками леса. Стургийские поселенцы посеяли пшеницу на черноземных лугах, которые веками были пастбищами бродячих кочевников."/>
-    <string id="Settlements.Settlement.text.castle_village_S4_2" text="Исмилкорг находится в лесостепном поясе восточной части Стургии. Деревни здесь занимаются скотоводством, всегда следя за кочевниками с дальнего востока."/>
-    <string id="Settlements.Settlement.text.castle_village_S5_1" text="Ов лежит в устье Скорнива, небольшой реки, вытекающей из северных лесов в Баликский залив. Местные устанавливают сети для ловли лосося, мигрирующего вверх и вниз по реке."/>
-    <string id="Settlements.Settlement.text.castle_village_S5_2" text="Ферт лежит в устье Скорнива, небольшой реки, протекающей из северных лесов в Баликский залив. Жители села установили сетки для улавливания лосося, мигрирующих вверх и вниз по реке."/>
-    <string id="Settlements.Settlement.text.castle_village_S6_1" text="Такор - это деревня скотоводов на перевале, которую Баттанианцы называют Майнад Райфел, гора войны, а их Имперские и Стургийские соседи - Минадор. Это один из главных торговых и рейдерских маршрутов между диким Севером и более заселёнными Имперскими землями."/>
-    <string id="Settlements.Settlement.text.castle_village_S7_1" text="Уриксала находится на скалистом восточном берегу озера Лаконис. Богато порыбачить можно возле устьев ручьев, которые стекают с холмов в озеро."/>
-    <string id="Settlements.Settlement.text.castle_village_S8_1" text="Владив расположен у подножия унылых Черныгских болот, разделяющих границу между Стургийскими и Имперскими землями. Деревенские жители пасут скот на болотах, а иногда могут выйти в туман, чтобы напасть на мперские стада на дальнем берегу."/>
-    <string id="Settlements.Settlement.text.castle_village_V1_1" text="Усанц расположен возле заболоченного устья реки Аминис. На этой теплой южной земле можно выращивать оливковые деревья."/>
-    <string id="Settlements.Settlement.text.castle_village_V2_1" text="Хонгард находится рядом с одним из нескольких небольших ручьев, спускающихся с Эпирических холмов в Чарасский залив. Регион, хорошо поливаемый океанскими дождями, дает хороший урожай пшеницы и ячменя."/>
-    <string id="Settlements.Settlement.text.castle_village_V2_2" text="Фертон расположен на гористом участке береговой линии к северу от залива Чарас. Известняковые почвы, обильные зимние дожди и жаркое лето способствуют хорошему выращиванию оливковых рощ, которые формируют экономическую основу этого региона."/>
-    <string id="Settlements.Settlement.text.castle_village_V3_1" text="Драпанд находится у мыса Фал, самого дальнего западного пункта на Кальрадийском континенте. Несмотря на то, что бурные воды у мыса затрудняют рыбалку, разнообразная погода, включая теплые сухие ветры с юга, делают возможным выращивание оливок."/>
-    <string id="Settlements.Settlement.text.castle_village_V4_1" text="Орманфард расположен в светлой сосновой роще на перекрестке через реку Сиворн. Туманные низовья этой реки являются основной почвой для выращивания льна."/>
-    <string id="Settlements.Settlement.text.castle_village_V5_1" text="Тирби лежит на восточных склонах горы Эбор. Быстро меняющаяся погода, перекрестные ветры с западного океана и Северного Баликского залива, позволяет выращивать виноград и другие южные культуры."/>
-    <string id="Settlements.Settlement.text.castle_village_V5_2" text="Сириндак лежит на берегу залива Варчег. В этом конце залива мало хороших рыбацких угодий, зато сельские жители сажают лен на узкой прибрежной равнине."/>
-    <string id="Settlements.Settlement.text.castle_village_V6_1" text="Калеус расположен возле истока реки Госин. Нежные лесистые холмы этого недавно заселенного региона богаты елью и дубом."/>
-    <string id="Settlements.Settlement.text.castle_village_V6_2" text="Дериат расположен на невысоком холме между рекой Госин и бухтой Остикан. Мягкий морской климат способствует выращиванию винограда."/>
-    <string id="Settlements.Settlement.text.castle_village_V7_1" text="Талывель расположен на невысоких холмах с видом на долину Трэнд. Широкие полосы окрестных лесов были расчищены для выращивания пшеницы."/>
-    <string id="Settlements.Settlement.text.castle_village_V8_1" text="Верександ расположен в густых лесах, отдалённых от прибрежной Эмпирикской гряды холмов, в пограничной стране, спорной с Баттанами. Глина собирается из местных русел ручьев."/>
-    <string id="Settlements.Settlement.text.village_A1_1" text="Ташеба находится у залива Чарас, на прибрежных землях, которые Асерайцы называют Ретана. Рыбаки выходят в залив, нежный и спокойный большую часть года, за тунцом и сардинами."/>
-    <string id="Settlements.Settlement.text.village_A1_2" text="Бак находится в глубине залива Чарас. Преобладающие восточные ветры из пустыни означают, что земля быстро высыхает, но это не мешает выращивать ароматические ягоды, измельченные для специй."/>
-    <string id="Settlements.Settlement.text.village_A1_3" text="Фанаб расположен в заливе Чарас, в прибрежной полосе, которую Стургиты называют Ретана. Преобладающие восточные ветры из пустыни сохраняют землю относительно сухой и теплой, что позволяет выращивать финиковые пальмы."/>
-    <string id="Settlements.Settlement.text.village_A1_4" text="Хиблет расположен в глубине залива Чарас, в прибрежной полосе, которую Стургиты называют Ретана. Несмотря на близость к морю, преобладающие восточные ветры из пустыни сохраняют землю относительно сухой и теплой, что позволяет выращивать финиковые пальмы."/>
-    <string id="Settlements.Settlement.text.village_A2_1" text="Ламеса и соседнее поселение Хокка расположены в глубине холмов Джебал Тамар, в одном из последних очагов земледелия оазиса перед бесплодными пустошами Нахасы. Жители разводят лошадей, пасут их в траве, которая быстро растет после весенних дождей, а в остальное время года дополняется мешаниной из зерна и фиников."/>
-    <string id="Settlements.Settlement.text.village_A2_2" text="Абу Ких лежит в западной части Джебал Тамар, где сухие ветры Нахаса встречают теплые морские бризы с запада. Жители деревни наполняют дождевую воду на холмах с помощью плотин и орошают оазисные сады финиковых пальм.."/>
-    <string id="Settlements.Settlement.text.village_A2_3" text="Хокка и соседнее поселение Ламеса лежат в глубине холмов Джебал Тамар, в одном из последних очагов земледелия оазиса перед бесплодными пустошами Нахасы. Жители разводят лошадей, пасут их в траве, которая быстро растет после весенних дождей, а в остальное время года дополняется мешаниной из зерна и фиников."/>
-    <string id="Settlements.Settlement.text.village_A3_1" text="Абба расположена в укромном уголке склона Джехара, который ловит Сток редких, но часто сильных ливней пустыни. Люди питаются маленькими садами среди скал, а также деревьями, несущими ароматные смолы и ягоды, высушенные и измельченные для специй."/>
+    <string id="Settlements.Settlement.text.castle_village_EW2_2" text="Bergon сидит в сторону берега прибрежной Epiric холмов, между морем и долиной Зиос. Земли, леса, сравнительно недавно поселились, теперь дают прекрасный урожай зерна." />
+    <string id="Settlements.Settlement.text.castle_village_EW3_1" text="Оникэ сидит возле перекрестка над нижней Aminys, просто, прежде чем попасть в залив Чарас. В теплую погоду здесь хорошо подходят для выращивания оливковых деревьев." />
+    <string id="Settlements.Settlement.text.castle_village_EW4_1" text="Thractorae сидит на катаракту, которая пересекает озерами Гаве, реки, озера Perasos выход к морю. Даты пальмы хорошо растут в этих южных границ империи." />
+    <string id="Settlements.Settlement.text.castle_village_EW5_1" text="Верон лежит в небольшой долине, идущая от плато Porea к реке Aminys. Жители разводят овец на близлежащие горы." />
+    <string id="Settlements.Settlement.text.castle_village_EW5_2" text="Goleryn сидит на крутом спуске от плато Porea в долину Amynis, затмили горе Танона на юго-восток. Жители разводят овец на крутых склонах." />
+    <string id="Settlements.Settlement.text.castle_village_EW6_1" text="Hertogea лежит в дубовых лесах в предгорьях массива Carassic. Жители регулярно поднимаясь на более высокие склоны к богатым вен шахты в горах руды." />
+    <string id="Settlements.Settlement.text.castle_village_EW7_1" text="Ористокорис находится на плоской части рифа у основания Карассинского массива. Землевладельцы Империи импортировали тутовые деревья, позволяя выращивать тутовый шелкопряд." />
+    <string id="Settlements.Settlement.text.castle_village_EW8_1" text="Герсегос находится в долине на холмах Карсии, на границе с Баттаном. Этот лесистый, малонаселенный район является одним из основных источников древесины империиCarsian." />
+    <string id="Settlements.Settlement.text.castle_village_K1_1" text="Деревня Усек находится на вершине перевала через холмы Аккан. Многие её обитатели живут за счет глины, которую можно собрать с близлежащих русел ручьев." />
+    <string id="Settlements.Settlement.text.castle_village_K1_2" text="Деревня Эсме и прилегающие к ней селения находятся в центре плоскогорья Девсег, основном пастбище для скоплений Хузаитов и их союзников." />
+    <string id="Settlements.Settlement.text.castle_village_K2_1" text="Акисер расположен на скалистых холмах у истоков реки Витис. Пласты железной руды можно найти в известняковых ущельях, прорезанных горными потоками." />
+    <string id="Settlements.Settlement.text.castle_village_K3_1" text="Деревня Хаккун расположена к востоку от плоскогорья Девсег, в неровной местности, изрезанной оврагами. Хоть здесь и выпадает мало осадков, с холмов все еще достаточно стока для выращивания пшеницы и других культур." />
+    <string id="Settlements.Settlement.text.castle_village_K4_1" text="Поселение Цепеш находится на холмах к юго востоку от озера Танэлис, где в защищенных долинах растут прекрасные дубы, высоко ценимые архитекторами и корабельниками Калрадии." />
+    <string id="Settlements.Settlement.text.castle_village_K5_1" text="Химли и селения в их окрестности, лежат в укромном уголке холмов на краю плоскогорья Девсег. Они известны своей прекрасной глиной, которую можно собирать с их русел рек." />
+    <string id="Settlements.Settlement.text.castle_village_K6_1" text="Динар расположен в засушливом высокогорье к востоку от озера Персон. Среди колючих кустарников этой земли есть несколько кустов, которые дают смолу и сушеные ягоды, которые очень ценятся в императорских кухнях." />
+    <string id="Settlements.Settlement.text.castle_village_K6_2" text="Карахалли лежит в скалистых предгорьях, которые поднимаются из степей к востоку от Персона к плоскогорью Девсег. Несмотря на сухость большую часть года, известняковые почвы этой земли дают прекрасный выпас для лошадей после весенних дождей." />
+    <string id="Settlements.Settlement.text.castle_village_K7_1" text="Симира расположена на восточной стороне горы Илтан, вулканического массива, который отделяет границы между Стургийскими и Хузаитскими землями. Высокогорные пастбища хороши для выпаса скота, хотя зимы здесь суровые." />
+    <string id="Settlements.Settlement.text.castle_village_K8_1" text="Эрзенур и его отдаленные поселения лежат под скалистым хребтом на западном краю плоскогорья Девсег, на одном из самых ценных пастбищ степных народов." />
+    <string id="Settlements.Settlement.text.castle_village_K9_1" text="Кайсар - это центр сельского округа на южных склонах холмов Аккан, где весенние дожди приносят пышную траву, способную поддерживать прекрасные стада крупного рогатого скота и овец." />
+    <string id="Settlements.Settlement.text.castle_village_K9_2" text="Пайам расположен на прибрежной равнине к востоку от озера Танэлис. Несмотря на относительную сухость, земли здесь получают достаточно дождей, чтобы дать хороший урожай пшеницы." />
+    <string id="Settlements.Settlement.text.castle_village_S1_1" text="Устокол расположен там, где река Сиворн впадает в залив Верчег. Здесь, в прохладных и туманных низинах, сельские жители выращивают лен." />
+    <string id="Settlements.Settlement.text.castle_village_S2_1" text="Мажадан расположен в изгибе Ледогоры, острого хребта, отделяющего Баликский залив от Долины Сиворн. В этих дождливых высокогорьях поселенцы научились выращивать лен." />
+    <string id="Settlements.Settlement.text.castle_village_S3_1" text="Невьянск находится в лесном массиве, недавно заселенном потоком искателей из стран Стургии, который продвигался в верховья Сиворна. Они добыли одни из самых богатых деревьев в этом регионе, что вызвало напряженность в отношениях с соседними Баттанианскими селениями." />
+    <string id="Settlements.Settlement.text.castle_village_S3_2" text="Днин был недавно заселен Стургитами, переселяющимися в традиционные Баттанианские земли. Они частично скрыты в долине для защиты,как и многие деревни на границе. Здешние жители-лесники продают древесину, чтобы заработать себе на жизнь." />
+    <string id="Settlements.Settlement.text.castle_village_S4_1" text="Кранирог лежит на невысоких холмах к востоку от озера Лакония, где участки степи прерываются участками леса. Стургийские поселенцы посеяли пшеницу на черноземных лугах, которые веками были пастбищами бродячих кочевников." />
+    <string id="Settlements.Settlement.text.castle_village_S4_2" text="Исмилкорг находится в лесостепном поясе восточной части Стургии. Деревни здесь занимаются скотоводством, всегда следя за кочевниками с дальнего востока." />
+    <string id="Settlements.Settlement.text.castle_village_S5_1" text="Ов лежит в устье Скорнива, небольшой реки, вытекающей из северных лесов в Баликский залив. Местные устанавливают сети для ловли лосося, мигрирующего вверх и вниз по реке." />
+    <string id="Settlements.Settlement.text.castle_village_S5_2" text="Ферт лежит в устье Скорнива, небольшой реки, протекающей из северных лесов в Баликский залив. Жители села установили сетки для улавливания лосося, мигрирующих вверх и вниз по реке." />
+    <string id="Settlements.Settlement.text.castle_village_S6_1" text="Такор - это деревня скотоводов на перевале, которую Баттанианцы называют Майнад Райфел, гора войны, а их Имперские и Стургийские соседи - Минадор. Это один из главных торговых и рейдерских маршрутов между диким Севером и более заселёнными Имперскими землями." />
+    <string id="Settlements.Settlement.text.castle_village_S7_1" text="Уриксала находится на скалистом восточном берегу озера Лаконис. Богато порыбачить можно возле устьев ручьев, которые стекают с холмов в озеро." />
+    <string id="Settlements.Settlement.text.castle_village_S8_1" text="Владив расположен у подножия унылых Черныгских болот, разделяющих границу между Стургийскими и Имперскими землями. Деревенские жители пасут скот на болотах, а иногда могут выйти в туман, чтобы напасть на мперские стада на дальнем берегу." />
+    <string id="Settlements.Settlement.text.castle_village_V1_1" text="Усанц расположен возле заболоченного устья реки Аминис. На этой теплой южной земле можно выращивать оливковые деревья." />
+    <string id="Settlements.Settlement.text.castle_village_V2_1" text="Хонгард находится рядом с одним из нескольких небольших ручьев, спускающихся с Эпирических холмов в Чарасский залив. Регион, хорошо поливаемый океанскими дождями, дает хороший урожай пшеницы и ячменя." />
+    <string id="Settlements.Settlement.text.castle_village_V2_2" text="Фертон расположен на гористом участке береговой линии к северу от залива Чарас. Известняковые почвы, обильные зимние дожди и жаркое лето способствуют хорошему выращиванию оливковых рощ, которые формируют экономическую основу этого региона." />
+    <string id="Settlements.Settlement.text.castle_village_V3_1" text="Драпанд находится у мыса Фал, самого дальнего западного пункта на Кальрадийском континенте. Несмотря на то, что бурные воды у мыса затрудняют рыбалку, разнообразная погода, включая теплые сухие ветры с юга, делают возможным выращивание оливок." />
+    <string id="Settlements.Settlement.text.castle_village_V4_1" text="Орманфард расположен в светлой сосновой роще на перекрестке через реку Сиворн. Туманные низовья этой реки являются основной почвой для выращивания льна." />
+    <string id="Settlements.Settlement.text.castle_village_V5_1" text="Тирби лежит на восточных склонах горы Эбор. Быстро меняющаяся погода, перекрестные ветры с западного океана и Северного Баликского залива, позволяет выращивать виноград и другие южные культуры." />
+    <string id="Settlements.Settlement.text.castle_village_V5_2" text="Сириндак лежит на берегу залива Варчег. В этом конце залива мало хороших рыбацких угодий, зато сельские жители сажают лен на узкой прибрежной равнине." />
+    <string id="Settlements.Settlement.text.castle_village_V6_1" text="Калеус расположен возле истока реки Госин. Нежные лесистые холмы этого недавно заселенного региона богаты елью и дубом." />
+    <string id="Settlements.Settlement.text.castle_village_V6_2" text="Дериат расположен на невысоком холме между рекой Госин и бухтой Остикан. Мягкий морской климат способствует выращиванию винограда." />
+    <string id="Settlements.Settlement.text.castle_village_V7_1" text="Талывель расположен на невысоких холмах с видом на долину Трэнд. Широкие полосы окрестных лесов были расчищены для выращивания пшеницы." />
+    <string id="Settlements.Settlement.text.castle_village_V8_1" text="Верександ расположен в густых лесах, отдалённых от прибрежной Эмпирикской гряды холмов, в пограничной стране, спорной с Баттанами. Глина собирается из местных русел ручьев." />
+    <string id="Settlements.Settlement.text.village_A1_1" text="Ташеба находится у залива Чарас, на прибрежных землях, которые Асерайцы называют Ретана. Рыбаки выходят в залив, нежный и спокойный большую часть года, за тунцом и сардинами." />
+    <string id="Settlements.Settlement.text.village_A1_2" text="Бак находится в глубине залива Чарас. Преобладающие восточные ветры из пустыни означают, что земля быстро высыхает, но это не мешает выращивать ароматические ягоды, измельченные для специй." />
+    <string id="Settlements.Settlement.text.village_A1_3" text="Фанаб расположен в заливе Чарас, в прибрежной полосе, которую Стургиты называют Ретана. Преобладающие восточные ветры из пустыни сохраняют землю относительно сухой и теплой, что позволяет выращивать финиковые пальмы." />
+    <string id="Settlements.Settlement.text.village_A1_4" text="Хиблет расположен в глубине залива Чарас, в прибрежной полосе, которую Стургиты называют Ретана. Несмотря на близость к морю, преобладающие восточные ветры из пустыни сохраняют землю относительно сухой и теплой, что позволяет выращивать финиковые пальмы." />
+    <string id="Settlements.Settlement.text.village_A2_1" text="Ламеса и соседнее поселение Хокка расположены в глубине холмов Джебал Тамар, в одном из последних очагов земледелия оазиса перед бесплодными пустошами Нахасы. Жители разводят лошадей, пасут их в траве, которая быстро растет после весенних дождей, а в остальное время года дополняется мешаниной из зерна и фиников." />
+    <string id="Settlements.Settlement.text.village_A2_2" text="Абу Ких лежит в западной части Джебал Тамар, где сухие ветры Нахаса встречают теплые морские бризы с запада. Жители деревни наполняют дождевую воду на холмах с помощью плотин и орошают оазисные сады финиковых пальм.." />
+    <string id="Settlements.Settlement.text.village_A2_3" text="Хокка и соседнее поселение Ламеса лежат в глубине холмов Джебал Тамар, в одном из последних очагов земледелия оазиса перед бесплодными пустошами Нахасы. Жители разводят лошадей, пасут их в траве, которая быстро растет после весенних дождей, а в остальное время года дополняется мешаниной из зерна и фиников." />
+    <string id="Settlements.Settlement.text.village_A3_1" text="Абба расположена в укромном уголке склона Джехара, который ловит Сток редких, но часто сильных ливней пустыни. Люди питаются маленькими садами среди скал, а также деревьями, несущими ароматные смолы и ягоды, высушенные и измельченные для специй." />
     <string id="Settlements.Settlement.text.village_A3_2" text="Хунаб лежит в укромном уголке уступа Джехара, который ловит редкие, но часто сильные ливни пустыни. Люди поддерживают себя маленькими садами, а также разводят лошадей." />
     <string id="Settlements.Settlement.text.village_A3_3" text="Бир Сейф расположен на равнине, идущей от ущелья Джеджара до озера Перасос. Как и в других деревнях этих местности, сосредоточился возле скалы у которой скапливаются грунтовые воды. Немного глины этого района доставляют в местные города для изготовления керамики." />
     <string id="Settlements.Settlement.text.village_A4_1" text="Каблаб расположен на западном береге озера Перасос. Хотя в настоящее время озеро является пресноводным, давным-давно это было море, не имеющее выхода к морю, и соляные отложения можно легко найти и добыть у береговой линии." />
@@ -658,7 +658,7 @@
     <string id="Settlements.Settlement.text.village_EN5_3" text="Фемида находится рядом с ручьем, питающим Оффис, маленькое озеро в центральной холмистой стране Империи. Овцы пасутся на высокогорных пастбищах." />
     <string id="Settlements.Settlement.text.village_EN5_4" text="Саманта находится в предгорьях Адриатических гор, с видом на крутой каньон. Склоны холмов были террасированы для выращивания зерновых культур и растений тутового дерева, на которых можно выращивать шелкопрядов." />
     <string id="Settlements.Settlement.text.village_EN6_1" text="Авасинтон находится в густых лесах Иркары, дикой горной местности между озерами Лаконис и Танаесис. Земля здесь подходит для выращивания тутовых деревьев, на которых можно выращивать шелкопрядов." />
-    <string id="Settlements.Settlement.text.village_EN6_2" text="Акрагора находится в долине с видом на лестные нагорья Иркары. Леса здесь не такие густые, что позволяет расчищать их для пастбищ и лугов." />  
+    <string id="Settlements.Settlement.text.village_EN6_2" text="Акрагора находится в долине с видом на лестные нагорья Иркары. Леса здесь не такие густые, что позволяет расчищать их для пастбищ и лугов." />
     <string id="Settlements.Settlement.text.village_ES1_1" text="Каира находится недалеко от восточного берега озера Перасос. Район, расположенный недалеко как от степи, так и от южных пустынь, достаточно теплый, чтобы выращивать оливки." />
     <string id="Settlements.Settlement.text.village_ES1_2" text="Полисий расположен на озере Перасос. В мелководной мутной воде водятся огромные сомы." />
     <string id="Settlements.Settlement.text.village_ES1_3" text="Тегресос расположен рядом с рекой Хлосонис, маленьким, но быстрым горным потоком, впадающим в озеро Перасос. Этот край, где имперские земли медленно уступают место степи, удобен для разведения овец." />
@@ -690,86 +690,86 @@
     <string id="Settlements.Settlement.text.village_EW2_3" text="Альсасос находится на ручье, впадающем в широкую реку Аминис, в южной Империи. Пшеничные поля славятся своей урожайностью, хотя в последнее время они несколько заросли, поскольку пограничные войны сильно вредили сельскому хозяйству, и леса вернули большую часть того, что когда-то было их давным-давно." />
     <string id="Settlements.Settlement.text.village_EW2_4" text="Зеокорис находится на реке Зеос, притоке Амини. В прежние времена это был безопасный район центральной Империи, и землевладельцы вкладывали деньги в огромные поместья, чтобы разводить лошадей, которые позже продавались Империи. Теперь эти лошади используются местными войсками, которые следят за Вландскими захватчиками, идущими через западные холмы." />
     <string id="Settlements.Settlement.text.village_EW3_1" text="Гамардан находится возле истока реки Аминис, где соединяются ручьи, вытекающие из близлежащих лесов. Жители собирают обильный урожай пшеницы." />
-    <string id="Settlements.Settlement.text.village_EW3_2" text="Аэгосца находится в небольшой долине с видом на реку Аминис. Землевладельцы перестали выращивать коз и занялись более прибыльным выращиванием лошадей." /> 
-    <string id="Settlements.Settlement.text.village_EW3_3" text="Драдиос расположен на невысоких холмах, возвышающихся над рекой Аминис. Аллювиальные равнины этого региона долгое время были житницей Империи." /> 
+    <string id="Settlements.Settlement.text.village_EW3_2" text="Аэгосца находится в небольшой долине с видом на реку Аминис. Землевладельцы перестали выращивать коз и занялись более прибыльным выращиванием лошадей." />
+    <string id="Settlements.Settlement.text.village_EW3_3" text="Драдиос расположен на невысоких холмах, возвышающихся над рекой Аминис. Аллювиальные равнины этого региона долгое время были житницей Империи." />
     <string id="Settlements.Settlement.text.village_EW4_1" text="Арпотис находится в долине Гавис, связывающей озеро Перасос с морем. Здесь, на южной имперской границе, выращивают финиковые пальмы." />
     <string id="Settlements.Settlement.text.village_EW4_2" text="Лисия расположена там, где воды озера Перасос впадают в реку Гавис. Жители деревни путешествуют к морю чтобы добывают соль с близлежащих холмов." />
     <string id="Settlements.Settlement.text.village_EW4_3" text="Винела находится на северном берегу озера Перасос. Озеро сейчас пресноводное, но давным-давно оно было морем, теперь местные жители добывают соль вдоль прибрежной зоны." />
     <string id="Settlements.Settlement.text.village_EW4_4" text="Гаренголия находится на возвышенности с видом на озеро Перасос и реку Гавис. Этот регион известен своей теплой погодой, но он хорошо орошаем дождями, и является главным источником пшеницы Южной империи." />
     <string id="Settlements.Settlement.text.village_EW5_1" text="Элипа лежит на западном краю плато Пореа. Зерно выращиваемое в этом месте питает большую часть деревень этого региона." />
-    <string id="Settlements.Settlement.text.village_EW5_2" text="Фазос расположен на южных склонах Карасского массива. Коневоды построили здесь поместья, чтобы использовать богатые горные пастбища." />    
-    <string id="Settlements.Settlement.text.village_EW6_1" text="Carphenion лежит в плодородном бассейне к северо-востоку от горы Erythris, в земле часто заселили, бросили, и переселенных из-за случайного извержения вулкана. Аграрии сократили дубовых и буковых лесов здесь, чтобы настроить ферм крупного рогатого скота, соблазн Battanian налетчиков с севера."/>
-    <string id="Settlements.Settlement.text.village_EW6_2" text="Vathea сидит на плато, на полпути массива Carassic. Жители деревни зарабатывают на жизнь от сельского хозяйства и сбор железной руды из местного русла, где они были смыты из металла, богатые горы,"/>
-    <string id="Settlements.Settlement.text.village_EW6_3" text="Thersenion сидит в неглубокой долине омрачено массива Carassic. Шаблон хребтов вокруг района делает его необычайно сухими, но дождь еще достаточно для выращивания пшеницы."/>
-    <string id="Settlements.Settlement.text.village_EW6_4" text="Leblenion сидит на нижних склонах горы Erythris. Селяне создали террасы на грядах с базальтовых скал, и винограда, выращенного на вулканической почве ценятся за сильной дегустации вин они дают."/>
-    <string id="Settlements.Settlement.text.village_K1_1" text="Fisnar лежит в Сухой долине к востоку от плато Devseg. Хотя в регионе бедную землю для большинства культур, их низкорослых деревьев производят ягоды, которые при сушке, дает Тан рагу Востока."/>
-    <string id="Settlements.Settlement.text.village_K1_2" text="Улаан сидит на склоне холма на плато Devseg. Хотя земли здесь сухой, местные жители гениальное в разведение диких зимних дождей в небольших долинах и выращивания льна, жаждущая урожай иное не редкость в этом регионе."/>
-    <string id="Settlements.Settlement.text.village_K1_3" text="Курулук расположен в предгорьях около северного склона плато Девсег, где оно начинает свой подъем к изрезанным горам Хар-Ул. Несмотря на сухость, здесь находятся основные пастбища для выносливых степных лошадей."/>
-    <string id="Settlements.Settlement.text.village_K1_4" text="Асалиг расположен в предгорьях около северного склона плато Девсег, где оно начинает свой подъем к изрезанным горам Хар-Ул. Несмотря на сухость, здесь находятся основные пастбища для крепких степных лошадей."/>
-    <string id="Settlements.Settlement.text.village_K2_1" text="Каракалат расположен на краю котлована около восточного склона плато Девсег, на земле, которая летом высыхает, но дает хорошие пастбища для выпаса скота весной."/>
-    <string id="Settlements.Settlement.text.village_K2_2" text="Тисмил является центром сельского округа на восточном краю плато Девсег, где дождевые облака застревают во многих неглубоких долинах, а пшеница может быть выращена."/>
-    <string id="Settlements.Settlement.text.village_K2_3" text="Гереден и его окрестности расположены на южной окраине плато Девсег. Несмотря на суровую местность, она известна мелкой глиной, которую можно собирать в оврагах."/>
-    <string id="Settlements.Settlement.text.village_K2_4" text="Кираз расположен на окраине плато Девсег, ровно там, где оно сменяется бескрайними степями востока. Этот район является прекрасным пастбищем для сильных лошадей кочевников, некоторые из которых выращиваются здесь, а другие привозятся преимущественно кочевыми племенами с востока."/>
-    <string id="Settlements.Settlement.text.village_K3_1" text="Шапеште и его окрестности расположены в пойме реки Асацис в районе, где она впадает в озеро Танаесис. Здесь добывается соль с окружных равнин охватываемых приливами."/>
-    <string id="Settlements.Settlement.text.village_K3_2" text="Хатеки расположен на углу северного выступа холмов Аккан, с видом на озеро Танаесис. Земля здесь сухая, но люди все равно строят свои дома чтобы добывать железную руду, залежи которой можно найти в многочисленных ущельях."/>
-    <string id="Settlements.Settlement.text.village_K3_3" text="Мазен расположен на северном берегу озера Танаесис. Местность здесь относительно ровная, что позволяет жителям создавать искусственные низины для сбора соли из солоноватой воды озера."/>
-    <string id="Settlements.Settlement.text.village_K4_1" text="Омроток расположен в долине между зубчатых холмов, которые возвышаются к северу от рек Асацис. Здешние лесники собирают древесину и другие товары в ближайших северных лесах."/>
-    <string id="Settlements.Settlement.text.village_K4_2" text="Рансам расположен недалеко от самой северной части Кальрадии, где все еще можно выращивать зерно. Хотя местный ячмень делает хлеб более жестким и сухим, чем южные культуры, лошади на нем вырастают сильными, особенно выносливые степные породы."/>
-    <string id="Settlements.Settlement.text.village_K4_3" text="Миванджан расположен на сухих холмах с видом на долину реки Витус. Богатые залежи железной руды могут быть найдены там, где потоки воды прорезают сланцевый и известняковый слой земли."/>
-    <string id="Settlements.Settlement.text.village_K4_4" text="Урунджан расположен в сосновом лесу к северу от озера Танаесис. Весной здесь хватает травы, чтобы прокормить выносливую породу крупного рогатого скота, одну из немногих, что выживает так далеко на севере."/>
-    <string id="Settlements.Settlement.text.village_K5_1" text="Камсхар это деревня, расположенная на восточном побережье озера Танаесис. Мелкие солоноватые болота являются хорошим источником соли для села и окрестных хуторов."/>
-    <string id="Settlements.Settlement.text.village_K5_2" text="Гурканд это деревня, расположенная между пшеничными полями на узком участке засушливой равнины, между озером Танаесис и холмами Аккан."/>
-    <string id="Settlements.Settlement.text.village_K5_3" text="Испантар это деревня, расположенная на скалистом отроге Аккан с видом на озеро Танаесис, где достаточно дождей, чтобы взращивать хороший урожай пшеницы. "/>
-    <string id="Settlements.Settlement.text.village_K5_4" text="Пабастан это деревня, расположенная на восточном побережье озера Танаесис. Мелкие солоноватые болота являются хорошим источником соли для села и окрестных хуторов."/>
-    <string id="Settlements.Settlement.text.village_K6_1" text="Карахан расположен в предгорьях Кох Рохини, горы, отделяющей земли Кузаитов от земель соседних кочевых племён. Здешние жители покупают лошадей у кочующих племён и разводят своих собственных, что делает деревню источником племенных жеребцов, на которых ездят армии Кузаитов."/>
-    <string id="Settlements.Settlement.text.village_K6_2" text="Нутюк расположен в укромной долине, рядом с одним из последних участков соснового и можжевелового леса, прежде чем можно будет добраться до бесконечных степей Востока. Редкие ягоды, высушенные и используемые в качестве специй, растут среди деревьев."/>
-    <string id="Settlements.Settlement.text.village_K6_3" text="Данара расположена на сухой каменистой местности, в районе, где плато Девсег уступает место бесконечной кустарниковой степи на востоке. Земли здесь производят мало сельскохозяйственных излишков, но есть глина, которая очень ценится гончарами и ремесленниками."/>
-    <string id="Settlements.Settlement.text.village_K6_4" text="Кохи таджикское лежит в узкой, Сухой долине у подножия так называемых горных любовника, от которого и произошло его название."/>
-    <string id="Settlements.Settlement.text.village_S1_1" text="Rodobas расположен на полуострове Kachyar, к северу от залива Varcheg. Осушенных болотах поблизости поддержки растущего льна."/>
-    <string id="Settlements.Settlement.text.village_S1_2" text="Форин сидит в низких леса к востоку от залива Varcheg. Прохладный, влажный климат и темные почвы здесь поддержки растущего льна."/>
-    <string id="Settlements.Settlement.text.village_S1_3" text="Kargrev сидит на скалистом мысе на берегу залива Varcheg. Рыбаки эти деревенские воспользоваться относительно защищенных водах бухты, где рыб многих видов приходят на нерест."/>
-    <string id="Settlements.Settlement.text.village_S2_1" text="Safna сидит на среднем течении реки двора. Жители здесь разводить скот, наблюдая за Battanian рейдеров затевать за низкими холмами на юг."/>
-    <string id="Settlements.Settlement.text.village_S2_2" text="Marabrot сидит на переправе через реку двора. Холмы эти мокрые, холодные низины поддержки растущего льна."/>
-    <string id="Settlements.Settlement.text.village_S2_3" text="Dvorusta это рыбацкая деревня в устье реки двора. Скалистые утесы убежище от бурь Byalic залива. Вдали от берега seabottom падает быстро, а вода, хоть и холодная, богаты сельдь и треска."/>
-    <string id="Settlements.Settlement.text.village_S3_1" text="Chornobas сидит у подножия задумчивый Minodor массива. Здесь, в низинах жители поднимают лен, следит зорким глазом за которые вторглись через перевалы на север."/>
-    <string id="Settlements.Settlement.text.village_S3_2" text="Скорин сидит на Skorniva, ручей, бегущий из северных лесов. Как и в других деревнях на реке, люди здесь торгуют лосося, которые мигрируют вверх и вниз в зависимости от сезона."/>
-    <string id="Settlements.Settlement.text.village_S4_1" text="Borchovagorka является относительно недавним Sturgian поселение близ верховьев Шава, горного ручья, впадающих в озеро Laconys. Форель и другие рыбы из озера плыть вверх по течению здесь на нерест, обеспечивая хороший улов местных рыбаков."/>
-    <string id="Settlements.Settlement.text.village_S4_2" text="Glavstrom сидит на каменистом входе в озеро Laconys. В деревне живет щука, осетр, форель и другую рыбу с умеренно соленый глубоких водах озера."/>
-    <string id="Settlements.Settlement.text.village_S4_3" text="Omkany лежит в уголке на холмах близ восточной оконечности озера Laconys. Скалистые берега здесь богата железом, предоставляемые малые ручьи стекают в ручьи."/>
-    <string id="Settlements.Settlement.text.village_S4_4" text="Yangutum сидит на небольшом плато к северу от озера Laconys. Толстой здесь почвах, но плохо дренированных, сделать это хорошая земля для льна."/>
-    <string id="Settlements.Settlement.text.village_S5_1" text="Visibrot лежит на лесостепи Восточной Sturgia, где начинается подъем к вулканической горе Iltan. Выносливый крупный рогатый скот, разводят, чтобы выдержать морозные зимы, пасутся на холмах."/>
-    <string id="Settlements.Settlement.text.village_S5_2" text="Bukits сидит на южных склонах горы Iltan. Селяне поднимают здесь Хайленд скот, разводимый для того, чтобы выдержать ледяные порывы ветра, которые разрушают горы."/>
-    <string id="Settlements.Settlement.text.village_S5_3" text="Алов сидит на фоне леса Северного Sturgia. Жители этого отдаленного региона, которые включают Ванни woodspeople а также Sturgian и Норд мигрантов, известны своим молчанием и общее недоверие к внешней власти."/>
-    <string id="Settlements.Settlement.text.village_S6_1" text="Жители Квол поднять малый, крепкий крупного рогатого скота у подножия горы Iltan. Они включают потомки беженцев и недовольных со всей Кальрадии, стремилась к изоляции и в холодных северных лесах."/>
-    <string id="Settlements.Settlement.text.village_S6_2" text="Radakmed сидит на туманных восточных склонах горы Iltan. Люди здесь-пастухов, поднимая небольшие крепкие звери, расплодившиеся к холоду, кто даже зимой можно копать через снег, чтобы найти траву."/>
-    <string id="Settlements.Settlement.text.village_S6_3" text="Alebat сидит глубоко в лесах северо-восточной Sturgia. Этот изолированный регион долгое время был пристанищем для тех, кто в стремлении избежать угнетения или долг или bloodfeud через северные земли, и говор сильно повлияли на Khuzait, и язык Ванни woodspeople."/>
-    <string id="Settlements.Settlement.text.village_S7_1" text="Korsyas это рыбацкая деревня на северном побережье полуострова Lachyar. Здесь рыбаки живут опасной жизнью, углубляясь в бурное Byalic залива в поисках гольца, треску и даже небольших китов."/>
-    <string id="Settlements.Settlement.text.village_S7_2" text="Karbur расположен на северном побережье полуострова Lachyar, граничащих с Byalic залива. Здесь в холодных лесах производят ambudance ягод, которые собирают и высушивают и продают как спайсы."/>
-    <string id="Settlements.Settlement.text.village_S7_3" text="Zhemyan это рыбацкая деревня на оконечности полуострова Kachyar. Селяне выдержать бури, которые проносятся по Byalic море, чтобы подтянуть достаточно уловы трески и гольца."/>
-    <string id="Settlements.Settlement.text.village_V1_1" text="Calioc находится в устье реки Seavorn. Холодный северный климат и влажные прибрежные низменности рядом поддержки растущего льна."/>
-    <string id="Settlements.Settlement.text.village_V1_2" text="Etirburg сидит на коротком участке скалистого побережья между устьями Cafal и Seavorn рек. Селяне, как правило, поля льна в окрестностях Займища."/>
-    <string id="Settlements.Settlement.text.village_V1_3" text="Rodetan сидит в лесистой долине реки гниют, им на красноватые полосы, образованной достаточно железной руды. Жители добывать металл из сторон русла."/>
-    <string id="Settlements.Settlement.text.village_V2_1" text="Mareiven лежит в пологие лесистые холмы долины Транд. Жители этого района в основном лесники."/>
-    <string id="Settlements.Settlement.text.village_V2_2" text="Oritan сидит в светлых зарослях, примыкающих к реке Транд. Здесь крестьяне собирают глину для горшков из местных прудов и марши."/>
-    <string id="Settlements.Settlement.text.village_V2_3" text="Fregion сидит, где быстротекущая река Battanians называют трын замедляется в низинах и становится Транд. Жителям этого региона урожай сосен и других деревьев, которые растут рядом с местных болот."/>
-    <string id="Settlements.Settlement.text.village_V2_4" text="Марин расположен на реке Входиттфас, небольшой приток Транд. Мягкие ветры дуют вверх по долине от моря, в сочетании с холодными утренними туманами, позволяют выращивания винограда."/>
-    <string id="Settlements.Settlement.text.village_V3_1" text="Valanby расположен на мысе с видом на западный океан. Теплый, сухой ветер с юга создали небольшой анклав, где оливки можно выращивать, и их нефть экспортируется по всему Vlandian земли."/>
-    <string id="Settlements.Settlement.text.village_V3_2" text="Rulund сидит возле устья реки Транд. Океан хранит зимы достаточно мягкие, чтобы выращивание оливок, даже так далеко на север."/>
-    <string id="Settlements.Settlement.text.village_V3_3" text="Larnac расположен на пологих холмах по нижней части долины Транд. Туман холодный океан утром и песчаные почвы позволяют выращивать прекрасный виноград."/>
-    <string id="Settlements.Settlement.text.village_V3_4" text="Palisona сидит на южном побережье залива Ostican. Горячие ветры, которые приходят через океан с Запада весной делают это на удивление хорошая земля для выращивания оливок."/>
-    <string id="Settlements.Settlement.text.village_V5_1" text="Furbec сидит с видом бухте на скалистом Biscan побережье Центральной Vlandia. Хотя жители деревни порыбачить, овцы пасутся на прибрежных лугах традиционно ядро региона."/>
-    <string id="Settlements.Settlement.text.village_V5_2" text="Meroc-это рыбацкая деревушка недалеко от устья нерв. Селянам собрать хороший улов кефали и бас из солоноватой воды лимана, а также камбалу и моллюсков из соседнего болота."/>
-    <string id="Settlements.Settlement.text.village_V5_3" text="Nogrent сидит в уголке Biscan холмов в центральной Vlandia. Региона, с ее мягкими зимами, это земли для выращивания оливок."/>
-    <string id="Settlements.Settlement.text.village_V6_1" text="Arromanc сидит на мысе с одноименным названием. Подвергающихся воздействию морских ветров и отсутствия естественной гавани, жители здесь рыбы меньше, чем их соседи. Однако соленые брызги создал обширные прибрежные луга, прекрасные пастбища для овец."/>
-    <string id="Settlements.Settlement.text.village_V6_2" text="Двиг сидит на берегу реки нерв в том, что сейчас Vlandian глубинки. Это был премьер-овцеводческой землю назад, когда земля еще была частью Империи, и остается так сегодня."/>
-    <string id="Settlements.Settlement.text.village_V6_3" text="Alorstan сидит в теплые зеленые равнины, в самом сердце Vlandian царства, вдоль реки нерв. Оливковые деревья растут в мягком климате."/>
-    <string id="Settlements.Settlement.text.village_V6_4" text="Chornad-это рыбацкий поселок, который расположен на берегу закрытой бухты. Морские бризы обеспечивают мягкий климат большую часть года, и сардины, и тунец ловится в теплые океанские течения, подойдя с юга, сразу за мысами."/>
-    <string id="Settlements.Settlement.text.village_V7_1" text="Savinth находится в центре сельской местности в лесу только вдали от залива Чарас. Пастбища на фоне сосен, чтобы сделать хорошую территорию для лошадей."/>
-    <string id="Settlements.Settlement.text.village_V7_2" text="Деревня Vesin скрывается в расщелине скалы с видом на залив Чарас. Почва здесь каменистая, но хороший для выращивания оливок, основным продуктом в регионе."/>
-    <string id="Settlements.Settlement.text.village_V8_1" text="Horsger где, согласно легенде, Хорса воин вышел на берег и посадили его копье на пляже. Сегодня это рыбацкая деревня, обеспечивая его поймать в соседнем городе Ostican."/>
-    <string id="Settlements.Settlement.text.village_V8_2" text="Cananc лежит во влажных лесистых холмов Северного Rhennod, где растут кедры высотой в море Туманов. Местные жители, как правило, леса и продают древесину для инженеров и судостроителей побережья."/>
-    <string id="Settlements.Settlement.text.village_V8_3" text="Remental видом на залив Ostican, в тени горы Эбор. Возвышающиеся пихты и ели вырастают в туманных предгорьях, поддержание процветающего леспромхоза."/>
-    <string id="Settlements.Settlement.text.village_V9_1" text="Алантас сидит в центре гористого полуострова Эбор. Почвы здесь тонок, и погода здесь холодная, но богатые месторождения железной поддерживать местную экономику."/>
-    <string id="Settlements.Settlement.text.village_V9_2" text="Halisvust сидит с видом на небольшой залив на полуострове Эбор. Жители опустошили местные прибрежные болота, посадка бывшей водно-болотных угодий с льна и других равнинных культур."/>
+    <string id="Settlements.Settlement.text.village_EW5_2" text="Фазос расположен на южных склонах Карасского массива. Коневоды построили здесь поместья, чтобы использовать богатые горные пастбища." />
+    <string id="Settlements.Settlement.text.village_EW6_1" text="Carphenion лежит в плодородном бассейне к северо-востоку от горы Erythris, в земле часто заселили, бросили, и переселенных из-за случайного извержения вулкана. Аграрии сократили дубовых и буковых лесов здесь, чтобы настроить ферм крупного рогатого скота, соблазн Battanian налетчиков с севера." />
+    <string id="Settlements.Settlement.text.village_EW6_2" text="Vathea сидит на плато, на полпути массива Carassic. Жители деревни зарабатывают на жизнь от сельского хозяйства и сбор железной руды из местного русла, где они были смыты из металла, богатые горы," />
+    <string id="Settlements.Settlement.text.village_EW6_3" text="Thersenion сидит в неглубокой долине омрачено массива Carassic. Шаблон хребтов вокруг района делает его необычайно сухими, но дождь еще достаточно для выращивания пшеницы." />
+    <string id="Settlements.Settlement.text.village_EW6_4" text="Leblenion сидит на нижних склонах горы Erythris. Селяне создали террасы на грядах с базальтовых скал, и винограда, выращенного на вулканической почве ценятся за сильной дегустации вин они дают." />
+    <string id="Settlements.Settlement.text.village_K1_1" text="Fisnar лежит в Сухой долине к востоку от плато Devseg. Хотя в регионе бедную землю для большинства культур, их низкорослых деревьев производят ягоды, которые при сушке, дает Тан рагу Востока." />
+    <string id="Settlements.Settlement.text.village_K1_2" text="Улаан сидит на склоне холма на плато Devseg. Хотя земли здесь сухой, местные жители гениальное в разведение диких зимних дождей в небольших долинах и выращивания льна, жаждущая урожай иное не редкость в этом регионе." />
+    <string id="Settlements.Settlement.text.village_K1_3" text="Курулук расположен в предгорьях около северного склона плато Девсег, где оно начинает свой подъем к изрезанным горам Хар-Ул. Несмотря на сухость, здесь находятся основные пастбища для выносливых степных лошадей." />
+    <string id="Settlements.Settlement.text.village_K1_4" text="Асалиг расположен в предгорьях около северного склона плато Девсег, где оно начинает свой подъем к изрезанным горам Хар-Ул. Несмотря на сухость, здесь находятся основные пастбища для крепких степных лошадей." />
+    <string id="Settlements.Settlement.text.village_K2_1" text="Каракалат расположен на краю котлована около восточного склона плато Девсег, на земле, которая летом высыхает, но дает хорошие пастбища для выпаса скота весной." />
+    <string id="Settlements.Settlement.text.village_K2_2" text="Тисмил является центром сельского округа на восточном краю плато Девсег, где дождевые облака застревают во многих неглубоких долинах, а пшеница может быть выращена." />
+    <string id="Settlements.Settlement.text.village_K2_3" text="Гереден и его окрестности расположены на южной окраине плато Девсег. Несмотря на суровую местность, она известна мелкой глиной, которую можно собирать в оврагах." />
+    <string id="Settlements.Settlement.text.village_K2_4" text="Кираз расположен на окраине плато Девсег, ровно там, где оно сменяется бескрайними степями востока. Этот район является прекрасным пастбищем для сильных лошадей кочевников, некоторые из которых выращиваются здесь, а другие привозятся преимущественно кочевыми племенами с востока." />
+    <string id="Settlements.Settlement.text.village_K3_1" text="Шапеште и его окрестности расположены в пойме реки Асацис в районе, где она впадает в озеро Танаесис. Здесь добывается соль с окружных равнин охватываемых приливами." />
+    <string id="Settlements.Settlement.text.village_K3_2" text="Хатеки расположен на углу северного выступа холмов Аккан, с видом на озеро Танаесис. Земля здесь сухая, но люди все равно строят свои дома чтобы добывать железную руду, залежи которой можно найти в многочисленных ущельях." />
+    <string id="Settlements.Settlement.text.village_K3_3" text="Мазен расположен на северном берегу озера Танаесис. Местность здесь относительно ровная, что позволяет жителям создавать искусственные низины для сбора соли из солоноватой воды озера." />
+    <string id="Settlements.Settlement.text.village_K4_1" text="Омроток расположен в долине между зубчатых холмов, которые возвышаются к северу от рек Асацис. Здешние лесники собирают древесину и другие товары в ближайших северных лесах." />
+    <string id="Settlements.Settlement.text.village_K4_2" text="Рансам расположен недалеко от самой северной части Кальрадии, где все еще можно выращивать зерно. Хотя местный ячмень делает хлеб более жестким и сухим, чем южные культуры, лошади на нем вырастают сильными, особенно выносливые степные породы." />
+    <string id="Settlements.Settlement.text.village_K4_3" text="Миванджан расположен на сухих холмах с видом на долину реки Витус. Богатые залежи железной руды могут быть найдены там, где потоки воды прорезают сланцевый и известняковый слой земли." />
+    <string id="Settlements.Settlement.text.village_K4_4" text="Урунджан расположен в сосновом лесу к северу от озера Танаесис. Весной здесь хватает травы, чтобы прокормить выносливую породу крупного рогатого скота, одну из немногих, что выживает так далеко на севере." />
+    <string id="Settlements.Settlement.text.village_K5_1" text="Камсхар это деревня, расположенная на восточном побережье озера Танаесис. Мелкие солоноватые болота являются хорошим источником соли для села и окрестных хуторов." />
+    <string id="Settlements.Settlement.text.village_K5_2" text="Гурканд это деревня, расположенная между пшеничными полями на узком участке засушливой равнины, между озером Танаесис и холмами Аккан." />
+    <string id="Settlements.Settlement.text.village_K5_3" text="Испантар это деревня, расположенная на скалистом отроге Аккан с видом на озеро Танаесис, где достаточно дождей, чтобы взращивать хороший урожай пшеницы. " />
+    <string id="Settlements.Settlement.text.village_K5_4" text="Пабастан это деревня, расположенная на восточном побережье озера Танаесис. Мелкие солоноватые болота являются хорошим источником соли для села и окрестных хуторов." />
+    <string id="Settlements.Settlement.text.village_K6_1" text="Карахан расположен в предгорьях Кох Рохини, горы, отделяющей земли Кузаитов от земель соседних кочевых племён. Здешние жители покупают лошадей у кочующих племён и разводят своих собственных, что делает деревню источником племенных жеребцов, на которых ездят армии Кузаитов." />
+    <string id="Settlements.Settlement.text.village_K6_2" text="Нутюк расположен в укромной долине, рядом с одним из последних участков соснового и можжевелового леса, прежде чем можно будет добраться до бесконечных степей Востока. Редкие ягоды, высушенные и используемые в качестве специй, растут среди деревьев." />
+    <string id="Settlements.Settlement.text.village_K6_3" text="Данара расположена на сухой каменистой местности, в районе, где плато Девсег уступает место бесконечной кустарниковой степи на востоке. Земли здесь производят мало сельскохозяйственных излишков, но есть глина, которая очень ценится гончарами и ремесленниками." />
+    <string id="Settlements.Settlement.text.village_K6_4" text="Кохи таджикское лежит в узкой, Сухой долине у подножия так называемых горных любовника, от которого и произошло его название." />
+    <string id="Settlements.Settlement.text.village_S1_1" text="Rodobas расположен на полуострове Kachyar, к северу от залива Varcheg. Осушенных болотах поблизости поддержки растущего льна." />
+    <string id="Settlements.Settlement.text.village_S1_2" text="Форин сидит в низких леса к востоку от залива Varcheg. Прохладный, влажный климат и темные почвы здесь поддержки растущего льна." />
+    <string id="Settlements.Settlement.text.village_S1_3" text="Kargrev сидит на скалистом мысе на берегу залива Varcheg. Рыбаки эти деревенские воспользоваться относительно защищенных водах бухты, где рыб многих видов приходят на нерест." />
+    <string id="Settlements.Settlement.text.village_S2_1" text="Safna сидит на среднем течении реки двора. Жители здесь разводить скот, наблюдая за Battanian рейдеров затевать за низкими холмами на юг." />
+    <string id="Settlements.Settlement.text.village_S2_2" text="Marabrot сидит на переправе через реку двора. Холмы эти мокрые, холодные низины поддержки растущего льна." />
+    <string id="Settlements.Settlement.text.village_S2_3" text="Dvorusta это рыбацкая деревня в устье реки двора. Скалистые утесы убежище от бурь Byalic залива. Вдали от берега seabottom падает быстро, а вода, хоть и холодная, богаты сельдь и треска." />
+    <string id="Settlements.Settlement.text.village_S3_1" text="Chornobas сидит у подножия задумчивый Minodor массива. Здесь, в низинах жители поднимают лен, следит зорким глазом за которые вторглись через перевалы на север." />
+    <string id="Settlements.Settlement.text.village_S3_2" text="Скорин сидит на Skorniva, ручей, бегущий из северных лесов. Как и в других деревнях на реке, люди здесь торгуют лосося, которые мигрируют вверх и вниз в зависимости от сезона." />
+    <string id="Settlements.Settlement.text.village_S4_1" text="Borchovagorka является относительно недавним Sturgian поселение близ верховьев Шава, горного ручья, впадающих в озеро Laconys. Форель и другие рыбы из озера плыть вверх по течению здесь на нерест, обеспечивая хороший улов местных рыбаков." />
+    <string id="Settlements.Settlement.text.village_S4_2" text="Glavstrom сидит на каменистом входе в озеро Laconys. В деревне живет щука, осетр, форель и другую рыбу с умеренно соленый глубоких водах озера." />
+    <string id="Settlements.Settlement.text.village_S4_3" text="Omkany лежит в уголке на холмах близ восточной оконечности озера Laconys. Скалистые берега здесь богата железом, предоставляемые малые ручьи стекают в ручьи." />
+    <string id="Settlements.Settlement.text.village_S4_4" text="Yangutum сидит на небольшом плато к северу от озера Laconys. Толстой здесь почвах, но плохо дренированных, сделать это хорошая земля для льна." />
+    <string id="Settlements.Settlement.text.village_S5_1" text="Visibrot лежит на лесостепи Восточной Sturgia, где начинается подъем к вулканической горе Iltan. Выносливый крупный рогатый скот, разводят, чтобы выдержать морозные зимы, пасутся на холмах." />
+    <string id="Settlements.Settlement.text.village_S5_2" text="Bukits сидит на южных склонах горы Iltan. Селяне поднимают здесь Хайленд скот, разводимый для того, чтобы выдержать ледяные порывы ветра, которые разрушают горы." />
+    <string id="Settlements.Settlement.text.village_S5_3" text="Алов сидит на фоне леса Северного Sturgia. Жители этого отдаленного региона, которые включают Ванни woodspeople а также Sturgian и Норд мигрантов, известны своим молчанием и общее недоверие к внешней власти." />
+    <string id="Settlements.Settlement.text.village_S6_1" text="Жители Квол поднять малый, крепкий крупного рогатого скота у подножия горы Iltan. Они включают потомки беженцев и недовольных со всей Кальрадии, стремилась к изоляции и в холодных северных лесах." />
+    <string id="Settlements.Settlement.text.village_S6_2" text="Radakmed сидит на туманных восточных склонах горы Iltan. Люди здесь-пастухов, поднимая небольшие крепкие звери, расплодившиеся к холоду, кто даже зимой можно копать через снег, чтобы найти траву." />
+    <string id="Settlements.Settlement.text.village_S6_3" text="Alebat сидит глубоко в лесах северо-восточной Sturgia. Этот изолированный регион долгое время был пристанищем для тех, кто в стремлении избежать угнетения или долг или bloodfeud через северные земли, и говор сильно повлияли на Khuzait, и язык Ванни woodspeople." />
+    <string id="Settlements.Settlement.text.village_S7_1" text="Korsyas это рыбацкая деревня на северном побережье полуострова Lachyar. Здесь рыбаки живут опасной жизнью, углубляясь в бурное Byalic залива в поисках гольца, треску и даже небольших китов." />
+    <string id="Settlements.Settlement.text.village_S7_2" text="Karbur расположен на северном побережье полуострова Lachyar, граничащих с Byalic залива. Здесь в холодных лесах производят ambudance ягод, которые собирают и высушивают и продают как спайсы." />
+    <string id="Settlements.Settlement.text.village_S7_3" text="Zhemyan это рыбацкая деревня на оконечности полуострова Kachyar. Селяне выдержать бури, которые проносятся по Byalic море, чтобы подтянуть достаточно уловы трески и гольца." />
+    <string id="Settlements.Settlement.text.village_V1_1" text="Calioc находится в устье реки Seavorn. Холодный северный климат и влажные прибрежные низменности рядом поддержки растущего льна." />
+    <string id="Settlements.Settlement.text.village_V1_2" text="Etirburg сидит на коротком участке скалистого побережья между устьями Cafal и Seavorn рек. Селяне, как правило, поля льна в окрестностях Займища." />
+    <string id="Settlements.Settlement.text.village_V1_3" text="Rodetan сидит в лесистой долине реки гниют, им на красноватые полосы, образованной достаточно железной руды. Жители добывать металл из сторон русла." />
+    <string id="Settlements.Settlement.text.village_V2_1" text="Mareiven лежит в пологие лесистые холмы долины Транд. Жители этого района в основном лесники." />
+    <string id="Settlements.Settlement.text.village_V2_2" text="Oritan сидит в светлых зарослях, примыкающих к реке Транд. Здесь крестьяне собирают глину для горшков из местных прудов и марши." />
+    <string id="Settlements.Settlement.text.village_V2_3" text="Fregion сидит, где быстротекущая река Battanians называют трын замедляется в низинах и становится Транд. Жителям этого региона урожай сосен и других деревьев, которые растут рядом с местных болот." />
+    <string id="Settlements.Settlement.text.village_V2_4" text="Марин расположен на реке Входиттфас, небольшой приток Транд. Мягкие ветры дуют вверх по долине от моря, в сочетании с холодными утренними туманами, позволяют выращивания винограда." />
+    <string id="Settlements.Settlement.text.village_V3_1" text="Valanby расположен на мысе с видом на западный океан. Теплый, сухой ветер с юга создали небольшой анклав, где оливки можно выращивать, и их нефть экспортируется по всему Vlandian земли." />
+    <string id="Settlements.Settlement.text.village_V3_2" text="Rulund сидит возле устья реки Транд. Океан хранит зимы достаточно мягкие, чтобы выращивание оливок, даже так далеко на север." />
+    <string id="Settlements.Settlement.text.village_V3_3" text="Larnac расположен на пологих холмах по нижней части долины Транд. Туман холодный океан утром и песчаные почвы позволяют выращивать прекрасный виноград." />
+    <string id="Settlements.Settlement.text.village_V3_4" text="Palisona сидит на южном побережье залива Ostican. Горячие ветры, которые приходят через океан с Запада весной делают это на удивление хорошая земля для выращивания оливок." />
+    <string id="Settlements.Settlement.text.village_V5_1" text="Furbec сидит с видом бухте на скалистом Biscan побережье Центральной Vlandia. Хотя жители деревни порыбачить, овцы пасутся на прибрежных лугах традиционно ядро региона." />
+    <string id="Settlements.Settlement.text.village_V5_2" text="Meroc-это рыбацкая деревушка недалеко от устья нерв. Селянам собрать хороший улов кефали и бас из солоноватой воды лимана, а также камбалу и моллюсков из соседнего болота." />
+    <string id="Settlements.Settlement.text.village_V5_3" text="Nogrent сидит в уголке Biscan холмов в центральной Vlandia. Региона, с ее мягкими зимами, это земли для выращивания оливок." />
+    <string id="Settlements.Settlement.text.village_V6_1" text="Arromanc сидит на мысе с одноименным названием. Подвергающихся воздействию морских ветров и отсутствия естественной гавани, жители здесь рыбы меньше, чем их соседи. Однако соленые брызги создал обширные прибрежные луга, прекрасные пастбища для овец." />
+    <string id="Settlements.Settlement.text.village_V6_2" text="Двиг сидит на берегу реки нерв в том, что сейчас Vlandian глубинки. Это был премьер-овцеводческой землю назад, когда земля еще была частью Империи, и остается так сегодня." />
+    <string id="Settlements.Settlement.text.village_V6_3" text="Alorstan сидит в теплые зеленые равнины, в самом сердце Vlandian царства, вдоль реки нерв. Оливковые деревья растут в мягком климате." />
+    <string id="Settlements.Settlement.text.village_V6_4" text="Chornad-это рыбацкий поселок, который расположен на берегу закрытой бухты. Морские бризы обеспечивают мягкий климат большую часть года, и сардины, и тунец ловится в теплые океанские течения, подойдя с юга, сразу за мысами." />
+    <string id="Settlements.Settlement.text.village_V7_1" text="Savinth находится в центре сельской местности в лесу только вдали от залива Чарас. Пастбища на фоне сосен, чтобы сделать хорошую территорию для лошадей." />
+    <string id="Settlements.Settlement.text.village_V7_2" text="Деревня Vesin скрывается в расщелине скалы с видом на залив Чарас. Почва здесь каменистая, но хороший для выращивания оливок, основным продуктом в регионе." />
+    <string id="Settlements.Settlement.text.village_V8_1" text="Horsger где, согласно легенде, Хорса воин вышел на берег и посадили его копье на пляже. Сегодня это рыбацкая деревня, обеспечивая его поймать в соседнем городе Ostican." />
+    <string id="Settlements.Settlement.text.village_V8_2" text="Cananc лежит во влажных лесистых холмов Северного Rhennod, где растут кедры высотой в море Туманов. Местные жители, как правило, леса и продают древесину для инженеров и судостроителей побережья." />
+    <string id="Settlements.Settlement.text.village_V8_3" text="Remental видом на залив Ostican, в тени горы Эбор. Возвышающиеся пихты и ели вырастают в туманных предгорьях, поддержание процветающего леспромхоза." />
+    <string id="Settlements.Settlement.text.village_V9_1" text="Алантас сидит в центре гористого полуострова Эбор. Почвы здесь тонок, и погода здесь холодная, но богатые месторождения железной поддерживать местную экономику." />
+    <string id="Settlements.Settlement.text.village_V9_2" text="Halisvust сидит с видом на небольшой залив на полуострове Эбор. Жители опустошили местные прибрежные болота, посадка бывшей водно-болотных угодий с льна и других равнинных культур." />
   </strings>
 </base>

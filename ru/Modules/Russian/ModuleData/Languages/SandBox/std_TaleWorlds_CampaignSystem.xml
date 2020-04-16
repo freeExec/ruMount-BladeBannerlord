@@ -2432,7 +2432,6 @@
     <string id="sMFdChlr" text="Вас отказал продавца. Товар остался с вами." />
     <string id="SN3pjZiK" text="Вы получили сообщение от {QUEST_GIVER.LINK}.    &quot;Спасибо за зачистку бандитского гнезда. Пожалуйста примите {REWARD} денар с нашей благодарностью.&quot;" />
     <string id="sn4CiYVj" text="Нет штрафов к метанию во время движения." />
-    <string id="sn4CiYVj" text="Никакого штрафа за бросок во время движения." />
     <string id="Sn9a1Aba" text="два мертворожденных младенца" />
     <string id="SNH3PagC" text="Увеличить скорость изучения новых конструкций деталей при плавке на 100%." />
     <string id="snSBfQkV" text="Подвиги" />
@@ -2584,7 +2583,6 @@
     <string id="UEn466Y6" text="Вы успешно вывели войска {QUEST_GIVER.LINK}, и получили {REWARD} gold в обмен на ваши услуги." />
     <string id="ueUsg9OL" text="Я могу передать товары {TARGET_HERO.LINK} в {TARGET_SETTLEMENT}." />
     <string id="ufYwLbZR" text=" Extra 8 hitpoints." />
-    <string id="ufYwLbZR" text=" Extra 8 hitpoints." />
     <string id="uG2Alcat" text="Сложность Игры " />
     <string id="UgfmaQgx" text="Leave {DEFENDER}" />
     <string id="UgvgFTk8" text="Описание: Боевого Навыка Конного Лучника" />
@@ -2668,7 +2666,6 @@
     <string id="vbiA31xT" text="Deserter extortion at {SETTLEMENT}" />
     <string id="vBMBlHxB" text="+0,5 Пищи на пастбищах." />
     <string id="VbRyXBsv" text="Если вы идете в направлении {TARGET_SETTLEMENT}, может быть, вы отведете туда наше стадо? {TARGET_HERO.LINK}. Some villagers will come along as well to help you drive the animals." />
-    <string id="VbU8Ue0O" text="Выждав некоторое время, вы находите хорошую возможность незаметно приблизиться под покровом ночи.{newline}Но вы должны быть осторожны при нападении! Вы будете захвачены в плен и ваш отряд рассеется если вы потерпите поражение!" />
     <string id="VbU8Ue0O" text="Выждав некоторое время, вы находите хорошую возможность незаметно приблизиться под покровом ночи.{newline}Но вы должны быть осторожны при нападении! Вы будете захвачены в плен и ваш отряд рассеется если вы потерпите поражение!" />
     <string id="vbxQoyN3" text="{RANDOM_HIRE_SENTENCE}" />
     <string id="VCREeAF1" text="Замаскироваться и пройти через ворота ({SNEAK_CHANCE}%)" />

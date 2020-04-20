@@ -150,7 +150,7 @@
     <string id="JOELdSab" text="Не хватает средств для улучшения мпстерской. Нужно как минимум {AMOUNT} динаров." />
     <string id="jPBhgu7a" text="Лагерь" />
     <string id="jQdBl4hf" text="Губернатор города " />
-    <string id="JTxI3sW2" text="{TARGET_SETTLEMENT} находится в осаде." />
+    <string id="JTxI3sW2" text="Взять в осаду {TARGET_SETTLEMENT}." />
     <string id="Jyfkahka" text="{VALUE} ({?POSITIVE}+{?}{\?}{DELTA_VALUE})" />
     <string id="JYOcl7Ox" text="Неэффективно!" />
     <string id="JzrodcIR" text="В вашем клане нет подходящего человека, который мог бы управлять этим поселением." />
@@ -228,7 +228,7 @@
     <string id="QyVbwGLp" text="{PARTY_SIZE}" />
     <string id="qZvNIVGV" text="В вашем клане нет никого,кто мог бы возглавить отряд." />
     <string id="R2AaCaPJ" text="Ожидает" />
-    <string id="Ra17aK4e" text="Столица: " />
+    <string id="Ra17aK4e" text="Капитал: " />
     <string id="Raa4j4rF" text="Требуется: {UPGRADE_ITEM}" />
     <string id="RClxLG6N" text="Ждёт" />
     <string id="redwEIlW" text="Интендант" />

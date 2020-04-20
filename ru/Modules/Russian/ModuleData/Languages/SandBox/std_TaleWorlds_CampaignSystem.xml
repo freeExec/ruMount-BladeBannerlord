@@ -2099,7 +2099,7 @@
     <string id="PIukmFYA" text="You decided not to get involved in all of this and left village. You have failed to help {QUEST_GIVER.LINK} as promised." />
     <string id="pj3frf8g" text="This companion's {LEADERSHIP_SKILL} skill level is not enough for this quest." />
     <string id="pJBz7hhl" text="Собери своих людей, у нас есть другая работа!" />
-    <string id="PJMbfSPJ" text="You have {NUMBER} new prisoners to recruit." />
+    <string id="PJMbfSPJ" text="У вас {NUMBER} новых пленных желающие присоединиться." />
     <string id="PjtkgIuR" text="Меньше потери боевого духа во время осад." />
     <string id="pKquYFTX" text="Создатель стали I" />
     <string id="PLbxHyPu" text="Она варьирует. Мне кажется, что у меня прекрасные глаза для оценки выкупа. Есть с десяток мелочей о человеке, которые подскажут, ложится ли он спать голодным, или приправляет своё мясо с перцем гвоздикой с востока. Конечно, настоящие деньги - в аристократии, и если вам захочется, делать мою работу, вам потребуется узнать о каждом из помещичьей семье или племенном вожде в Кальрадии, их поместьях, их отпрысков как законных, так и нет, и, конечно же, их кредит с торговцами." />
@@ -2309,7 +2309,7 @@
     <string id="rLlIVqmY" text="Итак, после битвы вы схватили пару пленных и вам нужно куда-то их деть, чтобы не мешались. Тут то я и мои коллеги будем рады заплатить вам за них." />
     <string id="RlP8aYVJ" text="Никто сейчас не ищет помощи." />
     <string id="RLPWmTT7" text="+4 К размеру отряда." />
-    <string id="rlqjkZ9Q" text="You have {NUMBER} new perks available for selection." />
+    <string id="rlqjkZ9Q" text="У вас {NUMBER} новых перков доступных для выбора." />
     <string id="rMagXCrI" text="Вам не хватает влияния, чтобы снять обвинения." />
     <string id="RmE4mLT4" text="Плотный Захват" />
     <string id="RMpv7FIh" text="+1 влиянию, если вы правитель." />
@@ -2610,7 +2610,7 @@
     <string id="Uoy2tTZJ" text="Хорошо. Но, возможно, вы передумаете позже." />
     <string id="upK62aLR" text="позволив лордам за проезд по дорогам проходит через их земли" />
     <string id="uPwKhAps" text="Мы можем уйти сейчас?" />
-    <string id="uq7JwT1Z" text="Trade penalty Reduction +{a0}%" />
+    <string id="uq7JwT1Z" text="Штраф на торговлю понижен на +{a0}%" />
     <string id="UqDNAZqM" text="Перестать ждать" />
     <string id="uQgNPJnc" text="Управлять Войсками" />
     <string id="UQhRKJb9" text="Игнорировать обвинения" />
@@ -2618,7 +2618,7 @@
     <string id="UqzavawD" text="Спутник Кавалерист" />
     <string id="ur5ciriu" text="Если вы возглавляете осаду, любой отряд, выходящий или входящий, обязан вступить в бой первым." />
     <string id="UrFzdy4z" text="Ежедневное Потребление" />
-    <string id="usDb8iRM" text="You need to have some experience in {SKILL_NAME}..." />
+    <string id="usDb8iRM" text="Ты должен быть более продвинут в {SKILL_NAME}..." />
     <string id="USr9wWR6" text="{ROBBERY_START_FIGHT}[if:idle_angry][ib:very_negative]" />
     <string id="UsuOXc25" text="Спасибо. Показать тех смутьянов, что закон есть закон." />
     <string id="Ut85C0dJ" text="Это Облава" />
@@ -2630,7 +2630,7 @@
     <string id="UUN43F43" text="{FIRST_NAME} the Goat" />
     <string id="UuSstgt8" text="Эта деревня имеет товары." />
     <string id="uvCoauKI" text="Слушай, ты не плохой человек. Просто оставьте царском саду и я буду убеждаться, что твои преступления будут забыты." />
-    <string id="UW1roOES" text="Вы должны обсудить этот вопрос с {REDIRECT_HERO_RELATIONSHIP}, who speaks for our family." />
+    <string id="UW1roOES" text="Вы должны обсудить этот вопрос с {REDIRECT_HERO_RELATIONSHIP}, кто говорит от лица нашей семьи." />
     <string id="uW7jNpaT" text="Скрытое Лезвие" />
     <string id="UwEbBanm" text="Таковы законы нашего города. Ремесленники не жалуйтесь, когда законы требуют от нас, чтобы купить от них." />
     <string id="uwjjqEob" text="{QUEST_GIVER.LINK}, a gang leader from {QUEST_GIVER_SETTLEMENT}, has offered you to sell {STOLEN_GOOD_AMOUNT} units of stolen {STOLEN_GOOD} for half the normal price. {?QUESTGIVER.GENDER}She{?}He{\?} says once you go to another town, selling them won't be an issue. You agreed to buy." />

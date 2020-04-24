@@ -224,6 +224,7 @@
     <string id="QlbkxoSp" text=" {TOOLTIP_TROOPS} ({PARTY_SIZE})" />
     <string id="qRqnrtdX" text="Владелец" />
     <string id="qSi4DlT4" text="Еда" />
+    <string id="QSPrSsHv" text="No Saddle!" />
     <string id="QXBf26Rv" text="Неизвестное свойство" />
     <string id="QyVbwGLp" text="{PARTY_SIZE}" />
     <string id="qZvNIVGV" text="В вашем клане нет никого,кто мог бы возглавить отряд." />
@@ -278,6 +279,7 @@
     <string id="vOojEcIf" text="Нельзя назначить пленника в качестве нового лидера отряда" />
     <string id="Vq8yavES" text="Уже в армии." />
     <string id="VtWa9Pmh" text="Совершает набег на {TARGET_SETTLEMENT}." />
+    <string id="VzCoqt8D" text="No sadle equipped. -10% penalty to mounted speed and maneuver." />
     <string id="VZjxs5Dt" text="Владелец " />
     <string id="W1tsTWZv" text=" {PARTY_MEMBER.LINK} ({MEMBER_HEALTH}%)" />
     <string id="w8Yzf0F0" text="Уничтожено" />

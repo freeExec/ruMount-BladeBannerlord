@@ -579,6 +579,7 @@
     <string id="FbcC2loc" text="Вы потеряли сознание, Ваш противник выигрывает!" />
     <string id="fd35ahzV" text="&lt;b&gt;Огненная Баллиста&lt;/b&gt;{NEWLINE}Стреляет болтами с наконечниками, смоченными в смоле.{NEWLINE}Они наносят огненный урон вражеским осадным орудиям и деревянным конструкциям, а также наносят смертельный урон по солдатам." />
     <string id="FD9abtTo" text="Если Вы поставите 100&lt;img src=&quot;Icons\Coin@2x&quot;&gt; и выиграете, то получите {NORMALIZED_EXPECTED_GOLD}&lt;img src=&quot;Icons\Coin@2x&quot;&gt;" />
+    <string id="FdTd3yIx" text="Changes you made cannot be applied. Do you want to reset and change the screen?" />
     <string id="fEqd7jXj" text="{EFFECT_NAME}: +{NUM}" />
     <string id="fEu5S6Bd" text="Расстояние" />
     <string id="fEXuXAl1" text="Мораль армии: {ARMY_MORALE}{newline}{ARMY_MORALE_ITEMS}" />
@@ -1313,6 +1314,7 @@
     <string id="TvmDFK6o" text="{REWARD}" />
     <string id="TVQXa0y0" text="Битва выиграна!" />
     <string id="Txbga7js" text="Вы столкнулись с битвой между {ATTACKER} и {DEFENDER}" />
+    <string id="Txbga7jx" text="Defenders make sally out to siege camp you are inside" />
     <string id="TxeKpK3Y" text="Ваши отношения с {HERO.NAME} увеличивается на {MAGNITUDE} до {VALUE}." />
     <string id="tXl9REtA" text="Ополчение {SETTLEMENT_NAME}" />
     <string id="Tyc4aAdz" text="Вступить в бой без помощи." />

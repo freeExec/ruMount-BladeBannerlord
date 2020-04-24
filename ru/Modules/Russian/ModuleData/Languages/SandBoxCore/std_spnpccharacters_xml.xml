@@ -7,6 +7,7 @@
     <string id="0GKH29JG" text="Наемная Стража" />
     <string id="0GkJB08d" text="Стургийская Ветеранская Стража Каравана" />
     <string id="0Xku0LQD" text="Стургианский Крестьянин" />
+    <string id="1gAasy1t" text="Lake Rat Veteran" />
     <string id="1PsLlMaQ" text="Имперский Эквит" />
     <string id="1sJcKkVP" text="Стража" />
     <string id="1WfDVpya" text="Стургианский Лучник" />
@@ -23,6 +24,7 @@
     <string id="5JFkQn5U" text="Лучник Ветеран Кузаитского Ополчения" />
     <string id="6C3OMP1X" text="Баттанийский Разведчик" />
     <string id="6hhspFvz" text="Ветеранская Стража Кузаитского Каравана" />
+    <string id="6j9iJMRr" text="Lake Rat Recruit" />
     <string id="6oc7CXbI" text="Асерайский Фарис Ветеран" />
     <string id="6UFEfIJV" text="Кузаитский Копейщик Пехотинец" />
     <string id="79ElOr2x" text="Торговец Лошадьми" />
@@ -48,7 +50,6 @@
     <string id="afhXdjBU" text="Кочевник" />
     <string id="AlmaRAib" text="RuralNotableNotary" />
     <string id="AloMryIU" text="Вландийский Легкий Кавалерист" />
-    <string id="ansW4mx2" text="Асерайская Горожанка" />
     <string id="AoFZUbun" text="Асерайский Фарис Авангард" />
     <string id="arb5nRri" text="Асерайский Дикарь" />
     <string id="AssCCFew" text="Наёмный Всадник" />
@@ -57,9 +58,9 @@
     <string id="B4ls6R2b" text="Асерайский Мастер Лучник" />
     <string id="b4QPaEnA" text="Лучник Баттанийского Ополчения" />
     <string id="B7oI7AZG" text="Кузаитский Стражник Хана" />
-    <string id="baAQDdE5" text="Вландийская Горожанка" />
     <string id="BBJKgKj2" text="Стургианский Рекрут" />
     <string id="BbTpfJ7G" text="Дрантон" />
+    <string id="BC5YGna3" text="Lake Rat Wrecker " />
     <string id="bFyidmyK" text="Sturgia preset" />
     <string id="bHx8jaeI" text="Воин" />
     <string id="bLMGbLF8" text="PreacherNotary" />
@@ -200,7 +201,6 @@
     <string id="pzmgMODE" text="Стургийская Стража Каравана" />
     <string id="q7b4pQc9" text="Матерый Волк" />
     <string id="q7VeZazL" text="Баттанийский Застрельщик" />
-    <string id="Q7wFotYV" text="Баттанийский Горожанка" />
     <string id="qAsnj7vU" text="Имперский Элитный Менавлиатон" />
     <string id="qAvxmnav" text="Jawwal Бедуин" />
     <string id="QbSjMefR" text="Вландийский Караванщик" />
@@ -210,7 +210,6 @@
     <string id="QGPAEtj7" text="Варяг Ветеран" />
     <string id="QhNpvW0Y" text="Кузаитский Торгууд" />
     <string id="QlVeZvbv" text="Асерайская Ветеранская Стража Каравана" />
-    <string id="qMqRkvWu" text="Стургийский Горожанка" />
     <string id="qMYpZKWo" text="Принципы" />
     <string id="QNKfXvuA" text="Имперский Signifier" />
     <string id="Qo2cc7bF" text="Скен" />
@@ -262,7 +261,6 @@
     <string id="uzwfybTH" text="Кузаитский Пехотнец" />
     <string id="V1hoeBch" text="Мастер Бандит" />
     <string id="V7iJlSuT" text="меч на меч" />
-    <string id="V8GrFH4B" text="Кузаитский Горожанка" />
     <string id="v8hRrmY2" text="Баттанийский Вооруженный Торговец" />
     <string id="VbWtdAWn" text="Стургианский Закоренелый Разбойник" />
     <string id="vGFdbjFC" text="Ветеран Копейщик Вландийского Ополчения" />
@@ -273,7 +271,6 @@
     <string id="vZlMfmng" text="Асерайский Мамелюк Воин" />
     <string id="W2WXkiAh" text="Посредник По Выкупу" />
     <string id="w6YwFaG7" text="Кузаитский Копейщик" />
-    <string id="WbH2HS8j" text="Имперская Горожанка" />
     <string id="WEHDGbEE" text="Кузаитский Караванщик" />
     <string id="WJbOQSiT" text="Асерайский Мамелюкский Воин" />
     <string id="WNU7kE5N" text="Ветеран Страж" />

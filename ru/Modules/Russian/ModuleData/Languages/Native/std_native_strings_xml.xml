@@ -42,7 +42,6 @@
     <string id="4Dd2xgPm" text="Вес" />
     <string id="4PrfimcK" text="Знак" />
     <string id="4wLU6s4S" text="Живот" />
-    <string id="5anoN5EJ" text="Отточить свои боевые навыки в этом хаотичном и классическим командном режиме игры против других игроков." />
     <string id="5LpufKs7" text="За мной" />
     <string id="5mSKBidd" text="Форма носа" />
     <string id="5odwu8qB" text="Место" />
@@ -111,7 +110,6 @@
     <string id="CjPiabbn" text="Огонь" />
     <string id="CJr1T7jh" text="Пароль администратора" />
     <string id="cK5DE88I" text="Н/Д" />
-    <string id="CKtZ7bES" text="Достигните предела командных очков или наберите больше очков, чем команда противника, до окончания игры." />
     <string id="Cl3TziQE" text="Лошади нанесено {DAMAGE} урона при падении." />
     <string id="CoxEyDa8" text="Перчатка" />
     <string id="cPbHqGrI" text="Кикнуть игрока" />
@@ -150,6 +148,7 @@
     <string id="G1HobbjU" text="Битва капитанов" />
     <string id="g6cHDWJF" text="Голова" />
     <string id="GaF4CvmX" text="Резкость лица" />
+    <string id="GcosVDAt" text="Assist Count" />
     <string id="gFmkNiTo" text="Занять позицию" />
     <string id="GnKCsV44" text="Длина подбородка " />
     <string id="GoEo27il" text="Период возрождения атакующих" />
@@ -182,6 +181,7 @@
     <string id="JetpbYv9" text="Испортить" />
     <string id="JPimShCw" text="Тип игры" />
     <string id="jsqyGWGu" text="Процент прироста золота защитников" />
+    <string id="jukzZmBb" text="Earn gold and points by killing enemies and assisting your teammates as you race against the opposing team to victory." />
     <string id="jUsEkEBt" text="Челюсти, асимметрия" />
     <string id="jvOYgHOe" text="Заказ" />
     <string id="JW2nEe4X" text="Урон по своим в ближнем бою" />
@@ -216,6 +216,7 @@
     <string id="NE7PmH7n" text="Условия" />
     <string id="NqarFr4P" text="Настройки" />
     <string id="nt5MOuwo" text="Дюна" />
+    <string id="nUR7rs6y" text="Jump straight into the action in this medieval take on a classic PvP game mode. " />
     <string id="nXE6eV8W" text="Озеро" />
     <string id="NxeQasMb" text="{SHORTCUT} Огонь" />
     <string id="o5Ead68n" text="Выход без сохранения" />

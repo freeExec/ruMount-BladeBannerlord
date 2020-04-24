@@ -74,7 +74,9 @@
     <string id="DRzsgjsD" text="Я {CONVERSATION_CHARACTER.LINK}, из Дома {CLAN_NAME}, одной из самых выдающихся семей в летописях Империи." />
     <string id="dvpbyoAQ" text="Я о вас слышал. Наконец мы встретились. Знайте, вы говорите как хорош{?PLAYER.GENDER}ая женщина{?}ий мужчина{\?}. Давайте периодически общаться." />
     <string id="DxuuarNT" text="Я знаю ваше имя - и из того, что о вас говорят, я бы сказал, что многие скорбящие вдовы тоже знают. Но это не моя забота." />
+    <string id="EIThhVgG" text="I know your name. It's good to meet." />
     <string id="ELtT9ctL" text="Вы, может быть, знаете о Сколдербродах. На поле битвы нам нет равных. Мы ожидаем, что нам заплатят в соответствии с нашей ценностью, и это недешево, но если мы возьмем вашу монету, вы получите нашу клятву соблюдать условия контракта и до нашей смерти в случае необходимости." />
+    <string id="ETxtYU6C" text="So... You've made quite a name for yourself..." />
     <string id="EXgm5Utx" text="Пусть {?GENDER}она{?}он{\?} живет долго!" />
     <string id="eyxfHmCU" text="Я {CONVERSATION_CHARACTER.LINK}, из {CLAN_NAME}. Наша семья служила королям Вландии в течение поколений." />
     <string id="f2eZL7w5" text="О, я полагаю, я обязан дать вам шанс пожертвовать своей жизнью. В этом случае вы сдадитесь?[ib:warrior][if:idle_angry]" />
@@ -142,6 +144,7 @@
     <string id="Nq2dyiO1" text="Я {CONVERSATION_CHARACTER.LINK}, из {CLAN_NAME}, имя, которое вы много раз услышите в сагах о Стургитах." />
     <string id="nRnbBnFq" text="Что? Ну... я благодарен.[if:happy][rb:very_positive]" />
     <string id="NW1n9k45" text="Кузен." />
+    <string id="o2aKr8JD" text="I've heard your name." />
     <string id="O8wTipT2" text="Спасибо. Когда вы наконец будете побеждены, я буду просить, чтобы ваша смерть была быстрой и милосердной. Если только вы не хотите присоединиться к нам... Пока что, прощайте.[if:happy][rb:very_positive]" />
     <string id="OgzAlCkk" text="Я еще восстанавливаюсь от тумаков что вы мне надавали." />
     <string id="oIrz5050" text="Ваше высочество" />
@@ -152,6 +155,7 @@
     <string id="PhTv43ve" text="Ах, да. Наконец-то мы встретились. Вы говорите, как хорошая женщина. Давайте общаться, время от времени." />
     <string id="pn79h0aj" text="Я {CONVERSATION_CHARACTER.LINK}, из {CLAN_NAME}. Мы получили наш титул от самого Императора Вортиоса. Не то чтобы у него был выбор по этому поводу, так как он был в плену на одном из наших рейдовых кораблей в то время, но я уверен, что он признал благородство нашей крови." />
     <string id="pQkiu5qf" text="Хотите, я дам вам еще одно задание, что бы вы смогли предать меня опять?" />
+    <string id="PQZfXcU1" text="I have heard your name. People speak of your deeds. It is good to finally meet you." />
     <string id="pXULuzaq" text="Я сдаюсь! Ты победил. Будь проклят этот день![rf:angry][rb:trivial]" />
     <string id="pZj9C1yA" text="Да будет это волей небес. Но те, кто проложат этот путь. Будут вознаграждены" />
     <string id="q5nQGimE" text="Я {CONVERSATION_CHARACTER.LINK}, из Дома {CLAN_NAME}. Хотя и не следует слишком гордиться своей семьей, я рад сказать, что мы всегда серьезно относились к нашему долгу по защите простого народа Империи." />

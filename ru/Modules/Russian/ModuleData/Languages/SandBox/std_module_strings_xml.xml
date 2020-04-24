@@ -5,6 +5,7 @@
   </tags>
   <strings>
     <string id="7ZhNilg8" text="Легко (5% бонус)" />
+    <string id="8UBfIenN" text="Normal" />
     <string id="9jSxo790" text="Реалистично" />
     <string id="AQfVclN8" text="Приз" />
     <string id="B0uvwKae" text="Герои могут умереть на поле боя." />
@@ -22,10 +23,12 @@
     <string id="IgeL6qHr" text="Коэффициент получаемого урона своими союзникам, которые не находятся под вашим командованием." />
     <string id="IWD56KMc" text="Скорость передвижения по глобальной карте" />
     <string id="JaHlwYmo" text="Когда вы смотрите на окно информации, вы можете зажать клавишу Alt, чтобы увидеть расширенную версию." />
+    <string id="JMhKt2W1" text="Challenging" />
     <string id="k4CF68S6" text="Мы воздерживаемся" />
     <string id="k71J6bVH" text="Побед" />
     <string id="KbPD5cEw" text="Уменьшен до 1/3 (Очень Легко)" />
     <string id="KM7uAbL8" text="Получаемый игроком урон " />
+    <string id="LfpteADn" text="Determine the difficulty of the combat AI" />
     <string id="mD89ih8N" text="Изменить Название Клана " />
     <string id="N6fz1efb" text="Пропускает обучение в начале игры." />
     <string id="Oea9a5nY" text="Получаемый урон дружественными войсками" />
@@ -35,9 +38,11 @@
     <string id="QzmJL5I7" text="Легко (1 доп.)" />
     <string id="raD9MK3O" text="Сложности" />
     <string id="ReNnVfEn" text="Изменить Название Королевства " />
+    <string id="RjjIbn4V" text="Veteran" />
     <string id="RyNYEVYp" text="{RANK}." />
     <string id="RZFAxCMp" text="Очень легко (10% бонус)" />
     <string id="sp8Kred0" text="Member должен быть в отряде игрока, чтобы сделать это действие." />
+    <string id="sYVFg9ai" text="Combat AI Difficulty" />
     <string id="TZ9ugd1p" text="Автоматически распределять навыки членам клана" />
     <string id="UcgNVM0P" text="Очень легко (2 доп.)" />
     <string id="UfQotsfo" text="Ранг #" />

@@ -579,7 +579,7 @@
     <string id="FbcC2loc" text="Вы потеряли сознание, Ваш противник выигрывает!" />
     <string id="fd35ahzV" text="&lt;b&gt;Огненная Баллиста&lt;/b&gt;{NEWLINE}Стреляет болтами с наконечниками, смоченными в смоле.{NEWLINE}Они наносят огненный урон вражеским осадным орудиям и деревянным конструкциям, а также наносят смертельный урон по солдатам." />
     <string id="FD9abtTo" text="Если Вы поставите 100&lt;img src=&quot;Icons\Coin@2x&quot;&gt; и выиграете, то получите {NORMALIZED_EXPECTED_GOLD}&lt;img src=&quot;Icons\Coin@2x&quot;&gt;" />
-    <string id="FdTd3yIx" text="Changes you made cannot be applied. Do you want to reset and change the screen?" />
+    <string id="FdTd3yIx" text="Внесенные вами изменения не могут быть применены. Вы хотите сбросить изменения?" />
     <string id="fEqd7jXj" text="{EFFECT_NAME}: +{NUM}" />
     <string id="fEu5S6Bd" text="Расстояние" />
     <string id="fEXuXAl1" text="Мораль армии: {ARMY_MORALE}{newline}{ARMY_MORALE_ITEMS}" />
@@ -1022,7 +1022,7 @@
     <string id="o1MtbgEi" text="Нерешенная проблема" />
     <string id="o2ce7bhY" text="Это мудро с вашей стороны." />
     <string id="O3dhjtOS" text="Шлем" />
-    <string id="o5ho2Txg" text="Army Cohesion" />
+    <string id="o5ho2Txg" text="Сплоченность армии" />
     <string id="O69Vhqxk" text="Так сколько ты собираешься дать нам?" />
     <string id="O6IcvFoO" text="&lt;b&gt;Fire Onager&lt;/b&gt;{NEWLINE}TODO FIRE ONAGER DESC." />
     <string id="o7I8qayN" text="Ха! Нет ничего лучше, чем хорошенько ударить по кишкам, чтобы дать тебе понять, что ты жив, да? Похоже вам удалось победить {OPPONENT_COUNT} противников. Неплохо. Но это не принесет вам никаких призовых денег. А сейчас, я бы на твоем месте вернулся туда и показал всем на что способен..." />
@@ -1314,7 +1314,7 @@
     <string id="TvmDFK6o" text="{REWARD}" />
     <string id="TVQXa0y0" text="Битва выиграна!" />
     <string id="Txbga7js" text="Вы столкнулись с битвой между {ATTACKER} и {DEFENDER}" />
-    <string id="Txbga7jx" text="Defenders make sally out to siege camp you are inside" />
+    <string id="Txbga7jx" text="Защитники делают вылазку в осадный лагерь" />
     <string id="TxeKpK3Y" text="Ваши отношения с {HERO.NAME} увеличивается на {MAGNITUDE} до {VALUE}." />
     <string id="tXl9REtA" text="Ополчение {SETTLEMENT_NAME}" />
     <string id="Tyc4aAdz" text="Вступить в бой без помощи." />
@@ -1453,7 +1453,7 @@
     <string id="WSk5Sibs" text="Сыр" />
     <string id="WSoZkkqD" text="Тюремный охранник" />
     <string id="wtDdqXGW" text="Хорошо, я рад, что вы уважаете наши древние и священные традиции." />
-    <string id="wTEYR4kc" text="You've chosen to pledge your alliance to the {KINGDOM_NAME}!" />
+    <string id="wTEYR4kc" text="Вы решили поклясться в своем союзе с {KINGDOM_NAME}!" />
     <string id="WTR5Lr8W" text="Защитники выиграют, тогда, когда они могут переместить своего короля на любой край доски.{newline}Нападающие выиграют, если они захватят короля, или если они заблокируют перемещения защитников." />
     <string id="wTT3Fyzl" text="сэр" />
     <string id="WusvipsF" text="Недостаточно средств!" />

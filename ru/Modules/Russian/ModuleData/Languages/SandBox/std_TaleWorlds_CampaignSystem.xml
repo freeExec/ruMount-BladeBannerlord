@@ -2036,8 +2036,8 @@
     <string id="oVAtPtsu" text="Расчистить путь! Мы не хотим применять силу!" />
     <string id="ovDbQIo9" text="Организуют фестивали и игры, повышает моральный дух населения." />
     <string id="OVeSBrhv" text="Очень хорошо, я учту это, когда принимаю такие меры." />
-    <string id="Owa28Kpr" text="Я едва знаю тебя, и ты просишь меня поговорить измену?" />
-    <string id="OWwPj500" text="5% от село дохода или инной клан правителя как налог\Н5% меньше деревню дохода для кланов" />
+    <string id="Owa28Kpr" text="Я едва знаю тебя, и ты просишь меня поговорить об измене?" />
+    <string id="OWwPj500" text="5% от село дохода или инной клан правителя как налог\n5% меньше деревню дохода для кланов" />
     <string id="oXY2wnic" text="борьба внутри Господь зале " />
     <string id="oYJCP3mt" text="Вы не смогли остановить дезертиров. Дезертиров опустошают деревни и оставили." />
     <string id="OymbuJCo" text="This companion's {POLEARM_SKILL} skill level is not enough for this quest." />
@@ -2498,7 +2498,7 @@
     <string id="tBx7XXps" text="Типы" />
     <string id="Tcux6Sru" text="You have failed to defeat all {TOTAL_COUNT} {BRIGAND_TYPE} parties in time as {QUEST_GIVER.LINK} has asked. {?QUEST_GIVER.GENDER}She{?}He{\?} is very disappointed." />
     <string id="TdEtKohk" text="Ступень 2 или выше войска, необходимые для этого вопроса!" />
-    <string id="tdvnKIyS" text="Никогда не ум" />
+    <string id="tdvnKIyS" text="Ниочём не думай" />
     <string id="TdwKwExD" text="Спасибо. Вы можете найти караван только за пределами населенного пункта." />
     <string id="tE0u8uoS" text="Крепкий" />
     <string id="tetGlwTx" text=" {PARTY_NAME} финансовая помощь" />

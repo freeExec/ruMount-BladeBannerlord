@@ -275,7 +275,7 @@
     <string id="Ve5jkJqf" text="Автоматическое предложение" />
     <string id="ViYdZUbQ" text="Расформировать Армию" />
     <string id="vLaBJFGy" text=" {PARTY_MEMBER.LINK} ({PARTY_SIZE})" />
-    <string id="Voa0sinH" text="Требуется: {NEEDED_EXP_AMOUNT}опыта (You have {CURRENT_EXP_AMOUNT})" />
+    <string id="Voa0sinH" text="Требуется: {NEEDED_EXP_AMOUNT} опыта (имеется {CURRENT_EXP_AMOUNT})" />
     <string id="vOojEcIf" text="Нельзя назначить пленника в качестве нового лидера отряда" />
     <string id="Vq8yavES" text="Уже в армии." />
     <string id="VtWa9Pmh" text="Совершает набег на {TARGET_SETTLEMENT}." />
@@ -300,7 +300,7 @@
     <string id="xwRWjlar" text="Цвет Знамени: " />
     <string id="xXSFaGW8" text="Расформировать" />
     <string id="XYAVu2f0" text="Преследует {TARGET_PARTY}." />
-    <string id="XzggyCPW" text="This hero is busy." />
+    <string id="XzggyCPW" text="Этот герой занят." />
     <string id="YbGu9rSH" text="Этот персонаж уже является губернатором {SETTLEMENT_NAME}" />
     <string id="ybLA7ZXp" text="Максимум" />
     <string id="YifFZaG7" text="Командир отряда" />

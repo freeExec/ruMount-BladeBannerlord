@@ -937,7 +937,7 @@
     <string id="Mc8ojOGn" text="Очаги" />
     <string id="MciIqod6" text="Диван Лэнс" />
     <string id="mDbaNQay" text="Ездить вперед и пытаться ударить противника!" />
-    <string id="MeQmoYb4" text="You don't have a high enough relation to acquire this troop. {newline} You have {REL1}. You need {REL2}." />
+    <string id="MeQmoYb4" text="У вас не достаточно хорошие отношения, чтобы приобрести этого война. {newline} Текущее {REL1}. Необходимо {REL2}." />
     <string id="MFLAvq4Z" text="Есть бандиты внутри этого места. Вы хотите напасть на них?" />
     <string id="MfnYoLdc" text="Расходы" />
     <string id="MGv4Uabd" text="You bet {BET_AMOUNT} on yourself but you have been defeated." />

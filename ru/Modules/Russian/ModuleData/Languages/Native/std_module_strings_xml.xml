@@ -470,7 +470,7 @@
     <string id="D8Wjbw9K" text="Я попал в плен, но позже смог бежать" />
     <string id="D9WJXQ9Z" text="Отклонять" />
     <string id="DaE0N37L" text="Знать" />
-    <string id="DaX6bsaD" text="{CLAN_PARTY_NAME} is attacked by {ENEMY_PARTY_NAME} near {SETTLEMENT_NAME}" />
+    <string id="DaX6bsaD" text="{CLAN_PARTY_NAME} атакован {ENEMY_PARTY_NAME} недалеко от {SETTLEMENT_NAME}" />
     <string id="dbdliaP3" text="моя жена {REFERING_HERO.LINK}" />
     <string id="DbHLHwkX" text="Плавить" />
     <string id="DBU4VaIl" text="Фракция Бандитов " />

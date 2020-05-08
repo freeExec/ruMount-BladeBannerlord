@@ -332,7 +332,7 @@
     <string id="6kaia5qP" text="Отдайте мне все ваши товары!" />
     <string id="6kJ31qut" text="Да, некоторые люди испытывают нехватку денег в наши дни. Они собрали стадо в {ANIMAL_COUNT_TO_DELIVER} {HERD_TYPE_TO_DELIVER} для продажи в {TARGET_SETTLEMENT}. Но эти люди бедны. Совсем не бойцы, и они не могут позволить себе охрану. Если они пойдут туда сами. то будут легкой добычей для бандитов." />
     <string id="6kjacaiB" text="Я надеюсь, что смогу принести на эту землю мир и справедливость и смогу облегчить страдания людей." />
-    <string id="6kn630ka" text="Правитель клана клана получает 100 динаров в день за каждый город в королевстве\nЛояльность поселений уменьшается на 1 в день" />
+    <string id="6kn630ka" text="Правитель клана клана получает 100 динаров в день за каждый город в королевстве{newline}Лояльность поселений уменьшается на 1 в день" />
     <string id="6kqK0kUn" text="Нет необходимости обороняться. Патрулировать местность." />
     <string id="6L0hggoy" text="Вы решили не принимать указ, позволяющий ремесленникам торговать." />
     <string id="6L1b1nJa" text="О, у меня длинный список счетов. Вы можете быть уверены в этом." />
@@ -1635,7 +1635,7 @@
     <string id="KhUkmIrH" text="Доставить стадо в {TARGET_SETTLEMENT}" />
     <string id="KiOpHjZP" text="Ваш клан в состоянии войны с фракцией {QUEST_GIVER.LINK}. Ваше соглашение с {QUEST_GIVER.LINK} отменено." />
     <string id="kiOst6DH" text="Империя" />
-    <string id="kIVfA5cv" text="Клан правителя получает 5% налогов от поселения, как налог за город .Производство мастерских уменьшается на 10%" />
+    <string id="kIVfA5cv" text="Клан правителя получает 5% налогов от поселения, как налог за город{newline}Производство мастерских уменьшается на 10%" />
     <string id="Kj2Frbox" text="Дополнительный Урон" />
     <string id="Kj58KWaE" text="HopliteFightingSkills Description" />
     <string id="kJwpbptU" text="Ну, постарайся держаться ближе ко мне все время и попытаться выучить как можно больше." />
@@ -2038,7 +2038,7 @@
     <string id="ovDbQIo9" text="Организуют фестивали и игры, повышает моральный дух населения." />
     <string id="OVeSBrhv" text="Очень хорошо, я учту это, когда принимаю такие меры." />
     <string id="Owa28Kpr" text="Я едва знаю тебя, и ты просишь меня поговорить об измене?" />
-    <string id="OWwPj500" text="5% от село дохода или инной клан правителя как налог\n5% меньше деревню дохода для кланов" />
+    <string id="OWwPj500" text="5% дохода деревни уходит в клан правителя как налог{newline}5% меньше дохода с деревни для кланов" />
     <string id="oXY2wnic" text="борьба внутри Господь зале " />
     <string id="oYJCP3mt" text="Вы не смогли остановить дезертиров. Дезертиров опустошают деревни и оставили." />
     <string id="OymbuJCo" text="This companion's {POLEARM_SKILL} skill level is not enough for this quest." />
@@ -2821,7 +2821,7 @@
     <string id="WO3EaqB3" text="Как я могу помочь вам?" />
     <string id="WoAgHDrN" text="Я забираю вас одним способом или другим." />
     <string id="WOBy5UfY" text="Отдавайте товары или умрите!" />
-    <string id="wodLHjnh" text="You or one of your companions with some {ALTERNATIVE_TROOP_AMOUNT} men should do the job. Either way I am willing to pay you {REWARD}{GOLD_ICON}. I doubt they'd stand up long to real warriors." />
+    <string id="wodLHjnh" text="Вы или один из ваших спутников с покрайней мере {ALTERNATIVE_TROOP_AMOUNT} людьми должен выполнить эту работу. В любом случае я готов заплатить вам {REWARD}{GOLD_ICON}. Я сомневаюсь, что они долго продержатся пред настоящими войнами." />
     <string id="wOKF17ta" text="I gave an oath to {CURRENT_LIEGE.LINK} - though no oath binds me to serve a weak leader who'll take us all down." />
     <string id="WOn05IP5" text="Loveless {NAME}" />
     <string id="wOVPr6vY" text="{NAME} the Famous" />

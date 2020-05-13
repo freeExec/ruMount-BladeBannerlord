@@ -304,7 +304,7 @@
     <string id="AkUpgiBl" text="Уровень {TIER_LEVEL}" />
     <string id="alEG3BOa" text="Ваши отношения с {CLAN_LEADER} увеличились на {MAGNITUDE} до {VALUE}." />
     <string id="alMmQrhK" text="Боевой дух отряда" />
-    <string id="AmbKQ7LT" text="Трансфер" />
+    <string id="AmbKQ7LT" text="Перемещение" />
     <string id="AMhvD9om" text="Командующий Армией " />
     <string id="anHqaNK0" text="королева" />
     <string id="anrHk7ea" text="{PARTY} собирается атаковать врагов. Вы присоединитесь к {?ARMY_COMMANDER_GENDER}ней{?}нему{\?} со своими войсками." />
@@ -1519,7 +1519,7 @@
     <string id="y8Catvvn" text="Оружие дальнего боя III" />
     <string id="Y94H6XnK" text="Принять" />
     <string id="Y9egTJg0" text="Итого" />
-    <string id="yaxwYglT" text="Отправляется" />
+    <string id="yaxwYglT" text="На задании" />
     <string id="YbabzW3H" text="Вы находитесь под заключением в {SETTLEMENT_NAME} {NUMBER_OF_DAYS} {?PLURAL}суток{?}день{\?}." />
     <string id="YbB2IpTR" text="Ваши отношения с {HERO.NAME} уменьшены на {MAGNITUDE} до {VALUE}." />
     <string id="yBnwGiuB" text="Лорд" />

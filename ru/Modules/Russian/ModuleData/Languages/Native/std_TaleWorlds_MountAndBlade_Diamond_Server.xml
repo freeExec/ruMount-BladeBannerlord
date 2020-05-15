@@ -6,11 +6,13 @@
   <strings>
     <string id="0W4dgUho" text="Заблокирован игрой до {BANNEDUNTIL}, по причине: {BANREASON}" />
     <string id="2xOyWxIo" text="Игрок не состоит в отряде." />
+    <string id="3EOP6yhO" text="You have been kicked by anti-cheat. Reason: {KICKREASON}" />
     <string id="4XDu4Qcd" text="Только лидер отряда может исключать игроков." />
     <string id="5kgkZo2o" text="Игрок которого вы пытаетесь исключить, не состоит в отряде!" />
     <string id="91cJB1tP" text="Игрок {INVITEDPLAYER} уже состоит в отряде." />
     <string id="aFQa3pQt" text="Вы должны находиться в лобби, чтобы назначать игроков." />
     <string id="ah4Pm8wU" text="Вы должны находиться в лобби, чтобы распустить отряд![Временно]" />
+    <string id="AIgw3aFG" text="Cannot queue to battle because some of the players are blocked from matchmaking." />
     <string id="bcdU2DHW" text="Игрок {INVITEE} получил приглашение в отряд от {INVITER}." />
     <string id="bivF3RXY" text="Нельзя назначать самого себя!" />
     <string id="BwBR7TJB" text="В вашем отряде никого не осталось и он был распущен!" />
@@ -31,12 +33,14 @@
     <string id="nw7r2S5z" text="Отключенные игровые режимы: {GAMETYPES}." />
     <string id="OByu0fjQ" text="Невозможно начать сражение, пока все игроки не будут готовы." />
     <string id="olLwOWf8" text="Невозможно начать сражение, потому что не все игроки используют античит." />
+    <string id="P0aRStg4" text="Cannot queue to battle because you are blocked from matchmaking." />
     <string id="p5K0ATtZ" text="Не удалось завершить старую сессию." />
     <string id="pehfmZvM" text="Игрок {PLAYERNAME} назначен лидером отряда." />
     <string id="Pn13ZKwI" text="Отряд расформирован!" />
     <string id="Rj8RhD7F" text="Ошибка!" />
     <string id="Tauk2JzA" text="Несовпадение версий игры, Версия сервера: {SERVERVERSION} - Ваша версия: {CLIENTVERSION}." />
     <string id="TpBDiSBp" text="{PLAYERNAME} назначен лидером отряда." />
+    <string id="UMNzrvvJ" text="You are blocked from matchmaking for {PUNISHMENTDURATION} seconds." />
     <string id="VDDm5bqb" text="Вы можете приглашать только игроков, использующих античит." />
     <string id="w8WiqZT3" text="Чтобы вступить в отряд или начать игру, античит должен быть запущен!" />
     <string id="wNubP2BF" text="Только лидер отряда может начать сражение." />

@@ -174,7 +174,6 @@
     <string id="6SFktFH3" text="Средние Доспехи" />
     <string id="6Xl9F8Oa" text="Магазины в городе" />
     <string id="6XYG7bux" text="Вы собираетесь потратить {AMOUNT}{INFLUENCE_ICON}" />
-    <string id="6z2a8bgF" text="&lt;b&gt;Onager&lt;/b&gt;{NEWLINE}TODO ONAGER DESC." />
     <string id="72Rasm5f" text="У нас нет ничего - ни серебра, ни товаров." />
     <string id="77aNVVE0" text="Бонус Известности " />
     <string id="77SdNt8C" text="Ваш оппонент построил барьер против вас, а у вас осталось меньше пешек. Вы проиграли!" />
@@ -196,7 +195,6 @@
     <string id="7llkDelg" text="Решения Королевства " />
     <string id="7mRN2br0" text="Командование формацией было передано герою {HERO_NAME}." />
     <string id="7MWaMaez" text="Вот что у нас есть: {ITEM_LIST}. Забирайте все это, но оставьте нас вживых." />
-    <string id="7nNi6vnV" text="Герои niceTODO_TODO_TODO_TODO_TODO_TODo_todo_todo_todo_todo_todo_todo_todo_todo_todo_todo_todo_todo_todo_todo" />
     <string id="7oJ9gIeT" text="У торговца не хватает денег." />
     <string id="7sUhWG0E" text="Колющий Урон: " />
     <string id="7sZMMYbe" text="Минорные Фракции" />
@@ -458,7 +456,6 @@
     <string id="CthDdsb6" text="Победитель" />
     <string id="cThSwxbP" text="Нельзя казнить заключенных не героев" />
     <string id="CXUXk5ai" text="имперцы" />
-    <string id="CXZAakQ3" text="&lt;b&gt;Огненная Катапульта&lt;/b&gt;{NEWLINE}TODO FIRE CATAPULT DESC." />
     <string id="cyPGadJ6" text="Автоматическое Развертывание" />
     <string id="CyTa1Z5d" text="{TEXT} [{HOTKEY}]" />
     <string id="CZqZGAVB" text="Бартер-предложение отклонено!" />
@@ -892,7 +889,6 @@
     <string id="lfkwsa5f" text="След" />
     <string id="lfMgaBiJ" text="Пускай это стоит нашего времени, чтобы не убить тебя." />
     <string id="Lg3zeoYi" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}защищают{?}защищает{\?} {#IS_LEFT}{#}левый{#}несколько{\#}{?IS_MIDDLE}центральный{?}{\?}{?IS_RIGHT}правый{?}{\?} фланг{#IS_LEFT}{#}{#}ов{\#}." />
-    <string id="lGTHPRP8" text="Классные посе- посе- п-п-*неразборчивый бред шизофреника*" />
     <string id="lh1yhgXw" text="Снаряжение Лошади V" />
     <string id="lihYjOSc" text="шт." />
     <string id="lj8XH6O7" text="Сейчас нет доступа к меню королевства!" />
@@ -943,7 +939,6 @@
     <string id="MfnYoLdc" text="Расходы" />
     <string id="MGv4Uabd" text="You bet {BET_AMOUNT} on yourself but you have been defeated." />
     <string id="mGWrSJLE" text="Вы не можете распустить армию, пока она в карте." />
-    <string id="MH6ebguQ" text="Блоки niceTODO_TODO_TODO_TODO_TODO_TODo_todo_todo_todo_todo_todo_todo_todo_todo_todo_todo_todo_todo_todo_todo" />
     <string id="MHJCuM3N" text="Стой! Вашей внешней ноги на этой священной земле оскорбить наших предков. Что мы будем делать с этим?" />
     <string id="mieKgbp8" text="Ежедневный Темп Стрельбы" />
     <string id="mIt6k9Rs" text="{ATTACKER} is {STATE} {DEFENDER}" />
@@ -1005,7 +1000,6 @@
     <string id="nNDdo3I9" text="Одноручный Меч" />
     <string id="nnr8sANN" text="{PARTY_LIST_TAG}({COUNT} + {WEAK_COUNT}р)" />
     <string id="nNRKCYpR" text="Земли вокруг поселения" />
-    <string id="NNxRRbaq" text="Ты хочешь вступить в мой клан giveaway?TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO" />
     <string id="NnZ5w9zm" text="{NUM1} ({NUM2})" />
     <string id="NqarFr4P" text="Настройки" />
     <string id="NQbqtEqP" text="Цена: {COUNT}" />
@@ -1025,11 +1019,9 @@
     <string id="O3dhjtOS" text="Шлем" />
     <string id="o5ho2Txg" text="Сплоченность армии" />
     <string id="O69Vhqxk" text="Так сколько ты собираешься дать нам?" />
-    <string id="O6IcvFoO" text="&lt;b&gt;Fire Onager&lt;/b&gt;{NEWLINE}TODO FIRE ONAGER DESC." />
     <string id="o7I8qayN" text="Ха! Нет ничего лучше, чем хорошенько ударить по кишкам, чтобы дать тебе понять, что ты жив, да? Похоже вам удалось победить {OPPONENT_COUNT} противников. Неплохо. Но это не принесет вам никаких призовых денег. А сейчас, я бы на твоем месте вернулся туда и показал всем на что способен..." />
     <string id="O8TpGSDA" text="Бархат" />
     <string id="O9xpd5bn" text="баронесса" />
-    <string id="obHSBrTV" text="Фракции niceTODO_TODO_TODO_TODO_TODO_TODo_todo_todo_todo_todo_todo_todo_todo_todo_todo_todo_todo_todo_todo_todo" />
     <string id="ObTSCxra" text="Вассал" />
     <string id="OBXNbvkK" text="Когда вы пытаетесь заставить селян отдать вам припасы, некоторые жители собираются противостоять вам. Битва с ними приведет к войне с {KINGDOM}." />
     <string id="OCGaTxac" text="Призовой Фонд Турнира " />
@@ -1210,7 +1202,6 @@
     <string id="RGqPxabq" text="Репутация" />
     <string id="RiXlbtfl" text="к" />
     <string id="RiZ9lNAe" text="Уровень стены" />
-    <string id="rjf2HVhf" text="&lt;b&gt;Бриколь&lt;/b&gt;{newline}TODO BRICOLE DESC." />
     <string id="RjgBIYvH" text="&lt;b&gt;Улучшенный таран&lt;/b&gt;{newline}Используется для разрушения ворот. Лучше, чем обычный." />
     <string id="RJJ1Pbjk" text="Наемник {FACTION}" />
     <string id="RKyiu5MH" text="Возможно мы можем заключить сделку." />
@@ -1596,7 +1587,6 @@
     <string id="ZlJIpfWg" text="Бонус скорости: {SPEED_BONUS}%." />
     <string id="ZMdOAbTd" text="Атакующие" />
     <string id="zMMqgxb1" text="Тип: " />
-    <string id="ZMmuaC7a" text="&lt;b&gt;Катапульта&lt;/b&gt;{NEWLINE}TODO CATAPULT DESC." />
     <string id="zN9iNaIW" text="Ограбить деревню" />
     <string id="zNekjGmR" text="Набираем В Плен" />
     <string id="zNEvBr6R" text="Ваша очередь" />

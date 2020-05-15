@@ -14,6 +14,7 @@
     <string id="e0KdfaNe" text="Сохранить как" />
     <string id="EzeFJo65" text="Вы были отключены от сервера!" />
     <string id="hvaDkG4w" text="Нажмите любую клавишу." />
+    <string id="HzWaGn3y" text="Not all players are running the game with Anti-cheat" />
     <string id="InGwtrWt" text="Выйти" />
     <string id="ivKntfNA" text="Запрос на вход уже отправлен, ожидаем ответ от сервера" />
     <string id="IzJ7f5SQ" text="Сервер полон" />
@@ -30,6 +31,8 @@
     <string id="srAJw3Tg" text="Игрок забанен на сервере" />
     <string id="T8IniCKU" text="Игровой сервер не доступен" />
     <string id="tKSxGy5p" text="Сервер не отвечает" />
+    <string id="tlsmbvQX" text="Not all players are ready to join" />
+    <string id="TR1B2RWB" text="You are kicked from game by anti-cheat" />
     <string id="vkpMgobZ" text="Ошибка игрового сервера " />
     <string id="wbFB3N72" text="Вы были выгнаны в результате голосования" />
     <string id="wLpJEkKY" text="Критическая ошибки Battle Server" />

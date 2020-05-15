@@ -306,7 +306,7 @@
     <string id="JLqe3lrb" text="Сложность боевого ИИ" />
     <string id="JLtTANZg" text="Движение влево" />
     <string id="JmlrVqFz" text="Экипировать оружие 2 DESC" />
-    <string id="jOGbGqOC" text="Enable Vertical Aim Correction" />
+    <string id="jOGbGqOC" text="Включить вертикальную коррекцию прицеливания" />
     <string id="JP1y1i0A" text="Экипировать оружие 4" />
     <string id="Js1lhJkk" text="Язык" />
     <string id="Ju6btXsv" text="Показывать направление атаки" />
@@ -492,7 +492,7 @@
     <string id="tkCbjgfx" text="Numpad -" />
     <string id="TOebahlA" text="Ускорить время на глобальной карте" />
     <string id="TPEUvYDt" text="Правый стик вправо" />
-    <string id="TRmaxjal" text="Enable vertical aim correction while in third person mode." />
+    <string id="TRmaxjal" text="Включите вертикальную коррекцию прицеливания в режиме третьего лица." />
     <string id="ttCcMbwO" text="Стрелка вверх" />
     <string id="TtusHm10" text="Медленнее" />
     <string id="TtWjblNo" text="Переключения" />

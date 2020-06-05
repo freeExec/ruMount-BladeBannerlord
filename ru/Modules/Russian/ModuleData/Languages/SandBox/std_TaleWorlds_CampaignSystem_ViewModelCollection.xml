@@ -22,7 +22,6 @@
     <string id="345a87fcc69f626ae3916939ef2fc135" text="Скорость Взмаха: " />
     <string id="3CpNUnVl" text="Отменить" />
     <string id="3F0y3ugx" text="Успех!" />
-    <string id="3ORSs1nN" text="Текущий бонус: {BONUS}" />
     <string id="3sxtCWPe" text="Покинуть Королевство" />
     <string id="43HYUImy" text="{SETTLEMENT} находится в осаде" />
     <string id="4cU98rkg" text="Переплавка" />
@@ -48,6 +47,7 @@
     <string id="8SOh9bah" text="Выбор производства" />
     <string id="92M0Pb5T" text="Разведчики" />
     <string id="94aHU6nD" text="Суточная прибыль: " />
+    <string id="9i0wnjJK" text="L-II : {BONUS}" />
     <string id="9slDj5wr" text="Изменить производство" />
     <string id="a241aacb1780599430c79fd9f667b67f" text="Спутников: " />
     <string id="a8nRxITn" text="В плену у {PARTY_NAME}" />
@@ -60,7 +60,6 @@
     <string id="armorTier" text="Класс экипировки: " />
     <string id="aROohsat" text="Является членом в другой армии." />
     <string id="aTdrjrEh" text="{SWING_DAMAGE_FACTOR}" />
-    <string id="aVH7pKnK" text="Следующий бонус: {BONUS}" />
     <string id="AxRxT2Xj" text="После роспуска армии, все ее бойцы примкнут к отряду союзника или отправятся в близжайшее союзное поселение,что бы вступить в гарнизон. Этот приказ нельзя будет отменить. Вы точно уверены,что хотите сделать это?" />
     <string id="B0pFBs5P" text="Бежит от {TARGET_PARTY}" />
     <string id="bAqDnkaT" text="Missile Speed" />
@@ -205,11 +204,13 @@
     <string id="PDdh1sBj" text="Название" />
     <string id="Pdo7PpS3" text="{TASK_NAME} {CURRENT_PROGRESS}/{TARGET_PROGRESS}" />
     <string id="PHkC8Gia" text="Продать" />
+    <string id="PJZ8QYgA" text="L-I : {BONUS}" />
     <string id="pkbUiKFJ" text="В настоящее время сражается с врагом." />
     <string id="POjDNVW3" text="Ковка" />
     <string id="PpbopMjT" text="Передать всех пленников" />
     <string id="pqfz386V" text="Лидер клана " />
     <string id="PRE5RKpp" text="Вы должны немного отдохнуть, прежде чем снова сможете заняться этим." />
+    <string id="pRP2sOWP" text="L-III : {BONUS}" />
     <string id="PS02CqPu" text=" {PARTY_MEMBER.LINK} (Health: {MEMBER_HEALTH}%)" />
     <string id="Pvx4TU66" text="Передать все войска" />
     <string id="pWfadZg9" text="Отряды в армии" />

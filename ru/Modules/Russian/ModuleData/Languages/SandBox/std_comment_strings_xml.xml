@@ -7,6 +7,7 @@
     <string id="02FaqhzI" text="Я слышал о вас. Про вас говорят хорошие вещи. Давайте общаться время от времени. Дружба с кем-то вроде меня может быть весьма выгодной для кого-то вроде вас." />
     <string id="0etg1Q9l" text="Многие из моих людей, отдали свои жизни на службе у {FIRST_NAME}. И я не услышу что их преданность и жертвы были не напрасны" />
     <string id="1jUa8olQ" text="Я не ожидаю, что вы сдадитесь, но я дам вам шанс сделать это. [ib:warrior][if:idle_angry]" />
+    <string id="1MPxKtue" text="Is this important? I'm rather busy right now." />
     <string id="22a9fyiQ" text="Отец" />
     <string id="27KUtWGA" text="Вы справились с заданием, которое я вам дал. Я благодарю вас." />
     <string id="2FWBCCw0" text="Сестра" />
@@ -22,6 +23,7 @@
     <string id="5ZfjV7hS" text="Довольно! Сегодня ты, победил, тварь! Какой позор![rf:angry][rb:trivial]" />
     <string id="62vceTar" text="Я {CONVERSATION_CHARACTER.LINK}, из {CLAN_NAME}." />
     <string id="6acfbHiE" text="Я запишу ваше имя. Но вы должны заслужить мое доверие, незнакомец, потому что мир - коварное место, и это коварное время." />
+    <string id="6l8ty6Dr" text="Pleasure to meet you." />
     <string id="6LlDlGSb" text="Верховная Королева Баттании" />
     <string id="6UBdsXlo" text="Возможно, однажды мы увидимся на поле боя. Вы узнаете Гулям по великолепию наших скакунов и мерцанию нашей стали. Если мы на вашей стороне, вы можете радоваться. Если мы ваш враг, вы можете избавить себя от многих неприятностей, сбежав до начала боя." />
     <string id="7lWtkqHv" text="Я запомню ваше имя." />
@@ -33,6 +35,7 @@
     <string id="8WLSZRZc" text="Хорошо. Что вы предлагаете?" />
     <string id="8x8kVUGX" text="Отстаивайте права бедных и кротких, вдов и сирот, и Небеса примут это к сведению." />
     <string id="99gE1ZoY" text="Я {CONVERSATION_CHARACTER.LINK}, из {FACTION}." />
+    <string id="9uH1NdsT" text="You're a handsome devil, aren't you? Bet you're a load of trouble, though." />
     <string id="9ZHhYooG" text="Помните, как я победил вас, один на один? Вы вернулись за добавкой?" />
     <string id="a55SAS18" text="У нас преимущество над вами. Сдавайтесь, и с вами будут хорошо обращаться.[ib:warrior][if:idle_angry]" />
     <string id="a5LChqbr" text="Простому народу этих земель нужен кто-то, кто будет присматривать за ними. Вот где наше Братство необходимо. Вы услышите, что нас называют бандитами или грабителями. Не верьте ни единому слову." />
@@ -128,6 +131,7 @@
     <string id="L2PFxbD3" text="Итак ... Не так давно вы предали мое доверие. Нам действительно есть что обсудить?" />
     <string id="LBb7YgXU" text="Законный Император Кальрадии" />
     <string id="LbpdzoRd" text="Я {CONVERSATION_CHARACTER.LINK}, из Дома {CLAN_NAME}. Наша семья сотояла в Сенате и с честью выполняла свои обязанности с первых дней существования Империи." />
+    <string id="lcPeNFTN" text="I am glad to meet you." />
     <string id="LEZKgNEm" text="Я никогда не слышал о вас. Без сомнения, вы еще один стервятник что прибыл на эту землю, чтобы растолстеть на остатках войны." />
     <string id="lI8rPjEd" text="За кого вы меня принимаете? За интригана? Всему, что вы предлагаете, лучше быть честным." />
     <string id="LkVCTVMx" text="Я благодарю вас за то, что вы сделали для меня. Вы сдержали свое слово. Не все так надежны в наши дни." />
@@ -187,6 +191,7 @@
     <string id="tOanKs9o" text="Я {LIEGE_TITLE}." />
     <string id="tUa5WBpp" text="Законная Императрица Кальрадии" />
     <string id="TUwY7IKc" text="Да... вы действительно уделали меня. Не уверен, что нам есть о чем поговорить, после этого." />
+    <string id="TvqjhDaQ" text="So, my young lion. You have the look of someone who may go far, if they don't wind up dead." />
     <string id="Tvy4UvJC" text="Королева Владнии" />
     <string id="TzPC5L5X" text="Я всегда ищу хороших бойцов. Если вы спросите обо мне, я подозреваю, что вам скажут, что я хорошо забочусь о своих людях." />
     <string id="U4p70l9B" text="Я {CONVERSATION_CHARACTER.LINK}, военачальник Кузаитов." />
@@ -205,6 +210,7 @@
     <string id="WbAAkcbw" text="Это большая честь познакомиться с вами, Миледи." />
     <string id="WFwoWAic" text="Я сдаюсь! Сдаюсь! Отзовите своих![rf:angry][rb:trivial]" />
     <string id="WH8P3Y5F" text="Я {CONVERSATION_CHARACTER.LINK}, верный вассал {LIEGE_TITLE}." />
+    <string id="WnxA6JQl" text="Good to meet you. Look, one thing I value is that people keep their word, so deal straight with me and I'll deal straight with you." />
     <string id="wrIYDx9V" text="Я свободен? Что ж... Тогда, прощайте.[if:happy][rb:very_positive]" />
     <string id="Wt4iJPcd" text="Я слышал о вас! Очень приятно, наконец, с вами познакомиться." />
     <string id="WVeS3Lsb" text="Не стремитесь к вещам этого мира, но жаждите божественной истины." />

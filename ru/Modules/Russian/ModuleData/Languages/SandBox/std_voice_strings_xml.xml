@@ -29,7 +29,9 @@
     <string id="axO6JCWt" text="С вашего позволения... приостановитесь пожалуйста. Хотелось бы узнать ваше имя." />
     <string id="ay0tHozl" text="Да? Тогда уж кто вы?" />
     <string id="AYeRBAxA" text="Так. Не подходите больше. Уж простите, но быть осторожным никому не помешает. Хотелось бы узнать ваше имя." />
+    <string id="aZeMzNXf" text="Yeah? You want something from me? Who're you?" />
     <string id="B05S6Fw4" text="Кто вы и что вам нужно?" />
+    <string id="B0YYHX47" text="Yes? You need something from me? Who are you?" />
     <string id="b9DEXqta" text="Остановись там. Правильно... Так, мы немного посовещаемся. Только попробуй что-нибудь выкинуть, и мои ребята тебя прикончат." />
     <string id="bI4IbX25" text="{STR_SALUTATION}... Что ж... Много времени прошло с тех пор, как я положил на вас глаз. Не сказал бы, что сильно переживал." />
     <string id="BXpMYumQ" text="Ну... Прости меня, давний приятель, если не могу пожелать тебе &quot;мира&quot;. Судьба сама решит, как ей надо." />
@@ -37,6 +39,7 @@
     <string id="CdHlFmue" text="Назовите мне ваше имя. Прошу прощения если мы встречались раньше и я этого не помню, ибо многих воинов здесь повстречал, которые потом ловко оказывались в могиле." />
     <string id="CEKlT71P" text="Что ж. Вот и всё. Похорони меня достойно, если я паду от твоего меча, в ином случае я сделаю то же самое с тобой. Есть ещё что сказать?" />
     <string id="CiquaIVy" text="Похоже, что твои же грехи еще не вернулись к тебе. Уж поверь, рано или поздно они так и сделают..." />
+    <string id="cOEodlOB" text="You wanted to see me for something?" />
     <string id="cXQm4Wba" text="Постойте... Если вы уважительно отнесетесь к условиям переговоров, то тогда я вас выслушаю." />
     <string id="d6LHL0Fj" text="Кажется, вас поймали, и так удачно вышло, что поймал вас именно я." />
     <string id="DwqTbXhg" text="Так-так-так... Если мои расчеты верны, то думаю у тебя есть шанс к концу дня встретиться со своими предками." />
@@ -53,6 +56,7 @@
     <string id="h6g4OQqT" text="Приостановитесь-ка. Теперь... Скажите мне ваше имя перед тем как мы скрестим мечи." />
     <string id="hAbpAkIw" text="{STR_SALUTATION}... Думаю удача отвернулась от тебя." />
     <string id="hbvuSLB0" text="Что ж. Мы здесь. Когда-то я думал, что дружба священна, но в конце концов все священное оскверняется. Не думайте, что если мне будет нужно убить вас, я этого не сделаю." />
+    <string id="hW0ce7Nd" text="Welcome, stranger, to my little kingdom here. Who might you be?" />
     <string id="iNYLG9P1" text="Я очень зол на вас. Как-то чересчур много времени прошло с вашего последнего визита." />
     <string id="IU3KjVbT" text="Стой на месте. Кто такой?" />
     <string id="j6p0K0s6" text="{STR_SALUTATION}. Я к вашим услугам." />
@@ -69,12 +73,12 @@
     <string id="LNhUaIoB" text="Всё верно. Вы. Готовьтесь ко всему, что близится к вам." />
     <string id="LRpsEe3F" text="{STR_SALUTATION}... Приятно вас видеть." />
     <string id="lvScVM9T" text="Побыстрее, пожалуйста. Времени и так нет." />
-    <string id="M5HVzG5S" text="{STR_SALUTATION}... Давненько не виделись." />
     <string id="mcNlccCF" text="Хм? Не думаю, что знаю вас. Мир вам, странник." />
     <string id="mHjnRrLk" text="Не буду отрицать, что будет приятно посмотреть на то как ты корчишься от боли и истекаешь кровью на песке" />
     <string id="mkFfE4Pm" text="Так, ни шагу больше. Кто вы?" />
     <string id="n5Va4JVo" text="Ах, хорошо. Справедливость видно назначила меня её палачом. Неравнодушен ты к мечу иль неравнодушен ты к петле?" />
     <string id="nESnaBbx" text="Миледи... Вы как всегда прекрасны." />
+    <string id="nFPrHMdU" text="Eh. Wine here tastes like piss. Anyway, what do you want?" />
     <string id="nOMhLR63" text="{STR_SALUTATION}... Вы как всегда прекрасны." />
     <string id="Ny7o14yZ" text="Назови своё имя. Всегда предпочитал узнать кого собираюсь убить." />
     <string id="NZ9E0KVb" text="Вы и так знаете, что я нейтрально отношусь к вам. Так что вы там хотели сказать?" />
@@ -108,6 +112,7 @@
     <string id="UW9Pexaq" text="{STR_SALUTATION}. Я в вашем полном распоряжении. Позвольте мне написать вашу волю на страницах истории кровавыми чернилами. Или еще что-нибудь, что вам может понадобиться..." />
     <string id="vvkBHcAL" text="Я не знаю тебя. Полагаю следует представиться." />
     <string id="vyeEx182" text="{STR_SALUTATION}...Я не хочу с тобой драться. Но я сделаю это, друг мой. Сделаю..." />
+    <string id="wAAdnzKD" text="Peace to you, stranger, though if you come any closer I may stick a knife in your belly, as one cannot be too careful these days." />
     <string id="WAK8lSaW" text="Ну что ж, всего хорошего. Так кто же вы такой?" />
     <string id="wIXmtKa5" text="Какой приятный сюрприз! Сейчас я вдоволь наслажусь. Есть что сказать, прежде чем я отдам приказ атаковать?" />
     <string id="wzhYA3XN" text="{STR_SALUTATION}... Я не знаю, что мы должны сказать друг другу." />
@@ -119,6 +124,7 @@
     <string id="YGAYp0pO" text="Что? Извините, но не думаю, что мы знакомы." />
     <string id="YJvvaeDq" text="{STR_SALUTATION}... Молите небеса о пощаде, а я не собираюсь вас жалеть." />
     <string id="YubrUiab" text="{STR_SALUTATION}... Я вижу, ты все еще жив. Жаль." />
+    <string id="YzBDQ8J3" text="So... Just so you know, this here is my turf. Now, who might you be?" />
     <string id="Z2bRJhTh" text="{STR_SALUTATION}... Если ты сегодня умрешь, то даю слово, твои подвиги не будут забыты." />
     <string id="z3zTyNru" text="Подойди еще ближе, незнакомец, и я воткну тебе нож в живот. Но если вы останетесь там, где находитесь, мы сможем довольно приятно поболтать." />
     <string id="ZBjXh6cA" text="Остановитесь, путник. Я желаю вам мира. По крайней мере, пока не выясню, кто вы." />

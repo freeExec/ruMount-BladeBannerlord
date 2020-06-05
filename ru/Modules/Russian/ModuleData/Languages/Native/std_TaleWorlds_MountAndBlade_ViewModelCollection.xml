@@ -4,14 +4,12 @@
     <tag language="Русский" />
   </tags>
   <strings>
-    <string id="0647tsif" text="Профиль" />
     <string id="06V7fEV4" text="Нажмите ESC, чтобы вернуться" />
     <string id="2Q6Mm9Jo" text="Настройка геймпада" />
     <string id="2zcrC0h1" text="Геймплей" />
     <string id="3CpNUnVl" text="Отменить" />
     <string id="3CsACce8" text="Выход" />
     <string id="4Dd2xgPm" text="Вес" />
-    <string id="4NaOKslb" text="-" />
     <string id="4OGDnOVE" text="с {OPPONENT_NAME}" />
     <string id="5baU17n0" text="В настоящее время матчмейкинг отлючен" />
     <string id="5k4dxUEJ" text="Войска" />
@@ -26,9 +24,11 @@
     <string id="74PKmRWJ" text="Перевернуть" />
     <string id="7qySRF2T" text="Пинг" />
     <string id="8nJFaJio" text="Пароль" />
+    <string id="9jdHEa0N" text="Friend Requests" />
     <string id="AaAcmalE" text="Вы были приглашены присоединиться в команду" />
     <string id="aalbxe7z" text="Размер армии, установить параметр количества ботов в формирование {OPTION_VALUE}" />
     <string id="aB4Md0if" text="Есть игроки" />
+    <string id="abxndmIh" text="Social" />
     <string id="ahiBhAqU" text="Броня" />
     <string id="aO3avkK9" text="Матчмейкинг отключен" />
     <string id="ApD0xQXT" text="{STR1}: {STR2}" />
@@ -112,6 +112,7 @@
     <string id="NJolh9ye" text="Последние игры" />
     <string id="NLKmdNbt" text="Поиск" />
     <string id="NqarFr4P" text="Настройки" />
+    <string id="nqYaiEo2" text="My Badges" />
     <string id="NUSH5bJu" text="{EXPERIENCE} очков до следующего уровня" />
     <string id="oBbiVeKE" text="Здоровье" />
     <string id="oHaWR73d" text="ОК" />
@@ -135,6 +136,7 @@
     <string id="RCuCoVgd" text="РАУНД ВЫИГРАН" />
     <string id="RfXJdNye" text="Игроки" />
     <string id="rg7OuWS2" text="Манёвр" />
+    <string id="rLozutts" text="Request Friendship" />
     <string id="RNgWFLIO" text="Режущий урон" />
     <string id="Rzor6tbG" text="Скины" />
     <string id="S2bKbhTc" text="АВТОМАТИЧЕСКИЙ ПОИСК ИГРЫ" />
@@ -164,6 +166,7 @@
     <string id="wGjQgQlY" text="Следующая игра начнётся через:" />
     <string id="WiNRdfsm" text="Выполнить" />
     <string id="wkIVxzV6" text="Перезапустить" />
+    <string id="wnMT7R0K" text="Pending Requests" />
     <string id="WOQZBmMx" text="Сервера" />
     <string id="wTtyFa89" text="ИГРАТЬ" />
     <string id="wuKqRvc3" text="Игра: {GAME_TYPES}  |  Регион: {REGIONS}" />

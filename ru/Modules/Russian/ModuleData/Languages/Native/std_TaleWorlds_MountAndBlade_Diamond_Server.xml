@@ -5,11 +5,13 @@
   </tags>
   <strings>
     <string id="0W4dgUho" text="Заблокирован игрой до {BANNEDUNTIL}, по причине: {BANREASON}" />
+    <string id="0y5Noakb" text="You have accepted the friend request" />
     <string id="2xOyWxIo" text="Игрок не состоит в отряде." />
     <string id="3EOP6yhO" text="Вы были кикнуты анти-читом. Причина: {KICKREASON}" />
     <string id="4XDu4Qcd" text="Только лидер отряда может исключать игроков." />
     <string id="5kgkZo2o" text="Игрок которого вы пытаетесь исключить, не состоит в отряде!" />
     <string id="91cJB1tP" text="Игрок {INVITEDPLAYER} уже состоит в отряде." />
+    <string id="963x2S0a" text="Friend has been removed" />
     <string id="aFQa3pQt" text="Вы должны находиться в лобби, чтобы назначать игроков." />
     <string id="ah4Pm8wU" text="Вы должны находиться в лобби, чтобы распустить отряд![Временно]" />
     <string id="AIgw3aFG" text="Нельзя стоять в очереди на бой, потому что некоторые игроки заблокированы от сватовства." />
@@ -17,34 +19,46 @@
     <string id="bivF3RXY" text="Нельзя назначать самого себя!" />
     <string id="BwBR7TJB" text="В вашем отряде никого не осталось и он был распущен!" />
     <string id="caMylVF7" text="Чтобы вступить в сражение, вам нужно выбрать режим." />
+    <string id="d4eShU5x" text="{PLAYER} accepted your friend request" />
+    <string id="dabogDDj" text="You are already friends" />
+    <string id="dDF2wZGu" text="{PLAYER} declined your friend request" />
     <string id="E2ILp86t" text="Вы не можете начать сражение, потому что ваш регион недоступен." />
     <string id="efpifbtd" text="Вы должны находиться в лобби, чтобы приглашать игроков в свой отряд!" />
     <string id="emx7txM9" text="Назначать игроков может только лидер отряда." />
     <string id="fD2SyeA7" text="Вы не можете приглашать себя." />
     <string id="GZXVxl3E" text="{PLAYERNAME} отключился. Инвайт в отряд отменен." />
     <string id="i5ZTTTZw" text="Игрок {INVITEDPLAYER} не в лобби." />
+    <string id="jl8MYbLR" text="Your friend request is forwarded to {PLAYER}." />
     <string id="jP2hUg7H" text="Вы не состоите в отряде!" />
+    <string id="KCtYUaag" text="You have already sent a request" />
     <string id="kY2oXMng" text="Не удалось войти." />
     <string id="l6a9vI9z" text="Приглашать игроков может только лидер." />
     <string id="mcAG0eHJ" text="Вы должны находиться в лобби, чтобы выгнать кого-то из вашего отряда![Временно]" />
     <string id="MepGBJMQ" text="Не удалось найти игрока, которого вы пытались повысить" />
     <string id="mvQKpHXH" text="Ваш отряд полон." />
+    <string id="n1MdWtck" text="You are now friends with {PLAYER}" />
     <string id="nJ7aEkRt" text="{PLAYERNAME} Пригласил вас в отряд." />
+    <string id="nQWwqDmn" text="You have received a friend request from {PLAYER}" />
     <string id="nw7r2S5z" text="Отключенные игровые режимы: {GAMETYPES}." />
     <string id="OByu0fjQ" text="Невозможно начать сражение, пока все игроки не будут готовы." />
+    <string id="oFfMEy1S" text="Friend request cannot be found" />
     <string id="olLwOWf8" text="Невозможно начать сражение, потому что не все игроки используют античит." />
     <string id="P0aRStg4" text="Нельзя стоять в очереди на битву, потому что вы заблокированы от сватовства." />
     <string id="p5K0ATtZ" text="Не удалось завершить старую сессию." />
     <string id="pehfmZvM" text="Игрок {PLAYERNAME} назначен лидером отряда." />
     <string id="Pn13ZKwI" text="Отряд расформирован!" />
+    <string id="qoto9N7y" text="Friend cannot be found" />
     <string id="Rj8RhD7F" text="Ошибка!" />
+    <string id="SIT1tREw" text="You cannot add yourself as friend" />
     <string id="Tauk2JzA" text="Несовпадение версий игры, Версия сервера: {SERVERVERSION} - Ваша версия: {CLIENTVERSION}." />
     <string id="TpBDiSBp" text="{PLAYERNAME} назначен лидером отряда." />
     <string id="UMNzrvvJ" text="You are blocked from matchmaking for {PUNISHMENTDURATION} seconds." />
     <string id="VDDm5bqb" text="Вы можете приглашать только игроков, использующих античит." />
     <string id="w8WiqZT3" text="Чтобы вступить в отряд или начать игру, античит должен быть запущен!" />
     <string id="wNubP2BF" text="Только лидер отряда может начать сражение." />
+    <string id="Xb6TEi3o" text="You have declined the friend request" />
     <string id="xMa4QqvL" text="Сейчас в отряде состоят следующие игроки: {PLAYERS}" />
+    <string id="YF0irfDl" text="Player cannot be found" />
     <string id="ysfEQO6c" text="Не получилось найти игрока" />
     <string id="zyDyPr4I" text="Игрок, которого вы пытаетесь повысить, не состоит в вашем отряде." />
   </strings>

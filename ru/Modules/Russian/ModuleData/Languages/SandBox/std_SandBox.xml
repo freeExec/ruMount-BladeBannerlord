@@ -22,7 +22,6 @@
     <string id="0WgYomR5" text="Спасибо. Я не могу гарантировать, что я бы сделал то же самое для вас, но я благодарю вас." />
     <string id="0wTZx8EC" text="You don't seem trustworthy. I have no interest in your offer." />
     <string id="0xnRstRX" text="Я клянусь, {LORD.LINK}." />
-    <string id="0YIdXQFU" text="Пусть Небеса защитят и направлят вас." />
     <string id="0YJGvJ7o" text="Вы должны уйти сейчас." />
     <string id="108Dchvt" text="Стоп, нам больше не нужно ссориться. Мы не будем ссориться с тобой, так как справедливость восторжествовала." />
     <string id="17dbbXjt" text="Что ты и твои люди делаете? (У1)" />
@@ -75,6 +74,7 @@
     <string id="3CpNUnVl" text="Отменить" />
     <string id="3hEmXhaW" text="Я {PLAYER.NAME}. Давайте пропустим любезности и перейдем сразу к делу." />
     <string id="3hv4P5OO" text="Не хотите ли вы скоротать время с игрой в {GAME_NAME}?" />
+    <string id="3INC3Thi" text="If you need me, you know where to find me." />
     <string id="3JGRrENx" text="Да будет так. Поехали.{AMOUNT}{GOLD_ICON}" />
     <string id="3Kgxtyth" text="Заплатите и мастерская будет открыта в ближайшее время. Мы должны приобрести некоторые инструменты и организовать рабочих." />
     <string id="3L8xN9uC" text="Думаю, не так уж и много времени прошло с тех пор, как нас в последний раз беспокоили." />
@@ -113,6 +113,7 @@
     <string id="5aDlmdmb" text="Нет... Нет. Это не имеет смысла." />
     <string id="5ajobQiL" text="Какую роль ты имеешь в виду?[ib:normal][rb:unsure]" />
     <string id="5akTbqNs" text="Я буду ждать тебя снаружи, капитан." />
+    <string id="5ANh9qVW" text="Farewell for now. Walk the path of the righteous, and the Heavens will protect you." />
     <string id="5bbvuAFf" text="Что вы предлагаете?" />
     <string id="5bRQ0gt7" text="Сколько людей тебе нужно для этого? За каждого человека я хочу 100{GOLD_ICON}." />
     <string id="5bza9sDs" text="Мне очень жаль это слышать. Вы не найдете лучшего места, чем  {FACTION_NAME}, будьте в этом уверены." />
@@ -157,6 +158,7 @@
     <string id="79yyTwvu" text="Мне не интересно, спасибо." />
     <string id="7a3cGmFg" text="Я приложу все усилия, чтобы обслужить вас как можно лучше." />
     <string id="7AiP4BwY" text="О чем тут говорить? Этот ублюдок убил моего родича, и мы имеем право отомстить ему!" />
+    <string id="7b6yzkig" text="Always a please, m'lady. Keep safe." />
     <string id="7B7BhVhV" text="Давайте посмотрим, что вы придумали..." />
     <string id="7bBfNRVS" text="Итак. В чём дело?" />
     <string id="7bETSEg5" text="Я {?PLAYER.GENDER}готова{?}готов{\?}, {LORD.LINK}." />
@@ -184,6 +186,7 @@
     <string id="8gmne3b9" text="Не для меня, сэр, нет. Я подслушал, как кто-то говорил о таких вещах с другим купцом. Я помню его, потому что рядом с ним был этот мерзкий меч." />
     <string id="8hNYr2VX" text="Я просто проходил мимо." />
     <string id="8lOCOcXw" text="Твоё слово направляет удар моего меча и полёт моей стрелы..." />
+    <string id="8Mx8gMmw" text="One other small thing... I've had to take some money from some fairly dangerous people around here. I'll need {GOLD_AMOUNT}{GOLD_ICON} to get that beast off my back. Do you reckon you can pay me that?[rb:trivial]" />
     <string id="8N3cs42a" text="Итак... Суть в том, что {NOTABLE.LINK} стремится сократить свои расходы на {SHOP_TYPE}. Говорят, что {?NOTABLE.GENDER}она{?}он{\?} занижает зарплату своих работников." />
     <string id="8NDuezga" text="Я разговаривал {RANDOM_RELATIVE}, о том, здесь можно купить {ITEM_NAME} по дешевке и отвезти {TOWN_NAME}. На этом можно заработать {PRICE_DIFF}{GOLD_ICON} прибыли за единицу товара" />
     <string id="8OkPHu4f" text="Нет" />
@@ -191,12 +194,14 @@
     <string id="8UBfIenN" text="Нормальный" />
     <string id="8UyOJNhU" text="Спасибо. Приятно снова быть {?PLAYER.GENDER}свободной{?}свободным{\?}." />
     <string id="8VlqJteC" text="Я просто пошутил. Я нуждаюсь в тебе как никогда. А теперь возвращайся к своей работе." />
+    <string id="8wdzSgfZ" text="If you have work for me, we could discuss it." />
     <string id="8XM8CHIm" text="шурин" />
     <string id="90ROmHcV" text="Очень хорошо. Следуйте за нами." />
     <string id="90YOVmcG" text="Всего хорошего." />
     <string id="92sbq1YY" text="Я не ребенок, {?PLAYER.GENDER}леди{?}сир{\?}! Берите оружие! Я вызываю Вас на дуэль!" />
     <string id="94WRYoQp" text="{?QUEST_GIVER.GENDER}Леди{?}Лорд{\?} {QUEST_GIVER.LINK} из {QUEST_SETTLEMENT} {?QUEST_GIVER.GENDER}рассказала{?}рассказал{\?} вам о слухах о шпионе, замаскированном среди участников турнира. Вы согласились разобраться с ситуацией самостоятельно. {QUEST_GIVER.LINK} считает, что шпион выдает себя за участника турнира в городе {QUEST_SETTLEMENT}." />
     <string id="96HnpbF8" text="Приятного вам дня, сир." />
+    <string id="9804jwU1" text="It was a pleasure, sir. I hope to see you again some time soon.[rb:positive]" />
     <string id="99OsuHGa" text="Я найду то, что вы ищете." />
     <string id="9ACJsI6S" text="Заблокировано" />
     <string id="9b2BETct" text="Я уже решил. Не ждите, что я поверю вам." />
@@ -205,8 +210,10 @@
     <string id="9d3tffnL" text="Нам не нужны наемники, чтобы победить в этой войне. Попытайте удачу где-нибудь в другом месте." />
     <string id="9DDWjL9Y" text="Хм... может быть.... может быть... Но я не могу вспомнить, кто именно. Мне не показалось это подозрительным." />
     <string id="9eLyeU7M" text="Конечно, босс, это будет стоить нам  {COST}{GOLD_ICON}, хочешь продолжить?" />
+    <string id="9g6FB5Y7" text="There are some townspeople who've looked after me here, made sure I was fed and that. I'd like to give them something before I go. Could I ask for {GOLD_AMOUNT}{GOLD_ICON} as an advance?[rb:trivial]" />
     <string id="9GAxQCJg" text="Вернуть их все." />
     <string id="9Jm0AnJO" text="Только верные вассалы {FACTION_LEADER} могут владеть землями и замками.  Вы понимаете, что простому наемнику нельзя доверять такую ответственность. Однако, прослужив некоторое время, ты можешь заслужить право присягнуть {FACTION_LEADER} и стать его вассалом. Тогда ты будешь вознагражден владением." />
+    <string id="9kHU4AMD" text="Great. Going to need some money in advance though - {GOLD_AMOUNT}{GOLD_ICON}. Can you pay?[rb:trivial]" />
     <string id="9mBy0qNW" text="Мне нужно идти." />
     <string id="9O8a1Yz8" text="Я слышал на рынке, что {NOTABLE.LINK} нанимает к себе на работу в {SHOP_TYPE}. {?NOTABLE.GENDER}Она{?}Он{\?} хорошо относится к своим работникам" />
     <string id="9PBA2OJz" text="А вот и {?HERO.GENDER}она{?}он{\?}. [rb:trivial]" />
@@ -330,6 +337,7 @@
     <string id="boAcQxVV" text="Ты нарушаешь закон." />
     <string id="boXF9dvD" text="{ALLEY_GREETING}" />
     <string id="bQ8CxZIy" text="Ну, это будет стоить вам {COST}{GOLD_ICON}. Вы будете платить?" />
+    <string id="BQjAAo9f" text="Right now I'm looking for work, if you have anything to offer." />
     <string id="bSo9hKwr" text="{PERSUASION_OPTION_LINE} {SUCCESS_CHANCE}" />
     <string id="bsUVDLXa" text="Я {CONVERSATION_HERO.FIRSTNAME}, торговец {LOCATION_STRING}. {BUSINESS_STRING}" />
     <string id="BsXNJHCu" text="До встречи.[rb:positive]" />
@@ -379,7 +387,6 @@
     <string id="CuFvVPNt" text="У меня есть предложение, которое может принести пользу нам обоим." />
     <string id="CVClzSC7" text="Я полагаю, что вы уже принесли клятву другому сеньору." />
     <string id="CX6JHwbB" text="Да? В чем дело?[rb:positive]" />
-    <string id="cZBjV3At" text="Пусть духи предков присмотрят за тобой." />
     <string id="cZptYTYd" text="Ну... Вокруг города много товаров, которые могут принести хорошие деньги, если их продать. Созданный вами караван сделает это за вас. Вам нужно заплатить как минимум {AMOUNT}{GOLD_ICON}, чтобы нанять охранников для формирования каравана, и вам нужен один спутник, чтобы вести их." />
     <string id="D0xDRqvm" text="{PERSUASION_REACTION}" />
     <string id="D25oY3j1" text="Спасибо, {?PLAYER.GENDER}миледи{?}сир{\?}. Спасибо, за вашу доброту и понимаеие. Мы не забудем об этом." />
@@ -411,7 +418,6 @@
     <string id="DO2RO5Ju" text="Я {CONVERSATION_HERO.FIRSTNAME}. Люди знают меня, как {CONVERSATION_HERO.LINK}. Это, в своем роде, выражение уважения ко мне, и я хочу, чтобы ты знал об этом.{MINOR_FACTION_ADDENDUM}[rb:trivial]" />
     <string id="dOdp1aKA" text="Вы не смогли найти шпиона и попытались убить невинного человека, {QUEST_GIVER.LINK} {?QUEST_GIVER.GENDER}разачорована{?}разачарован{\?}." />
     <string id="DOKcia5B" text="Я {CONVERSATION_HERO.FIRSTNAME}. Люди знают меня, как {CONVERSATION_HERO.LINK}. Так они показывают свое уважение ко мне.[rb:trivial]" />
-    <string id="DozxiALN" text="Очень хорошо. До свидания.[rb:trivial]" />
     <string id="dpTHWqwv" text="Это вы, {?PLAYER.GENDER}та несчатная женщина, которая убеждена{?}тот несчастный мужчина, который убежден{\?}, что сможет решить вопросы жизни и смерти, не имеющие к {?PLAYER.GENDER}ней{?}нему{\?} никакого отношения?" />
     <string id="DQBaaC0e" text="Есть ли что-нибудь еще?" />
     <string id="DqSSCVNi" text="STUB: Великолепно." />
@@ -439,6 +445,7 @@
     <string id="eaPcNqWR" text="Вы правы, {LORD_SALUTATION}. Мое место здесь." />
     <string id="EASiM8NU" text="У вас не хватает динаров для изменения производимых товаров." />
     <string id="Eb7KG1bi" text="{HERO.LINK} должен быть прямо за углом...[ib:normal][rb:positive]" />
+    <string id="EBI3j6O8" text="Sure. You know where to find me." />
     <string id="EbULMPap" text="Да, можно и так сказать. Хех. Тем не менее, я не могу впустить тебя в тюрьму..[rf:happy][rb:negative]" />
     <string id="EcYGHEVS" text="Вы можете получить право на эту землю в качестве компенсации за ваше служение нам. [Будет стоить {VALUE} влияния]" />
     <string id="edRggEQ4" text="мой друг" />
@@ -464,6 +471,7 @@
     <string id="ETiAbgHa" text="Я сейчас же с ними поговорю." />
     <string id="EUBxMVXk" text="У вас есть какие-нибудь распоряжения по вашему переулку, {?NPC.GENDER}мадам{?}сир{\?}" />
     <string id="EUQnsZFb" text="Ты мне больше не нужен как разведчик." />
+    <string id="eWGJmRMR" text="Yeah, sure. Later, then." />
     <string id="ewVEM7Y0" text="Я {CONVERSATION_HERO.FIRSTNAME}, {FACTION_DESCRIPTION}. Я пришел сюда, потому что многие заблудились и прислушиваются к лжепроповедникам, которые искажают истинный смысл Божественных откровений.[rb:trivial]" />
     <string id="ExltvaKo" text="Давайте посмотрим, что у вас есть в продаже..." />
     <string id="EYbKTN2u" text="Есть деньги, которые можно заработать в таком месте." />
@@ -476,6 +484,7 @@
     <string id="f2YSwOez" text="Воспользовавшись статусом правителя, вы надавили на {TARGET_NOTABLE.LINK}, чтобы {?TARGET_NOTABLE.GENDER}она приняла{?}он принял{\?} крованые деньги и {?TARGET_NOTABLE.GENDER}решила{?}решил{\?} вопрос мирным путем." />
     <string id="F6bnwurv" text="Я глубоко обязан тебе. Я постараюсь сделать все, что в моих силах, чтобы вернуть долг, но не выходя за рамки кодекса чести.[rb:positive]" />
     <string id="F6UkVUyi" text="{MERCENARY_HIRING_PITCH}" />
+    <string id="F7yFADCx" text="Sure thing, boss.[ib:demure][rb:positive]" />
     <string id="f80Rg1LS" text="{ARENA_REWARD}" />
     <string id="F9LlA26R" text="Вообще-то, я думаю, это вы должны сдаться." />
     <string id="fasAZDvM" text="Мы направляемся к {HERO.LINK}...[ib:demure][rb:positive]" />
@@ -658,6 +667,7 @@
     <string id="jZF4l0jY" text="Ой, простите, {?PLAYER.GENDER}миледи{?}сир{\?}. Чем могу быть полезен?" />
     <string id="jZxhiabM" text="Это не моя забота." />
     <string id="k1b5crrx" text="Вы опытный игрок. Я приму это к сведению." />
+    <string id="K1RtrtvH" text="So, uh, there's a young woman around here. I really need to leave her some money before I go anywhere. Let's say {GOLD_AMOUNT}{GOLD_ICON} - can you pay me that?[rb:trivial]" />
     <string id="k27q07EZ" text="Вы действительно, {PLAYER.NAME}? Тогда принесите в эти земли покой: споткнувшись, падайте на свой меч." />
     <string id="k3b5KqSc" text="Ну, давай же. Я думал, ты здесь главный." />
     <string id="K5mG9nDv" text="С удовольствием." />
@@ -676,7 +686,9 @@
     <string id="kG92fjCY" text="Вы потеряли сознание, защищая {CULPRIT.LINK}. {TARGET_NOTABLE.LINK} отомстил. Вы не сдержали свое обещание, данное {QUEST_GIVER.LINK} и не защитили {CULPRIT.LINK}. {?QUEST_GIVER.GENDER}Она{?}Он{\?} в гневе." />
     <string id="kGg8xv4c" text="Я передумал. Вы можете войти бесплатно." />
     <string id="KJ61SXEU" text="Вы успешно защитили {CULPRIT.LINK}, как и обезали. {QUEST_GIVER.LINK} благодарен за вашу службу и передает бландорность в виде кошелька с наградой в размере {REWARD_GOLD}{GOLD_ICON}." />
+    <string id="kJDDW6Dk" text="It was a pleasure to meet you. Safe travels.[rb:positive]" />
     <string id="KL8tVq8P" text="Я сделаю это.[ib:normal][rb:positive]" />
+    <string id="km6aX5ev" text="Yeah... Go on, then." />
     <string id="kNQMkh3j" text="(Currently unassigned)" />
     <string id="ko2Nb5im" text="Я знаю, что времена трудные, но {NOTABLE.LINK} говорит, что {?OWNER.GENDER}леди{?}лорд{\?} {OWNER.LINK} делает все что в {?OWNER.GENDER}её{?}его{\?} силах." />
     <string id="KPfs7L7B" text="Ох, примите мои извинения, {?PLAYER.GENDER}миледи{?}сир{\?}. Могу ли я вам чем-нибудь помочь?" />
@@ -721,6 +733,7 @@
     <string id="lM7AscLo" text="Я постараюсь сделать это как можно быстрее." />
     <string id="LnbzQIz6" text="300{GOLD_ICON}." />
     <string id="lnTE6tdn" text="Давайте поговорим еще раз в ближайшее время, {PLAYER.NAME}.[rb:positive]" />
+    <string id="loLetAI9" text="Very well. But the world being as it is, I'm going to need {GOLD_AMOUNT}{GOLD_ICON} as a down payment on my services. Can you pay that?[rb:trivial]" />
     <string id="lord_conversations_227" text="Я хочу присоединиться к вашей армии." />
     <string id="lord_conversations_343" text="Я кое-что хочу обсудить." />
     <string id="lord_conversations_344" text="У меня есть предложение, которое может избавить нас обоих от ненужного кровопролития." />
@@ -817,6 +830,7 @@
     <string id="o6LLI5Hb" text=".. Мы с ребятами, приемная родня {FACTION_NAME}. Что означает, что они поклялись отомстить за нас, если мы падем, вам следует знать это." />
     <string id="O7j0uzcH" text="Мне пора." />
     <string id="o7t4TFlW" text="Заключить мир, пока у меня есть преимущество? Я думаю, что нет." />
+    <string id="OB37sx91" text="Don't be a stranger, eh? Come see me again some time.[rb:positive]" />
     <string id="ob5SejgJ" text="Никто не может мне запретить любить, {?PLAYER.GENDER}миледи{?}сир{\?}!" />
     <string id="ObFaQtD3" text="{OATH_LINE_2}" />
     <string id="obY78MnQ" text="{HERO.LINK}" />
@@ -830,6 +844,7 @@
     <string id="OHJYAaW5" text="Силы Небес и Земли доверили опеку этой священной земли..." />
     <string id="OiaLnmbY" text="Ваш выбор." />
     <string id="OIBiRTRP" text="{QUEST_GIVER.LINK} ждёт тебя в {SETTLEMENT}." />
+    <string id="oiMs17Oh" text="Very well... You know where to find me." />
     <string id="oJt4bemH" text="{QUEST_GIVER.LINK} землевладец из {QUEST_SETTLEMENT} рассказал тебе об инциденте, который вот-вот перерастет в кровавую вражду. Один молодой человек убил другого в результате несчастного случая, а семья жертвы отказывается от кровавых денег в качестве компенсации и жаждет мести." />
     <string id="oL3amiu1" text="Давай {DAUGHTER_NAME.NAME}, давайте уйдем, пока другие гончие не нашли нас... Я имею ввиду... Без обид, {?PLAYER.GENDER}миледи{?}сир{\?}." />
     <string id="OlKbD2fa" text="Мне нужен кто-то вроде тебя в отряде." />
@@ -864,6 +879,7 @@
     <string id="PJ7BhyOy" text="Ну и сказал я этому бестолковому... Сказал ему: Оставь мою дочь в покое, или {NOTABLE.LINK} услышит об этом. Ха! Я точно больше не видел, чтобы он болтался возле моего дома." />
     <string id="PL3BPAJF" text="Ничего, правда." />
     <string id="PLgOm8tV" text="Один человек из поселка сказал вам, что шпион не лысый." />
+    <string id="PlhbjNOE" text="Just so you know... I'm not cheap. I want {GOLD_AMOUNT}{GOLD_ICON} as an advance, or there's no deal.[rb:trivial]" />
     <string id="PNxKX3a5" text="Боюсь, я должен считать тебя своим врагом." />
     <string id="pP4sdfZc" text="Во-вторых, я не хочу сейчас открывать мастерскую." />
     <string id="PP8VeNiC" text="Я клянусь, что ты мой хан, {?LORD.GENDER}моя мать и защитница{?}мой отец и защитник{\?}..." />
@@ -961,6 +977,7 @@
     <string id="sakSp6H8" text="Ты не можешь продолжать жить как трус. Как и я не смогу защищать тебя вечно, мы должны как-то решить эту проблему. Даю слово чести, что защищу тебя, если дела пойдут плохо." />
     <string id="Sb25Ac2S" text="У тебя недостаточно войск второго уровня." />
     <string id="sBpcOmoi" text="Это то, что я должен сделать, {LORD_SALUTATION}." />
+    <string id="sbugaHdU" text="Right. Cheers, then." />
     <string id="ScSV97Dm" text="Мы готовимся к нападению, но нам нужно время, чтобы собрать наших людей. Встретися в {SETTLEMENT_NAME} через 3 дня, чтобы ударить вместе." />
     <string id="se2EXQu8" text="Когда жара такая сильная, у человека может разыграться настоящая жажда." />
     <string id="seyti8xR" text="Победа!" />
@@ -984,6 +1001,7 @@
     <string id="sVcJTu7K" text="{GAME_NAME} быстра и сурова, какой и должна быть война. Захватить как можно больше, чтобы держать противника ослабленным и деморализованным. Но за этим бесконечным нападением всегда должна стоять сильная защита, чтобы наказать противника за любую попытку вернуть контроль." />
     <string id="SvGFarpZ" text="Тогда я найду и поговорю с {KING.LINK}." />
     <string id="SVJlOYCB" text="В отряде меньше людей чем 40% от предельного размера." />
+    <string id="sy5Hbp04" text="Safe travels to you, my lady. I hope to see you again soon." />
     <string id="sytYViXb" text="Я принимаю твой вызов на дуэль." />
     <string id="SZjC5xxl" text="Вернуть 50{GOLD_ICON}" />
     <string id="SZRwXQad" text="Соберите мои войска здесь и пусть они присоединятся к моему отряду." />
@@ -1039,6 +1057,7 @@
     <string id="UJyHaPOp" text="Конечно. Я передам ваши приказы. Что-нибудь еще?[rb:positive]" />
     <string id="ukRZd2AA" text="Я не дерусь на дуэлях с бандитами." />
     <string id="Ukv1FQa2" text="Я передумал. Идите своей дорогой." />
+    <string id="uolvICE4" text="Let's talk again soon, m'lady.[rb:positive]" />
     <string id="uotflvH2" text="Я хотел бы задать несколько вопросов." />
     <string id="UqDNAZqM" text="Перестать ждать" />
     <string id="UQyCoQCY" text="Придержи коней! Этот парень сейчас находится под моей защитой. Мы пришли поговорить спокойно." />
@@ -1054,6 +1073,7 @@
     <string id="v0HhVu4z" text="Как работают мастерские?" />
     <string id="V0WZMh2U" text="Как дела, босс?" />
     <string id="v0XsM7Zz" text="Если вы отправите своего лучшего следопыта и несколько человек, я уверен, что они найдут мою девочку и вернутся к вам не более чем через {ALTERNATIVE_SOLUTION_WAIT_DAYS} дней." />
+    <string id="V5Kygicn" text="It was good to meet you. Come see me if you need anything." />
     <string id="V6jXzuMv" text="{COMPANION_ROLE}" />
     <string id="v9IKCSmD" text="Вам нужно получить разрешение господина, чтобы поговорить с заключенными." />
     <string id="vAjgn7yx" text="Соперничающая банда переезжает в {SETTLEMENT}" />
@@ -1084,6 +1104,7 @@
     <string id="VTA5DoBc" text="Ладно..." />
     <string id="vuEyisBW" text="Я подтверждаю, что вы являетесь исполнителем воли Сената и народа..." />
     <string id="VvRKwXpk" text="Банда {GANG_LEADER} избила тебя до полусмерти, но каким-то образом тебе удалось уцепиться за жизнь." />
+    <string id="VvxGEJoz" text="I am enchanted to have met you, my lady.[rb:positive]" />
     <string id="VWaNqkqJ" text="Не могу сказать, что я видел здесь кого-то подобного, {?PLAYER.GENDER}миледи{?}сир{\?}." />
     <string id="vyaIbCRj" text="Хмм... Возможно, мне нужно будет сделать больше." />
     <string id="w0HPC53e" text="Кто вы? Чего вы от меня хотите?" />
@@ -1095,6 +1116,7 @@
     <string id="W7C30eri" text="Спасибо, {?NPC.GENDER}мадам{?}сир{\?}. Было честью служить вам.." />
     <string id="waoSd6tj" text=".. и я буду защищать ваши права и права ваших законных наследников." />
     <string id="Wapbcyxx" text="Я собираю армию. Призовите моих лордов собраться под моим знаменем.. {AMOUNT}{GOLD_ICON}" />
+    <string id="wbxUMLZ8" text="Be on your way, then." />
     <string id="wCMNQsBu" text="Я замолвлю за тебя словечко, перед {KING.LINK}." />
     <string id="WD7vOalb" text="Я буду играть в защите." />
     <string id="WDdlPUHw" text="Нет, если это дуэль, то я бросаю тебе вызов. Ни один настоящий боец турнира не откажется." />
@@ -1147,7 +1169,6 @@
     <string id="xNyLPMnx" text="Спасибо вам, {?PLAYER.GENDER}миледи{?}мой лорд{\?}, спасибо." />
     <string id="Xo5lc6sz" text="Если у вас будет больше голодных ртов,чем сможет прокормить Ваша земля, то {NOTABLE.FIRSTNAME} выделит вам часть своей - но он возьмет треть урожая, даже если вы родственники." />
     <string id="XoftWx6z" text="Я не думаю, что окажу тебе такую услугу{PLAYER.NAME}. У меня нет ни единой причины для таких действий.[rb:negative]" />
-    <string id="xoJfnk6m" text="Идите по пути праведности" />
     <string id="xOrwhUVJ" text="I want to end our contract." />
     <string id="xP8cKZFE" text="Говорят, что купец {NOTABLE.LINK} нанимает рабочих в {SHOP_TYPE}. {?NOTABLE.GENDER}Она{?}Он{\?} суровый хозяин, но, как говорят, справедливый." />
     <string id="xpafjLhC" text="{?PLAYER.GENDER}Моя дорогая{?}Мой дорогой{\?}, {PLAYER.NAME},  твой щедрый дар заставил меня пересмотреть то, о чем ты просишь, и я пришел, чтобы оценить мудрость твоего предложения." />
@@ -1206,6 +1227,7 @@
     <string id="Yyc6N2FT" text="Это {WORKSHOP_TYPE}." />
     <string id="yyLnaf8s" text="{PLAYER_GAME_WON_LORD_STRING}" />
     <string id="yzzY4uXN" text="Очень хорошо. Не жди пощады.[if:idle_angry][ib:warrior]" />
+    <string id="z1nFn4Ug" text="You could say perhaps that I am between jobs right now, so if by any chance you are looking to hire... Well, I'm open to discussion." />
     <string id="Z27lsnCO" text="Ну... Давайте я скажу так..." />
     <string id="z2CTKb8z" text="{OATH_LINE_3}" />
     <string id="Z2Lq2QLq" text="Ну ладно. Я сообщу своим людям, чтобы они помогли вам сформировать караван. Надеюсь, он принесет тебе хорошую прибыль." />

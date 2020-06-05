@@ -9,10 +9,12 @@
     <string id="2oLzxPGu" text="Аггресивный и требует многого от людей" />
     <string id="3ojhI49j" text="как человек ледяной" />
     <string id="4Kb43rdf" text="как человек верный" />
+    <string id="52I465OW" text="ambitious and manipulative" />
     <string id="5L4ox55u" text="Всегда первым даст {?NOTABLE.GENDER}свою{?}свою{\?} голову на отсечение за дело, в которое верит." />
     <string id="5ogR7oUW" text="благородностью и щедростью" />
     <string id="6okDQlyn" text="осторожностью" />
     <string id="6tOrCXWu" text="Следит за теми, кто хорошо послужил {?NOTABLE.GENDER}ей{?}ему{\?}." />
+    <string id="85SsQ1xA" text="untrustworthy" />
     <string id="8aAbnMIo" text="отчуждёностью" />
     <string id="8D5Lx2LY" text="мягкосердечностью" />
     <string id="9bUlUrVI" text="как человек жестокий и безжалостный" />
@@ -41,7 +43,6 @@
     <string id="JWTKNySw" text="как человек скупой" />
     <string id="KFvms0sR" text="как человек, который любит рисковать." />
     <string id="kKFLfWbJ" text="как моралист" />
-    <string id="Ks88a8lp" text="своим небольшим лентяйством" />
     <string id="KxjSILpL" text="как человек, который использует все преимущества" />
     <string id="L3b9ZsLs" text="расточительностью" />
     <string id="LCs7NMyz" text="Вы не найдете того, кто бросается в опасность." />
@@ -82,6 +83,7 @@
     <string id="xSbcea2l" text="ненадженостью" />
     <string id="Y8WpovVO" text="как человек порядочный, но осторожный" />
     <string id="YeK2rAWJ" text="жестокостью" />
+    <string id="yl2q8dL8" text="ruthless" />
     <string id="Yyw81AGG" text="как человек дружелюбный, но манипулирующий" />
     <string id="znOeRtlb" text="как интриган" />
   </strings>

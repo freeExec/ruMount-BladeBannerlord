@@ -318,7 +318,7 @@
     <string id="6kaia5qP" text="Отдайте мне все ваши товары!" />
     <string id="6kJ31qut" text="Да, некоторые люди испытывают нехватку денег в наши дни. Они собрали стадо в {ANIMAL_COUNT_TO_DELIVER} {HERD_TYPE_TO_DELIVER} для продажи в {TARGET_SETTLEMENT}. Но эти люди бедны. Совсем не бойцы, и они не могут позволить себе охрану. Если они пойдут туда сами. то будут легкой добычей для бандитов." />
     <string id="6kjacaiB" text="Я надеюсь, что смогу принести на эту землю мир и справедливость и смогу облегчить страдания людей." />
-    <string id="6kn630ka" text="Правитель клана клана получает 100 динаров в день за каждый город в королевстве{newline}Лояльность поселений уменьшается на 1 в день" />
+    <string id="6kn630ka" text="Правитель клана получает 100 динаров в день за каждый город в королевстве{newline}Лояльность поселений уменьшается на 1 в день" />
     <string id="6kqK0kUn" text="Нет необходимости обороняться. Патрулировать местность." />
     <string id="6L0hggoy" text="Вы решили не принимать указ, позволяющий ремесленникам торговать." />
     <string id="6L1b1nJa" text="О, у меня длинный список счетов. Вы можете быть уверены в этом." />
@@ -441,7 +441,7 @@
     <string id="8UUV94Lq" text="Тренировка в дальнем бою" />
     <string id="8Wa6OxG8" text="Это секрет. Вы должны быть новыми в вашем посте, если вы не знаете, кто я и что я делаю." />
     <string id="8Wy1OCsr" text="{WEAPON} {BESIEGER} пробило стены {SETTLEMENT}!" />
-    <string id="8Yb3IVvb" text="{SETTLEMENT_NAME} Buildings" />
+    <string id="8Yb3IVvb" text="Здания {SETTLEMENT_NAME}" />
     <string id="8ym6UvxE" text="Я думаю отправить новый караван, но боюсь, что его сразу же разграбят не принеся мне никакой прибыли. Так что я ищу хороших бойцов, что смогут провести его пока тот не дойдет до места назначения, посещая при этом пару поселений." />
     <string id="8Z4vlcib" text="Ваш клан сейчас воюет с лордом {ISSUE_GIVER.LINK}. Ваше соглашение с {ISSUE_GIVER.LINK} было отменено." />
     <string id="90YOVmcG" text="Доброго вам дня." />
@@ -2042,7 +2042,7 @@
     <string id="pfxG5Ubu" text="Ладно, успокойся. Взять наше оружие!" />
     <string id="pFzj52dE" text="You spend long hours in the sunless dank of the dungeon, more than you can count. Suddenly one of your captors enters your cell with an offer; he proposes to free you in return for {MONEY_AMOUNT}{GOLD_ICON} of your hidden wealth. You decide to..." />
     <string id="Pg3KxyQX" text="Табунщики готовы к отъезду." />
-    <string id="PG8anNca" text="Лояльность поселения увеличивается на 1 в день  Daily производства ополчения увеличивается на 1" />
+    <string id="PG8anNca" text="Лояльность поселения увеличивается на 1 в день{newline}Ежедневное пополнение ополчения увеличивается на 1" />
     <string id="pgbC8UkU" text="Восстание" />
     <string id="PGhumE8X" text="{FIRST_NAME} Mutton-pie" />
     <string id="PGkFvo77" text="{CURRENT_LIEGE.LINK} is a friend of mine. I cannot imagine betraying him." />
@@ -2579,7 +2579,7 @@
     <string id="UxAl9iyi" text="Личное" />
     <string id="uXjO1f75" text="{NAME} Немощный" />
     <string id="uyvxafSw" text="{PARTY_NAME} exceed gold" />
-    <string id="UZ0mPm8b" text="Каждый заметных дает 1 влияние в день, чтобы владелец поселения\клан nDaily производства ополчения увеличивается на 1 процент отличается в поселке" />
+    <string id="UZ0mPm8b" text="Каждый староста дает 1 влияние в день клану владельцу поселения{newline}Ежедневное пополнение ополчения увеличивается на 1 за каждого старосту в поселении" />
     <string id="uziyUBHK" text="Повышенная точность метательным оружием." />
     <string id="UzMYZgoE" text="Осаждать замок." />
     <string id="uZOBwhEx" text="{LORD_RESPONDS_TO_PLAYER_REFUSAL_TO_SURRENDER}" />

@@ -981,7 +981,7 @@
     <string id="N84HlDaV" text="{NUMBER_OF} {ITEM} ({AMOUNT}{GOLD_ICON})" />
     <string id="NaNMRPv4" text="Асераи" />
     <string id="NaorUInI" text="Understrength Сторон" />
-    <string id="nbBgbwM2" text="In Queue: {NUMBER}" />
+    <string id="nbBgbwM2" text="В очереди: {NUMBER}" />
     <string id="NBv29XpJ" text="Вы не можете распустить армию, а ты в эту армию." />
     <string id="nDNOn5o2" text="Оборудование" />
     <string id="NeWvHjCw" text="Огонь Баллисты" />

@@ -1274,7 +1274,7 @@
     <string id="gOin56Ge" text="Нокаут" />
     <string id="GOkjJwZr" text="Я могу отвести ваших пастухов на пастбища." />
     <string id="gOn7a7if" text="предоставление лордам исключительных прав на охоту в близлежащих лесах" />
-    <string id="gOsori1b" text="Ваши похитители больше не нуждаются в вас и не находятся в настроении дял убийства, поэтому они отпустили вас." />
+    <string id="gOsori1b" text="Ваши похитители больше не нуждаются в вас и не находятся в настроении для убийства, поэтому они отпустили вас." />
     <string id="gq8sgb2J" text="{TARGET_HERO.LINK} был взят в плен {OTHER_HERO.LINK}." />
     <string id="gqdsXVNi" text="{WEAPON} {SETTLEMENT} попал по дальнобойным орудиям {BESIEGER}!" />
     <string id="gQK2IfoH" text="Каждое очко навыка после 200 дает вам 0,2% увеличение скорости атаки и 0,5% увеличение урона с помощью одноручного оружия." />
@@ -1328,7 +1328,7 @@
     <string id="HC6Bodg5" text="Ура, {STR_SALUTATION}!" />
     <string id="hCg11veJ" text="{MINOR_FACTION_HOWTOBEFRIEND}" />
     <string id="hchDYAKL" text="Копейщик" />
-    <string id="HCMsvAFv" text="Я могу приказать одному из своих спутников и {MEN_COUNT} бойцам найти зерно дял вас." />
+    <string id="HCMsvAFv" text="Я могу приказать одному из своих спутников и {MEN_COUNT} бойцам найти зерно для вас." />
     <string id="HDBryERe" text="Личности" />
     <string id="HeIIW3EH" text="Мы ждем хороших вестей от вас, {?PLAYER.GENDER}миледи{?}сир{\?}." />
     <string id="heqHAXpI" text="{FIRST_NAME} Урожайный" />
@@ -2031,7 +2031,7 @@
     <string id="p1buAbOQ" text="Урожай был плохой, и крысы съели многих из наших магазинов. Мы можем съесть и подтянуть несколько ремней, но если у нас нет семенного зерна на завод, мы будем голодать в следующем году." />
     <string id="p1Y3EU5O" text="Тренировка Ополчения" />
     <string id="p2rTaKo8" text="У вас нет прав на престол. Даже в маловероятном случае, что другие последуют за вами, другой узурпатор будет просто подняться, чтобы победить вас." />
-    <string id="P2VNGJDa" text="Extortion by Deserters at {SETTLEMENT}" />
+    <string id="P2VNGJDa" text="Вымогательство дезертирами в {SETTLEMENT}" />
     <string id="p2WPU1CU" text="Очень хорошо. Теперь я знаю, кого я убью." />
     <string id="P407baEa" text="Я думаю, что вы должны существенно вырастет в мире, прежде чем я мог рассматривать такое дело..." />
     <string id="P68GX3zY" text="Положение земли" />
@@ -2640,7 +2640,7 @@
     <string id="vaZDJGMx" text="Строительство От Рынка" />
     <string id="Vb9IhkIZ" text="{FIRST_NAME} of the Dawn" />
     <string id="vbbc6sIU" text="Я сожалею, чтобы сказать вам, что мои успехи под Вашим руководством не является удовлетворительным. Я должен вернуться в мой клан, чтобы возобновить учебу. В любом случае, спасибо за беспокойство." />
-    <string id="vbiA31xT" text="Deserter extortion at {SETTLEMENT}" />
+    <string id="vbiA31xT" text="Вымогательство дезертирами в {SETTLEMENT}" />
     <string id="vBMBlHxB" text="+0,5 Пищи на пастбищах." />
     <string id="VbRyXBsv" text="Если вы идете в направлении {TARGET_SETTLEMENT}, может быть, вы отведете туда наше стадо? {TARGET_HERO.LINK}. Несколько поселенцев пойдут с вам, чтобы помощь сопроводить животных." />
     <string id="VbU8Ue0O" text="Выждав некоторое время, вы находите хорошую возможность незаметно приблизиться под покровом ночи.{newline}Но вы должны быть осторожны при нападении! Вы будете захвачены в плен и ваш отряд рассеется если вы потерпите поражение!" />
@@ -2688,9 +2688,9 @@
     <string id="VoUFIcDt" text="Предложение о смене владельца {SETTLEMENT} has been accepted with majority support." />
     <string id="VPGBEtQE" text="+2 к урону с древковым оружием, когда вы пеший." />
     <string id="VpGjkNrF" text="Я хочу все." />
-    <string id="VpHIdsdF" text="{FIRST_NAME} the Supplier" />
-    <string id="vPjlkNeP" text="{NAME} the Romancer" />
-    <string id="vpkAoGTv" text="{FIRST_NAME} the Angel" />
+    <string id="VpHIdsdF" text="Снабженец {FIRST_NAME}" />
+    <string id="vPjlkNeP" text="{NAME} Выдумщик" />
+    <string id="vpkAoGTv" text="Ангел {FIRST_NAME}" />
     <string id="VpLzd69e" text="Сопровождение Торгового Каравана" />
     <string id="VqAEqhr2" text="Качество милиции увеличивается на 10%, в деревне налоговые доходы сократились на 5%" />
     <string id="VqFd0aeL" text="Пользовательские стратегии, которые могут быть полностью управляемыми." />

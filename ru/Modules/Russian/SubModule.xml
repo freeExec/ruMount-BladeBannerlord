@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Module>
 	<Name value = "Russian by DOG729"/>
 	<Id value = "Russian"/>
@@ -12,6 +12,7 @@
 		<DependedModule Id="Native"/>
 		<DependedModule Id="SandBoxCore"/>
 		<DependedModule Id="Sandbox"/>
+		<DependedModule Id="StoryMode"/>
 	</DependedModules>
 	<SubModules/>
 	<Xmls> 

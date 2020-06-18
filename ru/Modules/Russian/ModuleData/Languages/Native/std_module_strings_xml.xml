@@ -315,7 +315,7 @@
     <string id="arHXmqqc" text="мольба" />
     <string id="arWaVMpe" text="Мы должны ударить мощно и уничтожить их осадные машины." />
     <string id="asHzEWnG" text="Мы окропим пески твоей кровью, в таком случае." />
-    <string id="aTLrmbVL" text="Ранг IV" />
+    <string id="aTLrmbVL" text="Ур. IV" />
     <string id="aUNYlvbN" text="Вы прибыли в {SETTLEMENT}, чтобы разграбить его. Некоторые жители собрались, чтобы помещать вам." />
     <string id="AUOio5Tu" text="Ежедневно По Умолчанию" />
     <string id="auUJW0WU" text="невеста" />
@@ -334,7 +334,7 @@
     <string id="B5J6DbpG" text="Осталось дней с едой: {REMAINING_DAYS}{newline}{newline}Всего еды: {TOTAL_FOOD_AMOUNT}{newline}Ежедневное потребление: {DAILY_FOOD_CONSUMPTION}" />
     <string id="b5t34yLX" text="Конская Упряжь" />
     <string id="b6biU4f1" text="Создать Новый Отряд" />
-    <string id="B6g1ukB7" text="Ранг I" />
+    <string id="B6g1ukB7" text="Ур. I" />
     <string id="b6zBcSp2" text="Город процветает. Стены, улицы и дома ухожены." />
     <string id="b778BvfW" text="Эта вещь дороже на {PERCENTAGE}% по сравнению со средней ценой" />
     <string id="b7aDfCR9" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} защищаются." />
@@ -415,7 +415,7 @@
     <string id="c1g7MC9D" text="Бонус Уровня Клана " />
     <string id="c2pdihCB" text="Караваны" />
     <string id="c3cdHImi" text="Захватывайте пешки противника, окружая их с обеих сторон. Если пешка перемещается между двумя пешками, принадлежащих разным сторонам, она не захватывается.{newline}На первых двух изображениях белые пешки захватываются черными. На последних двух – нет захваченных." />
-    <string id="C3VxZFSy" text="Ранг III" />
+    <string id="C3VxZFSy" text="Ур. III" />
     <string id="C4n1rgBC" text="Seega" />
     <string id="C4qjBqLO" text="Стургия" />
     <string id="c6Ei8Fqh" text="Вассал фракции {FACTION}" />
@@ -1145,7 +1145,7 @@
     <string id="QBbBahLv" text="Вы получили разрешение на продолжение вашего путешествия." />
     <string id="QBPrRdQJ" text="Хирург" />
     <string id="qC4OsBt1" text="Деревни (В осаде)" />
-    <string id="QdDkviGe" text="Ранг V" />
+    <string id="QdDkviGe" text="Ур. V" />
     <string id="qDSda1OI" text="{DAY} {?DAY_IS_PLURAL}дней{?}день{\?}" />
     <string id="QE1XRyUP" text="+{BONUS_AMOUNT} бонус к скорости производства осадных машин" />
     <string id="qe686AAn" text="Вы правитель. Ваше решение превыше всего и является окончательным" />

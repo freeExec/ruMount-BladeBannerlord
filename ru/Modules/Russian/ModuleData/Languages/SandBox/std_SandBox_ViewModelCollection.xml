@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Русский" />
@@ -15,7 +15,7 @@
     <string id="azJulvrp" text="{?IS_BETTING}Вы потеряете {BET_AMOUNT}{GOLD_ICON} если вы сдадитесь.{newline}{?}{\?}Вы действительно хотите сдаться?" />
     <string id="bV75iwKa" text="Сохранить" />
     <string id="CiIWjF3f" text="+{PRISONERAMOUNT}п" />
-    <string id="deleteaction" text="Delete" />
+    <string id="deleteaction" text="Удалить" />
     <string id="eiWQoW9j" text="Вы получили {A0} к известности." />
     <string id="eL8nhkhQ" text="Создать новый слот для сохранения" />
     <string id="eTw2aNV5" text="+" />

@@ -70,7 +70,7 @@
     <string id="DCyOFcZI" text="Дает Секач, древковое оружие." />
     <string id="Dj64aJKQ" text="Секач" />
     <string id="dkSDZODz" text="Заменяет Меч на Улучшенный Меч, быстрее, эффективен в дуэлях." />
-    <string id="DKsZqR8p" text="Replaces Pickaxe with Highland Two Handed Sword, effective at dueling and thrusting, two handed." />
+    <string id="DKsZqR8p" text="Заменяет Ваш Топор на Двуручный Меч, быстрее, эффективен в дуэлях и уколах двуручником." />
     <string id="DlKYZgA3" text="Улучшенная броня" />
     <string id="dQEa2hZa" text="Длинное Копье" />
     <string id="DZ2g8IZr" text="Заменяет Двуручный Топор на Двуручный Молот. Эффективен против бронированных врагов." />
@@ -147,7 +147,7 @@
     <string id="QLcP8bIs" text="Фалькс" />
     <string id="QojyuDln" text="Дает Контос, длинней, наносит больше урона, но медленнее." />
     <string id="QqWMflbr" text="Дает Каскару, одноручный меч, эффективен в дуэлях." />
-    <string id="QR4bNj8H" text="Grants Cavalry version of Menavlion." />
+    <string id="QR4bNj8H" text="Даёт кавалерийскую версию Менавлиона." />
     <string id="Qs4VOXgE" text="Короткое Копье" />
     <string id="R7TAImaC" text="Большой Щит" />
     <string id="RV6BCPvg" text="Заменяет Топор на длинный и тяжелый Топор. Крайне эффективен против щитов." />

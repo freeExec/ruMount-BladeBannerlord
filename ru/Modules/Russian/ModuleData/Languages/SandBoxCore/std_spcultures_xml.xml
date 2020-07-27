@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Русский" />
@@ -147,7 +147,7 @@
     <string id="AMmJVlrt" text="Кираслава" />
     <string id="Ao69q2aY" text="Пера" />
     <string id="aqd6QHES" text="Джанаб" />
-    <string id="aseraifaction" text="Aserai" />
+    <string id="aseraifaction" text="Асераи" />
     <string id="aSNUtnbH" text="Темун" />
     <string id="aTcSQ7MY" text="Ото" />
     <string id="AWM3jbaZ" text="Аджин" />
@@ -251,7 +251,7 @@
     <string id="EKUSZBBj" text="Вусур" />
     <string id="ELpRLYQt" text="Джалин" />
     <string id="eMcQ35QA" text="Радул" />
-    <string id="empirefaction" text="Empire" />
+    <string id="empirefaction" text="Империя" />
     <string id="Emsd1xmS" text="Дашвал" />
     <string id="eoF4TEr2" text="Далисет" />
     <string id="epxmhQav" text="Дария" />

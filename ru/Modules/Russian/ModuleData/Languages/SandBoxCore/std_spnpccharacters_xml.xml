@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Русский" />
@@ -115,7 +115,7 @@
     <string id="GEnwDYp1" text="Вландийский Новобранец" />
     <string id="GGVehOu9" text="Оруженосец" />
     <string id="GopVkA1q" text="Преступник" />
-    <string id="guardnoun" text="Guard" />
+    <string id="guardnoun" text="Стража" />
     <string id="GUQ3zfg2" text="Баттанийский Волонтер" />
     <string id="Gvy2b4fa" text="Асерайский Юноша" />
     <string id="gyvXsXs8" text="Баттанийский Одичалый" />
@@ -233,7 +233,7 @@
     <string id="Si5ZCb1O" text="Вландийский Пикинер" />
     <string id="sMI3wMZu" text="disguise_equipment_set" />
     <string id="strAI" text="ИИ" />
-    <string id="sturgianhuntertroop" text="Sturgian Hunter" />
+    <string id="sturgianhuntertroop" text="Стургианский Охотник" />
     <string id="SvAADOwm" text="Вландийский Арбалетчик Леви" />
     <string id="ta34CxLs" text="Травник" />
     <string id="TbBnWiao" text="Имперская Стража Каравана" />

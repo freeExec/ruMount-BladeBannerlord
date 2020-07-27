@@ -5,7 +5,7 @@
   </tags>
   <strings>
     <string id="06V7fEV4" text="Нажмите ESC, чтобы вернуться" />
-    <string id="0B27RrYJ" text="Battania" />
+    <string id="0B27RrYJ" text="Баттания" />
     <string id="2Q6Mm9Jo" text="Настройка геймпада" />
     <string id="2zcrC0h1" text="Геймплей" />
     <string id="3CpNUnVl" text="Отменить" />
@@ -34,7 +34,7 @@
     <string id="aO3avkK9" text="Матчмейкинг отключен" />
     <string id="ApD0xQXT" text="{STR1}: {STR2}" />
     <string id="aRzlp5XH" text="Создать" />
-    <string id="aseraifaction" text="Aserai" />
+    <string id="aseraifaction" text="Асераи" />
     <string id="aVixswW5" text="Выбор команды" />
     <string id="b31ITmm0" text="Размер группы" />
     <string id="b9PT1Yxc" text="Выберите тип игры " />
@@ -59,19 +59,19 @@
     <string id="DQvGNQ0g" text="Нет юнитов под командованием." />
     <string id="eCOJSSUH" text="({BOT_COUNT} ботов)" />
     <string id="eGuQKRhb" text="Вы покинули игровую зону!" />
-    <string id="empirefaction" text="Empire" />
+    <string id="empirefaction" text="Империя" />
     <string id="Etjqamlh" text="{PLAYER_COUNT} игроков" />
     <string id="EUAKPHek" text="Построить:" />
     <string id="F7dBjl83" text="В настоящее время пользовательские битвы отключены" />
     <string id="FD7EQDmW" text="Поиск игры" />
     <string id="ffjTMejn" text="Статистика" />
-    <string id="FjwRsf1C" text="Vlandia" />
+    <string id="FjwRsf1C" text="Вландия" />
     <string id="fM9E7frB" text="Графика" />
     <string id="FRSGOfUJ" text="Включить боевой журнал" />
     <string id="ftoSCQ0x" text="Длина" />
     <string id="g1lgiwn1" text="Не вошли в" />
     <string id="G6hYIR5k" text="Тембр Голоса:" />
-    <string id="gamevideo" text="Video" />
+    <string id="gamevideo" text="Видео" />
     <string id="gcl2duJH" text="Сбросить свой знак" />
     <string id="GGseMDd3" text="Прочность" />
     <string id="GMhOZGnb" text="Нельзя отдать приказ, пока вы мертвы" />
@@ -82,7 +82,7 @@
     <string id="H1emUb6k" text="Возраст:" />
     <string id="hazebV8x" text="Настройка Персонажа" />
     <string id="hbwp3g3k" text="+{FRIEND_COUNT}  {?PLURAL}friends{?}friend{\?}" />
-    <string id="hometab" text="Home" />
+    <string id="hometab" text="Начало" />
     <string id="Hp2wp3et" text="Принять (F1)" />
     <string id="HXxNfncd" text="Конец битвы" />
     <string id="i0OEsfLt" text="Пользовательские Битвы Отключены" />
@@ -125,9 +125,9 @@
     <string id="OVcoYxj1" text="Имя Сервера" />
     <string id="OwqFpPwa" text="Фильтры" />
     <string id="P7moPm3F" text="Установить в качестве лидера группы" />
-    <string id="partykick" text="Kick" />
+    <string id="partykick" text="Кикнуть" />
     <string id="pguhTmXw" text="Результаты битвы" />
-    <string id="PjO7oY16" text="Sturgia" />
+    <string id="PjO7oY16" text="Стургия" />
     <string id="pSheKLB4" text="Зритель" />
     <string id="Q50X65NB" text="Классы" />
     <string id="qaycA9YY" text="Итого Благодарностей:" />
@@ -153,7 +153,7 @@
     <string id="SoQcsslF" text="НЫНЕШНЯЯ КОМАНДА" />
     <string id="sPmQz21k" text="Враг" />
     <string id="SxxxusWS" text="Выберите игрока, чтобы удалить его" />
-    <string id="sZLd6VHi" text="Khuzait" />
+    <string id="sZLd6VHi" text="Кузаиты" />
     <string id="TAnabTdy" text="Точность" />
     <string id="tFLLx4J4" text="Наиболее популярные классы" />
     <string id="tjioq56N" text="Список Друзей" />

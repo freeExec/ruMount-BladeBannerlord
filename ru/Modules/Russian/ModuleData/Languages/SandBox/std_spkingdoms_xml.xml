@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Русский" />
@@ -9,8 +9,8 @@
     <string id="8HMyTKF6" text="Вландийцы" />
     <string id="8pjMAqOg" text="Сенат" />
     <string id="afvM7XpQ" text="Верховный Король" />
-    <string id="aseraifaction" text="Aserai" />
-    <string id="aseraimembers" text="Aserai" />
+    <string id="aseraifaction" text="Асераи" />
+    <string id="aseraimembers" text="Асераи" />
     <string id="bF7HmNGQ" text="Хузаитское ханство" />
     <string id="bgjiFSHZ" text="Баттанийцы" />
     <string id="bVihnRUu" text="Содружество Княжеств, ныне известное как Стургия, возникло всего лишь столетие назад. Когда вдоль великих северных рек возникли первые города, вожди местных племен заключали брачные союзы с Нордами и другими авантюристами, получая взамен воинов, чтобы покорить своих соседей. Под давлением империи они избрали государя, который возглавил бы их армии, и в конце концов этот титул стал передаваться по наследству. Но бояре никогда не примут идею централизованной монархии, поэтому в Стургии всегда сохраняется риск восстания и переворота." />

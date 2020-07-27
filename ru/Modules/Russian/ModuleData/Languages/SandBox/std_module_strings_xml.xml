@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Русский" />
@@ -47,7 +47,7 @@
     <string id="TZ9ugd1p" text="Автоматически распределять навыки членам клана" />
     <string id="UcgNVM0P" text="Очень легко (2 доп.)" />
     <string id="UfQotsfo" text="Ранг #" />
-    <string id="veterandifficulty" text="Veteran" />
+    <string id="veterandifficulty" text="Ветеран" />
     <string id="vGF5S2hE" text="Таблица Лидеров" />
     <string id="wip6jLEM" text="Коэффициент получаемого урона своими войсками." />
     <string id="ZcyJePFm" text="Получаемый урон дружественными отрядами" />

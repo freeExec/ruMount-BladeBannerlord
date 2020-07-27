@@ -52,8 +52,8 @@
     <string id="PiHpR4QL" text="Одноручное" />
     <string id="qwEJSBaH" text="Ваше знание о том, как сделать поселение процветающим. Это поможет вам управлять поместьем или городом." />
     <string id="skZS2UlW" text="Атлетика" />
-    <string id="smithingskill" text="Smithing" />
-    <string id="socialskill" text="Social" />
+    <string id="smithingskill" text="Кузнечный" />
+    <string id="socialskill" text="Социальные" />
     <string id="sOrJoxiC" text="Интеллект" />
     <string id="t78atYqH" text="Двуручное" />
     <string id="TeUtEGV0" text="Интеллект открывает в вас способности к чтению и теоретическому." />
@@ -73,7 +73,7 @@
     <string id="Ymw2PKBo" text="Распорядитель" />
     <string id="YO5LUfiO" text="Хитрость позволяет вам предугадать, что сделают другие люди и обвести их вокруг пальца." />
     <string id="YWkdD7Ki" text="Сила" />
-    <string id="ZBmz4niK" text="and" />
+    <string id="ZBmz4niK" text="и" />
     <string id="zfRqM4mr" text="Контроль" />
   </strings>
 </base>

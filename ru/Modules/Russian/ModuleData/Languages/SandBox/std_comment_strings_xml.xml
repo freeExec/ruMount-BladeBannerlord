@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Русский" />
@@ -62,7 +62,7 @@
     <string id="C5JaFsDZ" text="{FIRST_NAME} мой сеньор. Это все, что можно сказать." />
     <string id="c7hrnOUE" text="I guess that task I gave you didn't work out." />
     <string id="caKCwoPM" text="Бэни Зилэл являются хранителями тайны. Мы смотрим из тени. Враждуй с нами на свой страх и риск." />
-    <string id="captainasleader" text="Captain" />
+    <string id="captainasleader" text="Капитан" />
     <string id="cFiSjbf4" text="Хах! Я хочу сразиться с тобой" />
     <string id="cGuzIVlk" text="Говорят, вы довольно много путешествовали. Расскажите немного о своих путешествиях..." />
     <string id="cMO9JXvk" text="Я {CONVERSATION_CHARACTER.LINK}, из {CLAN_NAME}. Мы удерживаем наши земли во владении {LIEGE_TITLE}, и выполняем наши клятвы верности." />

@@ -9,7 +9,6 @@
     <string id="0Xku0LQD" text="Стургианский Крестьянин" />
     <string id="1gAasy1t" text="Ветеран озерной крысы" />
     <string id="1PsLlMaQ" text="Имперский Эквит" />
-    <string id="1sJcKkVP" text="Стража" />
     <string id="1WfDVpya" text="Стургианский Лучник" />
     <string id="1zObCG2o" text="Баттанийский Фиан Чемпион" />
     <string id="275LD0Gh" text="Работник Магазина " />
@@ -116,6 +115,7 @@
     <string id="GEnwDYp1" text="Вландийский Новобранец" />
     <string id="GGVehOu9" text="Оруженосец" />
     <string id="GopVkA1q" text="Преступник" />
+    <string id="guardnoun" text="Guard" />
     <string id="GUQ3zfg2" text="Баттанийский Волонтер" />
     <string id="Gvy2b4fa" text="Асерайский Юноша" />
     <string id="gyvXsXs8" text="Баттанийский Одичалый" />
@@ -127,7 +127,6 @@
     <string id="HMHzTNqJ" text="Баттанийский Обученный Воин" />
     <string id="HsboF2mR" text="Лучник Ветеран Имперского Ополчения" />
     <string id="HZRKBDyB" text="Попрошайка" />
-    <string id="i17zuvS4" text="Стургианский Охотник" />
     <string id="i5DfUz6D" text="Лучник Ветеран Баттанийского Ополчения" />
     <string id="i5QgQbRi" text="Имперский Солдат" />
     <string id="ieiqOaZp" text="Лучник" />
@@ -234,6 +233,7 @@
     <string id="Si5ZCb1O" text="Вландийский Пикинер" />
     <string id="sMI3wMZu" text="disguise_equipment_set" />
     <string id="strAI" text="ИИ" />
+    <string id="sturgianhuntertroop" text="Sturgian Hunter" />
     <string id="SvAADOwm" text="Вландийский Арбалетчик Леви" />
     <string id="ta34CxLs" text="Травник" />
     <string id="TbBnWiao" text="Имперская Стража Каравана" />

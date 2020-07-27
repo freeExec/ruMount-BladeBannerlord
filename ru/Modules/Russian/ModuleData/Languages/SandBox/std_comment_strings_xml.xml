@@ -37,6 +37,7 @@
     <string id="99gE1ZoY" text="Я {CONVERSATION_CHARACTER.LINK}, из {FACTION}." />
     <string id="9uH1NdsT" text="You're a handsome devil, aren't you? Bet you're a load of trouble, though." />
     <string id="9ZHhYooG" text="Помните, как я победил вас, один на один? Вы вернулись за добавкой?" />
+    <string id="A40Z3egp" text="That job you did for me... Nice work." />
     <string id="a55SAS18" text="У нас преимущество над вами. Сдавайтесь, и с вами будут хорошо обращаться.[ib:warrior][if:idle_angry]" />
     <string id="a5LChqbr" text="Простому народу этих земель нужен кто-то, кто будет присматривать за ними. Вот где наше Братство необходимо. Вы услышите, что нас называют бандитами или грабителями. Не верьте ни единому слову." />
     <string id="a8584KD0" text="Я {CONVERSATION_CHARACTER.LINK}, из {CLAN_NAME}. Я уверен, что вы слышали название нашего клана в эпопеях о степи. Мы носим имя одной из десяти сыновей великой волчицы, матери Кузаитов." />
@@ -59,7 +60,9 @@
     <string id="brGfaXyo" text="Я не знаю, что с вами делать, кроме того, вы либо очень смелый, либо очень безрассудный, либо и то, и другое." />
     <string id="BRMngn5i" text="Довольно! Я ваш пленник. Я могу заплатить выкуп. Я для вас ценнее живой, чем мертвый.[rf:angry][rb:trivial]" />
     <string id="C5JaFsDZ" text="{FIRST_NAME} мой сеньор. Это все, что можно сказать." />
+    <string id="c7hrnOUE" text="I guess that task I gave you didn't work out." />
     <string id="caKCwoPM" text="Бэни Зилэл являются хранителями тайны. Мы смотрим из тени. Враждуй с нами на свой страх и риск." />
+    <string id="captainasleader" text="Captain" />
     <string id="cFiSjbf4" text="Хах! Я хочу сразиться с тобой" />
     <string id="cGuzIVlk" text="Говорят, вы довольно много путешествовали. Расскажите немного о своих путешествиях..." />
     <string id="cMO9JXvk" text="Я {CONVERSATION_CHARACTER.LINK}, из {CLAN_NAME}. Мы удерживаем наши земли во владении {LIEGE_TITLE}, и выполняем наши клятвы верности." />
@@ -84,7 +87,6 @@
     <string id="eyxfHmCU" text="Я {CONVERSATION_CHARACTER.LINK}, из {CLAN_NAME}. Наша семья служила королям Вландии в течение поколений." />
     <string id="f2eZL7w5" text="О, я полагаю, я обязан дать вам шанс пожертвовать своей жизнью. В этом случае вы сдадитесь?[ib:warrior][if:idle_angry]" />
     <string id="f3X79aDs" text="Итак... я слышал, вы путешествовали достаточно далеко. Без сомнения, вы видели много странных и ужасных вещей. Может быть, вы сделали несколько странных и ужасных вещей. Давайте, расскажите мне немного о ваших странствиях. Я обещаю не быть в шоке." />
-    <string id="F70rOpkK" text="Капитан" />
     <string id="Fb7JxGKM" text="Да... я знаю ваше имя. Точно. Я не люблю общаться, поэтому давайте пропустим первое и приступим ко второму." />
     <string id="fbArcLAA" text="Миледи, если вы искусны в оружии так же, как и спокойны, тогда ваши враги действительно должны вас бояться!" />
     <string id="FbstpIYj" text="Не говорите, что я не давал вам шанс." />
@@ -189,6 +191,7 @@
     <string id="tA4wDLt2" text="Мои писцы запишут ваше имя." />
     <string id="te2DSMtg" text="Мы больше не будем мириться с этим. Мы будем проливать кровь угнетателей и всех, кто стоит на пути нашего справедливого гнева" />
     <string id="tOanKs9o" text="Я {LIEGE_TITLE}." />
+    <string id="tRSD2C3k" text="That task you took on for me. Very nicely done." />
     <string id="tUa5WBpp" text="Законная Императрица Кальрадии" />
     <string id="TUwY7IKc" text="Да... вы действительно уделали меня. Не уверен, что нам есть о чем поговорить, после этого." />
     <string id="TvqjhDaQ" text="So, my young lion. You have the look of someone who may go far, if they don't wind up dead." />
@@ -199,6 +202,7 @@
     <string id="U9u8Qeu4" text="Возможно, вы слышали о Ульфхеднарах, путешественник. Мы - звери. Знайте, что, пока мы не едим вареного мяса, не носим тканых одежд и не спим под крышей, человеческие законы нас не касаются. Так что осторожнее с нами." />
     <string id="Ua0T0A7t" text="Я {CONVERSATION_CHARACTER.LINK}, из {CLAN_NAME}, одной из древнейших семей Баттании." />
     <string id="UB4sqrWx" text="Мать" />
+    <string id="UehvSvLD" text="That job I gave you... I'd say you let me down." />
     <string id="ufa20b2l" text="Я имею дело лишь с теми, кто держит свои клятвы. Если вы один из тех, кто не ценит свое слово, не тратьте мое время." />
     <string id="Ufn3916B" text="Я слышал о вас. Итак, мы встретились. Я не из тех кто любит болтать, так что если у вас есть что сказать мне, говорите." />
     <string id="v4nyY62z" text="Королева Стургитов" />

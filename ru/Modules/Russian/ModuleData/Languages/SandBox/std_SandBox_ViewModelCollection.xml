@@ -15,10 +15,10 @@
     <string id="azJulvrp" text="{?IS_BETTING}Вы потеряете {BET_AMOUNT}{GOLD_ICON} если вы сдадитесь.{newline}{?}{\?}Вы действительно хотите сдаться?" />
     <string id="bV75iwKa" text="Сохранить" />
     <string id="CiIWjF3f" text="+{PRISONERAMOUNT}п" />
+    <string id="deleteaction" text="Delete" />
     <string id="eiWQoW9j" text="Вы получили {A0} к известности." />
     <string id="eL8nhkhQ" text="Создать новый слот для сохранения" />
     <string id="eTw2aNV5" text="+" />
-    <string id="GAWxyVgq" text="Удалить" />
     <string id="GZWPHmAw" text="День : {DAY}" />
     <string id="HH2mZq8J" text="Вы уверены, что хотите удалить эту игру??" />
     <string id="hiCxFj4E" text="Сохранения" />

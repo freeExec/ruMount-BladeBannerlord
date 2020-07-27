@@ -10,6 +10,7 @@
     <string id="3EOP6yhO" text="Вы были кикнуты анти-читом. Причина: {KICKREASON}" />
     <string id="4XDu4Qcd" text="Только лидер отряда может исключать игроков." />
     <string id="5kgkZo2o" text="Игрок которого вы пытаетесь исключить, не состоит в отряде!" />
+    <string id="6cMSAe2Z" text="Could not report player. Player cannot be found." />
     <string id="91cJB1tP" text="Игрок {INVITEDPLAYER} уже состоит в отряде." />
     <string id="963x2S0a" text="Friend has been removed" />
     <string id="aFQa3pQt" text="Вы должны находиться в лобби, чтобы назначать игроков." />
@@ -19,12 +20,14 @@
     <string id="bivF3RXY" text="Нельзя назначать самого себя!" />
     <string id="BwBR7TJB" text="В вашем отряде никого не осталось и он был распущен!" />
     <string id="caMylVF7" text="Чтобы вступить в сражение, вам нужно выбрать режим." />
+    <string id="cBY4Mymw" text="Player has been reported." />
     <string id="d4eShU5x" text="{PLAYER} accepted your friend request" />
     <string id="dabogDDj" text="You are already friends" />
     <string id="dDF2wZGu" text="{PLAYER} declined your friend request" />
     <string id="E2ILp86t" text="Вы не можете начать сражение, потому что ваш регион недоступен." />
     <string id="efpifbtd" text="Вы должны находиться в лобби, чтобы приглашать игроков в свой отряд!" />
     <string id="emx7txM9" text="Назначать игроков может только лидер отряда." />
+    <string id="f4iavKkb" text="You are muted until {MUTEDUNTIL}, Reason: {MUTEREASON}" />
     <string id="fD2SyeA7" text="Вы не можете приглашать себя." />
     <string id="GZXVxl3E" text="{PLAYERNAME} отключился. Инвайт в отряд отменен." />
     <string id="i5ZTTTZw" text="Игрок {INVITEDPLAYER} не в лобби." />
@@ -57,6 +60,7 @@
     <string id="w8WiqZT3" text="Чтобы вступить в отряд или начать игру, античит должен быть запущен!" />
     <string id="wNubP2BF" text="Только лидер отряда может начать сражение." />
     <string id="Xb6TEi3o" text="You have declined the friend request" />
+    <string id="xHqjCamt" text="Could not report player. Game cannot be found." />
     <string id="xMa4QqvL" text="Сейчас в отряде состоят следующие игроки: {PLAYERS}" />
     <string id="YF0irfDl" text="Player cannot be found" />
     <string id="ysfEQO6c" text="Не получилось найти игрока" />

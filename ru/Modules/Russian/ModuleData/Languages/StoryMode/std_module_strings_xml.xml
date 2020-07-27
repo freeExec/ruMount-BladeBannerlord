@@ -4,14 +4,15 @@
     <tag language="Русский" />
   </tags>
   <strings>
-    <string id="(" text="Бальдимос" />
     <string id="3nilwlcM" text="Вы прибыли в {TUTORIAL_SETTLEMENT_NAME}. Чтобы изучить местность, вы можете войти в населенный пункт, нажав на подсвеченную кнопку слева." />
     <string id="3RqEmB15" text="Навигация по Кальрадии" />
     <string id="3Y5dudW9" text="Альда" />
     <string id="3YkpC9Nf" text="Вы можете фильтровать элементы с помощью кнопок в верхней части. Установите фильтр на Разное." />
     <string id="4IZnbvlD" text="Бодуэн" />
+    <string id="4kBdT24F" text="Nathanos" />
     <string id="5bYwdRFs" text="Тренировка с двуручным мечом" />
     <string id="5M48atXU" text="У вас есть активное задание! Вы можете узнать больше о нем, нажав на журнал заданий в левом нижнем углу экрана." />
+    <string id="776J8Fng" text="Baldimos" />
     <string id="7xHMIZEP" text="Тренировочная мишень" />
     <string id="8UUV94Lq" text="Тренировка стрельбы" />
     <string id="8YvBapxl" text="Варик" />

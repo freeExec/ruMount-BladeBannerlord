@@ -4,7 +4,7 @@
     <tag language="Русский" />
   </tags>
   <strings>
-    <string id="dnKQbXIZ" text="Could not report player: Game does not exist." />
-    <string id="ivKntfNA" text="Already requested to join, waiting for server response" />
+    <string id="0xC75dN6" text="Enemy Party" />
+    <string id="sSJSTe5p" text="Player Party" />
   </strings>
 </base>

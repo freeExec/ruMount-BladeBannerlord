@@ -42,6 +42,7 @@
     <string id="cOEodlOB" text="You wanted to see me for something?" />
     <string id="cXQm4Wba" text="Постойте... Если вы уважительно отнесетесь к условиям переговоров, то тогда я вас выслушаю." />
     <string id="d6LHL0Fj" text="Кажется, вас поймали, и так удачно вышло, что поймал вас именно я." />
+    <string id="dHxX40H0" text="Well. So I guess you and me are fighting. That's how fate goes. Anything to say?" />
     <string id="DwqTbXhg" text="Так-так-так... Если мои расчеты верны, то думаю у тебя есть шанс к концу дня встретиться со своими предками." />
     <string id="DXYVZbcz" text="{STR_SALUTATION}... Готов хорошенько так сразиться?" />
     <string id="F1KEe2XG" text="Пожалуйста, давайте сразу к делу. Время поджимает." />
@@ -86,6 +87,7 @@
     <string id="oqSF8Ueu" text="Ну что ж, незнакомец. Мир вам и благословение. А как вас зовут?" />
     <string id="oYskGouF" text="{STR_SALUTATION}... Мне от чистого сердца приятно вас видеть." />
     <string id="p1CHHIFb" text="Простите меня если, это покажется чрезмерной осторожностью, но, пожалуйста, держите дистанцию. Просто за пределами длины взмаха меча поспокойнее. Итак, кто же вы?" />
+    <string id="P3o4r7cB" text="What do you want, stranger? Who are you?" />
     <string id="PCLD3G3s" text="{STR_SALUTATION}... Я хотел бы пожелать вам мира и процветания, но, сейчас как-то не хочется." />
     <string id="pf3LDFVp" text="Оставь ненадолго меч свой в ножнах, незнакомец. С кем имею дело?" />
     <string id="PiaaXapn" text="{STR_SALUTATION}... Рад вас видеть." />
@@ -119,6 +121,7 @@
     <string id="xAaxpdb3" text="{STR_SALUTATION}... Я очень, очень рад тебя видеть." />
     <string id="xiFrtNGH" text="Ах... Судьба улыбается мне сегодня. Я не могу придумать более сладкой музыки, чем твой предсмертный храп" />
     <string id="XmwqrCLY" text="{STR_SALUTATION}... Знаешь, такие надменные бандиты, как ты, в конце концов всегда получают по заслугам." />
+    <string id="xtCrabo9" text="Don't know you. Want to tell me your name, before we fight?" />
     <string id="y41EYSBI" text="{STR_SALUTATION}. Рад тебя видеть." />
     <string id="yd0sShGW" text="Стой, где стоишь. А ты кто такой? Хочу узнать кого убью." />
     <string id="YGAYp0pO" text="Что? Извините, но не думаю, что мы знакомы." />

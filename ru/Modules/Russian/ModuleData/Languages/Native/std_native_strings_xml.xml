@@ -6,6 +6,7 @@
   <strings>
     <string id="01zQKaF3" text="Форма глаз" />
     <string id="034LYlKi" text="Лицо Стены" />
+    <string id="05loYcST" text="Hit shield on back" />
     <string id="05w8Tl7n" text="Степной" />
     <string id="0cpbEvsG" text="Старое лицо" />
     <string id="0DBQGaka" text="Нанесено рыцарским ударом!" />
@@ -40,6 +41,7 @@
     <string id="43L45sjx" text="Количество ботов в формировании" />
     <string id="4DcNDein" text="Лимит времени на карте (минут)" />
     <string id="4Dd2xgPm" text="Вес" />
+    <string id="4jv2sW4U" text="Trading Post" />
     <string id="4NaOKslb" text="-" />
     <string id="4PrfimcK" text="Знак" />
     <string id="4wLU6s4S" text="Живот" />
@@ -52,6 +54,7 @@
     <string id="621DbiOw" text="Ассиметрия носа" />
     <string id="64n3piBf" text="Всего игр" />
     <string id="6DBVzw9r" text="Построить" />
+    <string id="6usZYAVm" text="Communication Abuse" />
     <string id="6yZnboe6" text="Размер глазниц" />
     <string id="74tYdiOb" text="Мудро выбирайте свои войска в соответствии с потребностями вашей команды. Количество войск определяется их силой." />
     <string id="77arWi0m" text="Внутренняя высота глаз" />
@@ -61,6 +64,8 @@
     <string id="7qySRF2T" text="Пинг" />
     <string id="7snGCl6z" text="Передовые осадные отряды" />
     <string id="880uOrte" text="Местность" />
+    <string id="8bnYsGu6" text="Harbour of Ovsk (Winter)" />
+    <string id="8EsaVlSX" text="Isle of Deriad" />
     <string id="8o1lZcjR" text="Высота бровей" />
     <string id="8sG5bTtK" text="Период возрождения" />
     <string id="9aboazgu" text="Линия" />
@@ -69,6 +74,7 @@
     <string id="a2xfNmqa" text="В лобби" />
     <string id="a8nb5HVc" text="Уголки бровей" />
     <string id="aAD1iOuH" text="Размер верхней части рта" />
+    <string id="aALNy4Es" text="Streets of Syllianon" />
     <string id="AbEh2y8o" text="Сохранить и выйти" />
     <string id="aDA9PWFT" text="Наступать" />
     <string id="aDabgVpn" text="Кастомизация персонажа" />
@@ -135,6 +141,7 @@
     <string id="f4ZeGAJi" text="Относительная скорость: {SPEED} m/s" />
     <string id="f5y9qyDb" text="Рука" />
     <string id="F6dUDgg3" text="Поражение" />
+    <string id="F6l8hFEA" text="Cliffs of Akkalat" />
     <string id="F70rOpkK" text="Капитан" />
     <string id="fFLBT9wb" text="Грудь" />
     <string id="FFNJTsDL" text="Кикнуть игрока" />
@@ -180,6 +187,7 @@
     <string id="Jd0Kq9lD" text="Щит" />
     <string id="jEh6EdF9" text="Лучшее из {ROUND_COUNT}" />
     <string id="JetpbYv9" text="Испортить" />
+    <string id="jpeq1gF0" text="Nord Town" />
     <string id="JPimShCw" text="Тип игры" />
     <string id="jsqyGWGu" text="Процент прироста золота защитников" />
     <string id="jukzZmBb" text="Earn gold and points by killing enemies and assisting your teammates as you race against the opposing team to victory." />
@@ -214,6 +222,7 @@
     <string id="MQqaKRtn" text="{SHORTCUT} Движение" />
     <string id="MS795wWa" text="Первая помощь" />
     <string id="MW8rlyfL" text="Метательное" />
+    <string id="NdQZWHIy" text="·   Lead your own detachment of troops{newline}·   Hold control points on the map to deplete enemy morale{newline}·   Kill the entire enemy team or exhaust their morale to win" />
     <string id="NE7PmH7n" text="Условия" />
     <string id="NqarFr4P" text="Настройки" />
     <string id="nt5MOuwo" text="Дюна" />
@@ -221,11 +230,14 @@
     <string id="nXE6eV8W" text="Озеро" />
     <string id="NxeQasMb" text="{SHORTCUT} Огонь" />
     <string id="o5Ead68n" text="Выход без сохранения" />
+    <string id="O5uDFhwu" text="Castle of fen Altai" />
     <string id="O9F9q1zx" text="Глубина скул" />
     <string id="obB483C5" text="Часть тела: {BODY_PART}" />
     <string id="oBbiVeKE" text="Здоровье" />
+    <string id="oGAzC0Ob" text="Game Mode" />
     <string id="Oud3W58w" text="Удерживайте ({KEY}) {ACTION}" />
     <string id="OVcoYxj1" text="Название сервера " />
+    <string id="OviaJ1tA" text="Other" />
     <string id="ox8XcxfR" text="Форма ушей" />
     <string id="OZHFucP5" text="Хмуриться/улыбаться" />
     <string id="pa4yXyDa" text="{PLAYER_COUNT} против {PLAYER_COUNT}" />
@@ -239,10 +251,12 @@
     <string id="PiHpR4QL" text="Одноручное" />
     <string id="PiLml6Nl" text="Атакающие удерживают флаг течение 90 секунд, прежде чем мораль или время истечет. Захват флагов увеличивает мораль.{newline}Защитники защищают замок до тех пор, пока не упадет мораль врага." />
     <string id="Pkw17hO0" text="Боевая скорость" />
+    <string id="pMmmfvkN" text="Inappropriate Play" />
     <string id="pnUSAxzf" text="Добавить официальный список игровых серверов" />
     <string id="pQibMlbA" text="Переносица носа" />
     <string id="PuX1G0h3" text="Недостаточно навыков верховой езды" />
     <string id="PY6VznGu" text="Ширина лица" />
+    <string id="Pzvtcbk6" text="Xauna" />
     <string id="Q2EmU0TA" text="Лимит команды" />
     <string id="Q2yjFlC9" text="Не стрелять" />
     <string id="q8lsn0U6" text="Возглавь свой отряд войска в этом командном режиме PvP-игры. Контролируй поле битвы, чтобы деморализовать вражескую команду или уничтожить их силы для победы." />
@@ -259,7 +273,9 @@
     <string id="R4Gqskgq" text="Победа" />
     <string id="rbYITcao" text="Рот" />
     <string id="rbz1Bwbv" text="Инвентарь" />
+    <string id="RJEHDWmu" text="·   Buy limited respawns using gold{newline}·   Hold control points on the map to deplete enemy morale{newline}·   Kill the entire enemy team or exhaust their morale to win" />
     <string id="RlDVtPpB" text="Глубина глаз" />
+    <string id="rLozutts" text="Request Friendship" />
     <string id="rTFaZCdY" text="Лес" />
     <string id="rTPnyeJ3" text="Стена щитов" />
     <string id="Rvr1bcu8" text="Далее" />
@@ -267,15 +283,18 @@
     <string id="sBU9vyF1" text="Выстрел в голову!" />
     <string id="SdxEH6b1" text="Нижняя форма губ" />
     <string id="SfJgnzdq" text="Заглушить" />
+    <string id="sisK3HPI" text="You are muted." />
     <string id="SN2ojCFr" text="Полная Кожа" />
     <string id="SNLShTzq" text="Счет" />
     <string id="SVAmzGRM" text="Забанить игрока" />
     <string id="SVeIOaab" text="Минимальное количество очков, чтобы выиграть матч" />
     <string id="SVnbZdJq" text="Скрыть уши" />
     <string id="Svtb9MQv" text="Дуэль" />
+    <string id="sXAATSgd" text="Harbour of Ovsk" />
     <string id="sZxSeeXp" text="Количество игроков до конца разминки" />
     <string id="t2Oh6uty" text="Приветственное сообщение" />
     <string id="t78atYqH" text="Двуручное" />
+    <string id="t8lAbdCk" text="Isle of Deriad (Winter)" />
     <string id="tAeflOpj" text="Нанесено {DAMAGE} {DAMAGE_TYPE} урона." />
     <string id="tAyw51tM" text="Разрешить индивидуальные флаги" />
     <string id="TDy1GZHv" text="Перестрелка в битве" />
@@ -306,6 +325,7 @@
     <string id="umhwsoqb" text="Выберите желаемый отряд в начале раунда и для дальнейшего возрождения, используйте золото." />
     <string id="uPLRkTZr" text="Получайте подкрепление используя золото в зависимости от успеха при осаде." />
     <string id="UQabkhbG" text="Лошадь нанесла {DAMAGE} {DAMAGE_TYPE} урона." />
+    <string id="uqzA4Q4a" text="Imperial Villa" />
     <string id="UrZvjCfE" text="Вашей лошади нанесено {DAMAGE} {DAMAGE_TYPE} урона." />
     <string id="UUKzc88q" text="Камера наблюдателя" />
     <string id="UvIsHvrt" text="Река" />
@@ -314,9 +334,11 @@
     <string id="V4iU0wRv" text="Золото" />
     <string id="V6BAHTnv" text="Культура команды 2" />
     <string id="VbeHEAsa" text="Отступление" />
+    <string id="VecPWliR" text="Excessive reporting of a player may result in a ban." />
     <string id="VI4gQt8Q" text="Булава" />
     <string id="vkEzdL3k" text="Изменить тип игры или сцену" />
     <string id="vLjgcdgB" text="Снег" />
+    <string id="vM7CssWE" text="Ruins of Jawwali" />
     <string id="vo5NpcUS" text="Форма верхней губы" />
     <string id="vqao3Z2N" text="Скорость тарана (процент)" />
     <string id="VRdy76RQ" text="Схватка" />
@@ -339,14 +361,17 @@
     <string id="WsmZzaOq" text="Колонна" />
     <string id="WXAaWZVf" text="Предыдущие" />
     <string id="Wxlhg1f1" text="Сапоги" />
+    <string id="WxM16s2Y" text="Druimmor Forest" />
     <string id="wxzhtvZR" text="Период респауна обороняющихся" />
     <string id="x1QEJna0" text="Шире" />
     <string id="xILeUbY3" text="Панель администратора" />
     <string id="Xj2FCkQl" text="Список пользовательских{newline}серверов" />
+    <string id="xoXWGYVI" text="·   Use various siege engines to attack or defend control points{newline}·   Spawn points advance as control points are captured{newline}·   Successfully assault and hold the keep flag or repel the enemy to win" />
     <string id="XpVARRTW" text="Глубокий" />
     <string id="xq9Vxpyc" text="&lt;a style=&quot;HeadshotTitle.Text&quot; &gt;&lt;b&gt;{TITLE}&lt;/b&gt;&lt;/a&gt;" />
     <string id="XQndveFG" text="Урон по своим в ближнем бою" />
     <string id="XUKRrgOr" text="Нанесено {DAMAGE} {DAMAGE_TYPE} урона по лошади." />
+    <string id="xuo8gmaL" text="·   Buy respawns using gold{newline}·   Earn gold by killing enemies and assisting teammates{newline}·   Outkill the enemy team to win the game" />
     <string id="xXQN7Go6" text="Открытость глаз" />
     <string id="XZU9SyQW" text="Быстрая игра" />
     <string id="XzZFhRwr" text="Вернуться в игру" />
@@ -357,8 +382,10 @@
     <string id="YhDDXj0I" text="Каньон" />
     <string id="YoNYyLba" text="Копье" />
     <string id="yQtzabbe" text="Рядом" />
+    <string id="YRabuUqx" text="Baravenos Encirclement" />
     <string id="YRymCbaa" text="Меня пробило насквозь!" />
     <string id="Yvjap05b" text="Скорость передвижения" />
+    <string id="YvK6gI6q" text="Town Outskirts" />
     <string id="yyJejJbO" text="Форма подбородка" />
     <string id="zatDiaEI" text="Делегировать полномочия" />
     <string id="Zc2f5bhh" text="Убейте всех врагов или сломите моральный дух вражеской команды или наберите больше морального духа при окончании раунда" />
@@ -367,6 +394,7 @@
     <string id="zmlCRb1M" text="Максимальное количество игроков" />
     <string id="ZMmrpMPk" text="Шея" />
     <string id="zpNSyauI" text="Спаун с лучшими войсками, используя золото в зависимости от ваших убийств на поле битвы." />
+    <string id="ztGHtRNf" text="Cheating" />
     <string id="ZYChhMrO" text="Ничья" />
     <string id="ZZMbAjSU" text="Пробитие насквозь!" />
   </strings>

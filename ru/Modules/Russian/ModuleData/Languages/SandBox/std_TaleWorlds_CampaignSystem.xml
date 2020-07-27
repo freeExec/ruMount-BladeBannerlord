@@ -1142,7 +1142,7 @@
     <string id="Feph9Php" text="Следы дают больше информации." />
     <string id="fF2BdOy9" text="Мне сейчас ничего не нужно." />
     <string id="ffoqz6yP" text="Вы доставили {DELIVERED_ITEM_COUNT} единиц товара от {QUEST_GIVER.NAME}." />
-    <string id="ffT8ISSb" text="Выносливость тратится в два раза быстрее." />
+    <string id="ffT8ISSb" text="Выносливость при переработке уходит в два раза меньше." />
     <string id="FfubN1NY" text="Вы решили издать указ, разрешающий ремесленникам вести торговлю." />
     <string id="FFx4hSEU" text="{NEWS} {NEWS2}" />
     <string id="fGFMqlGz" text="Пол" />

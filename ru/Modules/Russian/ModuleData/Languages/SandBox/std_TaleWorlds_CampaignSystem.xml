@@ -1104,7 +1104,7 @@
     <string id="eM1qFKNs" text="Меткий стрелок" />
     <string id="emH1yQAs" text="Средний бонус XP за день для войск уровня 1-2-3." />
     <string id="emLBsWj6" text="Мне ужасно жаль. Нам практически невозможно пожениться." />
-    <string id="empirefaction" text="Empire" />
+    <string id="empirefaction" text="Империя" />
     <string id="EMri2uIu" text="{NAME} Вор" />
     <string id="EMVLtu5L" text="{HERO.LINK} навык {SKILL_NAME} повысился {?PLURAL}на {GAINED_POINTS}{?}{\?} до {UPDATED_SKILL_LEVEL}." />
     <string id="EmXai6dm" text="обесценивание денег" />
@@ -1124,7 +1124,7 @@
     <string id="eQBPuoag" text="Быстрый прицел" />
     <string id="EqFbNha8" text="Селяне неохотно выносят то, что у них есть для вас." />
     <string id="EqLQtlca" text="То, как мы только что сбежали от врага... Я не хочу, чтобы меня прозвали  трусом." />
-    <string id="Eqwrqotp" text="Increase your swing speed with two handed swords by 3%." />
+    <string id="Eqwrqotp" text="Увеличение скорости взмаха двуручным мечом на 3%." />
     <string id="ER3ieXOb" text="Педант" />
     <string id="erKuPRWA" text="У меня есть план, чтобы подняться в этом мире. Я еще только в самом начале пути." />
     <string id="eRoZ0IVy" text="Прирост лояльности от города на 20% больше.." />

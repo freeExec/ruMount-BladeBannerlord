@@ -170,7 +170,7 @@
     <string id="ffHX9L80" text="Цифровая клавиатура 0" />
     <string id="FHBoO2sp" text="6" />
     <string id="fJnqJx8m" text="Окно персонажа" />
-    <string id="fldPHfP6" text="Sets the refresh rate of the game." />
+    <string id="fldPHfP6" text="Устанавливает частоту кадров в игре." />
     <string id="FLLnblfP" text="Сообщения о потерях" />
     <string id="FqvJUBRn" text="Очень низкое" />
     <string id="fsI2wuHa" text="Группа 2 слушай" />
@@ -222,7 +222,7 @@
     <string id="ikoUJQyl" text="Включает эффект свечения." />
     <string id="IOZ4aWVp" text="Выбрать группу 8" />
     <string id="IPbh2TvZ" text="Включить командный чат" />
-    <string id="iPx4jep6" text="Exposure" />
+    <string id="iPx4jep6" text="Экспозиция" />
     <string id="Irhxad7u" text="Качество воды" />
     <string id="iTau5cxh" text="Средняя" />
     <string id="iUFgqwkA" text="Средний (256)" />
@@ -257,7 +257,7 @@
     <string id="K80z5onY" text="Определяет, как далеко будет находиться камера от третьего лица." />
     <string id="kak4GxOh" text="F6" />
     <string id="kG4051e5" text="Выбратьприказ7" />
-    <string id="KGaaYZi1" text="Refresh Rate" />
+    <string id="KGaaYZi1" text="Частота кадров" />
     <string id="KHbdmIfF" text="Только статические" />
     <string id="KjZas5Xs" text="Выбор видеоадаптера который будет воспроизводить игру." />
     <string id="Kk0hMffJ" text="Чувствительность мыши " />
@@ -293,7 +293,7 @@
     <string id="MhralfPz" text="Auto" />
     <string id="MkKL3Y4P" text="Numpad 7" />
     <string id="mLtHlKzD" text="Правый Alt" />
-    <string id="MNsKxGzK" text="Texture Streaming Budget" />
+    <string id="MNsKxGzK" text="Размер стриминга текстур" />
     <string id="mueocuFG" text="Показывать индикаторы" />
     <string id="mWnA4X5D" text="Выбрать приказ 6" />
     <string id="MXHkvySm" text="F7" />

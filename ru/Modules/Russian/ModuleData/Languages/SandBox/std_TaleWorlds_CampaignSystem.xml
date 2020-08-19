@@ -1225,7 +1225,7 @@
     <string id="FLa5OuyK" text="Странник" />
     <string id="fLaRz2SM" text="Отклонить" />
     <string id="FLxu1bc0" text="Infantry troops in the formation you are leading increase their damage against mounts with polearms by 30%." />
-    <string id="fMekM2UH" text="{HIDEOUT_TEXT}. Вы не можете сами атаковать, ваши раны не позволяют вам это сделать." />
+    <string id="fMekM2UH" text="{HIDEOUT_DESCRIPTION}. Вы не можете сами атаковать, ваши раны не позволяют вам это сделать." />
     <string id="fMh5KZfk" text="Это нам не нужно, пойдем." />
     <string id="FmIIQEQD" text="{HERO.NAME} {?HERO.GENDER}умерла{?}умер{\?}." />
     <string id="FmjZfigu" text="Yes commander, I have brought your grain, livestock and wine as you requested." />
@@ -2999,7 +2999,7 @@
     <string id="xbal9bvg" text="Increase your Vigor Attribute by 1." />
     <string id="XbphYvnU" text="Очень хорошо. Я верю в то, что нужно делать все по старинке. Прежде чем наши воины встретятся, давай мы с тобой сразимся в честном поединке. Доставай меч." />
     <string id="XbQFAKUz" text="{PRISONER_LORD.LINK_AND_FACTION} умер, находясь в плену у {CAPTURER_FACTION}." />
-    <string id="xbVCRbUu" text="Вы выследили и уничтожили {CURRENT_COUNT}/{TOTAL_COUNT} отрядов {BRIGAND_TYPE}" />
+    <string id="xbVCRbUu" text="Вы выследили и уничтожили {CURRENT_COUNT}/{TOTAL_COUNT} незаконных отрядов" />
     <string id="xbvei0Cb" text="Феодальное Наследство" />
     <string id="XCJGl82o" text="Ты думаешь, что сможешь меня одурачить? Теперь отдай оружие!" />
     <string id="xCmSqbNR" text="Мне нужна информация об этом городе. Вы можете мне помочь?" />

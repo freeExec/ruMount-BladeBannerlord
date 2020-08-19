@@ -1,7 +1,7 @@
 by DOG729
 site: DOG729.RU
 site download: https://fgame.dog729.ru/#mb2rus
-updated: 2020-07-28
+updated: 2020-08-20
 
 Credit:
 haman115

@@ -80,7 +80,7 @@
     <string id="3cTKRX1M" text="Никогда не видел" />
     <string id="3Ds5ARHL" text="Купец" />
     <string id="3E0ZXV7j" text="Результат Решения" />
-    <string id="3F35l4QF" text="Количество здоровых солдат-защитников" />
+    <string id="3F35l4QF" text="Количество здоровых защищающихся солдат" />
     <string id="3fAm8FaM" text="Так и быть... как мой отец говорит, путь не достоин имени, если никого не убил." />
     <string id="3FUaZk5A" text="Моя госпожа," />
     <string id="3Gb7tKgJ" text="{LEFT} и {RIGHT}" />
@@ -600,7 +600,7 @@
     <string id="FLrzc1uk" text="Ах, я боюсь, нам придется перерезать тебе глотку в таком случае - из-за наших принципов, конечно. За незаконное проникновение." />
     <string id="fMmlUHyz" text="Режущий урон: " />
     <string id="fMSYE6Ii" text="По умолчанию" />
-    <string id="forgeverb" text="Плавить" />
+    <string id="forgeverb" text="Ковать" />
     <string id="Fp68NbYO" text="Королевства" />
     <string id="fpdXZ0fl" text="Подбор" />
     <string id="FpI5JMZq" text="Транзакции были отменены" />
@@ -1309,7 +1309,7 @@
     <string id="taaNCsVZ" text="Вы одержали победу в турнире, сразив {TOURNAMENT_FINAL_OPPONENT} в последнем раунде." />
     <string id="TCQQRQgI" text="Боевой порядок" />
     <string id="tDA5dhn3" text="императрицы" />
-    <string id="tDDG7gPa" text="Количество здоровых атакующий солдат" />
+    <string id="tDDG7gPa" text="Количество здоровых атакующих солдат" />
     <string id="TDQId8c9" text="Вы построили барьер против своего оппонента, и у вас осталось больше пешек. Вы выиграли игру!" />
     <string id="tDy1TfDq" text="Возвратиться к герою" />
     <string id="tdYB3Tzc" text="Вернуть" />

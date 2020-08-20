@@ -112,7 +112,7 @@
     <string id="5aDlmdmb" text="Нет... Нет. Это не имеет смысла." />
     <string id="5ajobQiL" text="Какую роль ты имеешь в виду?[ib:normal][rb:unsure]" />
     <string id="5akTbqNs" text="Я буду ждать тебя снаружи, капитан." />
-    <string id="5ANh9qVW" text="Farewell for now. Walk the path of the righteous, and the Heavens will protect you." />
+    <string id="5ANh9qVW" text="А пока прощайте. Идите путём праведника, и Небеса защитят вас." />
     <string id="5bbvuAFf" text="Что вы предлагаете?" />
     <string id="5bRQ0gt7" text="Сколько людей тебе нужно для этого? За каждого человека я хочу 100{GOLD_ICON}." />
     <string id="5bza9sDs" text="Мне очень жаль это слышать. Вы не найдете лучшего места, чем  {FACTION_NAME}, будьте в этом уверены." />
@@ -1061,7 +1061,7 @@
     <string id="v0HhVu4z" text="Как работают мастерские?" />
     <string id="V0WZMh2U" text="Как дела, босс?" />
     <string id="v0XsM7Zz" text="Если вы отправите своего лучшего следопыта и несколько человек, я уверен, что они найдут мою девочку и вернутся к вам не более чем через {ALTERNATIVE_SOLUTION_WAIT_DAYS} дней." />
-    <string id="V5Kygicn" text="It was good to meet you. Come see me if you need anything." />
+    <string id="V5Kygicn" text="Приятно было познакомиться. Приходи ко мне, если тебе что-нибудь понадобится." />
     <string id="V6jXzuMv" text="{COMPANION_ROLE}" />
     <string id="v9IKCSmD" text="Вам нужно получить разрешение господина, чтобы поговорить с заключенными." />
     <string id="vAjgn7yx" text="Соперничающая банда переезжает в {SETTLEMENT}" />

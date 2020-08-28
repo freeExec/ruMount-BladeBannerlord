@@ -93,6 +93,7 @@
     <string id="FFXqPFwl" text="Я {CONVERSATION_CHARACTER.LINK}, из {CLAN_NAME}, одной из самых выдающихся семей в анналах Вландийского Королевства." />
     <string id="fHFpgitO" text="Хорошо, что мы встретились. Всегда помните, что хотя смелость-это похвально, сострадание является величайшей из добродетелей." />
     <string id="FpD4Y9cX" text="Спасибо. Я должен оставаться вашим врагом, но, тем не менее, я благодарен.[if:happy][rb:very_positive]" />
+    <string id="g3oFsCtd" text="You asked for a parley. I will trust you will honor the customs of war and attempt no tricks." />
     <string id="G8ol9sG3" text="Мне очень жаль сражаться с вами, но я должен. Если, конечно, вы не хотите сдаться.[ib:warrior][if:idle_angry]" />
     <string id="gBRBdsIe" text="Я уверен, что кто-то с вашей репутацией знает, что ничто в этом мире не ценно так же, как вес вашего слова. Говорите со мной правдиво, а я буду честен с вами." />
     <string id="gggmhjd7" text="Я не уверен, что вы не можете предложить мне ничего, что я бы не мог просто отобрать." />
@@ -182,11 +183,13 @@
     <string id="ry1ycxNY" text="Я хотел бы, чтобы не дошло до этого." />
     <string id="s1FVPS5D" text="Я {CONVERSATION_CHARACTER.LINK}, из Дома {CLAN_NAME}. Наша семья служила Империи в течение поколений." />
     <string id="S1vGzr8z" text="Я {CONVERSATION_CHARACTER.LINK}, из {CLAN_NAME}, клана из Асераи." />
+    <string id="s6xlGuTH" text="I will honor the terms of the parley if you do likewise." />
     <string id="sax2tF9L" text="Вы действительно {?PLAYER.GENDER}женщина{?}мужчина{\?} чести, {?PLAYER.GENDER}мадам{?}сир{\?}. Я не забуду это![if:happy][rb:very_positive]" />
     <string id="SJ3bpDxC" text="Я не узнаю ваше знамя, но очевидно, что вы леди высокого ранга. Пожалуйста, считайте меня своим самым скромным слугой." />
     <string id="sJNrVlXa" text="Слышал, вы все время в разъездах... так что... Не могли бы вы мне рассказать о своих путешествиях." />
     <string id="SSuL62NZ" text="Я верен {FIRST_NAME}. Никто не скажет иначе." />
     <string id="sswCmQZ2" text="Они называют нас Озерными Крысами, но мы предпочитаем, чтобы нас называли свободными людьми болот. Ни один принц или боярин не может заставить нас склонить головы и преклонить колени. Помните это, и мы, вероятно, сможем поладить." />
+    <string id="T0Cdfsx2" text="You asked for a parley. If you're tempted to try any tricks, do know I have some archers standing by to keep you honest." />
     <string id="t6sRVI5C" text="Моя жена" />
     <string id="tA4wDLt2" text="Мои писцы запишут ваше имя." />
     <string id="te2DSMtg" text="Мы больше не будем мириться с этим. Мы будем проливать кровь угнетателей и всех, кто стоит на пути нашего справедливого гнева" />

@@ -23,6 +23,7 @@
     <string id="345a87fcc69f626ae3916939ef2fc135" text="Скорость Взмаха: " />
     <string id="3CpNUnVl" text="Отменить" />
     <string id="3F0y3ugx" text="Успех!" />
+    <string id="3PzgpFGq" text="Neutral" />
     <string id="3sxtCWPe" text="Покинуть Королевство" />
     <string id="43HYUImy" text="{SETTLEMENT} находится в осаде" />
     <string id="4cU98rkg" text="Переплавка" />
@@ -70,6 +71,7 @@
     <string id="bnrRzeiF" text="Не активно" />
     <string id="bPFjmYCI" text="{SHOP_NAME} x {SHOP_DIFFERENCE_COUNT}" />
     <string id="BrY8itaf" text="Отправленные на выполнение поручений члены отряда будут отображаться здесь. Они не занимают место в вашем собственном отряде." />
+    <string id="BV5exuPf" text="Remove From Bookmarks" />
     <string id="C2qpwFq5" text="Владелец земель {SETTLEMENTS}" />
     <string id="c5eYzHaM" text="{DAYS} {?DAY_IS_PLURAL}Дней{?}День{\?} ({PERCENTAGE}%)" />
     <string id="c6BtCIrX" text="{DAYS} days ago" />
@@ -86,9 +88,12 @@
     <string id="CnsIzaWo" text="Поле Битвы" />
     <string id="cUUI8u2G" text="Выносливость в Кузне " />
     <string id="d2K6gMsZ" text="Отправить воинов. Нужен как минимум 1 спутник." />
+    <string id="d8jrv3nA" text="Add To Bookmarks" />
     <string id="DAmdTxuC" text="Управление армией" />
+    <string id="dD3kRDHi" text="This hero is a fugitive and running from their captors. They will will be available after some time" />
     <string id="DNq9bdvV" text="{THRUST_DAMAGE_FACTOR}" />
     <string id="dO95yR9b" text="Колющий урон: " />
+    <string id="DPTPuyip" text="And {NUMBER} more..." />
     <string id="Dqydb21E" text=" {PARTY_SIZE}" />
     <string id="dWYm9GsC" text="Requires" />
     <string id="DXczLzml" text="Status" />
@@ -128,6 +133,7 @@
     <string id="horseTier" text="Уровень лошади: " />
     <string id="hr4MuPnt" text="Необходимые Материалы" />
     <string id="hTzTMLsf" text="Дальность обзора" />
+    <string id="HURdAXDQ" text="Hideout Crew" />
     <string id="hylxyNtU" text="Вам не хватает." />
     <string id="Hz8XO8wk" text="Персонаж не может вести за собой отряд,будучи губернатором." />
     <string id="IagYTD5O" text="Счастье" />
@@ -151,6 +157,7 @@
     <string id="jPBhgu7a" text="Лагерь" />
     <string id="jQdBl4hf" text="Губернатор города " />
     <string id="JTxI3sW2" text="Взять в осаду {TARGET_SETTLEMENT}." />
+    <string id="jxypVgl2" text="Relation Changes" />
     <string id="Jyfkahka" text="{VALUE} ({?POSITIVE}+{?}{\?}{DELTA_VALUE})" />
     <string id="JYOcl7Ox" text="Неэффективно!" />
     <string id="JzrodcIR" text="В вашем клане нет подходящего человека, который мог бы управлять этим поселением." />
@@ -188,7 +195,6 @@
     <string id="NC9bbrt5" text="Конец дня денаров" />
     <string id="NcYbdiyT" text="Сменить Лидера" />
     <string id="nMcvafHY" text="Активно" />
-    <string id="NRpbagbZ" text="Следует к {TARGET_PARTY}" />
     <string id="nYYUQQm0" text="Множитель рубящего урона " />
     <string id="O3dhjtOS" text="Head Armor" />
     <string id="oBbiVeKE" text="Здоровье" />
@@ -270,11 +276,13 @@
     <string id="tFGM0yav" text="Распустить отряд." />
     <string id="tLh0VqN3" text="Choose Your Kingdom Culture" />
     <string id="twtbH1zv" text="Stack Amount" />
+    <string id="tYz4D8Or" text="Prisoner" />
     <string id="TzLtVzdg" text="Раненые" />
     <string id="UbZL2BJQ" text="Здоровье" />
     <string id="UHLcmf9A" text="Предельное количество пленников" />
     <string id="uJro3Bua" text="Превышение лимита" />
     <string id="uoDuiBZR" text="Нельзя назначить себя в качестве губернатора" />
+    <string id="uQgNPJnc" text="Manage Troops" />
     <string id="US7UmBbt" text="Armor Tier" />
     <string id="UxAl9iyi" text="Личный" />
     <string id="v3OF6vBg" text="Доходность" />

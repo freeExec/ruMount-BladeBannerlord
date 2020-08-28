@@ -58,6 +58,7 @@
     <string id="47Psftp7" text="Северная Кувалда" />
     <string id="4a99jSHC" text="Степные Кожаные Наплечники" />
     <string id="4AfHO0BA" text="Шипованная Меховая броня Без Рукавов" />
+    <string id="4aFPp5hj" text="Лёгкий овальный щит" />
     <string id="4BfbPgkY" text="Цервельер с Наносником и Побитым Подшлемником" />
     <string id="4CPxahsU" text="Восточная Кавалерийская Булава" />
     <string id="4DiJ8dfj" text="Западный полуторный Топор" />
@@ -91,6 +92,7 @@
     <string id="7rhZlXdO" text="Охотничий Длинный Лук" />
     <string id="7yGwvnUA" text="Северная Туника" />
     <string id="7zIWNagP" text="Тяжёлый Клинок" />
+    <string id="8bH8n3Aq" text="Лёгкий высокий треугольный щит" />
     <string id="8cM840mh" text="Северная роскошная Туника" />
     <string id="8DnJls9z" text="Степные кожаные Наручи" />
     <string id="8hDoWBIa" text="Рубашка Простолюдина" />
@@ -265,7 +267,6 @@
     <string id="GNdVXMue" text="Шарф" />
     <string id="Goloz0Vm" text="Одногорбый Верблюд" />
     <string id="gqbjCBld" text="Северный Метательный Топор" />
-    <string id="gSaKwztg" text="Горные Наручи Знати" />
     <string id="gT8WENO3" text="Длинная Броня" />
     <string id="gTptIfxY" text="Пустынная Шапка" />
     <string id="GTWUtUFj" text="Цепная Лошадиная Упряжь" />
@@ -392,6 +393,7 @@
     <string id="maYSspDY" text="Круглый Котелок с Подшлемником " />
     <string id="Mb1hQRyT" text="Пустынный Овальный Щит" />
     <string id="Mb9DaXHm" text="Горный Двуручный Меч" />
+    <string id="mbT1uNPa" text="Кинжал" />
     <string id="Mc6IC6UM" text="Стёганый Доспех Дикаря" />
     <string id="mDHMOUdx" text="Плетёный Щит Пехотинца" />
     <string id="mFbFEOVz" text="Северная Меховая Шапка" />
@@ -406,7 +408,6 @@
     <string id="mRGIxvYh" text="Цервельер с Наносником поверх Кольчужного Койфа" />
     <string id="mScuLsnl" text="Тисовый Длинный Лук" />
     <string id="MUdwS6jH" text="Крепкий Тиальский Конь" />
-    <string id="MvvlKO0U" text="Iron Feathered Spangenhelm Over Leather" />
     <string id="mXQsNAmZ" text="Остроконечная Стрела" />
     <string id="n6EbRo6h" text="Северный Кавалерийский Топор" />
     <string id="ndfDy5B8" text="Повязанные Головные Обмотки" />
@@ -581,7 +582,6 @@
     <string id="vNNMGllv" text="Северные латные Перчатки" />
     <string id="vOStJZya" text="Тяжёлая Броня" />
     <string id="VRP5Q4mU" text="Южная Кольчужная Броня" />
-    <string id="VrZJfOFN" text="Горные Метательные Ножи" />
     <string id="vsavMoLZ" text="Сегментированный Цервельер с Подбитым Тканевым Подшлемником" />
     <string id="VSMpadvq" text="Меховой Доспех" />
     <string id="vU1ibFrY" text="Восточная Усиленная Броня" />

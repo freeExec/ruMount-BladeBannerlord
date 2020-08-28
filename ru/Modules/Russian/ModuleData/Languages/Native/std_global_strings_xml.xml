@@ -130,6 +130,7 @@
     <string id="cAkgnVr5" text="Num Lock" />
     <string id="CbwmI1JY" text="Включает глубину резкости." />
     <string id="combatkick" text="Пинок" />
+    <string id="controlgamekey" text="Control" />
     <string id="cp80Mq2W" text=";" />
     <string id="Crf6Z1S5" text="Page Up" />
     <string id="CsEtp6Az" text="Группа 3 слушай" />
@@ -294,6 +295,7 @@
     <string id="MkKL3Y4P" text="Numpad 7" />
     <string id="mLtHlKzD" text="Правый Alt" />
     <string id="MNsKxGzK" text="Размер стриминга текстур" />
+    <string id="mS1cpD6w" text="Enable mouse while scoreboard is open." />
     <string id="mueocuFG" text="Показывать индикаторы" />
     <string id="mWnA4X5D" text="Выбрать приказ 6" />
     <string id="MXHkvySm" text="F7" />
@@ -326,6 +328,7 @@
     <string id="PADeKaAu" text="Контекстное меню карты" />
     <string id="PksJtzwJ" text="Пробел" />
     <string id="Pkw17hO0" text="Боевая скорость" />
+    <string id="PmbKYDON" text="Cheer" />
     <string id="pnEeRPAk" text="Группа 7 слушай" />
     <string id="pNocZkrx" text="Включить визуальные эффекты от урона" />
     <string id="PPFFxlsX" text="Выбор способа выполнения блоков." />
@@ -369,6 +372,7 @@
     <string id="rYCYUZu5" text="Группа 5 слушай" />
     <string id="s4r1xdg0" text="Группа 6 слушай" />
     <string id="s533kEjf" text="Громкость музыки" />
+    <string id="s5EnYLUp" text="Cheer on click. Open Cheer wheel on hold." />
     <string id="s6qTeIw1" text="Установить чувствительность мыши и управления камерой." />
     <string id="s7yWjpeB" text="Видеоадаптер" />
     <string id="sAa2SIgO" text="Вы можете переключаться между различными режимами микширования, лучше подходящими для вашей конфигурации динамиков." />
@@ -424,6 +428,7 @@
     <string id="urSa4wQG" text="Показывать знамена у дружественных войск" />
     <string id="uRXlSUVh" text="N" />
     <string id="uSGPBRFS" text="Приближение" />
+    <string id="USKys6FV" text="Show Mouse" />
     <string id="UTU6yVsp" text="Возобновить время на глобальной карте." />
     <string id="uUHUfeQr" text="Выбрать группу 6" />
     <string id="UwJIMaRi" text="Качество шейдеров" />
@@ -509,7 +514,6 @@
     <string id="ZaaPPemL" text="Выбратьприказ8" />
     <string id="ZeIsxhk4" text="Устанавливает метод фильтрации теней." />
     <string id="ZewnkWoO" text="G" />
-    <string id="zfRqM4mr" text="Control" />
     <string id="Zgs47DHB" text="Caps Lock" />
     <string id="ZIKuUbUG" text="Задает количество одновременного моделирования Ragdoll." />
     <string id="znSZmZvV" text="Переместить карту вправо" />

@@ -321,7 +321,6 @@
     <string id="JanWod6k" text="Узкая гарда боевого меча" />
     <string id="JbP7zdes" text="Заостренная южная гарда" />
     <string id="JCYmlrKF" text="Стальная усиленная рукоять булавы" />
-    <string id="JdboLXbG" text="Обух молота" />
     <string id="JfRydy7M" text="Ребристая гарда /дровокола/" />
     <string id="jfyCVJya" text="Двуручная рукоять из потемневшей стали" />
     <string id="JIj91e96" text="Скрытая двуручная рукоять в переплете" />
@@ -465,6 +464,7 @@
     <string id="PbxZzhZx" text="Узкие Seax Охранник" />
     <string id="PjMeZcwO" text="Губами Кинжал Гвардии" />
     <string id="pkmy6zB2" text="Южная Звезда Охраны" />
+    <string id="PmPxx2gK" text="Согнутая навершие лезвия" />
     <string id="pocRP9dq" text="Длинный Посох Пепла " />
     <string id="PQ8rR13R" text="Длинный Клинок Ятагана Зз Хорошей Стали" />
     <string id="PqoJ1ZeB" text="Украшенная Сабля Клинок" />
@@ -613,6 +613,7 @@
     <string id="WXBkfAbb" text="Втянут Прямоугольный Северной Кинжал Гвардии" />
     <string id="WxnqOG8s" text="Широкая Вогнутая Гвардии" />
     <string id="wXUjru6o" text="Широкий Набалдашником Саблей Охранника" />
+    <string id="X1FY4VYe" text="Обух молота" />
     <string id="X7OrRebK" text="Узкое Лезвие Отеля Sparth" />
     <string id="xb6e2YaV" text="Восточная Простой Овальной Кинжал Гвардии" />
     <string id="XbaFle0M" text="Восточной Двойное Копье Крылья" />
@@ -635,7 +636,6 @@
     <string id="Y4tIQnS4" text="Простое И Короткое Копье Голову" />
     <string id="y5A3HGua" text="Парамерийский Клинок из Хорошей Стали" />
     <string id="ybjDbw8p" text="Ручки Длинные Дубовые Палицы " />
-    <string id="ybk4YYeV" text="Бурят Одноручный Топор Голова" />
     <string id="yD9v5GS0" text="Украшена Сосна Вал" />
     <string id="YDG2spCf" text="Восточная Кожа Благородный Сцепление" />
     <string id="yFm0f44p" text="Указал Западных Гвардии" />

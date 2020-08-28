@@ -15,6 +15,7 @@
     <string id="azjMBa86" text="Отличная Сталь" />
     <string id="Bn7IsMpu" text="ИНТ" />
     <string id="bVD9j0wI" text="Физическая подготовка, скорость и баланс." />
+    <string id="controlskill" text="Контроль" />
     <string id="d2ApwXJr" text="ВЫН" />
     <string id="EGeY1gfs" text="Обаяние" />
     <string id="eoLbkhsY" text="Мастерство боя с двуручным оружием средней длины, таким как большие топоры и мечи." />
@@ -74,6 +75,5 @@
     <string id="YO5LUfiO" text="Хитрость позволяет вам предугадать, что сделают другие люди и обвести их вокруг пальца." />
     <string id="YWkdD7Ki" text="Сила" />
     <string id="ZBmz4niK" text="и" />
-    <string id="zfRqM4mr" text="Контроль" />
   </strings>
 </base>

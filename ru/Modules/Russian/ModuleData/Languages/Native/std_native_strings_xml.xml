@@ -29,7 +29,6 @@
     <string id="2QzgefNF" text="Полнота лица" />
     <string id="2Rf2ChRD" text="Глубина бровей" />
     <string id="2uynGJbP" text="Передача войск" />
-    <string id="39kMNdA5" text="Снятие флага" />
     <string id="3AInGztr" text="Туловище" />
     <string id="3APdsKEi" text="Метательный нож" />
     <string id="3aX5gXmJ" text="Цвет кожи" />
@@ -45,6 +44,7 @@
     <string id="4NaOKslb" text="-" />
     <string id="4PrfimcK" text="Знак" />
     <string id="4wLU6s4S" text="Живот" />
+    <string id="52YN6m2B" text="Delivered braced polearm damage!" />
     <string id="5LpufKs7" text="За мной" />
     <string id="5mSKBidd" text="Форма носа" />
     <string id="5odwu8qB" text="Место" />
@@ -110,6 +110,7 @@
     <string id="bYCfMbYk" text="Изменить вашу команду" />
     <string id="c1zu1b3M" text="Вы были удалены из партии." />
     <string id="c2tGH5II" text="Разминка ограничение времени (минуты)" />
+    <string id="captainasgame" text="Captain" />
     <string id="cBZ6OlKW" text="Джавелин" />
     <string id="ccROnOY3" text="Получил выдержано рыцарский удар!" />
     <string id="CFI2aDtg" text="Броня лошади" />
@@ -120,8 +121,9 @@
     <string id="Cl3TziQE" text="Лошади нанесено {DAMAGE} урона при падении." />
     <string id="CoxEyDa8" text="Перчатка" />
     <string id="cPbHqGrI" text="Кикнуть игрока" />
+    <string id="cSui4APH" text="Objective Destroyed" />
+    <string id="d1ogH1v1" text="Tsagaan Castle" />
     <string id="d3RJm2zW" text="Высота челюсти " />
-    <string id="DdOgvhsV" text="Кикнуть" />
     <string id="DHlVSaZW" text="Относительная скорость: {SPEED} m/s" />
     <string id="DKqLY1aJ" text="Снарядить" />
     <string id="dojUqbv8" text="Высота носа " />
@@ -142,10 +144,8 @@
     <string id="f5y9qyDb" text="Рука" />
     <string id="F6dUDgg3" text="Поражение" />
     <string id="F6l8hFEA" text="Cliffs of Akkalat" />
-    <string id="F70rOpkK" text="Капитан" />
     <string id="fFLBT9wb" text="Грудь" />
     <string id="FFNJTsDL" text="Кикнуть игрока" />
-    <string id="fFULSlYb" text="Дополнительный урон от навыков: {EXTRA_DAMAGE}" />
     <string id="fGFMqlGz" text="Пол" />
     <string id="FgJpTBp1" text="Дружественный урон от огня" />
     <string id="fjD2tRXW" text="Выпуклость подбородка" />
@@ -177,7 +177,6 @@
     <string id="ig0lsiwY" text="Отряд" />
     <string id="iJXH3841" text="Свободный" />
     <string id="IKn1YxU2" text="Процент прироста золота атакующих" />
-    <string id="imTtoHqW" text="Зарегистрироваться вместе" />
     <string id="ImWyFyld" text="Положение рта" />
     <string id="irGCyJaY" text="Убийств" />
     <string id="iTau5cxh" text="Средняя" />
@@ -212,6 +211,7 @@
     <string id="likop0am" text="Начать голосование" />
     <string id="LkiQDpi5" text="Размер ушей" />
     <string id="LmkYgWnF" text="Размер глаз" />
+    <string id="Lz6ggWch" text="Damage reduction from perks and effects: {MODIFIED_DAMAGE}" />
     <string id="M1RCJ9DM" text="Третья помощь" />
     <string id="m3zVR2UH" text="Показать курсор: [{KEY_NAME}]" />
     <string id="m5UdbzHr" text="Регион не выбран" />
@@ -219,6 +219,9 @@
     <string id="MH9Pi3ao" text="Смотреть в направлении" />
     <string id="mjhOYJWg" text="Колчан пуст." />
     <string id="MnM0L4AV" text="Не в мультиплеере" />
+    <string id="MnvK3eK2" text="Objective Completed" />
+    <string id="mountnoun" text="Mount" />
+    <string id="mountverb" text="Mount" />
     <string id="MQqaKRtn" text="{SHORTCUT} Движение" />
     <string id="MS795wWa" text="Первая помощь" />
     <string id="MW8rlyfL" text="Метательное" />
@@ -227,6 +230,7 @@
     <string id="NqarFr4P" text="Настройки" />
     <string id="nt5MOuwo" text="Дюна" />
     <string id="nUR7rs6y" text="Jump straight into the action in this medieval take on a classic PvP game mode. " />
+    <string id="nx5W7jN0" text="Received braced polearm damage!" />
     <string id="nXE6eV8W" text="Озеро" />
     <string id="NxeQasMb" text="{SHORTCUT} Огонь" />
     <string id="o5Ead68n" text="Выход без сохранения" />
@@ -240,6 +244,7 @@
     <string id="OviaJ1tA" text="Other" />
     <string id="ox8XcxfR" text="Форма ушей" />
     <string id="OZHFucP5" text="Хмуриться/улыбаться" />
+    <string id="OzifZbSB" text="Match Type" />
     <string id="pa4yXyDa" text="{PLAYER_COUNT} против {PLAYER_COUNT}" />
     <string id="pagmdsCK" text="Высота век" />
     <string id="PbLuHcJg" text="Поглощенный урон: {ABSORBED_DAMAGE}" />
@@ -273,6 +278,7 @@
     <string id="R4Gqskgq" text="Победа" />
     <string id="rbYITcao" text="Рот" />
     <string id="rbz1Bwbv" text="Инвентарь" />
+    <string id="RDsOaEtS" text="Extra damage from perks and effects: {MODIFIED_DAMAGE}" />
     <string id="RJEHDWmu" text="·   Buy limited respawns using gold{newline}·   Hold control points on the map to deplete enemy morale{newline}·   Kill the entire enemy team or exhaust their morale to win" />
     <string id="RlDVtPpB" text="Глубина глаз" />
     <string id="rLozutts" text="Request Friendship" />
@@ -281,8 +287,10 @@
     <string id="Rvr1bcu8" text="Далее" />
     <string id="Sbna6UGb" text="Направление взгляда" />
     <string id="sBU9vyF1" text="Выстрел в голову!" />
+    <string id="scoreboardkick" text="Kick" />
     <string id="SdxEH6b1" text="Нижняя форма губ" />
     <string id="SfJgnzdq" text="Заглушить" />
+    <string id="siegemultiplayergametype" text="Siege" />
     <string id="sisK3HPI" text="You are muted." />
     <string id="SN2ojCFr" text="Полная Кожа" />
     <string id="SNLShTzq" text="Счет" />
@@ -319,7 +327,6 @@
     <string id="u8j8nN5U" text="Смотреть на врага" />
     <string id="UbMCCh8L" text="Горбинка носа" />
     <string id="uCyQNvq1" text="Клин" />
-    <string id="uGM8DWrm" text="Верхом" />
     <string id="UHIZLFBn" text="Убит {TROOP_NAME}" />
     <string id="Umb8XsZH" text="Колющий" />
     <string id="umhwsoqb" text="Выберите желаемый отряд в начале раунда и для дальнейшего возрождения, используйте золото." />
@@ -364,6 +371,7 @@
     <string id="WxM16s2Y" text="Druimmor Forest" />
     <string id="wxzhtvZR" text="Период респауна обороняющихся" />
     <string id="x1QEJna0" text="Шире" />
+    <string id="xhnV76OL" text="Skala Landing" />
     <string id="xILeUbY3" text="Панель администратора" />
     <string id="Xj2FCkQl" text="Список пользовательских{newline}серверов" />
     <string id="xoXWGYVI" text="·   Use various siege engines to attack or defend control points{newline}·   Spawn points advance as control points are captured{newline}·   Successfully assault and hold the keep flag or repel the enemy to win" />
@@ -375,11 +383,11 @@
     <string id="xXQN7Go6" text="Открытость глаз" />
     <string id="XZU9SyQW" text="Быстрая игра" />
     <string id="XzZFhRwr" text="Вернуться в игру" />
-    <string id="Ybvu10zM" text="Осада" />
     <string id="ycCmfxhJ" text="Пятый фраг" />
     <string id="yClOSxT8" text="Положение носа" />
     <string id="yfa7tpbK" text="Все" />
     <string id="YhDDXj0I" text="Каньон" />
+    <string id="YNkPy4ta" text="Clan Match" />
     <string id="YoNYyLba" text="Копье" />
     <string id="yQtzabbe" text="Рядом" />
     <string id="YRabuUqx" text="Baravenos Encirclement" />

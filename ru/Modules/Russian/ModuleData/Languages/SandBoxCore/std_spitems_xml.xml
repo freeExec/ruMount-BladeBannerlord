@@ -613,6 +613,8 @@
     <string id="NmLEZfiI" text="Восточные Дротики" />
     <string id="nNGCuIUf" text="Имперский Открытый Кольчужный Койф" />
     <string id="Nqa2maO2" text="Плетёное Кожаное Пальто" />
+    <string id="nTc20R1R" text="Makeshift Sledgehammer" />
+    <string id="nTjEUF9z" text="Crude Large Round Shield" />
     <string id="NtsdmmW9" text="Финики" />
     <string id="nUarDXVH" text="Железный котелок с Кожаной Подкладкой" />
     <string id="NUHzapSv" text="Длинная Пеньковая Туника" />
@@ -678,6 +680,7 @@
     <string id="QA5zGCKf" text="Decorated Fullered Sword" />
     <string id="QaKohN0V" text="Имперская Кольчуга Поверх Подёртой Кожанки" />
     <string id="qaraQjXa" text="Котелок с Имперским подбитым Подшлемником" />
+    <string id="QaysED62" text="Tunic With Rolled Cloth" />
     <string id="Qazvdg1P" text="Имперский Койф из Ткани" />
     <string id="qc0P0b2r" text="Шлем с Маской и Кольчугой" />
     <string id="QcKpipVr" text="Адарга" />
@@ -715,6 +718,7 @@
     <string id="RaTK0SBu" text="Каплевидный Щит Западных Наездников" />
     <string id="Rcc0JW6H" text="Спата из Тамаскенской Стали" />
     <string id="RcCtV0aS" text="Лесной Тисовый Лук" />
+    <string id="RddFH0BA" text="Iron Rimmed Large Round Shield" />
     <string id="rdKSIamN" text="Бронебойные Стрелы" />
     <string id="REYaHXQb" text="Стургианский Кавалерийский Доспех" />
     <string id="rF7Xm7C0" text="Тяжелый Треугольный Щит" />
@@ -995,6 +999,7 @@
     <string id="Zvxydvao" text="Имперское Богатое Платье" />
     <string id="Zwb65ufG" text="Глина" />
     <string id="Zx4h7jDy" text="Броня с Минимальной Защитой" />
+    <string id="ZYQrmlKH" text="Highland Chainmail" />
     <string id="zZ2G7uIO" text="Котелок с Кольчугой" />
   </strings>
 </base>

@@ -997,7 +997,7 @@
     <string id="n3e3g6Rq" text="Ставка" />
     <string id="N5fmlTza" text="{LEFT}, {RIGHT}" />
     <string id="N6O2GtTK" text="Переработки" />
-    <string id="n6Q6vv5t" text="Ты награбил {GOLD} золота." />
+    <string id="n6Q6vv5t" text="Вы награбили {GOLD} золота." />
     <string id="N6QTvjMf" text="Пленные " />
     <string id="N7w6zi0F" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} pulling back." />
     <string id="N84HlDaV" text="{NUMBER_OF} {ITEM} ({AMOUNT}{GOLD_ICON})" />

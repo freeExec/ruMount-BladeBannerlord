@@ -32,6 +32,7 @@
     <string id="ah4Pm8wU" text="Вы должны находиться в лобби, чтобы распустить отряд![Временно]" />
     <string id="AIgw3aFG" text="Нельзя стоять в очереди на бой, потому что некоторые игроки заблокированы от сватовства." />
     <string id="Ajw0d4dW" text="Incorrect password." />
+    <string id="APQ0kNVj" text="Clan tag is invalid." />
     <string id="b72mIrOl" text="You have to be in a party to create a clan." />
     <string id="baHOuMTb" text="Announcement added successfully." />
     <string id="bcdU2DHW" text="Игрок {INVITEE} получил приглашение в отряд от {INVITER}." />
@@ -47,6 +48,7 @@
     <string id="d4eShU5x" text="{PLAYER} accepted your friend request" />
     <string id="dabogDDj" text="You are already friends" />
     <string id="DAhyeheV" text="You must be at lobby to change clan information text." />
+    <string id="dbLB0tuT" text="Family share is not allowed." />
     <string id="dDF2wZGu" text="{PLAYER} declined your friend request" />
     <string id="dHlxVbMw" text="You are already in a clan." />
     <string id="Dmz3JLyp" text="Player invited to clan." />
@@ -71,7 +73,6 @@
     <string id="iG72AMy8" text="Information text changed successfully." />
     <string id="INecDsvJ" text="Only the leader of the clan can delete announcements." />
     <string id="ismMkXud" text="You have to be the clan leader to invite someone to clan." />
-    <string id="IZWRF6ze" text="Clan name is already in use." />
     <string id="jbpKfRl8" text="You must be the clan leader to add an announcement." />
     <string id="JgdLtL2O" text="Invited player is already in a clan." />
     <string id="jl8MYbLR" text="Your friend request is forwarded to {PLAYER}." />
@@ -90,11 +91,13 @@
     <string id="mcAG0eHJ" text="Вы должны находиться в лобби, чтобы выгнать кого-то из вашего отряда![Временно]" />
     <string id="mdH4S8Kx" text="You must be in a party to suggest someone to your party." />
     <string id="MepGBJMQ" text="Не удалось найти игрока, которого вы пытались повысить" />
+    <string id="MgGvnobq" text="Selected map is not available." />
     <string id="MowSn4ch" text="Game not found." />
     <string id="Mp9I9aqd" text="You must be in a clan to change clan information text. Obviously." />
     <string id="mvQKpHXH" text="Ваш отряд полон." />
     <string id="n1MdWtck" text="You are now friends with {PLAYER}" />
     <string id="nJ7aEkRt" text="{PLAYERNAME} Пригласил вас в отряд." />
+    <string id="nlYK3i5a" text="Clan name is invalid." />
     <string id="nQWwqDmn" text="You have received a friend request from {PLAYER}" />
     <string id="nw7r2S5z" text="Отключенные игровые режимы: {GAMETYPES}." />
     <string id="nZlu3Moe" text="Left clan." />
@@ -121,6 +124,7 @@
     <string id="SIT1tREw" text="You cannot add yourself as friend" />
     <string id="sov81CZ5" text="Your Bannerlord ID is updated successfully" />
     <string id="SvHP9TXr" text="Not all players are ready." />
+    <string id="T96cPmJT" text="Clan game no longer exists." />
     <string id="Tauk2JzA" text="Несовпадение версий игры, Версия сервера: {SERVERVERSION} - Ваша версия: {CLIENTVERSION}." />
     <string id="TKv0vF7H" text="You must be at lobby to change clan sigil." />
     <string id="TpBDiSBp" text="{PLAYERNAME} назначен лидером отряда." />
@@ -147,7 +151,6 @@
     <string id="ysfEQO6c" text="Не получилось найти игрока" />
     <string id="ywVYMhiF" text="You must be the clan leader to change clan information text." />
     <string id="z40g0BmW" text="Could not update Bannerlord ID" />
-    <string id="zBaXq4cg" text="Clan tag is already in use." />
     <string id="ZtktMXDw" text="You ain't in a clan." />
     <string id="zyDyPr4I" text="Игрок, которого вы пытаетесь повысить, не состоит в вашем отряде." />
   </strings>

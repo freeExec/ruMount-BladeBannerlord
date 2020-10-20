@@ -23,11 +23,11 @@
     <string id="2bPTx7So" text="Ваш персонаж в двигаеться приседом." />
     <string id="2e8wI3EM" text="Экипировать оружие 2" />
     <string id="2EjZcRgF" text="F5" />
+    <string id="2EnLU2ZC" text="Change UI Scaling" />
     <string id="2h2148cq" text="Отправить сообщение всем" />
     <string id="2ZJQylWo" text="Переключение между бегом и ходьбой." />
     <string id="3Dngsvya" text="Двигаться вперед" />
     <string id="3Gb7tKgJ" text="{LEFT} и {RIGHT}" />
-    <string id="3MLvkSjw" text="Сообщения о сложности" />
     <string id="3nTeojbI" text="=" />
     <string id="3oUbmqJY" text="Синхронизирует игру с частотой обновления монитора. Устраняет эффекты разрыва.{newline}Половинная синхронизация выдает только половину частоты кадров от частоты обновления монитора" />
     <string id="3P7eDKEY" text="Экипировать предмет 4" />
@@ -80,6 +80,7 @@
     <string id="8WrQ9fnb" text="С" />
     <string id="929oYf3G" text="Уменьшить" />
     <string id="92ZztgDd" text="Качество декалей" />
+    <string id="9bHr3oNj" text="Crosshair that shows when using a ranged weapon." />
     <string id="9F323ez4" text="Трехлинейная" />
     <string id="9gAVbJAR" text="Возобновить время" />
     <string id="9hRcH7kV" text="Солнечные лучи" />
@@ -93,10 +94,12 @@
     <string id="Aa2Yokz3" text="Numpad *" />
     <string id="aAaF9FWC" text="Правый Control" />
     <string id="accbLVWL" text="Выбор способа сглаживания. " />
+    <string id="ACIFg43o" text="Choose how to perform blocks. Auto will default to &quot;By Mouse Movement&quot; in Multiplayer." />
     <string id="acqAYxhr" text="," />
     <string id="AhrWBKx9" text="Экипировать предмет 1" />
     <string id="AJFpx99v" text="Регулировка экспозиции" />
     <string id="aJxmDbur" text="Удерживайте, чтобы покинуть площадь. " />
+    <string id="altgamekey" text="Alt" />
     <string id="amdYLZ6o" text="Окно заданий " />
     <string id="aombIn07" text="Установите величину экспозиции." />
     <string id="ap1wEfdW" text="V" />
@@ -107,6 +110,7 @@
     <string id="avDb6Y66" text="Средняя кнопка мыши" />
     <string id="aWDfG0RO" text="F3" />
     <string id="aydCb7WA" text="Средне" />
+    <string id="ayYYRfPP" text="Report Personal Damage" />
     <string id="Az084VJK" text="Защищать" />
     <string id="b1OtYhnF" text="Фильтрация текстур" />
     <string id="b9rDOY21" text="Выбратьприказ2" />
@@ -179,13 +183,12 @@
     <string id="g4Iq82iw" text="Открыть командный чат." />
     <string id="g4VjAbMG" text="J" />
     <string id="G8ug5Bwx" text="Чат" />
-    <string id="gAJHtTK2" text="Включить текстовые отчеты о сложности выстрела из дальнобойного оружия." />
     <string id="gCDjIGB6" text="Показать кровь" />
     <string id="Gd2iUUHa" text="Устанавливает качество визуализации частиц. Более высокое значение означает более резкие частицы." />
-    <string id="GgUBPvBH" text="Включить показ знамен у дружественных войск." />
     <string id="gIsqhwTs" text="Поле зрения от первого лица" />
     <string id="Gl2S6WEW" text="Устанавливает монитор в котором будет воспроизводиться игра." />
     <string id="Gl7wgtPQ" text="Перемещать отряд вверх" />
+    <string id="gu2JU5zq" text="Crosshair Type" />
     <string id="GxHV8b1b" text="Numpad 1" />
     <string id="gzMIzYTF" text="Окно журнала игры" />
     <string id="h6wUbray" text="Количество трупов" />
@@ -249,6 +252,7 @@
     <string id="Ju6btXsv" text="Показывать направление атаки" />
     <string id="jvOYgHOe" text="Свое" />
     <string id="JXdwIX8Q" text="Установить толщину следов от снарядов оружия дальнего боя." />
+    <string id="JZFXI1LK" text="UI Scale" />
     <string id="jZs8I1Uq" text="Включает зернистость пленки." />
     <string id="JZYQGUF3" text="Двойное нажатие назад: быстрая остановка" />
     <string id="k3CLKsrz" text="Движением мыши" />
@@ -331,7 +335,6 @@
     <string id="PmbKYDON" text="Cheer" />
     <string id="pnEeRPAk" text="Группа 7 слушай" />
     <string id="pNocZkrx" text="Включить визуальные эффекты от урона" />
-    <string id="PPFFxlsX" text="Выбор способа выполнения блоков." />
     <string id="pQVSwtfn" text="Переместить камеру ближе к вашему персонажу в режиме вида от третьего лица." />
     <string id="PRsSB9B8" text="Взаимодействие с оружием, дверями, людьми и т. д." />
     <string id="ps103cxD" text="Совершить нападение с оружием." />
@@ -344,6 +347,7 @@
     <string id="QBzjt1c4" text="Расширенный ключ 1" />
     <string id="qggjceRq" text="Вывод звука" />
     <string id="QiYy3Ja4" text="Выбрать приказ возврат" />
+    <string id="qmplQd0Q" text="Three Part" />
     <string id="qnxJYAs7" text="Отряд" />
     <string id="qOcw1xap" text="Page Down" />
     <string id="QoGjzEwI" text="Вернуться" />
@@ -409,6 +413,7 @@
     <string id="TybJcG0A" text="Очень низкий (64) " />
     <string id="u2dQaVY2" text="Экипировать предмет в третий слот." />
     <string id="U5xKAHGi" text="Блум" />
+    <string id="u6QCWQvu" text="Four Part" />
     <string id="u7FkCtRN" text="Группа 0 Слушай" />
     <string id="U8NaF1bo" text="Калибровка яркости" />
     <string id="Uaae1eBV" text="Двойное нажатие вправо : резко вправо" />
@@ -425,7 +430,6 @@
     <string id="UqB9zKfE" text="Экипировать первичное оружие" />
     <string id="uQfDuGem" text="Отдаление камеры" />
     <string id="urbLiiQJ" text="Настройка экспозиции" />
-    <string id="urSa4wQG" text="Показывать знамена у дружественных войск" />
     <string id="uRXlSUVh" text="N" />
     <string id="uSGPBRFS" text="Приближение" />
     <string id="USKys6FV" text="Show Mouse" />
@@ -441,6 +445,8 @@
     <string id="VAtNIoKC" text="L" />
     <string id="Ve99pCSo" text="Симуляция тканей" />
     <string id="VE9TavSl" text="Устанавливает качество декалей." />
+    <string id="Vea6bRUO" text="Enable interface elements that report players damage and casualities in center bottom." />
+    <string id="vJ41v8zh" text="Friendly Troops Banner Opacity" />
     <string id="Vpy2qEcN" text="С помощью клавиш движения" />
     <string id="vT3yIxmO" text="Numpad 4" />
     <string id="vXvmeGhm" text="Тип теней" />
@@ -516,6 +522,7 @@
     <string id="ZewnkWoO" text="G" />
     <string id="Zgs47DHB" text="Caps Lock" />
     <string id="ZIKuUbUG" text="Задает количество одновременного моделирования Ragdoll." />
+    <string id="ZKg3DqbQ" text="Determines the opacity of the banners shown on top of the friendly troops." />
     <string id="znSZmZvV" text="Переместить карту вправо" />
     <string id="Zo2ngsUk" text="Редактор персонажа" />
     <string id="zofULNb8" text="Экипировать вторичное оружие" />

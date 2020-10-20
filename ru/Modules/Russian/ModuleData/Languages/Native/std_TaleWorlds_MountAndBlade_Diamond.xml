@@ -4,7 +4,10 @@
     <tag language="Русский" />
   </tags>
   <strings>
+    <string id="6doiovtH" text="Disambiguation: {CHATROOMS}" />
     <string id="dnKQbXIZ" text="Could not report player: Game does not exist." />
     <string id="ivKntfNA" text="Already requested to join, waiting for server response" />
+    <string id="taPBAd4c" text="Given command does not start with /" />
+    <string id="YOYvBVu1" text="No chat room found matching {COMMAND}" />
   </strings>
 </base>

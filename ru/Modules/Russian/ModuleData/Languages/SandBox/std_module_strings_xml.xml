@@ -7,6 +7,8 @@
     <string id="7ZhNilg8" text="Легко (5% бонус)" />
     <string id="8UBfIenN" text="Обычный" />
     <string id="9jSxo790" text="Реалистично" />
+    <string id="9l5RgXiU" text="Choose if circle map notifications will be shown on the right side on campaign map." />
+    <string id="aEnXxe0a" text="You can hold the {LEAVE_AREA_KEY} key to leave the current area." />
     <string id="AQfVclN8" text="Приз" />
     <string id="B0uvwKae" text="Герои могут умереть на поле боя." />
     <string id="bLwIgxXa" text="Сложность набора войск" />
@@ -15,7 +17,6 @@
     <string id="cUHlzCRx" text="Разрешить смерть" />
     <string id="D9GkBqyW" text="Вы можете покинуть тренировочное поле зажав [{LEAVE_KEY}]{newline}Вы можете вернуться в любое время с глобальной карты." />
     <string id="DFMhzFGV" text="Несколько дополнительных лошадей в вашем инвентаре могут значительно ускорить ваш отряд, так как они увеличат вашу грузоподъемность, а пехота будет ехать на запасных лошадях. Вьючные лошади и мулы полезны только для перевозки грузов." />
-    <string id="EGwqzjpa" text="Вы можете удерживать клавишу Tab, чтобы покинуть текущую локацию." />
     <string id="F8TaKnjh" text="Когда вы находитесь в городе или деревне, удерживайте клавишу Alt чтобы отобразить метки важных людей и интересных мест." />
     <string id="fbaQp3ox" text="Включить автоматическое распределение перков для членов вашего клана." />
     <string id="hEYfasE1" text="Коэффициент получаемого урона персонажем." />
@@ -30,6 +31,7 @@
     <string id="k71J6bVH" text="Побед" />
     <string id="KbPD5cEw" text="Уменьшен до 1/3 (Очень Легко)" />
     <string id="KM7uAbL8" text="Получаемый игроком урон " />
+    <string id="lfDzgLTa" text="{PROFESSION} in {LOCATION}" />
     <string id="LfpteADn" text="Определите сложность боевого ИИ" />
     <string id="mD89ih8N" text="Изменить Название Клана " />
     <string id="N6fz1efb" text="Пропускает обучение в начале игры." />
@@ -43,13 +45,16 @@
     <string id="ReNnVfEn" text="Изменить Название Королевства " />
     <string id="RZFAxCMp" text="Очень легко (10% бонус)" />
     <string id="sp8Kred0" text="Member должен быть в отряде игрока, чтобы сделать это действие." />
+    <string id="SrkDqNdb" text="Enable Tutorial Popups" />
     <string id="sYVFg9ai" text="Боевая сложность ИИ" />
+    <string id="t47EzcbW" text="Enable Tutorial" />
     <string id="TZ9ugd1p" text="Автоматически распределять навыки членам клана" />
     <string id="UcgNVM0P" text="Очень легко (2 доп.)" />
     <string id="UfQotsfo" text="Ранг #" />
     <string id="veterandifficulty" text="Ветеран" />
     <string id="vGF5S2hE" text="Таблица Лидеров" />
     <string id="wip6jLEM" text="Коэффициент получаемого урона своими войсками." />
+    <string id="yKJ9c8IV" text="Enable Right Side Circle Map Notifications" />
     <string id="ZcyJePFm" text="Получаемый урон дружественными отрядами" />
     <string id="ZWiFWA2W" text="Пропустить Обучение Главного Сюжета " />
   </strings>

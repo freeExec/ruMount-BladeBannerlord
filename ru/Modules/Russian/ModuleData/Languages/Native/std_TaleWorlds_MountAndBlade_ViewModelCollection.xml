@@ -42,7 +42,7 @@
     <string id="8nJFaJio" text="Пароль" />
     <string id="8pLf56db" text="Waiting for an opponent clan" />
     <string id="942B3LfA" text="Decline Friend Request" />
-    <string id="9jdHEa0N" text="Friend Requests" />
+    <string id="9jdHEa0N" text="Запросы в друзья" />
     <string id="a9TcHtVw" text="Faction B" />
     <string id="AaAcmalE" text="Вы были приглашены присоединиться в команду" />
     <string id="aalbxe7z" text="Размер армии, установить параметр количества ботов в формирование {OPTION_VALUE}" />
@@ -177,7 +177,7 @@
     <string id="NJolh9ye" text="Последние игры" />
     <string id="NLKmdNbt" text="Поиск" />
     <string id="NqarFr4P" text="Настройки" />
-    <string id="nqYaiEo2" text="My Badges" />
+    <string id="nqYaiEo2" text="Мои награды" />
     <string id="NUSH5bJu" text="{EXPERIENCE} очков до следующего уровня" />
     <string id="NwiYsUwm" text="Clan doesn't have a description" />
     <string id="nWJGjCgy" text="characters" />
@@ -197,7 +197,7 @@
     <string id="P5Z9owOy" text="Sigil" />
     <string id="P7moPm3F" text="Установить в качестве лидера группы" />
     <string id="partykick" text="Кикнуть" />
-    <string id="PDdh1sBj" text="Name" />
+    <string id="PDdh1sBj" text="Имя" />
     <string id="pguhTmXw" text="Результаты битвы" />
     <string id="PjO7oY16" text="Стургия" />
     <string id="Po8jNaXb" text="Can only contain letters" />
@@ -212,7 +212,7 @@
     <string id="qe46yXVJ" text="ЗАБЛОКИРОВАНА ДЛЯ БАЛАНСА" />
     <string id="qFPBhVh4" text="Обновить" />
     <string id="QfTt7YRB" text="Скорострельность" />
-    <string id="qTYsYJ9V" text="Send" />
+    <string id="qTYsYJ9V" text="Послать" />
     <string id="qXxpITdc" text="Цвет Глаз:" />
     <string id="R28ac5ij" text="{NUMBER} игроков" />
     <string id="r5WzivPb" text="Время Раунда" />
@@ -220,7 +220,7 @@
     <string id="RCuCoVgd" text="РАУНД ВЫИГРАН" />
     <string id="RfXJdNye" text="Игроки" />
     <string id="rg7OuWS2" text="Манёвр" />
-    <string id="rLozutts" text="Request Friendship" />
+    <string id="rLozutts" text="Запрос дружбы" />
     <string id="RN6zHak0" text="Player" />
     <string id="RNgWFLIO" text="Режущий урон" />
     <string id="RPCjrF5X" text="You must select a faction" />
@@ -250,7 +250,7 @@
     <string id="ulzyykHO" text="This Tag Already Exists" />
     <string id="uNBpT3vs" text="Всего игроков в поиске: " />
     <string id="uOrwqeQl" text="You must select a sigil icon" />
-    <string id="uoVKchoC" text="Region" />
+    <string id="uoVKchoC" text="Регион" />
     <string id="uTXYEAOg" text="[{STR}]" />
     <string id="uUoSmCBS" text="В Bannerlord" />
     <string id="uvwLriAX" text="Использовать [{KEY_NAME}] для включения табло" />
@@ -273,7 +273,7 @@
     <string id="wJ70SgtB" text="Suggest This Player to Party" />
     <string id="wkIVxzV6" text="Перезапустить" />
     <string id="wNAl9o4A" text="You received an invite from" />
-    <string id="wnMT7R0K" text="Pending Requests" />
+    <string id="wnMT7R0K" text="Неподтверждённые заявки" />
     <string id="WOQZBmMx" text="Сервера" />
     <string id="wTtyFa89" text="ИГРАТЬ" />
     <string id="wuKqRvc3" text="Игра: {GAME_TYPES}  |  Регион: {REGIONS}" />
@@ -283,24 +283,24 @@
     <string id="xkV9g4le" text="Do you accept them as your opponent?" />
     <string id="XLHkPwbb" text="Выберите игровую карту" />
     <string id="xTv4tCbZ" text="Все!! Слушать меня" />
-    <string id="xXSFaGW8" text="Disband" />
+    <string id="xXSFaGW8" text="Расформировать" />
     <string id="Y94H6XnK" text="Принять" />
     <string id="yA45PqFc" text="НАЙТИ ИГРУ" />
     <string id="YAaAlbkX" text="Длительность игры" />
     <string id="yJsE4Ayo" text="Скорость замаха" />
     <string id="yjyJgRVt" text="{TEAM} команда потеряла моральный дух" />
     <string id="YK3nXtoM" text="Друзья" />
-    <string id="yQtzabbe" text="Close" />
+    <string id="yQtzabbe" text="Закрыть" />
     <string id="yS7PvrTD" text="ОК" />
     <string id="yUpH2mQ4" text="Снаряды" />
     <string id="Z0TW2cub" text="Are you sure want to promote this member as clan leader? You will lose your leadership." />
     <string id="ZAejS7WF" text="Select players to invite to your clan" />
     <string id="zBld61ck" text="Вес:" />
-    <string id="zEMWM4h3" text="Already In a Clan" />
+    <string id="zEMWM4h3" text="Уже в клане" />
     <string id="zfN0N8xN" text="Общее время игры:" />
     <string id="zMbYCQa5" text="Средний Балл:" />
-    <string id="zravuI1b" text="Type Clan Information" />
-    <string id="zSXXfnYY" text="Change Faction" />
+    <string id="zravuI1b" text="Тип Информация о клане" />
+    <string id="zSXXfnYY" text="Сменить фракцию" />
     <string id="Zv1lg272" text="Оффлайн" />
     <string id="zxBBzoTH" text="Дуэль {DUEL_NAME} начнётся через {DUEL_REMAINING_TIME} секунд." />
   </strings>

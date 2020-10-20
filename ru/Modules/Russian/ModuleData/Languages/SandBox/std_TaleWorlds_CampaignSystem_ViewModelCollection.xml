@@ -16,21 +16,21 @@
     <string id="2ckyCKR7" text="Резерв" />
     <string id="2Cq3tViJ" text="Максимальная численность отряда" />
     <string id="2GWR9Cba" text="Очаг" />
-    <string id="2htkK82b" text="Available cultures are limited to the clan’s culture as well as any owned settlements’ cultures." />
-    <string id="2lFwF07j" text="Change Name" />
+    <string id="2htkK82b" text="Доступные культуры ограничиваются культурой клана, а также культурой любых принадлежащих ему поселений." />
+    <string id="2lFwF07j" text="Изменить имя" />
     <string id="2nN1QuxZ" text="Это задание будет провалено,если вы не успеете вовремя." />
     <string id="3025020b83b218707499f0de3135ed0a" text="Маневр: " />
     <string id="305cf7f98458b22e9af72b60a131714f" text="Броня для лошади: " />
     <string id="345a87fcc69f626ae3916939ef2fc135" text="Скорость Взмаха: " />
     <string id="3CpNUnVl" text="Отменить" />
     <string id="3F0y3ugx" text="Успех!" />
-    <string id="3PzgpFGq" text="Neutral" />
+    <string id="3PzgpFGq" text="Нейтральный" />
     <string id="3sxtCWPe" text="Покинуть Королевство" />
     <string id="43HYUImy" text="{SETTLEMENT} находится в осаде" />
     <string id="4cU98rkg" text="Переплавка" />
-    <string id="4Dd2xgPm" text="Weight" />
+    <string id="4Dd2xgPm" text="Вес" />
     <string id="4U9EnZt5" text="Критический Успех!" />
-    <string id="4uMWNDoi" text="Скорость Укола " />
+    <string id="4uMWNDoi" text="Скорость Укола: " />
     <string id="5bzk75Ql" text="Сражается с {TARGET_PARTY}." />
     <string id="5dCR9ixM" text="Вы можете продать эту мастерскую за {AMOUNT} динаров." />
     <string id="5dec16fa0be433ade3c4cb0074ef366d" text="Точность: " />
@@ -39,17 +39,17 @@
     <string id="63Ic1Ahe" text="Стоимость: {UPGRADE_COST} (У вас недостаточно средств)" />
     <string id="68IlDbA2" text="Вам нужно обладать умением {PERK_NAME}, что бы улучшить отряд бандитов до военного отряда." />
     <string id="6adabc1f82216992571c3e22abc164d7" text="Боезапас: " />
-    <string id="6GSXsdeX" text="Speed" />
+    <string id="6GSXsdeX" text="Скорость" />
     <string id="74dc1908cb0b990e80fb977b5a0ef10d" text="Скорость: " />
     <string id="7h6cXdW7" text="Инженер" />
     <string id="7tBOCHm6" text="Цвет Герба: " />
     <string id="7Xynf4IA" text="Защита рук: " />
-    <string id="8BlMRMiR" text="Horse Tier" />
+    <string id="8BlMRMiR" text="Ранг:" />
     <string id="8cad4a279770f269c4bb0dc7a357ee1e" text="Тип: " />
     <string id="8SOh9bah" text="Выбор производства" />
     <string id="92M0Pb5T" text="Разведчики" />
     <string id="94aHU6nD" text="Суточная прибыль: " />
-    <string id="9huJZblF" text="Last Run" />
+    <string id="9huJZblF" text="Последний запуск" />
     <string id="9i0wnjJK" text="L-II : {BONUS}" />
     <string id="9slDj5wr" text="Изменить производство" />
     <string id="a241aacb1780599430c79fd9f667b67f" text="Спутников: " />
@@ -65,7 +65,7 @@
     <string id="aROohsat" text="Является членом в другой армии." />
     <string id="aTdrjrEh" text="{SWING_DAMAGE_FACTOR}" />
     <string id="AxRxT2Xj" text="После роспуска армии, все ее бойцы примкнут к отряду союзника или отправятся в близжайшее союзное поселение,что бы вступить в гарнизон. Этот приказ нельзя будет отменить. Вы точно уверены,что хотите сделать это?" />
-    <string id="bAqDnkaT" text="Missile Speed" />
+    <string id="bAqDnkaT" text="Скорость снаряда" />
     <string id="bd7oAQq6" text="Ежедневно" />
     <string id="bfQLwMUp" text="Кланы" />
     <string id="BgqZWbga" text="Знати не понравится ваше решение отречься от своей клятвы. Вы уверены, что хотите покинуть Королевство?" />
@@ -73,10 +73,11 @@
     <string id="bnrRzeiF" text="Не активно" />
     <string id="bPFjmYCI" text="{SHOP_NAME} x {SHOP_DIFFERENCE_COUNT}" />
     <string id="BrY8itaf" text="Отправленные на выполнение поручений члены отряда будут отображаться здесь. Они не занимают место в вашем собственном отряде." />
-    <string id="BV5exuPf" text="Remove From Bookmarks" />
+    <string id="BV5exuPf" text="Удалить из закладок" />
     <string id="C2qpwFq5" text="Владелец земель {SETTLEMENTS}" />
     <string id="c5eYzHaM" text="{DAYS} {?DAY_IS_PLURAL}Дней{?}День{\?} ({PERCENTAGE}%)" />
     <string id="c6BtCIrX" text="{DAYS} days ago" />
+    <string id="c6BtCIrX" text="{DAYS} дней назад" />
     <string id="c6e4c8588ca9e42f6e1b47b11f0f367b" text="Длина: " />
     <string id="c7638a0869219ae845de0f660fd57a9d" text="Урон: " />
     <string id="c9c5dfed2ca6bcb7a73d905004c97b23" text="Урон: " />
@@ -85,25 +86,26 @@
     <string id="cbbUzYX3" text="Сложн.: {DIFFICULTY}" />
     <string id="CExQ40Ux" text="{PARTY_1S_MEMBERS}   " />
     <string id="cf61cce254c7dca65be9bebac7fb9bf5" text="Броня Рук: " />
-    <string id="cJmI2poS" text="Info" />
-    <string id="cnmRwV4s" text="Ammo Limit" />
+    <string id="cJmI2poS" text="Информация" />
+    <string id="cnmRwV4s" text="Лимит снарядов" />
     <string id="CnsIzaWo" text="Поле Битвы" />
     <string id="cUUI8u2G" text="Выносливость в Кузне " />
     <string id="d2K6gMsZ" text="Отправить воинов. Нужен как минимум 1 спутник." />
     <string id="d8jrv3nA" text="Add To Bookmarks" />
+    <string id="d8jrv3nA" text="Добавить в закладки" />
     <string id="DAmdTxuC" text="Управление армией" />
     <string id="dD3kRDHi" text="This hero is a fugitive and running from their captors. They will will be available after some time" />
     <string id="DNq9bdvV" text="{THRUST_DAMAGE_FACTOR}" />
     <string id="dO95yR9b" text="Колющий урон: " />
     <string id="DPTPuyip" text="And {NUMBER} more..." />
     <string id="Dqydb21E" text=" {PARTY_SIZE}" />
-    <string id="dWYm9GsC" text="Requires" />
-    <string id="DXczLzml" text="Status" />
+    <string id="dWYm9GsC" text="Требует" />
+    <string id="DXczLzml" text="Состояние" />
     <string id="DzviXC3W" text="Уровень: " />
     <string id="e8390c3480028e34c370c7b60ebc41e2" text="Класс Лошади: " />
     <string id="ebbyLN2i" text="Поселения" />
-    <string id="eHVq6yDa" text="Item Properties" />
-    <string id="eIws123Z" text="Leg Armor" />
+    <string id="eHVq6yDa" text="Цена предмета" />
+    <string id="eIws123Z" text="Защита ног" />
     <string id="EQHq3bHM" text="Направляется в {TARGET_PARTY}" />
     <string id="ErnykQEH" text="Выходы" />
     <string id="eTw2aNV5" text="+" />
@@ -112,14 +114,14 @@
     <string id="EZxQHBF4" text="Вы можете изменить тип продукции в этой мастерской за {AMOUNT} динаров." />
     <string id="f2971dc587a9777223ad2d7be236fb05" text="Торговые слухи" />
     <string id="f4nc7FfE" text="Улучшить до {UPGRADE_NAME}" />
-    <string id="F6GhrriD" text="Create Kingdom" />
+    <string id="F6GhrriD" text="Создать Королевство" />
     <string id="f6vTzVar" text="Нет мобильного отряда." />
     <string id="Fa2nKXxI" text="Губернатор города " />
     <string id="FBYFcrWo" text="Оставить в поселении" />
     <string id="fI7a7RoE" text="Максимальный вес" />
     <string id="FjJi1DJb" text="Этот герой уже является частью другого отряда" />
     <string id="fOSGakix" text="Вы не можете управлять армией, пока находитесь в плену." />
-    <string id="g4XqKGUr" text="Party already has a member with this role." />
+    <string id="g4XqKGUr" text="В группе уже есть участник с этой ролью." />
     <string id="G6cCjixe" text="{COMPLETION_PERCENT} (Приблизительно {DAYS} дней до завершения)" />
     <string id="g9VIbA9s" text="Сержант" />
     <string id="GCaYjA5W" text="Вы должны быть лидером клана,что бы переименовать его." />
@@ -130,8 +132,8 @@
     <string id="HcAV8x7p" text="Член отряда" />
     <string id="HFZdseH9" text="Только правитель королевства может переименовать его." />
     <string id="HHTQVp52" text="Скорость исцеления" />
-    <string id="HkfY3Ds5" text="Body Armor" />
-    <string id="hn9TPqhK" text="Weapon Tier" />
+    <string id="HkfY3Ds5" text="Нагрудник" />
+    <string id="hn9TPqhK" text="Ранг оружия" />
     <string id="horseTier" text="Уровень лошади: " />
     <string id="hr4MuPnt" text="Необходимые Материалы" />
     <string id="hTzTMLsf" text="Дальность обзора" />
@@ -140,7 +142,7 @@
     <string id="Hz8XO8wk" text="Персонаж не может вести за собой отряд,будучи губернатором." />
     <string id="I2sZ7K28" text="Are you sure want to reset tutorials?" />
     <string id="IagYTD5O" text="Счастье" />
-    <string id="IbqRyrKo" text="This will determine the initial active policies of the Kingdom. Choose Maximum 4 Policies." />
+    <string id="IbqRyrKo" text="Это определит начальную активную политику Королевства. Выберите максимум 4 политики." />
     <string id="IcgVKFxZ" text="Правитель" />
     <string id="idRXFzQ6" text="Уже принят в армию." />
     <string id="Iefr8Fra" text="Tutorials have been reset." />
@@ -162,11 +164,12 @@
     <string id="jQdBl4hf" text="Губернатор города " />
     <string id="JTxI3sW2" text="Взять в осаду {TARGET_SETTLEMENT}." />
     <string id="jxypVgl2" text="Relation Changes" />
+    <string id="jxypVgl2" text="Изменения отношений" />
     <string id="Jyfkahka" text="{VALUE} ({?POSITIVE}+{?}{\?}{DELTA_VALUE})" />
     <string id="JYOcl7Ox" text="Неэффективно!" />
     <string id="JzrodcIR" text="В вашем клане нет подходящего человека, который мог бы управлять этим поселением." />
     <string id="k1E9DuKi" text="Выбрать все" />
-    <string id="kftE5nvv" text="Horse Armor" />
+    <string id="kftE5nvv" text="Защита лошади" />
     <string id="knwId8DG" text="Вы не можете назначить пленника в качестве губернатора поселения." />
     <string id="koX9okuG" text="Нет" />
     <string id="kqeA8rjL" text="Вы уверены, что хотите распустить армию?" />
@@ -174,11 +177,11 @@
     <string id="KTKBKmvp" text="Множитель колющего урона: " />
     <string id="KTTyBbsp" text="Максимальное здоровье " />
     <string id="kWVbHPtT" text="Общий" />
-    <string id="kx7q8ybD" text="Arm Armor" />
+    <string id="kx7q8ybD" text="Защита рук" />
     <string id="LBNzsqyb" text="Феоды" />
     <string id="lc9s4rLZ" text="Созвать Армию" />
     <string id="LEiZWuZm" text="{SKILL_NAME}: {SKILL_VALUE}" />
-    <string id="lGWb26Lj" text="This hero is busy with a quest." />
+    <string id="lGWb26Lj" text="Этот герой занят заданием." />
     <string id="LpsoPtOo" text="Проекты" />
     <string id="LsZEdD2z" text="Стены" />
     <string id="LVmkE2Ow" text="Готовые к бою войска" />
@@ -186,13 +189,13 @@
     <string id="lxwGbRwu" text="x {SHOP_DIFFERENCE_COUNT}" />
     <string id="McJjNM50" text="Стоимость: {UPGRADE_COST}" />
     <string id="mDFhzEMC" text="Максимальное здоровье" />
-    <string id="Mfbc4rQR" text="Charge Damage" />
+    <string id="Mfbc4rQR" text="Урон от натиска" />
     <string id="mg7id9om" text="Количество расходных материалов" />
     <string id="mGUSMpTX" text="Склад" />
-    <string id="mHXujEVw" text="Choose Your Kingdom's Active Policies" />
+    <string id="mHXujEVw" text="Выберите активную политику вашего королевства" />
     <string id="mp68RYnD" text="Ограничение На Размер Отряда" />
     <string id="MqCH7R4A" text="Безопасность" />
-    <string id="myMbtwXi" text="Morale Bonus" />
+    <string id="myMbtwXi" text="Бонус к морали" />
     <string id="N63XYX2r" text="Поддержка" />
     <string id="N6QTvjMf" text="Пленники" />
     <string id="NAA4pajB" text="Вам нужно покинуть нынешнюю армию, чтобы создать новую." />
@@ -200,10 +203,10 @@
     <string id="NcYbdiyT" text="Сменить Лидера" />
     <string id="nMcvafHY" text="Активно" />
     <string id="nYYUQQm0" text="Множитель рубящего урона " />
-    <string id="O3dhjtOS" text="Head Armor" />
+    <string id="O3dhjtOS" text="Шлем" />
     <string id="oBbiVeKE" text="Здоровье" />
     <string id="ocSW4WA2" text="Полный провал!" />
-    <string id="OhNYkblK" text="This hero has just escaped from captors and will be available after some time." />
+    <string id="OhNYkblK" text="Этот герой только что сбежал от похитителей и будет доступен через некоторое время." />
     <string id="oibdTnXP" text="Обработка" />
     <string id="OIeXNTEn" text="Мастерская не может быть улучшена." />
     <string id="OkWLI5C8" text="Размер:" />
@@ -239,7 +242,7 @@
     <string id="QlbkxoSp" text=" {TOOLTIP_TROOPS} ({PARTY_SIZE})" />
     <string id="qRqnrtdX" text="Владелец" />
     <string id="qSi4DlT4" text="Еда" />
-    <string id="QSPrSsHv" text="No Saddle!" />
+    <string id="QSPrSsHv" text="Нет сбруи!" />
     <string id="QXBf26Rv" text="Неизвестное свойство" />
     <string id="QyVbwGLp" text="{PARTY_SIZE}" />
     <string id="qZvNIVGV" text="В вашем клане нет никого,кто мог бы возглавить отряд." />
@@ -248,23 +251,23 @@
     <string id="Raa4j4rF" text="Требуется: {UPGRADE_ITEM}" />
     <string id="RClxLG6N" text="Ждёт" />
     <string id="redwEIlW" text="Интендант" />
-    <string id="rg7OuWS2" text="Maneuver" />
+    <string id="rg7OuWS2" text="Маневрировать" />
     <string id="rgqA29b8" text="У вас недостаточно навыка {SKILL_NAME} что бы экипировать это предмет." />
     <string id="rGy8vjOv" text="Обороняет {TARGET_SETTLEMENT}." />
     <string id="Rkh2k1OA" text="Завершится через: " />
     <string id="rsHPaaYZ" text="Что бы усилить сплоченность,она должна быть ниже, чем {MINAMOUNT}." />
     <string id="rThSy9ed" text="Требуется: {UPGRADE_ITEM} (У вас недостаточно!)" />
-    <string id="RuaA8t97" text="Kingdom Name" />
+    <string id="RuaA8t97" text="Имя Королевства" />
     <string id="RVPidk5a" text="Влияние" />
-    <string id="s31DnnAf" text="Damage" />
+    <string id="s31DnnAf" text="Урон" />
     <string id="s5b77f0H" text="Даёт +{BOOSTAMOUNT} сплоченности вашей армии" />
     <string id="s6koeapc" text="{MAP_FACTION}" />
-    <string id="S9tmCkHz" text="This hero is clearing a common area" />
-    <string id="sa2TQu1G" text="This hero is busy with an issue." />
-    <string id="ScDj827c" text="Initial Capital" />
+    <string id="S9tmCkHz" text="Этот герой очищает зону" />
+    <string id="sa2TQu1G" text="Этот герой занят проблемой" />
+    <string id="ScDj827c" text="Стартовый капитал" />
     <string id="Sls0KQVn" text="Голосование" />
     <string id="slzfQzl3" text="Этот персонаж исчез" />
-    <string id="sqdzHOPe" text="Class" />
+    <string id="sqdzHOPe" text="Класс" />
     <string id="Srr4rOSq" text="Передать всех пленников" />
     <string id="SVJlOYCB" text="В отряде меньше людей,чем 40% от максимального размера отряда" />
     <string id="sVsaWZjg" text="Передать все войска" />
@@ -280,16 +283,16 @@
     <string id="Te4xxzzK" text="Количество динаров" />
     <string id="tf7301NC" text="Скорость Исцеления" />
     <string id="tFGM0yav" text="Распустить отряд." />
-    <string id="tLh0VqN3" text="Choose Your Kingdom Culture" />
-    <string id="twtbH1zv" text="Stack Amount" />
-    <string id="tYz4D8Or" text="Prisoner" />
+    <string id="tLh0VqN3" text="Выберите культуру своего королевства" />
+    <string id="twtbH1zv" text="Количество в стопке" />
+    <string id="tYz4D8Or" text="Заключенный" />
     <string id="TzLtVzdg" text="Раненые" />
     <string id="UbZL2BJQ" text="Здоровье" />
     <string id="UHLcmf9A" text="Предельное количество пленников" />
     <string id="uJro3Bua" text="Превышение лимита" />
     <string id="uoDuiBZR" text="Нельзя назначить себя в качестве губернатора" />
-    <string id="uQgNPJnc" text="Manage Troops" />
-    <string id="US7UmBbt" text="Armor Tier" />
+    <string id="uQgNPJnc" text="Управление войсками" />
+    <string id="US7UmBbt" text="Ранг брони" />
     <string id="UxAl9iyi" text="Личный" />
     <string id="v3OF6vBg" text="Доходность" />
     <string id="Ve5jkJqf" text="Автоматическое предложение" />
@@ -299,7 +302,7 @@
     <string id="vOojEcIf" text="Нельзя назначить пленника в качестве нового лидера отряда" />
     <string id="Vq8yavES" text="Уже в армии." />
     <string id="VtWa9Pmh" text="Совершает набег на {TARGET_SETTLEMENT}." />
-    <string id="VzCoqt8D" text="No sadle equipped. -10% penalty to mounted speed and maneuver." />
+    <string id="VzCoqt8D" text="Сбруя не экипирована. -10% к штрафу на скорость и маневренность коня" />
     <string id="VZjxs5Dt" text="Владелец " />
     <string id="W1tsTWZv" text=" {PARTY_MEMBER.LINK} ({MEMBER_HEALTH}%)" />
     <string id="w8Yzf0F0" text="Уничтожено" />
@@ -330,10 +333,10 @@
     <string id="yUVv3z5V" text="Патрулирует вокруг {TARGET_SETTLEMENT}." />
     <string id="z8h0BRAb" text="Сохранить все запасы" />
     <string id="zawBaxl5" text="Дистанция: {DISTANCE}" />
-    <string id="ZcybPatO" text="Weapon Length" />
+    <string id="ZcybPatO" text="Длина" />
     <string id="zMMqgxb1" text="Тип: " />
     <string id="zrhr4rDA" text="Are you sure you want to disband this army? This will result in relation loss." />
-    <string id="ZUgoQ1Ws" text="Horse Type" />
+    <string id="ZUgoQ1Ws" text="Тип" />
     <string id="zWaCtOJU" text="{SETTLEMENTS}" />
     <string id="zWaVxD6T" text="Скорость отряда" />
     <string id="zZlWRZjO" text="Войны" />

@@ -5,8 +5,8 @@
   </tags>
   <strings>
     <string id="6doiovtH" text="Disambiguation: {CHATROOMS}" />
-    <string id="dnKQbXIZ" text="Could not report player: Game does not exist." />
-    <string id="ivKntfNA" text="Already requested to join, waiting for server response" />
+    <string id="dnKQbXIZ" text="Не удалось сообщить игроку: игра не существует." />
+    <string id="ivKntfNA" text="Запрос на вход уже отправлен, ожидаем ответ от сервера" />
     <string id="taPBAd4c" text="Given command does not start with /" />
     <string id="YOYvBVu1" text="No chat room found matching {COMMAND}" />
   </strings>

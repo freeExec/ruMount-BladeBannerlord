@@ -42,7 +42,7 @@
     <string id="4Gdng2Tt" text="Удерживайте для быстрой камерой сдвинув на карте кампании." />
     <string id="4NaOKslb" text="-" />
     <string id="4Nw1hF2R" text="Пинайте врагов чтобы пробить их защиту, когда не атакуете или защищаетесь. Бейте ваших врагов своим снаряжением во время защиты." />
-    <string id="4Q9pzbqM" text="Enable the controller vibration effect." />
+    <string id="4Q9pzbqM" text="Включить эффект вибрации контроллера." />
     <string id="4R4shVxp" text="Резкость" />
     <string id="4x1wGwW9" text="Выбрать приказ 7" />
     <string id="4Z2NBfW4" text="Командный чат" />
@@ -295,11 +295,11 @@
     <string id="MfsNAPh6" text="Включает подповерхностное рассеивание." />
     <string id="MfunBOxF" text="Откалибруйте уровни контрастности." />
     <string id="mG4rCrfE" text="0" />
-    <string id="MhralfPz" text="Auto" />
+    <string id="MhralfPz" text="Авто" />
     <string id="MkKL3Y4P" text="Numpad 7" />
     <string id="mLtHlKzD" text="Правый Alt" />
     <string id="MNsKxGzK" text="Размер стриминга текстур" />
-    <string id="mS1cpD6w" text="Enable mouse while scoreboard is open." />
+    <string id="mS1cpD6w" text="Включить мышь при открытом табло." />
     <string id="mueocuFG" text="Показывать индикаторы" />
     <string id="mWnA4X5D" text="Выбрать приказ 6" />
     <string id="MXHkvySm" text="F7" />
@@ -432,7 +432,7 @@
     <string id="urbLiiQJ" text="Настройка экспозиции" />
     <string id="uRXlSUVh" text="N" />
     <string id="uSGPBRFS" text="Приближение" />
-    <string id="USKys6FV" text="Show Mouse" />
+    <string id="USKys6FV" text="Показать мышь" />
     <string id="UTU6yVsp" text="Возобновить время на глобальной карте." />
     <string id="uUHUfeQr" text="Выбрать группу 6" />
     <string id="UwJIMaRi" text="Качество шейдеров" />

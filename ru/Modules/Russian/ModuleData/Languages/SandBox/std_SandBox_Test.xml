@@ -3,5 +3,8 @@
   <tags>
     <tag language="Русский" />
   </tags>
-  <strings />
+  <strings>
+    <string id="0xC75dN6" text="Enemy Party" />
+    <string id="sSJSTe5p" text="Player Party" />
+  </strings>
 </base>

@@ -8,6 +8,7 @@
     <string id="0GkJB08d" text="Стургийская Ветеранская Стража Каравана" />
     <string id="0Xku0LQD" text="Стургианский Крестьянин" />
     <string id="1gAasy1t" text="Ветеран озерных крыс" />
+    <string id="1i0Ttr8H" text="Sturgian Otroki" />
     <string id="1PsLlMaQ" text="Имперский Эквит" />
     <string id="1WfDVpya" text="Стургианский Лучник" />
     <string id="1zObCG2o" text="Баттанийский Фиан Чемпион" />
@@ -41,7 +42,6 @@
     <string id="9GIK6fnm" text="Крадус" />
     <string id="9Ylw5Spz" text="Боров Ветеран" />
     <string id="9zXXes9i" text="Бени Зиальский Солдат" />
-    <string id="a9b2fKYR" text="Стургианский Берсерк" />
     <string id="abFIj4ZW" text="Баттанийский Конный Застрельщик" />
     <string id="ac8MZYne" text="Баттанийский Герой" />
     <string id="acubGB3g" text="Вландийский Закаленной Арбалетчик" />
@@ -52,7 +52,6 @@
     <string id="arb5nRri" text="Асерайский Дикарь" />
     <string id="AssCCFew" text="Наёмный Всадник" />
     <string id="aUHtqC9o" text="Копейщик Вландийского Ополчения" />
-    <string id="auxU5OGA" text="Стургианский Сын-Воина" />
     <string id="B4ls6R2b" text="Асерайский Мастер Лучник" />
     <string id="b4QPaEnA" text="Лучник Баттанийского Ополчения" />
     <string id="B7oI7AZG" text="Кузаитский Стражник Хана" />
@@ -69,12 +68,14 @@
     <string id="bTApMxWr" text="Вландийский Знаменосец" />
     <string id="Btb7p3mD" text="Баттанийский Фиан" />
     <string id="bYn4ad1t" text="Экспертный Хранитель Клятвы" />
+    <string id="byPNCb5e" text="Sturgian Heavy Spearman" />
     <string id="c5rVdg75" text="Копейщик Ветеран Имперского Ополчения" />
     <string id="CAYZDsAj" text="Легионер" />
     <string id="Cc3knKFB" text="Дворцовая Стража" />
     <string id="CDUvlu4d" text="Имперский Палатинский Страж" />
     <string id="cEKbOxRA" text="Ветеран Элефтерой" />
     <string id="CfO7eDsv" text="Стургианский Копейщик" />
+    <string id="CJxF6fky" text="Sturgian Heroic Line Breaker" />
     <string id="CKoq1wQa" text="Лучник Кузаитского Ополчения" />
     <string id="cMcGn6n3" text="Страж Эксперт" />
     <string id="cOt1onbR" text="Триарии" />
@@ -115,6 +116,7 @@
     <string id="guardnoun" text="Охранник" />
     <string id="GUQ3zfg2" text="Баттанийский Волонтер" />
     <string id="Gvy2b4fa" text="Асерайский Юноша" />
+    <string id="Gwba5yPA" text="Sturgian Heavy Axeman" />
     <string id="gyvXsXs8" text="Баттанийский Одичалый" />
     <string id="gZ4JeEw4" text="Лучник Ветеран Стургийского Ополчения" />
     <string id="H5HJUejD" text="Асерайский Новобранец" />
@@ -133,7 +135,6 @@
     <string id="IxcCmtxz" text="Копейщик Ветеран Баттанийского Ополчения" />
     <string id="iXjMfCyp" text="Кузаитский Всадник" />
     <string id="IZ8OmByJ" text="Имперский Опытный Пехотинец" />
-    <string id="iZqYAIQy" text="Стургианский Ударный-Воин" />
     <string id="jaK1A7CI" text="Асерайский Фарис" />
     <string id="jFQPRvLg" text="Хускарл Мечник" />
     <string id="JGsUtBT3" text="Имперский Легионер" />
@@ -143,7 +144,6 @@
     <string id="JVG0zC4e" text="Асерайская Тяжёлая Кавалерия Мамелюков" />
     <string id="jx8ohENz" text="Оружейник" />
     <string id="jxNe8lH2" text="Стража Каравана" />
-    <string id="k4EiLrU0" text="Стургианский Берсерк" />
     <string id="KAJKOooN" text="Кузаитский Тяжелый Конный Лучник" />
     <string id="kih9DwL4" text="Вландийский Арбалетчик" />
     <string id="KnhpjA7Y" text="Колеман" />
@@ -224,6 +224,7 @@
     <string id="S9z09NaN" text="Ветеран Наемный Отряд" />
     <string id="SAILNYbu" text="Вландийская Пехота" />
     <string id="SaqVvzyV" text="Наемная Кавалерия" />
+    <string id="Sc1d2lsH" text="Sturgian Line Breaker" />
     <string id="SDRIahK8" text="Сумасшедший" />
     <string id="Si5ZCb1O" text="Вландийский Пикинер" />
     <string id="sMI3wMZu" text="disguise_equipment_set" />
@@ -279,7 +280,6 @@
     <string id="xaYwo9tM" text="Наемный Разведчик" />
     <string id="XgjXfmM1" text="Тюремный Стража" />
     <string id="xIFHLI66" text="Кузаитский Кочевник" />
-    <string id="xiuAStPO" text="Стургианский Ветеран-Воин" />
     <string id="xnzpQbwQ" text="Стургианский Всадник" />
     <string id="XzDObEiH" text="Вландийский Оруженосец" />
     <string id="YE4RGuzU" text="Ветеранская Стража Вландийского Каравана" />

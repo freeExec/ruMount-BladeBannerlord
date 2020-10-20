@@ -22,8 +22,10 @@
     <string id="97bAooa5" text="Боже.. Вино здесь на вкус как моча. А, да... так кто вы?" />
     <string id="9emUaMsx" text="{STR_SALUTATION}... Я к вашим услугам." />
     <string id="9MZ1SaXt" text="Ну... Не помню чтобы мы встречались. Не желаете ли представиться?" />
+    <string id="9uQibOo8" text="I'm at your service, {STR_SALUTATION}." />
     <string id="A3eeOUZH" text="Ты же знаешь какого я мнения о тебе. Лучше бы это было важно." />
     <string id="a67lBQad" text="А ты кто такой? Отвечай быстро, пока я не отдал приказ атаковать." />
+    <string id="aCFQOGye" text="{STR_SALUTATION}... I await your orders." />
     <string id="AoBIFXZH" text="{STR_SALUTATION}... Ну-ну. Мне очень любопытно услышать все, что ты собираешься сказать." />
     <string id="aOkilS3H" text="Верно. Так кто же вы тогда такой?" />
     <string id="axO6JCWt" text="С вашего позволения... приостановитесь пожалуйста. Хотелось бы узнать ваше имя." />
@@ -73,10 +75,12 @@
     <string id="lK32NXY8" text="Я верю, что ты хорошо держался, с честью сражался и прорубал кровавые леса своих врагов." />
     <string id="LNhUaIoB" text="Всё верно. Вы. Готовьтесь ко всему, что близится к вам." />
     <string id="LRpsEe3F" text="{STR_SALUTATION}... Приятно вас видеть." />
+    <string id="LvafEVjz" text="{STR_SALUTATION}... I'm yours to command." />
     <string id="lvScVM9T" text="Побыстрее, пожалуйста. Времени и так нет." />
     <string id="mcNlccCF" text="Хм? Не думаю, что знаю вас. Мир вам, странник." />
     <string id="mHjnRrLk" text="Не буду отрицать, что будет приятно посмотреть на то как ты корчишься от боли и истекаешь кровью на песке" />
     <string id="mkFfE4Pm" text="Так, ни шагу больше. Кто вы?" />
+    <string id="mru1p8Fz" text="{STR_SALUTATION}... Awaiting your orders, as always." />
     <string id="n5Va4JVo" text="Ах, хорошо. Справедливость видно назначила меня её палачом. Неравнодушен ты к мечу иль неравнодушен ты к петле?" />
     <string id="nESnaBbx" text="Миледи... Вы как всегда прекрасны." />
     <string id="nFPrHMdU" text="Эх. Вино здесь на вкус как моча. В любом случае, что вам нужно?" />

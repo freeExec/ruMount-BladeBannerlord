@@ -291,7 +291,6 @@
     <string id="DI9P2HDG" text="Сложенные Шиловидные Стрелы" />
     <string id="dIfcfMbY" text="Шипованный Кожаный Жилет" />
     <string id="Dj64aJKQ" text="Алебарда" />
-    <string id="DJjCCQ59" text="Баттанийский Доспех Дикаря" />
     <string id="dkuzrKJF" text="Отличная Пика" />
     <string id="DlHkNiJA" text="Горное Платье" />
     <string id="dLLD8bVX" text="Пустынное Прочное Седло" />
@@ -850,6 +849,7 @@
     <string id="v6W9XaDI" text="Старые Меховые Доспехи" />
     <string id="V7U0fFU9" text="Горная Объёмная Кольчуга" />
     <string id="v7WQhge3" text="Украшенные Сабли" />
+    <string id="V7yH6vyz" text="Battanian Wilding Armor" />
     <string id="VAcSEseI" text="Широкий Боевой Меч с Глубоким долом" />
     <string id="VAO11FSu" text="Тамаскенский Стальной Двуручник" />
     <string id="VbAHQ1BS" text="Длинное Меховое Пальто" />
@@ -942,6 +942,7 @@
     <string id="XbwDj80t" text="Степные Стрелы" />
     <string id="XDsFl200" text="Имперское Копьё" />
     <string id="XGX6DbFL" text="Пластинчатые Латные Рукавицы" />
+    <string id="XGytILlt" text="Grapeshot Ammo" />
     <string id="XH9f3yOX" text="Меховой Жилет Поверх Туники" />
     <string id="XkwOTdVQ" text="Кельтский Мороз" />
     <string id="xkX9T0yT" text="Свободный Обёрнутый Южный Шлем" />
@@ -1007,6 +1008,7 @@
     <string id="ZbsGBv10" text="Кабанчик" />
     <string id="zBUT90xQ" text="Тамаская Стальная Каскара" />
     <string id="Ze9u7Saj" text="Железный Каркасный Шлем с Кольчугой" />
+    <string id="ZeU1fvdz" text="Grapeshot Stack" />
     <string id="ZEybMjoq" text="Северная Шерстяная Шапка" />
     <string id="ZFde57gC" text="Прочное Горное Седло" />
     <string id="ZFETxZKP" text="Куфея с Шелковой Лентой" />

@@ -6,6 +6,7 @@
   <strings>
     <string id="05fdfc6e238429753ef282f2ce97c1f8" text="Количество: " />
     <string id="08abd5af7774d311cadc3ed900b47754" text="Тип: " />
+    <string id="0mqdFC2x" text="Weapon Crafted!" />
     <string id="0Q4Xo2BQ" text="Выберите лидера для нового отряда" />
     <string id="0rBsbw1T" text="Никакого эффекта" />
     <string id="13wo3QQB" text="Вторичное свойство" />
@@ -52,6 +53,7 @@
     <string id="9i0wnjJK" text="L-II : {BONUS}" />
     <string id="9slDj5wr" text="Изменить производство" />
     <string id="a241aacb1780599430c79fd9f667b67f" text="Спутников: " />
+    <string id="a4GDfSel" text="Reset Tutorials" />
     <string id="a8nRxITn" text="В плену у {PARTY_NAME}" />
     <string id="aadiCuDe" text="{COMPLETION_PERCENT} (Приблизительно {DAYS} дней до завершения)" />
     <string id="AcMayd1p" text="Убегает от {TARGET_PARTY}" />
@@ -136,10 +138,12 @@
     <string id="HURdAXDQ" text="Hideout Crew" />
     <string id="hylxyNtU" text="Вам не хватает." />
     <string id="Hz8XO8wk" text="Персонаж не может вести за собой отряд,будучи губернатором." />
+    <string id="I2sZ7K28" text="Are you sure want to reset tutorials?" />
     <string id="IagYTD5O" text="Счастье" />
     <string id="IbqRyrKo" text="Это определит начальную активную политику Королевства. Выберите максимум 4 политики." />
     <string id="IcgVKFxZ" text="Правитель" />
     <string id="idRXFzQ6" text="Уже принят в армию." />
+    <string id="Iefr8Fra" text="Tutorials have been reset." />
     <string id="IJdjwXvn" text="Текущий Уровень: " />
     <string id="Ioiqzz4E" text="Вы должны быть в армии, чтобы повысить сплоченность" />
     <string id="ipLqVv1f" text="Вы не можете призвать королевский отряд в свою армию." />
@@ -207,6 +211,7 @@
     <string id="OpzzCPiP" text="Сопровождает {TARGET_PARTY}" />
     <string id="OTaPfaJl" text="{PARTY_2S_MEMBERS}   " />
     <string id="oUhd9YhP" text="{PARTY_LEADERS_FACTION}" />
+    <string id="oUz16Nav" text="Reset Tutorial" />
     <string id="p0nIO9c2" text="Мастерская не может быть ухудшена" />
     <string id="p7raHA9x" text="Уточнение" />
     <string id="PAUsUq4Z" text="Выберите правителя поселения" />
@@ -316,6 +321,7 @@
     <string id="xXSFaGW8" text="Расформировать" />
     <string id="XYAVu2f0" text="Преследует {TARGET_PARTY}." />
     <string id="XzggyCPW" text="Этот герой занят" />
+    <string id="Y7qbwrWE" text="{HERO_NAME}'s Skills" />
     <string id="YbGu9rSH" text="Этот персонаж уже является губернатором {SETTLEMENT_NAME}" />
     <string id="ybLA7ZXp" text="Максимум" />
     <string id="YifFZaG7" text="Командир отряда" />
@@ -326,6 +332,7 @@
     <string id="zawBaxl5" text="Дистанция: {DISTANCE}" />
     <string id="ZcybPatO" text="Длина" />
     <string id="zMMqgxb1" text="Тип: " />
+    <string id="zrhr4rDA" text="Are you sure you want to disband this army? This will result in relation loss." />
     <string id="ZUgoQ1Ws" text="Тип" />
     <string id="zWaCtOJU" text="{SETTLEMENTS}" />
     <string id="zWaVxD6T" text="Скорость отряда" />

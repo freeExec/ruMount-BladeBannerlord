@@ -48,6 +48,7 @@
     <string id="d4eShU5x" text="{PLAYER} accepted your friend request" />
     <string id="dabogDDj" text="You are already friends" />
     <string id="DAhyeheV" text="You must be at lobby to change clan information text." />
+    <string id="dbLB0tuT" text="Family share is not allowed." />
     <string id="dDF2wZGu" text="{PLAYER} declined your friend request" />
     <string id="dHlxVbMw" text="You are already in a clan." />
     <string id="Dmz3JLyp" text="Player invited to clan." />
@@ -90,6 +91,7 @@
     <string id="mcAG0eHJ" text="Вы должны находиться в лобби, чтобы выгнать кого-то из вашего отряда![Временно]" />
     <string id="mdH4S8Kx" text="You must be in a party to suggest someone to your party." />
     <string id="MepGBJMQ" text="Не удалось найти игрока, которого вы пытались повысить" />
+    <string id="MgGvnobq" text="Selected map is not available." />
     <string id="MowSn4ch" text="Game not found." />
     <string id="Mp9I9aqd" text="You must be in a clan to change clan information text. Obviously." />
     <string id="mvQKpHXH" text="Ваш отряд полон." />

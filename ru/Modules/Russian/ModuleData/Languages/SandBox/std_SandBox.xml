@@ -110,7 +110,6 @@
     <string id="4xtBNkjN" text="К сожалению, я разрешаю делать ставки только тогда, когда играю в полную силу. Вам придется преодолеть эту трудность." />
     <string id="4y8WakX7" text="Мне жаль. Сегодня всё в мою пользу. И я не могу упустить такой шанс." />
     <string id="4zf1lg6L" text="I can send one of my companions instead." />
-    <string id="4zf1lg6L" text="I can send one of my companions instead." />
     <string id="54PbMkNw" text="Хорошо. Тогда повторите за мной слова клятвы: {OATH_LINE_1}." />
     <string id="56ynu2bW" text="Да, {?PLAYER.GENDER}миледи{?}сир{\?}" />
     <string id="57FVd2g9" text="Играть в азартные игры" />
@@ -184,7 +183,6 @@
     <string id="7uFFaSHv" text="Сейчас некоторые говорят, что {?OWNER.GENDER}наша леди{?}наш господин{\?} {OWNER.LINK} такой же подлый, как ошпаренная кошка. Но я говорю, что большинство людей - злодеи, и это хорошо, что они чувствуют небольшой страх. В любом случае, в наши дни на столе есть мясо, и кто может с этим спорить?" />
     <string id="7wkHMnNM" text="Может быть {AMOUNT}{GOLD_ICON} помогут вам вспомнить меня." />
     <string id="80riAa0q" text="Уровень твоего клана должен быть {TIER}.\nВаши отношения с {HERO.NAME} должны быть {RELATION}." />
-    <string id="89b5ao7P" text="As of now, I do not have 1000 denars to afford on gambling. I may get back to you once I get the required amount." />
     <string id="89b5ao7P" text="На данный момент у меня нет 1000 денаров, чтобы позволить себе играть в азартные игры. Я могу вернуться к вам, как только получу нужную сумму." />
     <string id="8bJn8vvU" text="Убирайся из этого переулка и возьми своих людей с собой." />
     <string id="8bLwh9yy" text="Извините, {?NPC.GENDER}миледи{?}сир{\?}. Но я чувствую, что мне нужно подумать об этом." />

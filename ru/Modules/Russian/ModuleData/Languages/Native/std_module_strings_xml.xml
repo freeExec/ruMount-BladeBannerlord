@@ -325,7 +325,6 @@
     <string id="awQrcrt2" text="Керамика" />
     <string id="AWW0T6xR" text="Пешка может перемещаться ортогонально, на одну клетку за ход.{newline}Пешка не может вернуться на то место, с которого она пришла в предыдущем ходу.{newline}Если игрок не может походить, то у него имеется возможность убрать одну из пешек врага и все еще сделать ход." />
     <string id="Ayrvf5yp" text="Убито" />
-    <string id="aZrbxdat" text="Hold [{KEY_NAME}] to do all" />
     <string id="aZrbxdat" text="Удерживайте [{KEY_NAME}] чтобы сделать все" />
     <string id="b0Mv6mZy" text="Верните положение замка!" />
     <string id="b0yJ9JsW" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} штурмуют стены." />
@@ -685,7 +684,6 @@
     <string id="h55xdL1l" text="MuTorere" />
     <string id="h60wQVVX" text="Пика" />
     <string id="h6AJXR2e" text="Вы уверены в отступлении вашего отряда?" />
-    <string id="h8Bcd7NE" text="{FACTION} Ruler Election" />
     <string id="h8Bcd7NE" text="{FACTION} Выборы правителя" />
     <string id="H9y9dLao" text="Вы можете сделать ставку, чтобы увеличить призовые. Каждый раунд шансы будут разные, и вы можете ставить {MAX_AMOUNT}&lt;img src=&quot;Icons\Coin@2x&quot;&gt; каждый раз." />
     <string id="haax8kMa" text="Древковое" />
@@ -924,7 +922,6 @@
     <string id="lh1yhgXw" text="Снаряжение Лошади V" />
     <string id="lihYjOSc" text="шт." />
     <string id="LJ6Krlbr" text="Разведка" />
-    <string id="LJ6Krlbr" text="Разведка" />
     <string id="lj8XH6O7" text="Сейчас нет доступа к меню королевства!" />
     <string id="LJwKdMdw" text="Дождитесь пока оппонент встаёт в позицию" />
     <string id="LL6GkIfg" text="If you can beat {OPPONENT_COUNT_1} opponents before going down, you'll earn {PRIZE_1}{GOLD_ICON}. You'll get {PRIZE_2}{GOLD_ICON} for striking down at least {OPPONENT_COUNT_2} opponents, {PRIZE_3}{GOLD_ICON} if you can defeat {OPPONENT_COUNT_3} opponents, and {PRIZE_4}{GOLD_ICON} if you can survive long enough to beat {OPPONENT_COUNT_4} opponents. If you can manage to be the last fighter standing, you'll earn the great prize of the fights, {PRIZE_5}{GOLD_ICON}. Sounds good, eh?[rb:trivial]" />
@@ -1016,7 +1013,6 @@
     <string id="nAaT19CC" text="{?RULER.GENDER}Archoness{?}Archon{\?} {RULER.NAME}" />
     <string id="NaorUInI" text="Understrength Сторон" />
     <string id="nbBgbwM2" text="В очереди: {NUMBER}" />
-    <string id="NbgeKwVr" text="Мастерские" />
     <string id="NbgeKwVr" text="Мастерские" />
     <string id="NBv29XpJ" text="Вы не можете распустить армию, а ты в эту армию." />
     <string id="nDNOn5o2" text="Оборудование" />
@@ -1518,7 +1514,6 @@
     <string id="xbh6Bmhf" text="Текущая поддержка в Королевстве" />
     <string id="XBIPqxA2" text="Пусто" />
     <string id="xCaFvB69" text="Ур. II" />
-    <string id="XCz81XYm" text="Inputs" />
     <string id="XCz81XYm" text="Потребляет" />
     <string id="xD9xlbXt" text="Князь" />
     <string id="xEWwbGVK" text="Точность: " />

@@ -76,7 +76,6 @@
     <string id="BV5exuPf" text="Удалить из закладок" />
     <string id="C2qpwFq5" text="Владелец земель {SETTLEMENTS}" />
     <string id="c5eYzHaM" text="{DAYS} {?DAY_IS_PLURAL}Дней{?}День{\?} ({PERCENTAGE}%)" />
-    <string id="c6BtCIrX" text="{DAYS} days ago" />
     <string id="c6BtCIrX" text="{DAYS} дней назад" />
     <string id="c6e4c8588ca9e42f6e1b47b11f0f367b" text="Длина: " />
     <string id="c7638a0869219ae845de0f660fd57a9d" text="Урон: " />
@@ -91,7 +90,6 @@
     <string id="CnsIzaWo" text="Поле Битвы" />
     <string id="cUUI8u2G" text="Выносливость в Кузне " />
     <string id="d2K6gMsZ" text="Отправить воинов. Нужен как минимум 1 спутник." />
-    <string id="d8jrv3nA" text="Add To Bookmarks" />
     <string id="d8jrv3nA" text="Добавить в закладки" />
     <string id="DAmdTxuC" text="Управление армией" />
     <string id="dD3kRDHi" text="This hero is a fugitive and running from their captors. They will will be available after some time" />
@@ -163,7 +161,6 @@
     <string id="jPBhgu7a" text="Лагерь" />
     <string id="jQdBl4hf" text="Губернатор города " />
     <string id="JTxI3sW2" text="Взять в осаду {TARGET_SETTLEMENT}." />
-    <string id="jxypVgl2" text="Relation Changes" />
     <string id="jxypVgl2" text="Изменения отношений" />
     <string id="Jyfkahka" text="{VALUE} ({?POSITIVE}+{?}{\?}{DELTA_VALUE})" />
     <string id="JYOcl7Ox" text="Неэффективно!" />

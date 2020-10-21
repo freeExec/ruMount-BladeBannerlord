@@ -700,7 +700,7 @@
     <string id="hfSW9FTN" text="Дальнобойное Оружие V" />
     <string id="HGBuP0wy" text="После этого пленный получит {CONFORMITY_AMOUNT} согласованности, еще один пленный будет доступен для вербовки. Пленные получают {CONFORMITY_PER_HOUR} согласности за час." />
     <string id="HiSzYWeh" text="Пиво" />
-    <string id="hJypvWMR" text="Обработка" />
+    <string id="hJypvWMR" text="Обрабатывать" />
     <string id="HkfY3Ds5" text="Броня" />
     <string id="HkZ4E94O" text="Кузаитская конфедерация степных племен вела кочевой образ жизни, но недавно поселилась на восточной границе Империи и постепенно переходит в аграрное общество с постоянными городскими центрами. Несмотря на это, они все еще сохраняют многие аспекты своей кочевой жизни, в том числе свою близость с лошадьми. Они мастера стрельбы из лука, стреляют, а затем скачут за пределы досягаемости." />
     <string id="hL3JIQbd" text="Привести это формирование в бой." />
@@ -1168,7 +1168,7 @@
     <string id="Q3KrMlLd" text="Атака!" />
     <string id="q3mOBLFn" text="Выбор навыка фокусировки" />
     <string id="Q67Wys0i" text="Патрулируют вокруг {SETTLEMENT_NAME}" />
-    <string id="q6P6bdbC" text="Quick Talk" />
+    <string id="q6P6bdbC" text="Быстро поговорить" />
     <string id="Q7ONA10T" text="&lt;b&gt;Требушет&lt;/b&gt;{newline}Неточное, но разрушительное для стен." />
     <string id="Q8mI3b4K" text="Политика не выбрана" />
     <string id="QA8Gm9PY" text="Жаркий день, не правда ли? Не утомляйте себя во время боя. Дайте нам то, что мы хотим, и мы уйдем." />
@@ -1629,7 +1629,7 @@
     <string id="ZhiB1EOM" text="Пленный в {SETTLEMENT_NAME}" />
     <string id="ZlJIpfWg" text="Бонус скорости: {SPEED_BONUS}%." />
     <string id="ZMdOAbTd" text="Атакующие" />
-    <string id="zMMqgxb1" text="Тип: " />
+    <string id="zMMqgxb1" text="Тип" />
     <string id="zN9iNaIW" text="Ограбить деревню" />
     <string id="zNekjGmR" text="Набираем В Плен" />
     <string id="zNEvBr6R" text="Ваша очередь" />

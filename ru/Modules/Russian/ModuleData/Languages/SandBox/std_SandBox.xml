@@ -113,7 +113,7 @@
     <string id="54PbMkNw" text="Хорошо. Тогда повторите за мной слова клятвы: {OATH_LINE_1}." />
     <string id="56ynu2bW" text="Да, {?PLAYER.GENDER}миледи{?}сир{\?}" />
     <string id="57FVd2g9" text="Играть в азартные игры" />
-    <string id="5a6KlSXt" text="I have a problem. {PRODIGAL_SON.LINK}, one of the youngsters of my clan has gone to the town to have fun, drinking, wenching and occasional gambling. Like we all did in our younger days but it seems, he is gone out of line. Now he sends news that he owes a large sum of money to {TARGET_HERO.LINK}, one of the local crime bosses in the city of {SETTLEMENT}. The criminal scum holds him as a “guest” in his house until someone pays his debt." />
+    <string id="5a6KlSXt" text="У меня проблема. {PRODIGAL_SON.LINK} один молодчик из моего клана ушёл в город повеселиться, выпить, поужиннать и может быть сыграть в карты. Как и все мы в молодости, но похоже он пропал. Теперь он присылает новости о том, что он должен крупную сумму денег {TARGET_HERO.LINK}, отдному из местных криминальных авторитетов из {SETTLEMENT}. Эта преступная мразь держит его в качестве «гостя» у себя дома, пока кто-то не выплатить его долг." />
     <string id="5aDlmdmb" text="Нет... Нет. Это не имеет смысла." />
     <string id="5ajobQiL" text="Какую роль ты имеешь в виду?[ib:normal][rb:unsure]" />
     <string id="5akTbqNs" text="Я буду ждать тебя снаружи, капитан." />

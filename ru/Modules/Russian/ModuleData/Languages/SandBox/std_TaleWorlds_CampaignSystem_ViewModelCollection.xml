@@ -321,7 +321,7 @@
     <string id="xXSFaGW8" text="Расформировать" />
     <string id="XYAVu2f0" text="Преследует {TARGET_PARTY}." />
     <string id="XzggyCPW" text="Этот герой занят." />
-    <string id="Y7qbwrWE" text="{HERO_NAME}'s Skills" />
+    <string id="Y7qbwrWE" text="Навыки {HERO_NAME}" />
     <string id="YbGu9rSH" text="Этот персонаж уже является губернатором {SETTLEMENT_NAME}" />
     <string id="ybLA7ZXp" text="Максимум" />
     <string id="YifFZaG7" text="Командир отряда" />

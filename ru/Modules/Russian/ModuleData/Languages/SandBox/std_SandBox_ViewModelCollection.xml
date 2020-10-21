@@ -33,7 +33,7 @@
     <string id="lPMYSSAa" text="Необходимы инструменты" />
     <string id="mDFhzEMC" text="Максимальное Здоровье" />
     <string id="nvemmBZz" text="Вы заработали %{AMOUNT} добычи и пленных" />
-    <string id="nVGqjtaa" text="Campaign {ID}" />
+    <string id="nVGqjtaa" text="Кампания {ID}" />
     <string id="O9nwLrYp" text="+{WOUNDEDAMOUNT}р" />
     <string id="oBbiVeKE" text="Здоровье" />
     <string id="Q1HIlJxe" text="Переписать" />
@@ -43,7 +43,7 @@
     <string id="R2AaCaPJ" text="Ожидаемое изменение" />
     <string id="raD9MK3O" text="Сложность" />
     <string id="RVPidk5a" text="Влияние" />
-    <string id="uncategorized_save" text="Uncategorized" />
+    <string id="uncategorized_save" text="Без категории" />
     <string id="V4iU0wRv" text="Золото" />
     <string id="WAKz9xX8" text="Вы получили {A0} к морали." />
     <string id="WDlVhNuq" text="Назовите свой файл сохранения" />

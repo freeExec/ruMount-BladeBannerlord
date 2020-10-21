@@ -99,7 +99,7 @@
     <string id="FFXqPFwl" text="Я {CONVERSATION_CHARACTER.LINK}, из {CLAN_NAME}, одной из самых выдающихся семей в анналах Вландийского Королевства." />
     <string id="fHFpgitO" text="Хорошо, что мы встретились. Всегда помните, что хотя смелость-это похвально, сострадание является величайшей из добродетелей." />
     <string id="FpD4Y9cX" text="Спасибо. Я должен оставаться вашим врагом, но, тем не менее, я благодарен.[if:happy][rb:very_positive]" />
-    <string id="FYLmd2ch" text="You raided my tenants at {SETTLEMENT_NAME}. Needless to say, I am not pleased with this." />
+    <string id="FYLmd2ch" text="Вы совершили набег на моих арендаторов в {SETTLEMENT_NAME}. Излишне говорить, что я не доволен этим." />
     <string id="g3oFsCtd" text="Вы просили о переговорах. Я верю, что вы будете чтить обычаи войны и не станете прибегать к хитростям." />
     <string id="G8ol9sG3" text="Мне очень жаль сражаться с вами, но я должен. Если, конечно, вы не хотите сдаться.[ib:warrior][if:idle_angry]" />
     <string id="gBRBdsIe" text="Я уверен, что кто-то с вашей репутацией знает, что ничто в этом мире не ценно так же, как вес вашего слова. Говорите со мной правдиво, а я буду честен с вами." />

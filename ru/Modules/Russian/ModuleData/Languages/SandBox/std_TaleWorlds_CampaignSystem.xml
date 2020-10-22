@@ -83,7 +83,7 @@
     <string id="11KckWau" text="Mitara" />
     <string id="15wCjIBY" text="Будете медлить - моих людей повесят на эшафоте. Поторопитесь же, ну!" />
     <string id="176K8dcb" text="Вы прекратите осаду, если уйдете. Вы уверены?" />
-    <string id="17A2DDgD" text="{PEACEMAKER_RULER.NAME} of the {KINGDOM_CONSIDERING_PEACE} has decided to make peace with the {KINGDOM} with the support of {?PEACEMAKER_RULER.GENDER}her{?}his{\?} council." />
+    <string id="17A2DDgD" text="{PEACEMAKER_RULER.NAME} из {KINGDOM_CONSIDERING_PEACE} {?PEACEMAKER_RULER.GENDER}решила{?}решил{\?} заключить мир с {KINGDOM} при поддержики своего совета." />
     <string id="17cIGVQE" text="Урон от древкового оружия: +{a0} %" />
     <string id="18NtjryL" text="Пока нет, но скоро будет." />
     <string id="18xOURG4" text="Хмм.. Нет... {IMMEDIATE_FAILURE_LINE}" />
@@ -359,13 +359,13 @@
     <string id="5bSWSaPl" text="Мечники на лошадях" />
     <string id="5cH6ssDI" text="компания наемников" />
     <string id="5CJOMH90" text="{ARMY} был расформирован." />
-    <string id="5CokRxmL" text="{QUEST_GIVER.LINK}, староста {QUEST_SETTLEMENT} просил вас доставить {GRAIN_AMOUNT} единицы зерна до {?QUEST_GIVER.GENDER}her{?}him{\?} чтобы использовать в качестве семян. Иначе крестьяне не смогут засеять свои поля и будут голодать в наступающем сезоне.       Вы согласились привезти {GRAIN_AMOUNT} единицы зерна как можно скорее." />
+    <string id="5CokRxmL" text="{QUEST_GIVER.LINK}, староста {QUEST_SETTLEMENT} просил вас доставить {GRAIN_AMOUNT} единицы зерна для {?QUEST_GIVER.GENDER}неё{?}него{\?} чтобы использовать в качестве семян. Иначе крестьяне не смогут засеять свои поля и будут голодать в наступающем сезоне.{newline}{newline}Вы согласились привезти {GRAIN_AMOUNT} единицы зерна как можно скорее." />
     <string id="5E2bIcGb" text="Я не предам своего сеньора. (Убеждение в верности не удалось.)" />
     <string id="5ehlbXm6" text="Они не хотят делить между собой пастбища. Но я потратил свое серебро, и у меня есть право собственности. Мне нужно, чтобы кто-то ехал вместе с моими пастухами и убирал всех, кто встанет у них на пути." />
     <string id="5EiKEdi5" text="Dorion" />
     <string id="5eTb2xr7" text="Sanion" />
     <string id="5fD5o6ra" text="Ваши караваны собирают торговые слухи и отмечают среднюю цену на товары" />
-    <string id="5GSrvawr" text="{VICTIM.NAME} умер от старости. {?VICTIM.GENDER}Her{?}His{\?} родные и близкие будут помнить {?VICTIM.GENDER}her{?}him{\?}." />
+    <string id="5GSrvawr" text="{VICTIM.NAME} умер от старости. {?VICTIM.GENDER}Её{?}Его{\?} родные и близкие будут помнить {?VICTIM.GENDER}её{?}его{\?}." />
     <string id="5HL8Iqdx" text="Наш славный лидер" />
     <string id="5id9mGrc" text="Вы находитесь рядом с ареной. {ADDITIONAL_STRING}" />
     <string id="5JaGVr0U" text="Путешествуя по невысоким холмам, вы видите останки места разбивки лагеря в овраге ручья." />
@@ -381,7 +381,7 @@
     <string id="5nEh20ju" text="Vasylops" />
     <string id="5NRai8K5" text="Increase maximum track life by 20% " />
     <string id="5NwaDzcs" text="У животных в вашем инвентаре очень низкий шанс к розмножению." />
-    <string id="5NYPqKBj" text="Я знаю, что ты занят, но, может быть, ты попросишь кого-нибудь из своих людей найти нам это зерно? {MEN_COUNT} мужей хватит, чтобы сделать эту работу, и я думаю, что это займет две недели. \nЯ в отчаянии, {?PLAYER.GENDER}мадам{?}сир{\?}... Не позволяйте нашим детям голодать!" />
+    <string id="5NYPqKBj" text="Я знаю, что ты занят, но, может быть, ты попросишь кого-нибудь из своих людей найти нам это зерно? {MEN_COUNT} мужей хватит, чтобы сделать эту работу, и я думаю, что это займет две недели.{newline}Я в отчаянии, {?PLAYER.GENDER}мадам{?}сир{\?}... Не позволяйте нашим детям голодать!" />
     <string id="5o6pSbCx" text="Народный врач" />
     <string id="5o9udV96" text="Да? Вы уже должны были отправиться, каждая секунда на счету." />
     <string id="5of4a1kg" text="Землевладельцу нужна ваша помощь, чтобы найти заключенных, которых можно было бы использовать в {?ISSUE_GIVER.GENDER}ее{?}его{\?} рудниках в качестве рабочих." />
@@ -679,7 +679,7 @@
     <string id="a09WG8vK" text="Вероломный {NAME}" />
     <string id="a0MVffcN" text="Переулок" />
     <string id="A0UCmgaY" text="{NAME} Синяя Борода" />
-    <string id="a0UTO8tW" text="{ISSUE_OWNER.LINK}, правитель {ISSUE_SETTLEMENT} попросил вас доставить {GRAIN_AMOUNT} единиц зерна {?QUEST_GIVER.GENDER} ей {?} ему {\?} для использования в качестве семян. В противном случае крестьяне не смогут сеять поля и будут голодать в наступающем сезоне. Вы согласились отправить вам спутника {COMPANION.NAME} вместе с 20ю людьми, чтобы найти семена и вернуться в деревню. Ваши люди должны вернуться через {RETURN_DAYS} дней." />
+    <string id="a0UTO8tW" text="{ISSUE_OWNER.LINK}, правитель {ISSUE_SETTLEMENT} попросил вас доставить {GRAIN_AMOUNT} единиц зерна {?QUEST_GIVER.GENDER}ей{?}ему{\?} для использования в качестве семян. В противном случае крестьяне не смогут сеять поля и будут голодать в наступающем сезоне. Вы согласились отправить вашего спутника {COMPANION.NAME} вместе с 20ю людьми, чтобы найти семена и вернуться в деревню. Ваши люди должны вернуться через {RETURN_DAYS} дней." />
     <string id="A1LHEGX4" text="Ледокол" />
     <string id="a1n2zCaD" text="Я хочу узнать, что именно вам от меня нужно." />
     <string id="a1xdJxMs" text="Companion should have all these skills:" />
@@ -2144,7 +2144,7 @@
     <string id="k2qbQL2J" text="{ROMANCE_PERSUADE_ATTEMPT_2}" />
     <string id="K4AMwxCZ" text="{FIRST_NAME} the Wart" />
     <string id="K4Gw9ZB5" text="The military campaign was uneventful, but your child was popular with his/her peers as they drank, gambled, and chatted away the days" />
-    <string id="k63ZKmXX" text="Благодарю вас {?PLAYER.GENDER}milady{?}sir{\?}! Вы мой спаситель." />
+    <string id="k63ZKmXX" text="Благодарю вас {?PLAYER.GENDER}миледи{?}сир{\?}! Вы мой спаситель." />
     <string id="K6C0dD2Y" text="Trade, you said. Whoever grasps how prices work can pluck silver out of thin air. " />
     <string id="k6rrkvRO" text="{FIRST_NAME} of the Well" />
     <string id="k7ebznzr" text="Да?" />
@@ -2544,7 +2544,7 @@
     <string id="nAxRv7b7" text="...unleashed {?CHILD.GENDER}her{?}his{\?} fighting spirit" />
     <string id="nB07bljx" text="{ISSUE_OWNER.LINK} {?ISSUE_OWNER.GENDER}Леди{?}Лорд{\?} из клана {ISSUE_OWNER.CLAN} имеет личную вендетту с {TARGET_HERO.LINK} из клана {TARGET_HERO.CLAN}. {?ISSUE_OWNER.GENDER}Она{?}он{\?} хочет чтобы вы захватили {TARGET_HERO.LINK} и привели к {?ISSUE_OWNER.GENDER}ей{?}ему{\?}. Если вы сможете сделать это, он пообещал вам награду {REWARD_GOLD}{GOLD_ICON} и призовую лошадь. Вы согласились найти {TARGET_HERO.LINK} и привести {?TARGET_HERO.GENDER}ее{?}его{\?} к {ISSUE_OWNER.LINK} за 1 год." />
     <string id="nb0l067B" text="Каждое очко навыка после 250 дает вам 0,5% увеличения урона от древнего оружия." />
-    <string id="NBAGX54b" text="Avigos" />
+    <string id="NBAGX54b" text="Авигос" />
     <string id="Nbbybipb" text="Your child tells you how engineers have become an unofficial guild that transcends borders. Even men on opposite sides of a siege are known to discuss the technical details of their craft." />
     <string id="nbeCbTH6" text="{?PLAYER.GENDER}Миледи{?}Мой лорд{\?}, мы слышали, что вы хотите издать указ, разрешающий ремесленникам такие же права как и у купцов. Это отменит соглашение, которое работало на протяжении многих поколений. Пожалуйста, пересмотрите это решение." />
     <string id="NbgeKwVr" text="Мастерские" />
@@ -2560,7 +2560,7 @@
     <string id="nctTI5mv" text="I have every reason to believe you'll win the tournament." />
     <string id="nCuOkYAM" text="...caroused with {?CHILD.GENDER}her{?}his{\?} fellow squires" />
     <string id="NDtlE6PY" text="Убийца зверей" />
-    <string id="nG750jQB" text="Зерно решит наши проблемы. Если бы у нас было хотя бы 100 мешков, мы могли бы использовать их для засева наших полей. Но я сомневаюсь, что в это время года в {NEARBY_TOWN} можно так много купить. {GRAIN_AMOUNT} мешка зерна стоит на рынках около 1000 динаров, а у нас их нет!" />
+    <string id="nG750jQB" text="Зерно решит наши проблемы. Если бы у нас было хотя бы {GRAIN_AMOUNT} мешков, мы могли бы использовать их для засева наших полей. Но я сомневаюсь, что в это время года в {NEARBY_TOWN} можно так много купить. {GRAIN_AMOUNT} мешка зерна стоит на рынках около 1000 динаров, а у нас их нет!" />
     <string id="NGDa8KpY" text="Профессиональная семья" />
     <string id="nGsQeTll" text="Возможно нам стоит обсудить будущее вместе..." />
     <string id="nGWmyZCs" text="Арбалетная охрана" />
@@ -2746,7 +2746,7 @@
     <string id="p0hcyZdp" text="Zenon" />
     <string id="P0Zm6daz" text="Кавалерийские войска в строю, которым вы руководите, получают бонус к увеличению урона в ближнем бою на 5%." />
     <string id="p12tSfCC" text="Стрелковая стремительность" />
-    <string id="p1buAbOQ" text="Урожай был плохой, и крысы съели многих из наших магазинов. Мы можем съесть и подтянуть несколько ремней, но если у нас нет семенного зерна на завод, мы будем голодать в следующем году." />
+    <string id="p1buAbOQ" text="Урожай был плохой, и крысы съели многое из наших запасов. Мы можем есть меньше и подтянуть ремни, но если у нас нет зерна на посадку, мы будем голодать в следующем году." />
     <string id="p1eNH4BK" text="When stationary for a while (1 hour) increase sight range by 25%." />
     <string id="P1o799N5" text="...competed in a tournament and won" />
     <string id="p1Y3EU5O" text="Тренировка Ополчения" />

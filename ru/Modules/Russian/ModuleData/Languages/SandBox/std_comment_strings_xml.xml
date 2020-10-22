@@ -164,7 +164,7 @@
     <string id="nRnbBnFq" text="Что? Ну... я благодарен.[if:happy][rb:very_positive]" />
     <string id="NW1n9k45" text="Кузен." />
     <string id="o2aKr8JD" text="Я знаю вас, приятно наконец-то познакомиться лично." />
-    <string id="o4talwN5" text="Yeah... Thanks again for your help with that problem." />
+    <string id="o4talwN5" text="Да... Ещё раз спасибо за помощь с этой проблемой." />
     <string id="O8wTipT2" text="Спасибо. Когда вы наконец будете побеждены, я буду просить, чтобы ваша смерть была быстрой и милосердной. Если только вы не хотите присоединиться к нам... Пока что, прощайте.[if:happy][rb:very_positive]" />
     <string id="ODa9Eikp" text="That raid on {VILLAGE_NAME}... Well, the poor suffer for their lords' mistakes, so they say." />
     <string id="OgzAlCkk" text="Я еще восстанавливаюсь от тумаков что вы мне надавали." />

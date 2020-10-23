@@ -15,7 +15,7 @@
     <string id="7vcCSGEN" text="Я слышал, вы победили {DEFEATED_PARTY_LEADER}, даже не смотря на то, что он превосходил вас числом. Весьма впечатляюще." />
     <string id="8qkWFWTa" text="Когда мы последний раз встречались, {PLAYER.LINK}, вы одолели меня. Если мы когда нибудь сойдёмся в бою снова, возможно все решится иначе." />
     <string id="952DmRsV" text="Я слышал, что вы поклялись в верности нашему господину, {FIRST_NAME}. Что ж, не могу сказать что я вам доверяю, но возможно вы заслуживаете некий кредит доверия." />
-    <string id="9aS4em4L" text="I hear you recently caught some bandits around here. I say 'good work,' and I think other merchants around here will agree. Cleanse the roads of those vermin, so that trade can flow." />
+    <string id="9aS4em4L" text="Я слышал, вы не давно поймали здесь бандитов. Я говорю 'хорошая работа' и думаю, что другие купци тут согласятся. Очистите дороги от этих паразитов, чтобы могла идти торговля." />
     <string id="9DDmAvXD" text="Очевидно, моя семья считает, что мы могли бы стать хорошей парой." />
     <string id="9HvWdW77" text="Я слышал что вы пытались забрать себе всю славу за нашу победу над {DEFEATED_PARTY_LEADER}. Я тоже был на поле боя, лучше бы вам помнить об этом." />
     <string id="9VBbSF33" text="Я помню наш последний бой. Вы должны были уже уяснить, чем грозит ещё одна наша встреча." />
@@ -76,7 +76,7 @@
     <string id="lMFCQOJL" text="Вы восстали и нарушили свою клятву верности мне,, {PLAYER.LINK}. Не ждите пощады!" />
     <string id="lsgsuRva" text="Я слышал, что вы отказались от своей верности {FIRST_NAME}. Что ж, нам гораздо лучше без вас." />
     <string id="LXMcIObA" text="Мои крестьяне сказали мне, что человек, похожий на вас, отобрал у них товары и деньги. Наверное, я должен быть благодарен вам за то, что вы не сожгли здания дотла." />
-    <string id="LZlTOKIH" text="I hear you recently caught some bandits around here. Well, as a merchant, I appreciate that it will make the roads safer. Hopefully other desperate men will be deterred from going into a life of crime and villainy." />
+    <string id="LZlTOKIH" text="Я слышал, вы недавно здесь поймали бандитов. Ну как торговец, я ценю, что это сделает дороги безопаснее. Надеюсь, других отчаевшихся людей это удержит от вступления в преступную и злодейску жизнь." />
     <string id="lzQYayR0" text="Я помню наш последний бой. Это была хорошая битва. Ты пришел за ещё одной?" />
     <string id="M43kLIaa" text="Когда-то мы вместе сражались против {DEFEATED_PARTY_LEADER}, но даже это не может компенсировать все, что вы сделали." />
     <string id="mabEK2R8" text="Я слышал, вы недавно поймали несколько бандитов. От лица торговцев, мы ценим все усилия, которые делают дороги более безопасными." />

@@ -732,7 +732,7 @@
     <string id="kJDDW6Dk" text="{?NPC.GENDER}Была рада{?}Был рад{\?} знакомству. Лёгкой дороги вам.[rb:positive]" />
     <string id="KL8tVq8P" text="Я сделаю это.[ib:normal][rb:positive]" />
     <string id="km6aX5ev" text="Да... Продолжим." />
-    <string id="KMThnMbt" text="Я пойду в таверну и отыграю его(ее) так же, как ты проиграл." />
+    <string id="KMThnMbt" text="Я пойду в таверну и отыграю её так же, как ты проиграл." />
     <string id="kNQMkh3j" text="(Currently unassigned)" />
     <string id="ko2Nb5im" text="Я знаю, что времена трудные, но {NOTABLE.LINK} говорит, что {?OWNER.GENDER}леди{?}лорд{\?} {OWNER.LINK} делает все что в {?OWNER.GENDER}её{?}его{\?} силах." />
     <string id="KPfs7L7B" text="Ох, примите мои извинения, {?PLAYER.GENDER}миледи{?}сир{\?}. Могу ли я вам чем-нибудь помочь?" />

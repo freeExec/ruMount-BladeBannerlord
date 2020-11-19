@@ -133,6 +133,7 @@
     <string id="C7zwur4k" text="Escape" />
     <string id="cAkgnVr5" text="Num Lock" />
     <string id="CbwmI1JY" text="Включает глубину резкости." />
+    <string id="CfjTvLNl" text="Finalize Chat" />
     <string id="combatkick" text="Пинок" />
     <string id="controlgamekey" text="Control" />
     <string id="cp80Mq2W" text=";" />
@@ -311,6 +312,7 @@
     <string id="NN7DHB1A" text="Группа 1 слушай" />
     <string id="o0QPZODk" text="Перемещать отряд влево" />
     <string id="o8WjGqS4" text="Z" />
+    <string id="O9ed2AWr" text="Finalize message if chat box is active. Otherwise, activate chat box." />
     <string id="ocNVbyPJ" text="Оконный без рамки" />
     <string id="odsVjkbO" text="Открыть инвентарь." />
     <string id="oEdTBobd" text="Анизотропная 2х" />

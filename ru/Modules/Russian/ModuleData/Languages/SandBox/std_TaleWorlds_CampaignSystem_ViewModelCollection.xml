@@ -37,7 +37,6 @@
     <string id="5fa36d2798479803b4518a64beb4d732" text="Длина Оружия: " />
     <string id="5Unqsx3N" text="Подтвердить" />
     <string id="63Ic1Ahe" text="Стоимость: {UPGRADE_COST} (У вас недостаточно средств)" />
-    <string id="68IlDbA2" text="Вам нужно обладать умением {PERK_NAME}, что бы улучшить отряд бандитов до военного отряда." />
     <string id="6adabc1f82216992571c3e22abc164d7" text="Боезапас: " />
     <string id="6GSXsdeX" text="Скорость" />
     <string id="74dc1908cb0b990e80fb977b5a0ef10d" text="Скорость: " />
@@ -72,6 +71,7 @@
     <string id="BifGz0h4" text="Патрулирует" />
     <string id="bnrRzeiF" text="Не активно" />
     <string id="bPFjmYCI" text="{SHOP_NAME} x {SHOP_DIFFERENCE_COUNT}" />
+    <string id="BqLsZhhr" text="Select an item to refine" />
     <string id="BrY8itaf" text="Отправленные на выполнение поручений члены отряда будут отображаться здесь. Они не занимают место в вашем собственном отряде." />
     <string id="BV5exuPf" text="Удалить из закладок" />
     <string id="C2qpwFq5" text="Владелец земель {SETTLEMENTS}" />
@@ -94,6 +94,7 @@
     <string id="DAmdTxuC" text="Управление армией" />
     <string id="dD3kRDHi" text="This hero is a fugitive and running from their captors. They will will be available after some time" />
     <string id="DNq9bdvV" text="{THRUST_DAMAGE_FACTOR}" />
+    <string id="DNXD37JL" text="Settlement's Days Until Food Runs Out" />
     <string id="dO95yR9b" text="Колющий урон: " />
     <string id="DPTPuyip" text="And {NUMBER} more..." />
     <string id="Dqydb21E" text=" {PARTY_SIZE}" />
@@ -104,6 +105,8 @@
     <string id="ebbyLN2i" text="Поселения" />
     <string id="eHVq6yDa" text="Цена предмета" />
     <string id="eIws123Z" text="Защита ног" />
+    <string id="EkFDvG7z" text="Settlement Food Stocks" />
+    <string id="eoVW9z54" text="Average Morale" />
     <string id="EQHq3bHM" text="Направляется в {TARGET_PARTY}" />
     <string id="ErnykQEH" text="Выходы" />
     <string id="eTw2aNV5" text="+" />
@@ -139,6 +142,7 @@
     <string id="hylxyNtU" text="Вам не хватает." />
     <string id="Hz8XO8wk" text="Персонаж не может вести за собой отряд,будучи губернатором." />
     <string id="I2sZ7K28" text="Are you sure want to reset tutorials?" />
+    <string id="i9OsCshW" text="This kingdom decision is not relevant anymore." />
     <string id="IagYTD5O" text="Счастье" />
     <string id="IbqRyrKo" text="Это определит начальную активную политику Королевства. Выберите максимум 4 политики." />
     <string id="IcgVKFxZ" text="Правитель" />
@@ -175,6 +179,7 @@
     <string id="KTTyBbsp" text="Максимальное здоровье " />
     <string id="kWVbHPtT" text="Общий" />
     <string id="kx7q8ybD" text="Защита рук" />
+    <string id="laznt9ZK" text="Settlement Food Change" />
     <string id="LBNzsqyb" text="Феоды" />
     <string id="lc9s4rLZ" text="Созвать Армию" />
     <string id="LEiZWuZm" text="{SKILL_NAME}: {SKILL_VALUE}" />
@@ -209,6 +214,7 @@
     <string id="OkWLI5C8" text="Размер:" />
     <string id="Oo3fkeab" text="Сложность:" />
     <string id="OpzzCPiP" text="Сопровождает {TARGET_PARTY}" />
+    <string id="OSsSBHKe" text="Settlement's Food" />
     <string id="OTaPfaJl" text="{PARTY_2S_MEMBERS}   " />
     <string id="oUhd9YhP" text="{PARTY_LEADERS_FACTION}" />
     <string id="oUz16Nav" text="Reset Tutorial" />
@@ -231,6 +237,8 @@
     <string id="pWObBhj5" text="Нельзя назначить лидера отряда в качестве губернатора поселения" />
     <string id="PXT6aA4J" text="Параметры Кампании" />
     <string id="q1J4a8rr" text="Скорость Обучение" />
+    <string id="Q8dhryRX" text="Parties' Food" />
+    <string id="QBB0KQ2Z" text="Parties' Average Morale" />
     <string id="QBPrRdQJ" text="Врач" />
     <string id="qBq70qDq" text="Текущий Проект" />
     <string id="QeToaiLt" text="Рубящий урон " />
@@ -255,7 +263,9 @@
     <string id="rsHPaaYZ" text="Что бы усилить сплоченность,она должна быть ниже, чем {MINAMOUNT}." />
     <string id="rThSy9ed" text="Требуется: {UPGRADE_ITEM} (У вас недостаточно!)" />
     <string id="RuaA8t97" text="Имя Королевства" />
+    <string id="rUeWBOOi" text="Select an item to smelt" />
     <string id="RVPidk5a" text="Влияние" />
+    <string id="rwKBR4NE" text="Average Days Until Food Runs Out" />
     <string id="s31DnnAf" text="Урон" />
     <string id="s5b77f0H" text="Даёт +{BOOSTAMOUNT} сплоченности вашей армии" />
     <string id="s6koeapc" text="{MAP_FACTION}" />

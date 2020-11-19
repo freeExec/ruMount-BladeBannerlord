@@ -7,6 +7,7 @@
     <string id="02FaqhzI" text="Я слышал о вас. Про вас говорят хорошие вещи. Давайте общаться время от времени. Дружба с кем-то вроде меня может быть весьма выгодной для кого-то вроде вас." />
     <string id="0etg1Q9l" text="Многие из моих людей, отдали свои жизни на службе у {FIRST_NAME}. И я не услышу что их преданность и жертвы были не напрасны" />
     <string id="1bxTLLAk" text="You raided my village at {SETTLEMENT_NAME}. Do you think me weak? Do you think you can steal from my villagers and not pay a price in blood?" />
+    <string id="1JgKFOw8" text="You have my allegiance." />
     <string id="1jUa8olQ" text="Я не ожидаю, что вы сдадитесь, но я дам вам шанс сделать это. [ib:warrior][if:idle_angry]" />
     <string id="1MPxKtue" text="Это важно? У меня сейчас есть неотложные дела." />
     <string id="22a9fyiQ" text="Отец" />
@@ -75,6 +76,7 @@
     <string id="CUfZXlOd" text="Я буду помнить твое имя." />
     <string id="d2QGFdRJ" text="У вас нет шансов. Сдавайтесь или я выпотрошу вас как рыбу.[ib:warrior][if:idle_angry]" />
     <string id="dC8acIya" text="Я {CONVERSATION_CHARACTER.LINK}, военачальник Стургитов." />
+    <string id="dD6hNymL" text="My lads and I... Whatever you've heard, we respect authority. We hope we can be of service." />
     <string id="dD93WVhO" text="Единственное,что вы обо мне должны знать, что я очень хороший друг, и вы абсолютно не захотите узнать меня, как врага." />
     <string id="DIjtFVu8" text="Уже на пределе? Что ж, значит тогда мне просто придется пустить вам кровь." />
     <string id="dKmAktt7" text="Вы не сможете победить меня, и я преподам вам болезненный урок, если вы попробуете атаковать. Отступите![ib:warrior][if:idle_angry]" />
@@ -174,6 +176,7 @@
     <string id="oZnVxkp0" text="What happened at {VILLAGE_NAME}... I do not like attacking innocent villagers like that. I wish such things were not necessary." />
     <string id="PBgLvyOa" text="Я {CONVERSATION_CHARACTER.LINK}, из {CLAN_NAME}. Наши предки были среди тех, кто пришел с далекого севера, чтобы взять динары правителей и дать клятву защищать эти земли, и мы верны этой клятву." />
     <string id="pDN7Wafo" text="Кузаитский Хан" />
+    <string id="PFgGnk7z" text="It goes without saying that you have my allegiance." />
     <string id="Pg8vccKF" text="Никогда о вас не слышал. Сомневаюсь, вы доставите мне много хлопот" />
     <string id="pgIaAnBt" text="So that problem I asked you to take care of... Didn't go so well, I hear." />
     <string id="PhTv43ve" text="Ах, да. Наконец-то мы встретились. Вы говорите, как хорошая женщина. Давайте общаться, время от времени." />
@@ -192,6 +195,7 @@
     <string id="qSF2z6Wa" text="Я не слышал о вас, но вы выглядите как {?PLAYER.GENDER}женщина которая{?}мужчина который{\?} ,однажды, будет что-то из {?PLAYER.GENDER}себя{?}себя{\?} представлять." />
     <string id="qvwfev22" text="Я загнал вас в угол. Сдавайтесь или умрите.[ib:warrior][if:idle_angry]" />
     <string id="R6sTYEaz" text="Вы не сможете отвертеться разговорами." />
+    <string id="ra7YMN8S" text="You have my allegiance. If I hear a word spoken against you, I'll cut that person's tongue out." />
     <string id="RajD4RC1" text="Я никогда не слышал о вас." />
     <string id="rCNUXFTN" text="Я сдаюсь! Поздравляю с победой.[rf:angry][rb:trivial]" />
     <string id="reg1AUxr" text="Мое дитя" />

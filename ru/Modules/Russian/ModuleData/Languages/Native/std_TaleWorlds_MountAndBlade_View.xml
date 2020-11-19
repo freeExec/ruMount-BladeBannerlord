@@ -6,6 +6,7 @@
   <strings>
     <string id="2ZarUUbw" text="{KILLERPLAYERNAME} убил {KILLEDPLAYERNAME}!" />
     <string id="9CnRKZOb" text="{KILLEDPLAYERNAME} погиб!" />
+    <string id="bUh0x6rA" text="Editor" />
     <string id="NqarFr4P" text="Настройки" />
     <string id="ODQmOrIw" text="Авторы" />
     <string id="xsC8Ierj" text="({BATTLE_COMBATANT})" />

@@ -9,7 +9,7 @@
     <string id="05w8Tl7n" text="Степной" />
     <string id="0cpbEvsG" text="Старое лицо" />
     <string id="0DBQGaka" text="Нанесено рыцарским ударом!" />
-    <string id="0HTNYQz2" text="Toggle" />
+    <string id="0HTNYQz2" text="Сменить" />
     <string id="0nRbr6Z9" text="Северная Америка" />
     <string id="0P89VyAQ" text="Асимметрия лица" />
     <string id="0WHQKap4" text="Лимит времени выбора вооружения (секунд)" />
@@ -63,11 +63,11 @@
     <string id="7MkoLtWC" text="Топор" />
     <string id="7qySRF2T" text="Пинг" />
     <string id="880uOrte" text="Местность" />
-    <string id="8bnYsGu6" text="Гавань Овска (Winter)" />
+    <string id="8bnYsGu6" text="Гавань Овска (Зима)" />
     <string id="8EsaVlSX" text="Остров Дериад" />
     <string id="8o1lZcjR" text="Высота бровей" />
     <string id="8sG5bTtK" text="Период возрождения" />
-    <string id="8vXHhxPr" text="Toggle AI" />
+    <string id="8vXHhxPr" text="Переключить AI" />
     <string id="9aboazgu" text="Линия" />
     <string id="9TGLirQf" text="Круг" />
     <string id="9Ts5zKIj" text="Глаза" />
@@ -137,7 +137,7 @@
     <string id="EmVbbIUc" text="Вернуться" />
     <string id="EUHaR98k" text="Отчет" />
     <string id="EX4bKRbV" text="Смертей" />
-    <string id="EZRnvPJS" text="Face This Direction" />
+    <string id="EZRnvPJS" text="Лицом туда" />
     <string id="f4ZeGAJi" text="Относительная скорость: {SPEED} m/s" />
     <string id="f5y9qyDb" text="Рука" />
     <string id="F6dUDgg3" text="Поражение" />
@@ -158,7 +158,7 @@
     <string id="GcosVDAt" text="Помочь посчитать" />
     <string id="GnKCsV44" text="Длина подбородка " />
     <string id="GoEo27il" text="Период возрождения атакующих" />
-    <string id="GQOS4d9g" text="Toggle Facing" />
+    <string id="GQOS4d9g" text="Смена Facing" />
     <string id="Gr994CTR" text="Запретить оружие дальнего боя" />
     <string id="GY4NaieE" text="Чисто" />
     <string id="h5OsTOFM" text="Губы вогнутый/выпуклый" />
@@ -236,7 +236,7 @@
     <string id="obB483C5" text="Часть тела: {BODY_PART}" />
     <string id="oBbiVeKE" text="Здоровье" />
     <string id="oGAzC0Ob" text="Игровой режим" />
-    <string id="Ok03egKG" text="Move To Position" />
+    <string id="Ok03egKG" text="Выйти на позицию" />
     <string id="Oud3W58w" text="Удерживайте ({KEY}) {ACTION}" />
     <string id="OVcoYxj1" text="Название сервера " />
     <string id="OviaJ1tA" text="Другой" />
@@ -322,9 +322,9 @@
     <string id="u8j8nN5U" text="Смотреть на врага" />
     <string id="UbMCCh8L" text="Горбинка носа" />
     <string id="uCyQNvq1" text="Клин" />
-    <string id="uGM8DWrm" text="Mount" />
+    <string id="uGM8DWrm" text="Верхом" />
     <string id="UHIZLFBn" text="Убит {TROOP_NAME}" />
-    <string id="UJaQuEpD" text="Toggle Mount" />
+    <string id="UJaQuEpD" text="Смена верхом" />
     <string id="Umb8XsZH" text="Колющий" />
     <string id="umhwsoqb" text="Выберите желаемый отряд в начале раунда и для дальнейшего возрождения, используйте золото." />
     <string id="uPLRkTZr" text="Получайте подкрепление используя золото в зависимости от успеха при осаде." />
@@ -335,7 +335,7 @@
     <string id="UvIsHvrt" text="Река" />
     <string id="UwXP9UAR" text="Хорошо" />
     <string id="UY79LYHf" text="Бедный" />
-    <string id="V1kxYbRp" text="Toggle Fire" />
+    <string id="V1kxYbRp" text="Смена огонь" />
     <string id="V4iU0wRv" text="Золото" />
     <string id="V6BAHTnv" text="Культура команды 2" />
     <string id="VbeHEAsa" text="Отступление" />

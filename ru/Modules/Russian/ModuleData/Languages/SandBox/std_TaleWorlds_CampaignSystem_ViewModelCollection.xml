@@ -50,7 +50,7 @@
     <string id="94aHU6nD" text="Суточная прибыль: " />
     <string id="9huJZblF" text="Последний запуск" />
     <string id="9i0wnjJK" text="L-II : {BONUS}" />
-    <string id="9slDj5wr" text="Изменить производство" />
+    <string id="9slDj5wr" text="Сменить производство" />
     <string id="a241aacb1780599430c79fd9f667b67f" text="Спутников: " />
     <string id="a4GDfSel" text="Reset Tutorials" />
     <string id="a8nRxITn" text="В плену у {PARTY_NAME}" />
@@ -263,7 +263,7 @@
     <string id="rsHPaaYZ" text="Что бы усилить сплоченность,она должна быть ниже, чем {MINAMOUNT}." />
     <string id="rThSy9ed" text="Требуется: {UPGRADE_ITEM} (У вас недостаточно!)" />
     <string id="RuaA8t97" text="Имя Королевства" />
-    <string id="rUeWBOOi" text="Select an item to smelt" />
+    <string id="rUeWBOOi" text="Выберите предмет для переплавки" />
     <string id="RVPidk5a" text="Влияние" />
     <string id="rwKBR4NE" text="Average Days Until Food Runs Out" />
     <string id="s31DnnAf" text="Урон" />

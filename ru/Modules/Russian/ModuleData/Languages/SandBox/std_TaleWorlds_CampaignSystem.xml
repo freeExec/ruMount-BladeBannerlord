@@ -546,7 +546,7 @@
     <string id="7TbVhbT9" text="Effects village's hearth." />
     <string id="7UkzXWTQ" text="Osarios" />
     <string id="7v2dMsW5" text="Ваша жена {MOTHER} только что узнала, что она беременна. " />
-    <string id="7ve3bQxg" text="Оружие С Рынка" />
+    <string id="7ve3bQxg" text="Оружие с рынка" />
     <string id="7VUNi3zy" text="{QUEST_GIVER.LINK} will make payment as {MEAT_AMOUNT} meat when the task is done." />
     <string id="7Vw6iYNI" text="{?CHARACTER.GENDER}Она умерла{?}Он умер{\?} при рождении в {YEAR}г в возрасте {CHARACTER.AGE}. {?CHARACTER.GENDER}У нее{?}У него{\?} после этого пошла репутация {REPUTATION}" />
     <string id="7WlQ0Twr" text="{WEAPON} в {SETTLEMENT} побило пару солдат {BESIEGER}!" />
@@ -2770,7 +2770,7 @@
     <string id="p1buAbOQ" text="Урожай был плохой, и крысы съели многое из наших запасов. Мы можем есть меньше и подтянуть ремни, но если у нас нет зерна на посадку, мы будем голодать в следующем году." />
     <string id="p1eNH4BK" text="When stationary for a while (1 hour) increase sight range by 25%." />
     <string id="P1o799N5" text="...competed in a tournament and won" />
-    <string id="p1Y3EU5O" text="Тренировка Ополчения" />
+    <string id="p1Y3EU5O" text="Тренировка ополчения" />
     <string id="p2rTaKo8" text="У вас нет прав на престол. Даже в маловероятном случае, что другие последуют за вами, другой узурпатор будет просто подняться, чтобы победить вас." />
     <string id="P2VNGJDa" text="Вымогательство дезертирами в {SETTLEMENT}" />
     <string id="p2WPU1CU" text="Очень хорошо. Теперь я знаю, кого я убью." />
@@ -3131,7 +3131,7 @@
     <string id="rmydcPP3" text="Размер Отряда:" />
     <string id="rMydJO93" text="Железный Череп {FIRST_NAME}" />
     <string id="rNDRyFP4" text="Вы зачистили логово и спасли партнеров {QUEST_GIVER.LINK}. {?QUEST_GIVER.GENDER}Она{?}Он{\?} отправляет вам следующее письмо. " />
-    <string id="RNT5hMVb" text="Товары С Рынка" />
+    <string id="RNT5hMVb" text="Товары с рынка" />
     <string id="rO704KOG" text="Поблизости нет никого авторитетного, кто мог бы поговорить с вами." />
     <string id="RoAS19HS" text="Marayirr" />
     <string id="rOBRabQz" text="Хорошо. Жду от вас хороших новостей." />

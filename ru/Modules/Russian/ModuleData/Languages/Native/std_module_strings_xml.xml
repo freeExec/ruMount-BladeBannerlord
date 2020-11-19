@@ -383,7 +383,7 @@
     <string id="BMQ5SHOH" text="Снаряжение Лошади I" />
     <string id="bN8gqxtB" text="Закончить бой" />
     <string id="BNAHlS9P" text="Вы уверены? Вы не сможете отменить это действие." />
-    <string id="bNnQt4jN" text="Кузнец" />
+    <string id="bNnQt4jN" text="Кузница" />
     <string id="bNoCJyi9" text="Почетный" />
     <string id="bO5kjF3G" text="Честь:" />
     <string id="BObPGFCw" text="Взять и экипировать" />
@@ -450,7 +450,7 @@
     <string id="CoHPb7DL" text="Наш план состоит в том, чтобы раздавить их нашей конницой и снести остальных последующей атакой." />
     <string id="cpaUPZ4c" text="Проезд по этой земле небесплатный, и плата выплачивается нам, так что если вы не возражаете, мы просто заберем задолжность из вашего кошелька..." />
     <string id="cqI6P8fr" text="Стрелять со стены замка" />
-    <string id="cQWCp9F1" text="Ежедневная Жалование Отряда " />
+    <string id="cQWCp9F1" text="Ежедневное жалование отряда" />
     <string id="cr9fxFyS" text="Бонус Против Щита" />
     <string id="cRMgjRMP" text="Хорошо, хорошо. Я предпочитаю честную сделку, нежели рыться в ваших кишках, чтобы увидеть, что вы могли там спрятать.[ib:hip][rb:trivial]" />
     <string id="CRR7cYhJ" text="В настоящее время строится ТЭМП" />
@@ -504,7 +504,7 @@
     <string id="DTt1aeSj" text="{?IS_POSITIVE}+{?}-{\?}{ITEM_AMOUNT} {ITEM_TYPE}" />
     <string id="DTWem4V1" text="этот склад" />
     <string id="DU9SofaW" text="Режущий" />
-    <string id="DuFg1avZ" text="Следующий уровень на: {NEXT_SKILL_POINTS}" />
+    <string id="DuFg1avZ" text="Следующий уровень: {NEXT_SKILL_POINTS}" />
     <string id="Duoo5R2P" text="Мастер Арены " />
     <string id="DvecWeGT" text="Зима {DAY}, {YEAR}" />
     <string id="DvGueBrU" text="Белье" />
@@ -545,7 +545,7 @@
     <string id="ENzvOHsA" text="{ASKED_LORD.LINK} в странствиях и {?ASKED_LORD.GENDER}она{?}он{\?} находится близко к {SETTLEMENT_NAME} в текущий момент." />
     <string id="eob9goyW" text=" и " />
     <string id="eodelMzf" text="Леди" />
-    <string id="EOhmOITp" text="Отслеживать Объекты, Связанные С Заданием " />
+    <string id="EOhmOITp" text="Следить за объектами, относящимися к заданиям" />
     <string id="EPGDe5fG" text="Только волки могут захватывать, перепрыгивая через овец на доступные плитки позади них. Захват также придерживается линии на доске." />
     <string id="eqAc8AOs" text="{LEFT}:" />
     <string id="ErnykQEH" text="Производит" />
@@ -803,7 +803,7 @@
     <string id="JbTCDDb0" text="Болт" />
     <string id="jCbYaCcg" text="Наконец-то мы встретились, {PLAYER.LINK}. Я {NPC.LINK}. Спасибо за помощь, и, я надеюсь, мы встретимся вновь." />
     <string id="Jd0Kq9lD" text="Щит" />
-    <string id="jd4ULLGr" text="Активные Задания" />
+    <string id="jd4ULLGr" text="Активные задания" />
     <string id="JdNTRtpJ" text="Поддерживайте высокий боевой дух вашего отряда. Собирайте и возглавляйте армии." />
     <string id="jEaglTuQ" text="Вы объединили Империю!" />
     <string id="Jelvod71" text="Захват" />
@@ -835,14 +835,14 @@
     <string id="jsf7b6bD" text="Казнь Заключенного" />
     <string id="JSokBXER" text="Тяжелая Пехота" />
     <string id="jSXE0Gbj" text="Жителей здесь мало и все они напуганы и быстро разбежались перед вашим приходом. Деревня находится в вашей власти." />
-    <string id="jtN3ayKE" text="Основное Производство" />
+    <string id="jtN3ayKE" text="Основное производство" />
     <string id="JTyC3Xra" text="Скупой" />
     <string id="Ju9ZiFT2" text="Оружие Ближнего Боя V" />
     <string id="jx8ohENz" text="Оружейник" />
     <string id="jy9orOJz" text="Играть" />
     <string id="jZYUdkXF" text="Голодают" />
     <string id="K0mlQblA" text="Ежедневное потребление пищи в армии" />
-    <string id="K0XVOalL" text="Текущая Ставка" />
+    <string id="K0XVOalL" text="Текущая ставка" />
     <string id="K2G3XJwZ" text="Вспыльчивый" />
     <string id="k3LajvfJ" text="Редактор Знамени " />
     <string id="k4TcX1wT" text="{HOUR_PREPARATION_TIME} {?PLURAL_HOURS}часов{?}часа{\?}" />
@@ -932,10 +932,10 @@
     <string id="Lp0byzGQ" text="Я" />
     <string id="lpbDPuuW" text="{?RULER.GENDER}императрица{?}император{\?} {RULER.NAME}" />
     <string id="lqm9PfF1" text="{?RULER.GENDER}Knyaginya{?}Knyaz{\?} {RULER.NAME}" />
-    <string id="lqMQ6GXj" text="Избыток Продовольствия" />
+    <string id="lqMQ6GXj" text="Избыток продовольствия" />
     <string id="lQQPKo02" text="Переместите к заслону нас против врагов идущих за спиной" />
     <string id="lRAaUTjs" text="Выбросить" />
-    <string id="lrAnY7Fb" text="Старые Задания" />
+    <string id="lrAnY7Fb" text="Старые задания" />
     <string id="LSsFOEQy" text="Менее чем за сутки" />
     <string id="LsZEdD2z" text="Стены" />
     <string id="lULBZ714" text="Масло" />
@@ -1091,7 +1091,7 @@
     <string id="oTGDxKW7" text="Объявить войну {FACTION}" />
     <string id="OtP3heba" text="Вы победили вашего оппонента и выиграли!" />
     <string id="ou9asw1a" text="Режущий {SWING_DAMAGE_TYPE} Урон: " />
-    <string id="OviaJ1tA" text="Другие" />
+    <string id="OviaJ1tA" text="Остальное" />
     <string id="oVSS2Lp5" text="Снаряжение Лошади III" />
     <string id="OWCoBElc" text="Вас взяли в плен {PARTY_NAME}." />
     <string id="owg6SqHF" text="Эмир" />
@@ -1112,7 +1112,7 @@
     <string id="Pc0zpaGa" text="Хей, что тут у нас? В этих краях есть налог за проезд, путник, оплати его, либо монетой, либо кровью." />
     <string id="pcy8IXDf" text="{?RULER.GENDER}Королева{?}Король{\?} {RULER.NAME}" />
     <string id="PCZ23wvW" text="Инженерия" />
-    <string id="PDdh1sBj" text="Название" />
+    <string id="PDdh1sBj" text="Имя" />
     <string id="PdXqoa2W" text="Направляется в {SETTLEMENT_NAME}" />
     <string id="PE4nuMc7" text="Эта страница объясняет основные игровые принципы в Bannerlord" />
     <string id="PEKxMxal" text="STUB: теперь вы можете выйти." />
@@ -1198,7 +1198,7 @@
     <string id="qIvDX0JR" text="Центр" />
     <string id="QLM6DWHB" text="Активный Задание(я)" />
     <string id="qlw2LWgu" text="Двигаться в диапазоне" />
-    <string id="qM8daraD" text="Всего очков умений: {CURRENT_SKILL_POINTS}" />
+    <string id="qM8daraD" text="Всего очков навыка: {CURRENT_SKILL_POINTS}" />
     <string id="QmaVRAkx" text="Вы не можете заплатить всю зарплату, ваш отряд теряет {reg1} морали." />
     <string id="qMhCpq9k" text="Размер отряда превышен" />
     <string id="Qn3DCH3d" text="Землевладелец" />
@@ -1236,7 +1236,7 @@
     <string id="REdb7vbQ" text="{?RULER.GENDER}Султанша{?}Султан{\?} {RULER.NAME}" />
     <string id="redwEIlW" text="Снабженец" />
     <string id="rFvEZJu7" text="{ITEM_NAME} был добавлен в инвентарь {PLAYER.LINK}" />
-    <string id="rGNrtXSx" text="You have arrived at {SETTLEMENT} to defend the castle from attackers." />
+    <string id="rGNrtXSx" text="Вы прибыли в {SETTLEMENT}, чтобы защитить замок от нападающих." />
     <string id="RGqPxabq" text="Репутация" />
     <string id="rHSjMjWX" text="Принять Решение" />
     <string id="RiXlbtfl" text="к" />
@@ -1288,7 +1288,7 @@
     <string id="sKnYLPkn" text="король" />
     <string id="slKe6Gyc" text="Всего еды в отряде" />
     <string id="smeltverb" text="Плавить" />
-    <string id="smithingverb" text="Плавка" />
+    <string id="smithingverb" text="Ковка" />
     <string id="SMws1ws6" text="Большой щит" />
     <string id="SNfvAnuV" text="+{BONUS_AMOUNT} бонус к скорости ремонта стены" />
     <string id="snxLc1Wq" text="Две пешки от каждого игрока ставятся на доске, как показано на рисунке. Игроки по очереди размещают остальные на любой доступной плитке, кроме центральной." />

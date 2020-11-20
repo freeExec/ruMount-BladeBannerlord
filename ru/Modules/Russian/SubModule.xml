@@ -2,11 +2,11 @@
 <Module>
 	<Name value = "Russian by DOG729"/>
 	<Id value = "Russian"/>
-	<Version value = "e1.4.5"/>
+	<Version value = "e1.5.5.4"/>
 	<DefaultModule value="true"/>
 	<SingleplayerModule value="true"/>
 	<MultiplayerModule value="true"/>
-	<Author value="DOG729" />
+	<Author value="DOG729, freeExec" />
   	<Official value="false" />
 	<DependedModules>
 		<DependedModule Id="Native"/>

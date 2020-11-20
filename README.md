@@ -8,6 +8,7 @@
 # about
 * Author: by DOG729;
 * VkGroup: https://vk.com/by.dog729
+* Издание переработанное и дополненное freeExec
 # Вы можете нас поддержать
 * Yandex: https://money.yandex.ru/to/410013720145676
 * Qiwi: https://my.qiwi.com/form/Vytalyi-MKim9kKgXu

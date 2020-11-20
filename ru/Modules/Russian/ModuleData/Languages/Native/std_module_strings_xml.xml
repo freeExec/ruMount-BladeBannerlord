@@ -454,7 +454,7 @@
     <string id="cr9fxFyS" text="Бонус Против Щита" />
     <string id="cRMgjRMP" text="Хорошо, хорошо. Я предпочитаю честную сделку, нежели рыться в ваших кишках, чтобы увидеть, что вы могли там спрятать.[ib:hip][rb:trivial]" />
     <string id="CRR7cYhJ" text="В настоящее время строится ТЭМП" />
-    <string id="cRwZI5o2" text="Последние События" />
+    <string id="cRwZI5o2" text="Последние события" />
     <string id="CsjtWt1g" text="Трактирщик" />
     <string id="CthDdsb6" text="Победитель" />
     <string id="cThSwxbP" text="Нельзя казнить заключенных не героев" />
@@ -623,7 +623,7 @@
     <string id="fwbD1Jqo" text="Купить" />
     <string id="FwlZRESM" text="+{BONUS_AMOUNT} бонус к ополчению" />
     <string id="fWwYUOVs" text="Мы принимаем ваше предложение." />
-    <string id="FxoVjLvl" text="Щиты и Дальнобойные Оружия" />
+    <string id="FxoVjLvl" text="Щиты и дальнобойные орудия" />
     <string id="FxPzcyLN" text="{SUPPORTERNAME} is supporting {CANDIDATENAME}" />
     <string id="FZBqNCvd" text="никто" />
     <string id="G0AWk1rX" text="Лестница" />
@@ -639,7 +639,7 @@
     <string id="gAX49b7b" text="Вы построили барьер против своего противника, но у вас осталось равное количество осталось пешек. Ничья!" />
     <string id="GAzaM1RC" text="Могут быть убиты на мясо и шкуры" />
     <string id="GbbGlcMZ" text="Пешки могут перемещаться на любую клетку в вертикальном или горизонтальном направлении, но они никогда не смогут перепрыгнуть через другие пешки.{newline}Пешки не могут двигаться по или через центральную клетку. Как только король покидает эту клетку, он также больше не может ее пересечь." />
-    <string id="GbWWelfl" text="Лошади и Упряжи" />
+    <string id="GbWWelfl" text="Лошади и упряжи" />
     <string id="GD4aQgl7" text="Овца" />
     <string id="gdraqMso" text="Вы около {SETTLEMENT_NAME}. Вам нельзя зайти внутрь." />
     <string id="GDugjWao" text="Вот деньги {MONEY}{GOLD_ICON}. Просто возьми их и отпусти нас." />
@@ -647,11 +647,11 @@
     <string id="gfQmYDRq" text="Как только Вы попытались заставить знать дать вам новобранцев, некоторые жители собирались, чтобы противостоять вам." />
     <string id="gFtu0j4T" text="Стрелы" />
     <string id="ggMmjk31" text="Недействительный" />
-    <string id="ggpRTQQl" text="Лидер Партии " />
+    <string id="ggpRTQQl" text="Лидер партии" />
     <string id="ggrqoGnE" text="Потрачено {AMOUNT}" />
     <string id="ggzCiYkk" text="{VALUE}{GOLD_ICON} нуобходимо для улучшения." />
     <string id="gHnfFi1s" text="В отставке" />
-    <string id="GhVXQrYF" text="Модернизация Войск" />
+    <string id="GhVXQrYF" text="Модернизация войск" />
     <string id="giftverb" text="Подарок" />
     <string id="gj2HD7M3" text="У вас еще есть шанс выиграть. Вы точно хотите сдаться?" />
     <string id="gKbGZObs" text="общий запас" />
@@ -907,7 +907,7 @@
     <string id="L7teSXvq" text="Вам необходимо быть главнокомандующим армии, чтобы справиться с этим" />
     <string id="L7wn49Uz" text="Дипломатия" />
     <string id="lAgfGeXJ" text="Фракция Королевства" />
-    <string id="LApMSsnb" text="Очки Фокуса" />
+    <string id="LApMSsnb" text="Очки концентрации" />
     <string id="laV5aNhK" text="Уникальные" />
     <string id="lAWwcO6b" text="Королевство Вландия" />
     <string id="lb13ceVM" text="{?RULER.GENDER}High Queen{?}High King{\?} {RULER.NAME}" />

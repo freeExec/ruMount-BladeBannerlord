@@ -393,7 +393,7 @@
     <string id="5PDACkqX" text="+1 troop joins you when fighting in hideouts." />
     <string id="5qkTxOJ5" text="She expects you to reach round {ROUND_COUNT}." />
     <string id="5rDdJpJo" text="Silver Tongue" />
-    <string id="5RjvnQ3d" text="Держу пари даже в отряде {ALTERNATIVE_COUNT} хорошо обученные люди в сопровождении одного из ваших лейтенантов могут легко справиться с ними. Через несколько дней эти люди снова смогут присоединиться к вашей компании" />
+    <string id="5RjvnQ3d" text="Держу пари даже отряде из {ALTERNATIVE_COUNT} хорошо обученных людей в сопровождении одного из ваших лейтенантов могут легко справиться с ними. Через несколько дней эти люди снова смогут присоединиться к вашей компании." />
     <string id="5RMWpLJA" text="Стража в замке поддерживает дисциплину и закон, так что восстаниям сложнее сформироваться, кастелян в замке фактически является капитаном ополчения, управляющий замком контролирует ингибиторы замка." />
     <string id="5sMBbn7y" text="Расчет" />
     <string id="5tl2gPTm" text="Leading {?CHILD.GENDER}her{?}his{\?} friends in adventures around your estate" />
@@ -439,7 +439,7 @@
     <string id="6Gz8vswI" text="You hear talk of incriminating letters and loose tongues paid to stay silent. You're not sure exactly what happened, but your child seems more worldly than {?CHILD.GENDER}she{?}he{\?} did when {?CHILD.GENDER}she{?}he{\?} left." />
     <string id="6hotg6dZ" text="Mathematical Prodigy" />
     <string id="6IKKFH3A" text="Вы получили записку и большой кошелек от {QUEST_GIVER.LINK}. В записке было сказано: ”Стадо в безопасности. Благодарю вас и пожалуйста примите это {REWARD}{GOLD_ICON} в знак нашей благодарности.”." />
-    <string id="6iLxrDBa" text="Вы приняли запрос {QUEST_GIVER.LINK} по поиску {TOTAL_COUNT} различных групп {BRIGAND_TYPE} в окрестностях {QUEST_SETTLEMENT} и решили выследить их лично. {?QUEST_GIVER.GENDER}Она{?}Он{\?} наградит вас {AMOUNT}{GOLD_ICON} золота, как только вы с ними справитесь. " />
+    <string id="6iLxrDBa" text="Вы приняли запрос {QUEST_GIVER.LINK} по поиску {TOTAL_COUNT} различных групп бандитов в окрестностях {QUEST_SETTLEMENT} и решили выследить их лично. {?QUEST_GIVER.GENDER}Она{?}Он{\?} наградит вас {AMOUNT}{GOLD_ICON} золота, как только вы с ними справитесь." />
     <string id="6kaia5qP" text="Отдайте мне все ваши товары!" />
     <string id="6kJ31qut" text="Да, некоторые люди испытывают нехватку денег в наши дни. Они собрали стадо в {ANIMAL_COUNT_TO_DELIVER} {HERD_TYPE_TO_DELIVER} для продажи в {TARGET_SETTLEMENT}. Но эти люди бедны. Совсем не бойцы, и они не могут позволить себе охрану. Если они пойдут туда сами. то будут легкой добычей для бандитов." />
     <string id="6kjacaiB" text="Я надеюсь, что смогу принести на эту землю мир и справедливость и смогу облегчить страдания людей." />
@@ -1726,7 +1726,7 @@
     <string id="GpKJ7N4d" text="Reduce food consumption while in an army by 10%." />
     <string id="gpPlaaey" text="Войска(с луками) 3+ уровня в вашем формировании получают +5% урона." />
     <string id="gq8sgb2J" text="{TARGET_HERO.LINK} был взят в плен {OTHER_HERO.LINK}." />
-    <string id="GQ96SX4M" text="{QUEST_GIVER.LINK} {?QUEST_GIVER.GENDER}сказала{?}сказал{\?} вам что {?QUEST_GIVER.GENDER}она{?}он{\?} нуждается в {MOUNT_TYPE} в {?QUEST_GIVER.GENDER}её{?}его{\?} группе. {?QUEST_GIVER.GENDER}Она попросила{?}Он попросил{\?} привести {MOUNT_COUNT} {MOUNT_NAME}{.s} к {?QUEST_GIVER.GENDER}ней{?}нему{\?}. {?QUEST_GIVER.GENDER}Она{?}он{\?} заплатит вам {REWARD_GOLD}{GOLD_ICON} динар когда задача будет выполнена." />
+    <string id="GQ96SX4M" text="{QUEST_GIVER.LINK} {?QUEST_GIVER.GENDER}сказала{?}сказал{\?} вам что {?QUEST_GIVER.GENDER}она{?}он{\?} нуждается в {MOUNT_TYPE} для своего отряда. {?QUEST_GIVER.GENDER}Она попросила{?}Он попросил{\?} привести {MOUNT_COUNT} {MOUNT_NAME}{.s} к {?QUEST_GIVER.GENDER}ней{?}нему{\?}. {?QUEST_GIVER.GENDER}Она{?}Он{\?} заплатит вам {REWARD_GOLD}{GOLD_ICON} динар когда задача будет выполнена." />
     <string id="gqdsXVNi" text="{WEAPON} {SETTLEMENT} попал по дальнобойным орудиям {BESIEGER}!" />
     <string id="gQK2IfoH" text="Каждое очко навыка после 200 дает вам 0,2% увеличение скорости атаки и 0,5% увеличение урона с помощью одноручного оружия." />
     <string id="GqKnGMFV" text="You made sure that your child was taught the epics of the leaders of your people, and that {?CHILD.GENDER}she{?}he{\?} memorized the rhetoric they used to inspire their followers to great deeds." />
@@ -2532,7 +2532,7 @@
     <string id="MXLcZPaO" text="Деревня нуждается в тягловых животных" />
     <string id="mxpRb5pd" text="Увеличьте броню ездового животного на 20%." />
     <string id="MYeCnHTb" text="Вы просили {COMPANION.LINK} доставить как минимум {WANTED_PRISONER_AMOUNT} заключенные {ISSUE_GIVER.LINK} в {SETTLEMENT}. Они должны присоединиться к вашему отряду через {RETURN_DAYS} дней." />
-    <string id="myM5wdFI" text="20% hearth increase the in villages you govern" />
+    <string id="myM5wdFI" text="На 20% увеличивается очаг в деревнях которыми вы владеете." />
     <string id="myuzMhOn" text="Глиняные Карьеры" />
     <string id="mzabdwoh" text="Вам не хватает зерна." />
     <string id="mZmCmC6q" text="Я так не думаю." />
@@ -3392,7 +3392,7 @@
     <string id="TlA4utZV" text="Штраф к точности при стрельбе из арбалета с лошади уменьшен вдвое." />
     <string id="tLakpr0a" text="Пастухи {QUEST_GIVER}" />
     <string id="tLapkQqg" text="Мы не забудем этого!" />
-    <string id="TLcnbALt" text="Вот ваша  {MOUNT_TYPE} {?PLAYER.GENDER}моя госпожа{?}мой лорд{\?}." />
+    <string id="TLcnbALt" text="Вот ваши {MOUNT_TYPE} {?PLAYER.GENDER}миледи{?}милорд{\?}." />
     <string id="TLGvIdJB" text="Самолечение " />
     <string id="tlLDHAIu" text="Хорошо. Было приятно иметь с вами дело.[rb:very_positive][ib:demure]" />
     <string id="TLuaPAIO" text="Налог от ({A0})" />
@@ -3758,7 +3758,7 @@
     <string id="wD1YDmmg" text="{PARTY_NAME} вступил в {ARMY_NAME}." />
     <string id="WdIGdHuL" text="Осадить город" />
     <string id="wdpyBN0P" text="{ROMANCE_PERSUADE_ATTEMPT_4}" />
-    <string id="wEdkXEa0" text="База" />
+    <string id="wEdkXEa0" text="Базовый" />
     <string id="WEkjz9tg" text="А! Да... Мы рассматриваем предложения... У вас есть кто-то на примете?" />
     <string id="WeQla2wI" text="15% decrease in buy price penalty from villages." />
     <string id="wErSpkjy" text="Я все еще работаю над этим." />

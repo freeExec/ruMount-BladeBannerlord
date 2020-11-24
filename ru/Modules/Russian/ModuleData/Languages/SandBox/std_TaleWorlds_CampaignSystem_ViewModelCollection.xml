@@ -25,16 +25,16 @@
     <string id="3CpNUnVl" text="Отменить" />
     <string id="3F0y3ugx" text="Успех!" />
     <string id="3PzgpFGq" text="Нейтральный" />
-    <string id="3sxtCWPe" text="Покинуть Королевство" />
+    <string id="3sxtCWPe" text="Покинуть королевство" />
     <string id="43HYUImy" text="{SETTLEMENT} находится в осаде" />
     <string id="4cU98rkg" text="Переплавка" />
     <string id="4Dd2xgPm" text="Вес" />
-    <string id="4U9EnZt5" text="Критический Успех!" />
-    <string id="4uMWNDoi" text="Скорость Укола: " />
+    <string id="4U9EnZt5" text="Критический успех!" />
+    <string id="4uMWNDoi" text="Скорость укола: " />
     <string id="5bzk75Ql" text="Сражается с {TARGET_PARTY}." />
-    <string id="5dCR9ixM" text="Вы можете продать эту мастерскую за {AMOUNT} динаров." />
+    <string id="5dCR9ixM" text="Вы можете продать эту мастерскую за {AMOUNT} динар." />
     <string id="5dec16fa0be433ade3c4cb0074ef366d" text="Точность: " />
-    <string id="5fa36d2798479803b4518a64beb4d732" text="Длина Оружия: " />
+    <string id="5fa36d2798479803b4518a64beb4d732" text="Длина оружия: " />
     <string id="5Unqsx3N" text="Подтвердить" />
     <string id="63Ic1Ahe" text="Стоимость: {UPGRADE_COST} (У вас недостаточно средств)" />
     <string id="6adabc1f82216992571c3e22abc164d7" text="Боезапас: " />
@@ -71,14 +71,14 @@
     <string id="BifGz0h4" text="Патрулирует" />
     <string id="bnrRzeiF" text="Не активно" />
     <string id="bPFjmYCI" text="{SHOP_NAME} x {SHOP_DIFFERENCE_COUNT}" />
-    <string id="BqLsZhhr" text="Select an item to refine" />
+    <string id="BqLsZhhr" text="Выбирете предмет обработки" />
     <string id="BrY8itaf" text="Отправленные на выполнение поручений члены отряда будут отображаться здесь. Они не занимают место в вашем собственном отряде." />
     <string id="BV5exuPf" text="Удалить из закладок" />
     <string id="C2qpwFq5" text="Владелец земель {SETTLEMENTS}" />
     <string id="c5eYzHaM" text="{DAYS} {?DAY_IS_PLURAL}Дней{?}День{\?} ({PERCENTAGE}%)" />
     <string id="c6BtCIrX" text="{DAYS} дней назад" />
     <string id="c6e4c8588ca9e42f6e1b47b11f0f367b" text="Длина: " />
-    <string id="c7638a0869219ae845de0f660fd57a9d" text="Урон: " />
+    <string id="c7638a0869219ae845de0f660fd57a9d" text="Урон 'В Атаку': " />
     <string id="c9c5dfed2ca6bcb7a73d905004c97b23" text="Урон: " />
     <string id="ca8b1e8956057b831dfc665f54bae4b0" text="Удобство: " />
     <string id="CaRbMaZY" text="Жалование в день: " />
@@ -88,7 +88,7 @@
     <string id="cJmI2poS" text="Информация" />
     <string id="cnmRwV4s" text="Лимит снарядов" />
     <string id="CnsIzaWo" text="Поле Битвы" />
-    <string id="cUUI8u2G" text="Выносливость в Кузне " />
+    <string id="cUUI8u2G" text="Выносливость в кузне " />
     <string id="d2K6gMsZ" text="Отправить воинов. Нужен как минимум 1 спутник." />
     <string id="d8jrv3nA" text="Добавить в закладки" />
     <string id="DAmdTxuC" text="Управление армией" />
@@ -101,7 +101,7 @@
     <string id="dWYm9GsC" text="Требует" />
     <string id="DXczLzml" text="Состояние" />
     <string id="DzviXC3W" text="Уровень: " />
-    <string id="e8390c3480028e34c370c7b60ebc41e2" text="Класс Лошади: " />
+    <string id="e8390c3480028e34c370c7b60ebc41e2" text="Класс лошади: " />
     <string id="ebbyLN2i" text="Поселения" />
     <string id="eHVq6yDa" text="Цена предмета" />
     <string id="eIws123Z" text="Защита ног" />
@@ -115,7 +115,7 @@
     <string id="EZxQHBF4" text="Вы можете изменить тип продукции в этой мастерской за {AMOUNT} динаров." />
     <string id="f2971dc587a9777223ad2d7be236fb05" text="Торговые слухи" />
     <string id="f4nc7FfE" text="Улучшить до {UPGRADE_NAME}" />
-    <string id="F6GhrriD" text="Создать Королевство" />
+    <string id="F6GhrriD" text="Создать королевство" />
     <string id="f6vTzVar" text="Нет мобильного отряда." />
     <string id="Fa2nKXxI" text="Губернатор города " />
     <string id="FBYFcrWo" text="Оставить в поселении" />
@@ -280,7 +280,7 @@
     <string id="sVsaWZjg" text="Передать все войска" />
     <string id="sVZaIPoQ" text="Скорость Взмаха" />
     <string id="SzuCFlNq" text="Ничего не выбрано." />
-    <string id="t1lSXN9O" text="Знамя вашего клана понесли в бой" />
+    <string id="t1lSXN9O" text="Знамя вашего клана носимого в бою" />
     <string id="t3tq0eoW" text="Отряды" />
     <string id="T9bndUYP" text="Грабит деревню {SETTLEMENT}" />
     <string id="ta4R2RR7" text="Основное свойство: " />

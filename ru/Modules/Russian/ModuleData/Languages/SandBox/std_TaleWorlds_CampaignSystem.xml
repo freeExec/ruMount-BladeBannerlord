@@ -1656,7 +1656,7 @@
     <string id="G79IzJsZ" text="Разведка вражеских гарнизонов" />
     <string id="g7hZw8LI" text="Вы привезли {REQUESTED_AMOUNT} штук {RAW_MATERIALS}? У меня кошель с {REWARD}{GOLD_ICON} как и договаривались." />
     <string id="g7qhnsnJ" text="Клан {CLAN_NAME} покинул {KINGDOM_NAME}." />
-    <string id="g8a8a8KJ" text="Увеличить силу (СИЛ) на 1." />
+    <string id="g8a8a8KJ" text="Увеличить контроль (КНТ) на 1." />
     <string id="g8jzdaM1" text="{FIRST_NAME} Кожевник" />
     <string id="g8qb3Ame" text="Спасибо." />
     <string id="g9qLrEb4" text="Отличный инвестор" />
@@ -2453,7 +2453,7 @@
     <string id="mfAP8Wlq" text="Покинуть поселение." />
     <string id="mfBggr9y" text="Да, {STR_SALUTATION}." />
     <string id="MFDb5duu" text="Великолепно! Я подозреваю, что по роду своей профессии вы можете иногда обзавестись несколькими пленниками. Возможно, я могу забрать их у вас. Я вам, конечно же, заплачу." />
-    <string id="mfYzCeGR" text="{CHARACTER.NAME} был {TITLE} в {CHARACTER.FACTION_SHORT}. {FURTHER_DETAILS}." />
+    <string id="mfYzCeGR" text="{CHARACTER.NAME} {?CHARACTER.GENDER}была{?}был{\?} {TITLE} в {CHARACTER.FACTION_SHORT}. {FURTHER_DETAILS}." />
     <string id="mG9jW8Fp" text="Попросить войти в замок." />
     <string id="MGr3FJEs" text="the Master-at-arms" />
     <string id="mGsnCVKh" text="Увеличивает урон по стенам во время осад." />
@@ -3664,7 +3664,7 @@
     <string id="vo3MqtMn" text="Вы находитесь на пороге смерти, охваченный лихорадкой, дрейфовал в и из сознания. В целителей не верю, что можно восстановить. Вы должны решить финал дела и определять наследника для своего клана, пока еще есть силы говорить." />
     <string id="Vo64LSGP" text="{HIDEOUT_TEXT}" />
     <string id="vOHc5dxC" text="Теперь у вас есть достаточно семян зерна, чтобы завершить задание. Вернитесь в {QUEST_SETTLEMENT} чтобы передать их." />
-    <string id="Vp8Pwou8" text="Horde Leader" />
+    <string id="Vp8Pwou8" text="Лидер орды" />
     <string id="vPbx5vJQ" text="50% Better chance of success with disguise missions" />
     <string id="vPc4hyYy" text="Войска с луком в вашем строю получают на 5% меньше урона от дальних атак." />
     <string id="VpGjkNrF" text="Я хочу все." />

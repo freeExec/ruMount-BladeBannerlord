@@ -197,7 +197,7 @@
     <string id="7mRN2br0" text="Командование формацией было передано герою {HERO_NAME}." />
     <string id="7MWaMaez" text="Вот что у нас есть: {ITEM_LIST}. Забирайте все это, но оставьте нас в живых." />
     <string id="7oJ9gIeT" text="У торговца не хватает денег." />
-    <string id="7pAZatbz" text="{?RULER.GENDER}Empress{?}Emperor{\?} {RULER.NAME}" />
+    <string id="7pAZatbz" text="{?RULER.GENDER}Императрица{?}Император{\?} {RULER.NAME}" />
     <string id="7sUhWG0E" text="Колющий Урон: " />
     <string id="7sZMMYbe" text="Минорные Фракции" />
     <string id="7t1daAel" text="Плохое решение, друг.[if:idle_furious][ib:aggressive][rb:very_negative]" />

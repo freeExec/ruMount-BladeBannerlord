@@ -40,7 +40,7 @@
     <string id="1klXxZFS" text="Я владею {TOWNS}." />
     <string id="1Llb4gGw" text="Завершение" />
     <string id="1MStGeRa" text="Побежденных противников: {BEATEN_OPPONENT_COUNT}" />
-    <string id="1o1TyPib" text="Дополнительные Ограничения Спутника" />
+    <string id="1o1TyPib" text="Увеличение предела спутников" />
     <string id="1PwQxaOu" text="Похоже, идет подготовка к турниру. Награда {ITEM}." />
     <string id="1pxLpZ4r" text="Вычисления:" />
     <string id="1wHTYnxh" text="Вы поддерживали заговор против Империи!" />
@@ -57,8 +57,8 @@
     <string id="2Af5HRJU" text="Знаменитости деревни" />
     <string id="2awf1tei" text="Налог" />
     <string id="2aXJEgag" text="Сила: {ARMY_STRENGTH}" />
-    <string id="2CfPklXG" text="Название Армии" />
-    <string id="2CgZVkDj" text="архонту" />
+    <string id="2CfPklXG" text="Название армии" />
+    <string id="2CgZVkDj" text="архонт" />
     <string id="2FWBCCw0" text="Сестра" />
     <string id="2gpFPuZZ" text="Жестокий" />
     <string id="2I2uKJlw" text="Милосердие" />
@@ -68,18 +68,18 @@
     <string id="2RIyK1bp" text="Оружие" />
     <string id="2Sal30D2" text="+{BONUS_AMOUNT} бонус к влиянию владельца" />
     <string id="2u3dRUlE" text="{SETTLEMENT_NAME} (tax)" />
-    <string id="2W2l9Kym" text="Бонус Перка Безоговорочный Лидер" />
+    <string id="2W2l9Kym" text="Бонус перка Безоговорочный лидер" />
     <string id="2wclahIJ" text="Метательное" />
     <string id="2WpbTaVJ" text="+{BONUS_AMOUNT} бонус к налогам" />
     <string id="2X1rBrdC" text="{?IS_UNDER_A_DAY}{?}{DAY_VALUE} {?IS_MORE_THAN_ONE_DAY}дней {?}день {\?}{\?}{?IS_UNDER_ONE_HOUR}{?}{HOUR_VALUE} {?IS_MORE_THAN_AN_HOUR}часов{?}час{\?}{\?}" />
-    <string id="300TAI7u" text="Продать Все" />
-    <string id="33ghdWWi" text="Другие Политики" />
+    <string id="300TAI7u" text="Продать всё" />
+    <string id="33ghdWWi" text="Другие политики" />
     <string id="33hHRM8r" text="Ход противника" />
     <string id="3CpNUnVl" text="Отменить" />
     <string id="3CsACce8" text="Выход" />
     <string id="3cTKRX1M" text="Никогда не видел" />
     <string id="3Ds5ARHL" text="Купец" />
-    <string id="3E0ZXV7j" text="Результат Решения" />
+    <string id="3E0ZXV7j" text="Решение принято" />
     <string id="3F35l4QF" text="Количество здоровых защищающихся солдат" />
     <string id="3fAm8FaM" text="Так и быть... как мой отец говорит, путь не достоин имени, если никого не убил." />
     <string id="3FUaZk5A" text="Моя госпожа," />
@@ -211,7 +211,7 @@
     <string id="83Yt9rbK" text="Пробил брешь" />
     <string id="87qtKk4K" text="Смотреть Раунд" />
     <string id="893hzVCQ" text="&lt;b&gt;Огненная баллиста&lt;/b&gt;{NEWLINE}Стреляет сосудами, наполненными греческим огнем, сочетает в себе смертельную мощь баллист с огнем." />
-    <string id="8apwrVjc" text="Дополнительный Участник Клана " />
+    <string id="8apwrVjc" text="Дополнительный отряд" />
     <string id="8B7V0qdT" text="Вы проиграли бой!" />
     <string id="8bSHlWBL" text="В настоящее время в городе не проводится турнир." />
     <string id="8cY08v3s" text="Деревня со средним достатком. Люди и животные выглядят сытыми. Жители занимаются сезонными делами." />
@@ -304,12 +304,12 @@
     <string id="alEG3BOa" text="Ваши отношения с {CLAN_LEADER} увеличились на {MAGNITUDE} до {VALUE}." />
     <string id="alMmQrhK" text="Боевой дух отряда" />
     <string id="AmbKQ7LT" text="Перемещение" />
-    <string id="AMhvD9om" text="Командующий Армией " />
+    <string id="AMhvD9om" text="Командующий армией " />
     <string id="anHqaNK0" text="королева" />
     <string id="anrHk7ea" text="{PARTY} собирается атаковать врагов. Вы присоединитесь к {?ARMY_COMMANDER_GENDER}ней{?}нему{\?} со своими войсками." />
     <string id="aNSAaHk9" text="Bagh Chal это игра овец (white) против волков (black).{newline}Волки начинают с четырьмя пешками, расположенными по углам доски. Каждый ход, одна овца помещается на доске, а волк ходит либо захватывает овцу до тех пор, пока все овцы не будет размещены на доске.{newline}После того, как все овцы будут выставлены на доску, овцы также смогут ходить." />
     <string id="AONnsaao" text="Вы лидер Империи!" />
-    <string id="aOvxxLZ8" text="Разнообразие Пищи" />
+    <string id="aOvxxLZ8" text="Разнообразие пищи" />
     <string id="Aph8CcKO" text="Свободные отчки атрибутов: Эти очки можно использовать для увеличения атрибутов. Вы получите один бесплатный атрибут за каждый {ATTRIBUTE_EVERY_LEVEL} уровень, который вы получите. " />
     <string id="ar2Y8Xs9" text="{LEFT}: " />
     <string id="aR4e8B2A" text="II" />
@@ -320,12 +320,12 @@
     <string id="asHzEWnG" text="Мы окропим пески твоей кровью, в таком случае." />
     <string id="aTLrmbVL" text="Ур. IV" />
     <string id="aUNYlvbN" text="Вы прибыли в {SETTLEMENT}, чтобы разграбить его. Некоторые жители собрались, чтобы помещать вам." />
-    <string id="AUOio5Tu" text="Ежедневно По Умолчанию" />
+    <string id="AUOio5Tu" text="Ежедневно по-умолчанию" />
     <string id="AVoWvlue" text="{RANK} ({NUMBER})" />
     <string id="AVQUGwTg" text="Город имеет средний достаток." />
     <string id="awQrcrt2" text="Керамика" />
     <string id="AWW0T6xR" text="Пешка может перемещаться ортогонально, на одну клетку за ход.{newline}Пешка не может вернуться на то место, с которого она пришла в предыдущем ходу.{newline}Если игрок не может походить, то у него имеется возможность убрать одну из пешек врага и все еще сделать ход." />
-    <string id="Ayrvf5yp" text="Убито" />
+    <string id="Ayrvf5yp" text="Убили" />
     <string id="aZrbxdat" text="Удерживайте [{KEY_NAME}] чтобы сделать все" />
     <string id="b0Mv6mZy" text="Верните положение замка!" />
     <string id="b0yJ9JsW" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} штурмуют стены." />
@@ -335,17 +335,17 @@
     <string id="b1vtY2yU" text="Ожидается" />
     <string id="b4lDDcli" text="Семья" />
     <string id="B5J6DbpG" text="Осталось дней с едой: {REMAINING_DAYS}{newline}{newline}Всего еды: {TOTAL_FOOD_AMOUNT}{newline}Ежедневное потребление: {DAILY_FOOD_CONSUMPTION}" />
-    <string id="b5t34yLX" text="Конская Упряжь" />
-    <string id="b6biU4f1" text="Создать Новый Отряд" />
+    <string id="b5t34yLX" text="Конская упряжь" />
+    <string id="b6biU4f1" text="Создать новый отряд" />
     <string id="B6g1ukB7" text="Ур. I" />
     <string id="b778BvfW" text="Эта вещь дороже на {PERCENTAGE}% по сравнению со средней ценой" />
     <string id="b7aDfCR9" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} защищаются." />
     <string id="b7bWCXbk" text="Теперь иди, маленькая овечка. И будь осторожна с другими стаями волков." />
     <string id="b7U3Gvuu" text="Некоторые злые жители говорят, что они недавно удовлетворили ваши требования. Похоже, Вам придется сражаться вашими руками, если вы продолжите." />
     <string id="BAaS5Dkc" text="Применить" />
-    <string id="baHmYsx3" text="Двуручное Оружие" />
+    <string id="baHmYsx3" text="Двуручное оружие" />
     <string id="baIUUw1c" text="Потратить свое собственное влияние, чтобы увеличить влияние выбранного клана" />
-    <string id="BANC61K5" text="Предыдущий Персонаж" />
+    <string id="BANC61K5" text="Предыдущий персонаж" />
     <string id="bB4602W2" text="Колющий {THRUST_DAMAGE_TYPE} Урон: " />
     <string id="bBXGPgwe" text="моя дочь {REFERING_HERO.LINK}" />
     <string id="BbYFboh2" text="{RULER.NAME} {?RULER.GENDER}Begum{?}Beg{\?}" />
@@ -414,7 +414,7 @@
     <string id="bzrOHiS8" text="Люди открыто ругать власть, как будто они чувствуют, что им нечего терять." />
     <string id="C0llOApK" text="Армия {HERO}" />
     <string id="c1Ag8YJS" text="Баттанийцы до сих пор помнят старые времена, когда леса простирались через всю северную Кальрадии, а Империи и ее городам еще предстояло нарушить их святость. Свирепые воины остаются верны своим традициям. Они раскрашивают свои лица, когда идут в бой, и даже их дворяне предпочитают сражаться пешими, используя большие топоры и двуручные мечи со смертоносной эффективностью." />
-    <string id="c1g7MC9D" text="Бонус Уровня Клана " />
+    <string id="c1g7MC9D" text="Бонусы от ранга клана" />
     <string id="c2pdihCB" text="Караваны" />
     <string id="c3cdHImi" text="Захватывайте пешки противника, окружая их с обеих сторон. Если пешка перемещается между двумя пешками, принадлежащих разным сторонам, она не захватывается.{newline}На первых двух изображениях белые пешки захватываются черными. На последних двух – нет захваченных." />
     <string id="C3VxZFSy" text="Ур. III" />
@@ -430,11 +430,11 @@
     <string id="cAgI2lPn" text="Управляющий поселением {SETTLEMENT_NAME}" />
     <string id="caPP57v9" text="Поместить в резерв" />
     <string id="captainasleader" text="Капитан" />
-    <string id="CaW72yB3" text="Общая Стоимость" />
+    <string id="CaW72yB3" text="Общая стоимость" />
     <string id="cBY2MxY0" text="принцесса" />
     <string id="cBZ6OlKW" text="Метательное копье" />
     <string id="CcAG3D8Q" text="NotAssigned" />
-    <string id="ccUEYdrU" text="Присоединиться К Армии" />
+    <string id="ccUEYdrU" text="Присоединиться к армии" />
     <string id="cDjq52h2" text="Сержант" />
     <string id="ChmM5tjf" text="Ничья!" />
     <string id="cJmI2poS" text="Информация" />
@@ -977,7 +977,7 @@
     <string id="mJE0o9Zi" text="Гарнизоны" />
     <string id="MLmHSSg0" text="Тяжелая Кавалерия" />
     <string id="MmNF7sW7" text="Moving pawns is only possible by capturing pawns from your opponent.{newline}Capturing is done by orthoginally jumping over 1 or more opposing pawns." />
-    <string id="Mms9bbhY" text="{DAY_NUM} {?DAY_NUM==1}day{?}days{\?}" />
+    <string id="Mms9bbhY" text="{DAY_NUM} {?DAY_NUM==1}день{?}дней{\?}" />
     <string id="mNr84Xm1" text="Не могу открыть окно клана прямо сейчас!" />
     <string id="mountnoun" text="Верхом" />
     <string id="mPaQzgS0" text="Рад тебя видеть здесь, {PLAYER.LINK}." />
@@ -1250,8 +1250,8 @@
     <string id="ROB0VcsI" text="Ваш чемпион выиграл дуэль. Ваша армия воодушевлена этой победой. У вашего отряда повышается моральный дух." />
     <string id="RpfgdR45" text="мой господин" />
     <string id="rPvzZKFk" text="Недостаточный Гарнизон" />
-    <string id="rQ5On2GL" text="Размер дополнительного отряда для каждого отряда в клане" />
-    <string id="RqnEjYVe" text="+{RECRUIT_AMOUNT} Рекурт{?ISPLURAL}ов{?} {\?}" />
+    <string id="rQ5On2GL" text="Дополнительный размер отряда каждому отряду в клане" />
+    <string id="RqnEjYVe" text="+{RECRUIT_AMOUNT} Рекрут{?ISPLURAL}ов{?} {\?}" />
     <string id="rqWJL27J" text="Всего золота" />
     <string id="RTmDiT0l" text="Текущий бонус размера отряда" />
     <string id="rTuptXLg" text="Знамя атакующего" />

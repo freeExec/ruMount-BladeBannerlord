@@ -165,7 +165,7 @@
     <string id="2ATI9qVM" text="Скорость древковым оружием: +{a0} %" />
     <string id="2aW6NC3Q" text="Давай обсудим окончательные условия нашего брака." />
     <string id="2awf1tei" text="Налог" />
-    <string id="2b1xZGaQ" text="Помириться с {KINGDOM_NAME}. Наше королевство заплатит {T} дань ежедневно." />
+    <string id="2b1xZGaQ" text="Заключить мир с {KINGDOM_NAME}. Наше королевство платит ежедневно дань {T}." />
     <string id="2bcNCnI3" text="{QUEST_GIVER.LINK} from {QUEST_GIVER.FACTION}, asked you to sell {?QUEST_GIVER.GENDER}her{?}his{\?} goods form him for at least {UNIT_PRICE}{GOLD_ICON} per load and return to him. He told you that any profit would make above this price is yours to keep." />
     <string id="2bKgL66e" text="{COURTSHIP_DECLINE_REACTION}" />
     <string id="2BVDp7Tg" text="{KINGDOM} остановит {POLICY_DESCRIPTION} ({POLICY}). {POLICY_SUPPORT}" />
@@ -459,7 +459,7 @@
     <string id="6NWExCu6" text="Армия создана" />
     <string id="6OKW8Ba3" text="{ISSUE_GIVER.LINK}, {?ISSUE_GIVER.GENDER}землевладелица{?}землевладелец{\?} из {ISSUE_GIVER_SETTLEMENT} {?ISSUE_GIVER.GENDER}рассказала{?}рассказал{\?} вам о {?ISSUE_GIVER.GENDER}ее{?}его{\?} проблеме с жителями поселения {TARGET_SETTLEMENT}. Очевидно, {?ISSUE_GIVER.GENDER}она приобрела{?}он приобрел{\?} право на использование пастбищ неподалеку от деревни. Но некоторые местные жители не уходят с этих земель и создают проблемы для {?ISSUE_GIVER.GENDER}ее{?}его{\?} пастухов. Вы согласились отправить {COMPANION.LINK} вместе с {NEEDED_MEN_COUNT} людьми, чтобы они позаботились о ситуации. Вы ожидаете что они вернутся через {RETURN_DAYS} дней." />
     <string id="6P1ruzsC" text="Может быть..." />
-    <string id="6pCABUme" text="{?CHARACTER.GENDER}Она погибла{?}Он погиб{\?} в сражении в {YEAR} в возрасте {CHARACTER.AGE} лет. {?CHARACTER.GENDER}Она была{?}Он был{\?} известен как {REPUTATION}" />
+    <string id="6pCABUme" text="{?CHARACTER.GENDER}Она погибла{?}Он погиб{\?} в сражении в {YEAR} в возрасте {CHARACTER.AGE} лет. {?CHARACTER.GENDER}Она была известена{?}Он был известен{\?} как {REPUTATION}" />
     <string id="6pNrNj93" text="Стена" />
     <string id="6PSgX2BP" text="Дневной путешественник" />
     <string id="6q1bvQnZ" text="Early Adulthood" />
@@ -1098,7 +1098,7 @@
     <string id="by1b61pn" text="Deep Pockets" />
     <string id="ByOYHslS" text="Хватит разговоров. Делайте свой выбор. [If: idle_angry] [rb: trivial] [ib: агрессивный]" />
     <string id="ByrkbDoK" text="бонус 10% дополнительной скорости для всадников на карте кампании." />
-    <string id="BYTrUJyj" text="На войне" />
+    <string id="BYTrUJyj" text="В состоянии войны" />
     <string id="byX4TWWM" text="Уменьшает содержание войск дальнего боя в управляемом гарнизоне на 20%." />
     <string id="bZ7Fak5a" text="{FIRST_NAME} Ока Змеиного" />
     <string id="bZbFrIUr" text="кружка кваса" />
@@ -1401,7 +1401,7 @@
     <string id="e9bk6QBv" text="Пехотные войска в строю, которым вы руководите, увеличивают свой урон против верховых животных на 10%." />
     <string id="E9s2bjqw" text="Я могу только надеяться, что когда-нибудь вы поменяете свое мнение." />
     <string id="EA9YX6BQ" text="Ваша фракция теперь в состоянии войны с {ISSUEGIVER.LINK}ой фракцией. Ваши соглашения с {ISSUEGIVER.LINK} более недействительны." />
-    <string id="eabR87ne" text="Введите поселение" />
+    <string id="eabR87ne" text="Войти в поселение" />
     <string id="EaifHOao" text="Конечно {?PLAYER.GENDER}леди{?}сир{\?}, я сделаю." />
     <string id="eALf5d30" text="Спасибо!" />
     <string id="EaPQ2mm7" text="Один момент - если возможно, постарайся не убить их всех, попробуешь? Зеленые солдаты мне не очень нужны, но трупы мне нужны еще меньше." />
@@ -2235,7 +2235,7 @@
     <string id="KstesAiE" text="Garrison wages are 5% less." />
     <string id="ksZXyDJG" text="Не делай глупостей, вроде попытки убежать. Я буду наблюдать за тобой." />
     <string id="KT9rp0v9" text="Увеличьте вашу защиту от урона атак лошадей на 50%." />
-    <string id="Ktpia7Pa" text="{RULER.NAME} of the {KINGDOM} grants {SETTLEMENT} to {LEADER.NAME} despite {?RULER.GENDER}her{?}his{\?} council's opposition." />
+    <string id="Ktpia7Pa" text="{RULER.NAME} из {KINGDOM} передаёт {SETTLEMENT} во владения {LEADER.NAME} несмотря на возражение {?RULER.GENDER}её{?}его{\?} Совета." />
     <string id="kua7PGWf" text="Hugu" />
     <string id="kUbovNbE" text="{?PLAYER.GENDER}Миледи{?}Мой лорд{\?}. Оговоренное время тренировок окончено. Благодарю вас за всё. Это было очень познавательно." />
     <string id="KUl3VS2l" text="Montewar" />
@@ -2693,7 +2693,7 @@
     <string id="Oe1NdVLe" text="{RULER.NAME} chose not to expel the {CLAN} clan from the {KINGDOM} with {?RULER.GENDER}her{?}his{\?} council evenly split on the matter." />
     <string id="oE5etyy0" text="Mounted weapon speed &amp; reload penalty: {a0} %" />
     <string id="Oe5Tf7OZ" text="Мои враги могут не бояться моего меча, но они должны бояться моей хитрости." />
-    <string id="Of7XnP5c" text="{SETTLEMENT_NAME} голосует за нового владельца." />
+    <string id="Of7XnP5c" text="Голосуем за нового владельца {SETTLEMENT_NAME}." />
     <string id="oFsPkOpe" text="Верблюды" />
     <string id="Og8QMFeC" text="Увеличивает скорость вашего метательного оружия на 20%." />
     <string id="OgkSLkFi" text="В зале лорда никого нет" />
@@ -2978,7 +2978,7 @@
     <string id="qjuiWN4K" text="{PLAYER.NAME}, вы должны ждать с нами в деревне, чтобы устроить засаду дезертирам" />
     <string id="QjxgxTki" text="A magnificent pony" />
     <string id="QkbbLb4v" text="Урон двуручного оружия: +{a0}%" />
-    <string id="QKIxepj5" text="TВладение этим феодалом должно перейти к {RECIPIENT.CLAN}" />
+    <string id="QKIxepj5" text="Это владение должно перейти к {RECIPIENT.CLAN}" />
     <string id="QKNWsJRb" text="Отпустить отряд {PARTY}" />
     <string id="qkYCWjTA" text="Я это очень ценю. Буду ждать хороших новостей." />
     <string id="qLaeEndX" text="Increase governed town security by +1 per day" />
@@ -3265,7 +3265,7 @@
     <string id="SJfqzt8m" text="Продолжайте... Я слушаю" />
     <string id="sjTpEzju" text="Очень хорошо. Мы будем продолжать ждать." />
     <string id="SJuxSGfk" text="{HERD_AMOUNT} голов {HERD_TYPE} это всё что у меня есть сейчас." />
-    <string id="SK43eB6y" text="Возвращение в армию" />
+    <string id="SK43eB6y" text="Вернуться в армию" />
     <string id="Sk8TntZY" text="...led a patrol" />
     <string id="SKbwy5EB" text="Городские проекты по умолчанию на 60% эффективнее" />
     <string id="SKUPHeAw" text="Свобода и движение" />

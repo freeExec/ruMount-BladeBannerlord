@@ -49,7 +49,7 @@
     <string id="92M0Pb5T" text="Разведчики" />
     <string id="94aHU6nD" text="Суточная прибыль: " />
     <string id="9huJZblF" text="Последний запуск" />
-    <string id="9i0wnjJK" text="L-II : {BONUS}" />
+    <string id="9i0wnjJK" text="У-II : {BONUS}" />
     <string id="9slDj5wr" text="Сменить производство" />
     <string id="a241aacb1780599430c79fd9f667b67f" text="Спутников: " />
     <string id="a4GDfSel" text="Reset Tutorials" />
@@ -217,20 +217,20 @@
     <string id="OSsSBHKe" text="Settlement's Food" />
     <string id="OTaPfaJl" text="{PARTY_2S_MEMBERS}   " />
     <string id="oUhd9YhP" text="{PARTY_LEADERS_FACTION}" />
-    <string id="oUz16Nav" text="Reset Tutorial" />
+    <string id="oUz16Nav" text="Сбросить обучение" />
     <string id="p0nIO9c2" text="Мастерская не может быть ухудшена" />
     <string id="p7raHA9x" text="Уточнение" />
     <string id="PAUsUq4Z" text="Выберите правителя поселения" />
     <string id="PDdh1sBj" text="Название" />
     <string id="Pdo7PpS3" text="{TASK_NAME} {CURRENT_PROGRESS}/{TARGET_PROGRESS}" />
     <string id="PHkC8Gia" text="Продать" />
-    <string id="PJZ8QYgA" text="L-I : {BONUS}" />
+    <string id="PJZ8QYgA" text="У-I : {BONUS}" />
     <string id="pkbUiKFJ" text="В настоящее время сражается с врагом." />
     <string id="POjDNVW3" text="Ковка" />
     <string id="PpbopMjT" text="Передать всех пленников" />
     <string id="pqfz386V" text="Лидер клана " />
     <string id="PRE5RKpp" text="Вы должны немного отдохнуть, прежде чем снова сможете заняться этим." />
-    <string id="pRP2sOWP" text="L-III : {BONUS}" />
+    <string id="pRP2sOWP" text="У-III : {BONUS}" />
     <string id="PS02CqPu" text=" {PARTY_MEMBER.LINK} (Health: {MEMBER_HEALTH}%)" />
     <string id="Pvx4TU66" text="Передать все войска" />
     <string id="pWfadZg9" text="Отряды в армии" />

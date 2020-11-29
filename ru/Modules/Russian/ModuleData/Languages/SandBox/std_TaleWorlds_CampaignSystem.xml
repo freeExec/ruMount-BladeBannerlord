@@ -35,7 +35,7 @@
     <string id="0Ep8B8be" text="In adolescence, your child began to take on serious responsibilities, and also compete with adults as a near-equal. {?CHILD.GENDER}She{?}He{\?} became to known as..." />
     <string id="0EqPRs21" text="Как {?IS_FEMALE}королева{?}король{\?} вы должны решить, следует ли применять политику {POLICY_NAME}." />
     <string id="0Euf4iPM" text="Указывает, член банды, специализирующегося на запуске игорных притонов" />
-    <string id="0ewaZnfe" text="Very good. Keep them coming." />
+    <string id="0ewaZnfe" text="Очень хорошо. Давайте их." />
     <string id="0fXNOQ9b" text="Maringoth" />
     <string id="0g4R557I" text="Negotiation for safe passage barter is 50% cheaper." />
     <string id="0g7MZCAK" text="Доход мастерской" />
@@ -118,7 +118,7 @@
     <string id="1JDFcOwV" text="Лучшая сделка для покупки и продажи скакунов." />
     <string id="1JYPGQ1e" text="Каждые воин 6 уровня увеличивают боевой дух отряда на 1, до 10 в начале битвы" />
     <string id="1l5dKk1c" text="О, спасибо вам {PLAYER.NAME}. Наш народ всегда будет помнить вас. Прощайте." />
-    <string id="1LFcSRPw" text="У меня здесь есть шахта. Неделю назад у нас случилось происшествие. Двое рабочих были раздавлены насмерть. Очень жаль ... но работа должна продолжаться. Проблема в том, что никто не хочет возвращаться. Если бы вы могли найти мне пленников ..." />
+    <string id="1LFcSRPw" text="У меня здесь есть шахта. Неделю назад у нас случилось происшествие. Двое рабочих были раздавлены насмерть. Очень жаль... но работа должна продолжаться. Проблема в том, что никто не хочет возвращаться. Если бы вы могли найти мне пленников..." />
     <string id="1LzohiMf" text="Я принес {AMOUNT_TO_DELIVER} единицы {REQUESTED_GOOD} как мы и договаривались." />
     <string id="1ndbOvdQ" text="Увеличьте урон от выстрела в голову на 50% из арбалетов." />
     <string id="1NgRuxTr" text="Tonju" />
@@ -165,7 +165,7 @@
     <string id="2ATI9qVM" text="Скорость древковым оружием: +{a0} %" />
     <string id="2aW6NC3Q" text="Давай обсудим окончательные условия нашего брака." />
     <string id="2awf1tei" text="Налог" />
-    <string id="2b1xZGaQ" text="Заключить мир с {KINGDOM_NAME}. Наше королевство платит ежедневно дань {T}." />
+    <string id="2b1xZGaQ" text="Заключить мир с {KINGDOM_NAME}. Наше королевство будет платить ежедневно дань {T}." />
     <string id="2bcNCnI3" text="{QUEST_GIVER.LINK} from {QUEST_GIVER.FACTION}, asked you to sell {?QUEST_GIVER.GENDER}her{?}his{\?} goods form him for at least {UNIT_PRICE}{GOLD_ICON} per load and return to him. He told you that any profit would make above this price is yours to keep." />
     <string id="2bKgL66e" text="{COURTSHIP_DECLINE_REACTION}" />
     <string id="2BVDp7Tg" text="{KINGDOM} остановит {POLICY_DESCRIPTION} ({POLICY}). {POLICY_SUPPORT}" />
@@ -878,7 +878,7 @@
     <string id="B0eBWPoO" text=" Вы поделились своим продовольствием с голодными солдатами вашей армии. Вы получили {INFLUENCE} {INFLUENCE_ICON}." />
     <string id="B0UdQpDf" text="You've tasked the steward to make sure that your child knows goods and prices, and where {?CHILD.GENDER}she{?}he{\?} is likely to get the best deals either buying or selling." />
     <string id="B0uKPW9S" text="Проголосуйте за следующего правителя {KINGDOM_NAME}" />
-    <string id="B0YOpGsZ" text="Any news about my prisoners?" />
+    <string id="B0YOpGsZ" text="Есть какие нибудь новости о моих заключённых?" />
     <string id="b1l7x5hE" text="Bards travel a lot, and courth bards are no exception. You wanted your bard to take your son to long treks in the country. " />
     <string id="b1lsZNxE" text="You failed to deliver enough prisoners in time. {QUEST_GIVER.LINK} must be disappointed." />
     <string id="B1meG5eO" text="Ваша мастерская увеличилась на 25%" />
@@ -1989,7 +1989,7 @@
     <string id="iTYoUNdC" text="Хорошо, тогда я возьму его с собой." />
     <string id="IU63oxWD" text="Jemynon" />
     <string id="IUGVdu64" text="Стрелок" />
-    <string id="IULW8h03" text="Sure." />
+    <string id="IULW8h03" text="Конечно." />
     <string id="iunPaMFv" text="Я думаю, что мы должны пока отложить это в сторону. Но возможно мы сможем поговорить еще раз позднее." />
     <string id="IuWu5Bu7" text="Щедрость" />
     <string id="ivH8RWyb" text="Профессиональный кузнец" />
@@ -2591,7 +2591,7 @@
     <string id="NJa55XTF" text="Вы получите увеличение дальности обзора на 30% в ночное время." />
     <string id="njbpMLdJ" text="Нападавшие были разбиты." />
     <string id="NJmTcbOI" text="Асерайские дешевые караваны" />
-    <string id="NjPMRWbW" text="Заключив мир с {KINGDOM_NAME}. Наше королевство будет получать {T} дань ежедневно." />
+    <string id="NjPMRWbW" text="Заключить мир с {KINGDOM_NAME}. Наше королевство будет получать ежедневно дань {T}." />
     <string id="nkmoAaI7" text="Отдых в поселениях увеличивает скорость исцеления на 20%." />
     <string id="nKn6m1LH" text="Уменьшает стоимость вербовки пехотных войск на 30%" />
     <string id="NKTbhIoi" text="{VICTIM.LINK} проиграл." />

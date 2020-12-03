@@ -1079,7 +1079,7 @@
     <string id="T29epQk3" text="100{GOLD_ICON}." />
     <string id="T5jd4m69" text="Так будет только веселее. О чем ты думал?" />
     <string id="T85Ze9R6" text="Пусть начнется бой!" />
-    <string id="tbqbsp4p" text="{WORKSHOP_DESCRIPTION} Вы уверены, что хотите открыть {.e} {WORKSHOP_TYPE}?" />
+    <string id="tbqbsp4p" text="{WORKSHOP_DESCRIPTION} Вы уверены, что хотите открыть {WORKSHOP_TYPE}?" />
     <string id="tc4DyxaL" text="Да, я хотел бы продать." />
     <string id="TCIaDC9X" text="Враги Вландии прибыли грабить и убивать. Король Дерхерт создвал людей его защищать!{newline}Оседлав коней, мчится его верная рать. Но король уже навечно лег спать." />
     <string id="tCpKDdE5" text="Хорошо, хорошего дня." />

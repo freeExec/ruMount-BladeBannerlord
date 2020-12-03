@@ -1346,7 +1346,7 @@
     <string id="TSw4tD02" text="В самом деле? Полагаю, сегодня я испачкаю свои руки.[ib:aggressive][rb:very_negative]" />
     <string id="TTWL7RLe" text="Арбалет" />
     <string id="Tu46dFyH" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}используют{?}использует{\?} осадные орудия." />
-    <string id="TVcqGJ1r" text="Главный герой находится в тюрьме!" />
+    <string id="TVcqGJ1r" text="Главный герой находится в плену!" />
     <string id="TvmDFK6o" text="{REWARD}" />
     <string id="TVQXa0y0" text="Битва выиграна!" />
     <string id="Txbga7js" text="Вы столкнулись с битвой между {ATTACKER} и {DEFENDER}" />
@@ -1557,7 +1557,7 @@
     <string id="Y94H6XnK" text="Принять" />
     <string id="Y9egTJg0" text="Итого" />
     <string id="yaxwYglT" text="На задании" />
-    <string id="YbabzW3H" text="Вы находитесь под заключением в {SETTLEMENT_NAME} {NUMBER_OF_DAYS} {?PLURAL}суток{?}день{\?}." />
+    <string id="YbabzW3H" text="Вы находитесь в темнице {SETTLEMENT_NAME} {NUMBER_OF_DAYS} {?PLURAL}суток{?}день{\?}." />
     <string id="YbB2IpTR" text="Ваши отношения с {HERO.NAME} уменьшены на {MAGNITUDE} до {VALUE}." />
     <string id="yBnwGiuB" text="Лорд" />
     <string id="yCEMiKjB" text="Выберите: {SELECTION}" />

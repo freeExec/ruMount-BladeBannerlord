@@ -1571,7 +1571,7 @@
     <string id="fGmpS0Dr" text="Gandarina" />
     <string id="FGt0fZJd" text="...led men into danger" />
     <string id="FHeJ8bsX" text="Посмотрим." />
-    <string id="FHjM62IY" text="{LORD.NAME} is a member of the {CLAN_NAME}, a rising new clan. {?LORD.GENDER}She{?}He{\?} is still making {?LORD.GENDER}her{?}his{\?} reputation." />
+    <string id="FHjM62IY" text="{LORD.NAME} из нового растущего клана {CLAN_NAME}. {?LORD.GENDER}Она{?}Он{\?} всё ещё продолжает наращивать свою репутацию." />
     <string id="FhprJ7WR" text="{INITIAL_COURTSHIP_REACTION_TO_PLAYER}" />
     <string id="FIBSi2VF" text="Поселения под вашим управлением приносят на 10% больше налогов." />
     <string id="fIhanh8a" text="{?CHILD.GENDER}Her{?}His{\?} skill with a lance paid for {?CHILD.GENDER}her{?}his{\?} journey" />
@@ -2426,7 +2426,7 @@
     <string id="m6uSOtE4" text="You don't have {GOLD_NEEDED_FOR_ALTERNATIVE_SOLUTION} denars." />
     <string id="M6yluBb3" text="{FIRST_NAME} {?FEMALE}Вдова{?}Сирота{\?}" />
     <string id="m72wpzG2" text="Продолжайте, Я слушаю" />
-    <string id="M7CcfbIx" text="End Raiding" />
+    <string id="M7CcfbIx" text="Остановить набег" />
     <string id="M7MakmL0" text="Isolla" />
     <string id="m8FElUoM" text="Naldera" />
     <string id="M8yrANf5" text="Навык увеличивает ваш урон одноручным оружием на 5% Кроме того, размер вашего отряда повышается на 15" />
@@ -2821,7 +2821,7 @@
     <string id="PFNXodyo" text="Какой бизнес?" />
     <string id="pFSWDNaF" text="No morale penalty for disorganized state in battles, in sally out or when being attacked." />
     <string id="pfxG5Ubu" text="Ладно, успокойся. Взять наше оружие!" />
-    <string id="pFzj52dE" text="You spend long hours in the sunless dank of the dungeon, more than you can count. Suddenly one of your captors enters your cell with an offer; he proposes to free you in return for {MONEY_AMOUNT}{GOLD_ICON} of your hidden wealth. You decide to..." />
+    <string id="pFzj52dE" text="Вы проводите долгие часы в тёмной сырой темнице, столько что уже сбились со счёта. Внезапно в камеру входит один из похитетелей с предложением: он предлагает выпустить вас в обмен на {MONEY_AMOUNT}{GOLD_ICON} из вашего скрытого богатства. Вы решили..." />
     <string id="Pg5enC8c" text="Contractors" />
     <string id="PG8anNca" text="Лояльность поселения увеличивается на 1 в день{newline}Ежедневное пополнение ополчения увеличивается на 1" />
     <string id="pgbC8UkU" text="Восстание" />

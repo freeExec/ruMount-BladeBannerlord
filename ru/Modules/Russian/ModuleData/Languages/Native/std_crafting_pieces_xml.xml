@@ -12,7 +12,7 @@
     <string id="0Y0kaTwm" text="Простой клинок Спаты" />
     <string id="13lb5at6" text="Рукоять из красного дерева с оберткой из кожи" />
     <string id="19a3jJ1s" text="Ребристый большой сабельный клинок" />
-    <string id="1ajbJdao" text="/Болванка навершия/" />
+    <string id="1ajbJdao" text="Планка навершия" />
     <string id="1auabxxv" text="Круглая плоская гарда" />
     <string id="1e9OaUWk" text="Восточное легкое навершие булавы" />
     <string id="1Ia3Wxbf" text="Лезвие серпа из тонкой стали" />
@@ -89,14 +89,14 @@
     <string id="85jApGfe" text="Выпуклая гарда кинжала" />
     <string id="87BmkiMO" text="Грубая рукоять булавы" />
     <string id="89QyC7eD" text="Узкая северная гарда" />
-    <string id="8gW1o7iH" text="Западное /дольчатое/ навершие" />
+    <string id="8gW1o7iH" text="Западное дольчатое навершие" />
     <string id="8OaZSfaZ" text="Усиленная грубой кожей /расколотая/ рукоять меча" />
     <string id="8olqutaL" text="Расколотая северная двуручная рукоять" />
     <string id="8S6ZYPFD" text="Обух топора из погнутой тонкой стали" />
     <string id="8T7gNbfM" text="/Просверленный/ наконечник копья в форме широкого листа" />
     <string id="8x9klENe" text="/Усиленное клепанными сегментами/ древко" />
     <string id="8yb60cDi" text="Древко длинного копья из красного дерева" />
-    <string id="8ZbL3exH" text="/Дольчатое/ навершие" />
+    <string id="8ZbL3exH" text="Дольчатое навершие" />
     <string id="9aYBy1RN" text="Листовой наконечник копья из тонкой стали" />
     <string id="9HgtH0Nb" text="/Гарда копья в форме волны/" />
     <string id="9HMxA4AU" text="Железная рукоять булавы" />
@@ -406,7 +406,7 @@
     <string id="MCRppfbZ" text="Древко копья из сосны" />
     <string id="mcYSvJfA" text="Ветка Дерева " />
     <string id="MDL2CcCH" text="Взвешенные Длинные Шипы" />
-    <string id="MGD7zTLf" text="Граненый Wheek Навершие" />
+    <string id="MGD7zTLf" text="Гранёный круг навершие" />
     <string id="Mh5MDpsk" text="Дробленая Кожа Южном Двуручный Хват" />
     <string id="MJRzaazz" text="Стали Привязаны Покрытием Двуручный Хват" />
     <string id="MKtMbBJD" text="Высокий Восточный Рукой" />
@@ -421,7 +421,7 @@
     <string id="mTDuVvVN" text="Высокая Никелированная Ручка" />
     <string id="mU8oVsFW" text="Морнингстар Голову" />
     <string id="muv8N0Wo" text="Бронзовый Кинжал Охранника С Гравюрами" />
-    <string id="mVjshtzg" text="Конусная Шляпа Навершие" />
+    <string id="mVjshtzg" text="Конусная шляпа навершие" />
     <string id="mYP1ovEy" text="Прокололся Пустыни Гвардии" />
     <string id="N1qLYlxF" text="Клинок Каскара из Хорошей Стали" />
     <string id="N3VXsh2z" text="Стальной Парамерийский Клинок" />

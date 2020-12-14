@@ -1676,7 +1676,7 @@
     <string id="GD8BU00n" text="Крошечный {FIRST_NAME}" />
     <string id="GDSwyH2p" text="ваше сиятельство" />
     <string id="gE7QFy6y" text="{PRISONER.NAME} {?PRISONER.GENDER}сбежала{?}сбежал{\?} из места заключения" />
-    <string id="Ge9RMuRi" text="больше урона по щитам с двуручным оружием (+40%)." />
+    <string id="Ge9RMuRi" text="На +40% больше урона по щитам с двуручного оружия." />
     <string id="GEBRuVcZ" text="Зачем же теперь менять сторону? Как только человек объявляет себя мятежником, обычно пути назад уже нет." />
     <string id="gEHEQazX" text="Вы тяжело ранены и не можете вступить в бой. Возвращайся, когда будешь готов." />
     <string id="GeJobcre" text="Sinor" />
@@ -3840,7 +3840,7 @@
     <string id="WYPotR6p" text="Повышайте боевой дух войск дальнего боя в вашей группе в начале битвы на 10%." />
     <string id="WyXs70nc" text="Увеличьте урон от двуручного оружия на 20%, когда ваши очки жизни ниже 50%." />
     <string id="WZbrxhYm" text="Бутыль кефира" />
-    <string id="wZovddJ9" text="{PRISONER.NAME} has escaped from your party." />
+    <string id="wZovddJ9" text="{PRISONER.NAME} сбежал из твоего отряда." />
     <string id="x04UGQDn" text="Темница" />
     <string id="x0cNi9lk" text="Стоимость найма пехотных войск снижена на 20%" />
     <string id="x213SJbO" text="Нет. Я ничего об этом не знаю. Может быть, что-то еще? [INCOMPLETE]" />

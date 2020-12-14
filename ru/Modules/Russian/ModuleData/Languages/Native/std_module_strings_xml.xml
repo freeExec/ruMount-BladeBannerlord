@@ -703,7 +703,7 @@
     <string id="hJypvWMR" text="Обрабатывать" />
     <string id="HkfY3Ds5" text="Броня" />
     <string id="HkZ4E94O" text="Кузаитская конфедерация степных племен вела кочевой образ жизни, но недавно поселилась на восточной границе Империи и постепенно переходит в аграрное общество с постоянными городскими центрами. Несмотря на это, они все еще сохраняют многие аспекты своей кочевой жизни, в том числе свою близость с лошадьми. Они мастера стрельбы из лука, стреляют, а затем скачут за пределы досягаемости." />
-    <string id="hL3JIQbd" text="Привести это формирование в бой." />
+    <string id="hL3JIQbd" text="Вести это формирование в бой." />
     <string id="HmbvM9Na" text="Вы хотите пропустить текущую матч?" />
     <string id="HMgrtLYa" text="Ваш чемпион проиграл дуэль. Ваша армия разочарована этим поражением. Ваша партия теряет боевой дух." />
     <string id="hMIjbLjt" text="мадам" />
@@ -1093,7 +1093,7 @@
     <string id="ou9asw1a" text="Режущий {SWING_DAMAGE_TYPE} Урон: " />
     <string id="OviaJ1tA" text="Остальное" />
     <string id="oVSS2Lp5" text="Снаряжение Лошади III" />
-    <string id="OWCoBElc" text="Вас взяли в плен {PARTY_NAME}." />
+    <string id="OWCoBElc" text="Вас взял в плен {PARTY_NAME}." />
     <string id="owg6SqHF" text="Эмир" />
     <string id="OxiaKT0G" text="Стургия" />
     <string id="ozYRUrum" text="Помогайте раненым бойцам восстановиться в поселениях." />
@@ -1632,7 +1632,7 @@
     <string id="ZMdOAbTd" text="Атакующие" />
     <string id="zMMqgxb1" text="Тип" />
     <string id="zN9iNaIW" text="Ограбить деревню" />
-    <string id="zNekjGmR" text="Набираем В Плен" />
+    <string id="zNekjGmR" text="Завербовать пленного" />
     <string id="zNEvBr6R" text="Ваша очередь" />
     <string id="zNHtgL0S" text="Турнир по стрельбе из лука." />
     <string id="znKxunbQ" text="Следующий персонаж" />

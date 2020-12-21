@@ -2202,7 +2202,7 @@
     <string id="kjhcfDeK" text="Heavenly Voice" />
     <string id="kJwpbptU" text="Ну, постарайся держаться ближе ко мне все время и попытаться выучить как можно больше." />
     <string id="KjzJjj5n" text="Eronys" />
-    <string id="kK8Kom0h" text="Decrease mounted accuracy penalties by 30% while using a bow." />
+    <string id="kK8Kom0h" text="Уменьшение штрафа к точности на 30% при использовании локу на лошади." />
     <string id="KK8MBZj5" text="Urban Developer" />
     <string id="KKajZg3a" text="Лучники генерируют на 10% больше общего опыта" />
     <string id="KKB2vNFr" text="Вылазка" />
@@ -2486,7 +2486,7 @@
     <string id="MM0ARhGh" text="Master of Warcraft" />
     <string id="MmQt0TD3" text="Это не мы хотели, но это больше, чем ничего." />
     <string id="mMU3H6HZ" text="Арена" />
-    <string id="MmWzufrk" text="Increase character battle movement speed by 3%" />
+    <string id="MmWzufrk" text="Увеличивает скорость персонажа в бою на 3%." />
     <string id="Mn4bI9Jg" text="Что вы делаете? Вы еще один прихвостень {QUEST_GIVER.NAME}? Думаете, можете охотиться на меня как на животное?[ib:closed][rf:angry]" />
     <string id="mn5tQhyp" text="Counter Offensive" />
     <string id="mNEljmbo" text="Random Event" />
@@ -2943,7 +2943,7 @@
     <string id="QcECvqaN" text="Пехотные войска в строю, которым вы руководите, увеличивают свой урон по щитам на 15%." />
     <string id="qcl3YTPh" text="Посетить таверну" />
     <string id="QCuxL92I" text="День добрый, {?PLAYER.GENDER}мадам{?}сэр{\?}. Чем я могу помочь?" />
-    <string id="qD6qbbvH" text="Character heals %30 of lost health points after each battle" />
+    <string id="qD6qbbvH" text="Персонаж восстанавливает 30% здоровья после каждой битвы." />
     <string id="qDcqDybV" text="Ваши (одноручные) атаки ближнего боя игнорируют 10% брони врагов." />
     <string id="qdinkZqk" text="Медный {FIRST_NAME}" />
     <string id="qDJmqZrJ" text="Пехотные войска получают на 4% меньше урона в ближнем бою при построении - стена щитов." />

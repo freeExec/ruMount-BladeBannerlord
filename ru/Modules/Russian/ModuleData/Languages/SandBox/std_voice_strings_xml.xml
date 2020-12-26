@@ -137,6 +137,7 @@
     <string id="Z2bRJhTh" text="{STR_SALUTATION}... Если ты сегодня умрешь, то даю слово, твои подвиги не будут забыты." />
     <string id="z3zTyNru" text="Подойди еще ближе, незнакомец, и я воткну тебе нож в живот. Но если вы останетесь там, где находитесь, мы сможем довольно приятно поболтать." />
     <string id="ZBjXh6cA" text="Остановитесь, путник. Я желаю вам мира. По крайней мере, пока не выясню, кто вы." />
+    <string id="zfWpSLfd" text="Well... And who do we have here? Would you care to tell me your good name?" />
     <string id="ZRUCzgxQ" text="{STR_SALUTATION}... Если у тебя нет доказательств, то иди строй козни в другом месте." />
   </strings>
 </base>

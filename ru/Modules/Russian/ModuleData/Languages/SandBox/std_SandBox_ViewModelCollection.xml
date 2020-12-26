@@ -7,6 +7,7 @@
     <string id="3CpNUnVl" text="Отмена" />
     <string id="5zeL8sa9" text="Вы получили {A0} влияния." />
     <string id="6qYaQkDD" text="{COUNT} + {PRISONER_COUNT}п" />
+    <string id="7AFlpaem" text="{STR1} {STR2}" />
     <string id="7WdWK2Dt" text="Сохранить игру" />
     <string id="8OkPHu4f" text="Нет" />
     <string id="9NuttOBC" text="Загрузить" />
@@ -19,6 +20,7 @@
     <string id="eiWQoW9j" text="Вы получили {A0} к известности." />
     <string id="eL8nhkhQ" text="Создать новый слот для сохранения" />
     <string id="eTw2aNV5" text="+" />
+    <string id="gDKhs4lD" text="{A0} has died on the battlefield." />
     <string id="GZWPHmAw" text="День : {DAY}" />
     <string id="HH2mZq8J" text="Вы уверены, что хотите удалить эту игру??" />
     <string id="hiCxFj4E" text="Сохранения" />
@@ -26,7 +28,6 @@
     <string id="IwhpeT8C" text="Уровень : {PLAYER_LEVEL}" />
     <string id="IXwOaa98" text="Размер отряда" />
     <string id="JAFIo7cM" text=":" />
-    <string id="kJtNMYum" text="Несоответствие модуля" />
     <string id="L9GnQvsq" text="Ставка: {BETTED_DENARS}" />
     <string id="LBNzsqyb" text="Владения" />
     <string id="lh0so0uX" text="Хотите загрузить сохраненную игру с другими модулями?" />
@@ -36,11 +37,13 @@
     <string id="nVGqjtaa" text="Кампания {ID}" />
     <string id="O9nwLrYp" text="+{WOUNDEDAMOUNT}р" />
     <string id="oBbiVeKE" text="Здоровье" />
+    <string id="ol0rBSrb" text="{STR1}{newline}{STR2}" />
     <string id="Q1HIlJxe" text="Переписать" />
     <string id="QHV8aeEg" text="Удалить сохранение" />
     <string id="qIeDZoSx" text="Куплен" />
     <string id="qSi4DlT4" text="Еда" />
     <string id="R2AaCaPJ" text="Ожидаемое изменение" />
+    <string id="r7xdYj4q" text="Module Mismatch" />
     <string id="raD9MK3O" text="Сложность" />
     <string id="RVPidk5a" text="Влияние" />
     <string id="uncategorized_save" text="Без категории" />

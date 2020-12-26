@@ -32,7 +32,6 @@
     <string id="3oUbmqJY" text="Синхронизирует игру с частотой обновления монитора. Устраняет эффекты разрыва.{newline}Половинная синхронизация выдает только половину частоты кадров от частоты обновления монитора" />
     <string id="3P7eDKEY" text="Экипировать предмет 4" />
     <string id="3sRdGQou" text="Выйти" />
-    <string id="3V0bvyLC" text="{STR1}{STR2}" />
     <string id="3YwMXbAT" text="Ускорить время на глобальной карте." />
     <string id="44akzqlm" text="Стрелка Вправо" />
     <string id="45yEpDdE" text="Масштабирование экрана" />
@@ -332,6 +331,7 @@
     <string id="pa8A2VG3" text="Включить красную рамку вокруг экрана, когда игрок получает урон." />
     <string id="PACe9VHN" text="&lt;" />
     <string id="PADeKaAu" text="Контекстное меню карты" />
+    <string id="pialOblr" text="Order Hold" />
     <string id="PksJtzwJ" text="Пробел" />
     <string id="Pkw17hO0" text="Боевая скорость" />
     <string id="PmbKYDON" text="Cheer" />
@@ -347,9 +347,11 @@
     <string id="py0auN0A" text="{ESTIMATED} МБ / {TOTAL} МБ" />
     <string id="QaMie1KY" text="Только ближний бой" />
     <string id="QBzjt1c4" text="Расширенный ключ 1" />
+    <string id="qDVoGsb9" text="Hold to give orders with a gamepad." />
     <string id="qggjceRq" text="Вывод звука" />
     <string id="QiYy3Ja4" text="Выбрать приказ возврат" />
     <string id="qmplQd0Q" text="Три части" />
+    <string id="qNPmVDmU" text="Sets the NVIDIA DLSS method if applicable. " />
     <string id="qnxJYAs7" text="Отряд" />
     <string id="qOcw1xap" text="Page Down" />
     <string id="QoGjzEwI" text="Вернуться" />
@@ -385,6 +387,7 @@
     <string id="sAoWNAwZ" text="Оконный" />
     <string id="Sb3L2QwL" text="Устанавливает масштаб разрешения." />
     <string id="sbUBtOTb" text="Сообщения об Уроне " />
+    <string id="sCjtEbTF" text="These modules have been removed from the game:" />
     <string id="SEucYSln" text="Numpad 2" />
     <string id="ShDZ4GgG" text="Экипировать оружие 3" />
     <string id="sQCP8t0U" text="Ждать карту" />
@@ -393,8 +396,10 @@
     <string id="SuYh3GtG" text="Режим переключения оружия" />
     <string id="SWDHaFCK" text="Выбратьприказ4" />
     <string id="sxFsZAeC" text="1" />
+    <string id="t0vgSn7D" text="Select Next Group" />
     <string id="T3Ex0K1p" text="Конец" />
     <string id="T6IJg6wq" text="Режим Следования Камеры На Карте" />
+    <string id="TbCbHxeF" text="Toggle Group Selection" />
     <string id="tbGol5PT" text="F4" />
     <string id="tbwhjsqS" text="Правая Кнопка Мыши" />
     <string id="Tdf5AbRp" text="Открыть Экран Клана." />
@@ -421,6 +426,7 @@
     <string id="Uaae1eBV" text="Двойное нажатие вправо : резко вправо" />
     <string id="UboDNGJw" text="Выбрать группу 7" />
     <string id="uBRn8Je8" text="3" />
+    <string id="Uc1n5MRj" text="NVIDIA DLSS" />
     <string id="ucyy9Sc5" text="{LEFT} / {RIGHT}" />
     <string id="UFHqkvah" text="Интерактивная трава" />
     <string id="UixNc11t" text="Защищайтесь от атак оружием или щитом." />
@@ -449,6 +455,7 @@
     <string id="VE9TavSl" text="Устанавливает качество декалей." />
     <string id="Vea6bRUO" text="Enable interface elements that report players damage and casualities in center bottom." />
     <string id="vJ41v8zh" text="Прозрачность банера союзных войск" />
+    <string id="vJDxgaOZ" text="These modules' versions are different:" />
     <string id="Vpy2qEcN" text="С помощью клавиш движения" />
     <string id="vT3yIxmO" text="Numpad 4" />
     <string id="vXvmeGhm" text="Тип теней" />
@@ -466,11 +473,11 @@
     <string id="wMe5p2HG" text="7" />
     <string id="WMmGH9yp" text="Отдалить камеру от глобальной карты." />
     <string id="WOubRnjm" text="Показывать полученный опыт" />
+    <string id="WVpVmbzC" text="These modules are new in the game:" />
     <string id="wWDHH5FK" text="Глубина резкости" />
     <string id="wYicqUa9" text="Время на карты нормальное" />
     <string id="X5cSNxHf" text="5" />
     <string id="x7kYOUfi" text="Громкость эффектов" />
-    <string id="x7OgHYfc" text="{LEFT}" />
     <string id="x7qfk550" text="Q" />
     <string id="xboxAbutton" text="A Button" />
     <string id="xboxBackButton" text="Back Button" />
@@ -527,6 +534,7 @@
     <string id="ZKg3DqbQ" text="Determines the opacity of the banners shown on top of the friendly troops." />
     <string id="znSZmZvV" text="Переместить карту вправо" />
     <string id="Zo2ngsUk" text="Редактор персонажа" />
+    <string id="ZoDugJHP" text="Select Previous Group" />
     <string id="zofULNb8" text="Экипировать вторичное оружие" />
     <string id="ZP1tLaa1" text="Numpad 9" />
     <string id="ZtDJrNz9" text="Зернистость пленки" />

@@ -12,6 +12,8 @@
     <string id="13wo3QQB" text="Вторичное свойство" />
     <string id="154a34f8caccfc833238cc89d38861e8" text="Требуется:" />
     <string id="1CXlqb2U" text="Выберите: " />
+    <string id="1JlzQIXE" text="Disabled" />
+    <string id="1UbocG5B" text="Denounce your rights and responsibilities from this fief by giving it back to the realm." />
     <string id="2abtb4xu" text="Независимый" />
     <string id="2ckyCKR7" text="Резерв" />
     <string id="2Cq3tViJ" text="Максимальная численность отряда" />
@@ -104,6 +106,7 @@
     <string id="e8390c3480028e34c370c7b60ebc41e2" text="Класс лошади: " />
     <string id="ebbyLN2i" text="Поселения" />
     <string id="eHVq6yDa" text="Цена предмета" />
+    <string id="eIGFuGOx" text="Give Settlement" />
     <string id="eIws123Z" text="Защита ног" />
     <string id="EkFDvG7z" text="Settlement Food Stocks" />
     <string id="eoVW9z54" text="Average Morale" />
@@ -122,6 +125,7 @@
     <string id="fI7a7RoE" text="Максимальный вес" />
     <string id="FjJi1DJb" text="Этот герой уже является частью другого отряда" />
     <string id="fOSGakix" text="Вы не можете управлять армией, пока находитесь в плену." />
+    <string id="G2h0V10w" text="Gift this settlement to a clan in your kingdom." />
     <string id="g4XqKGUr" text="В группе уже есть участник с этой ролью." />
     <string id="G6cCjixe" text="{COMPLETION_PERCENT} (Приблизительно {DAYS} дней до завершения)" />
     <string id="g9VIbA9s" text="Сержант" />
@@ -260,6 +264,8 @@
     <string id="rgqA29b8" text="У вас недостаточно навыка {SKILL_NAME} что бы экипировать это предмет." />
     <string id="rGy8vjOv" text="Обороняет {TARGET_SETTLEMENT}." />
     <string id="Rkh2k1OA" text="Завершится через: " />
+    <string id="rkubGa4K" text="Are you sure want to give this settlement back to your kingdom?" />
+    <string id="rOKAvjtT" text="Gift Settlement" />
     <string id="rsHPaaYZ" text="Что бы усилить сплоченность,она должна быть ниже, чем {MINAMOUNT}." />
     <string id="rThSy9ed" text="Требуется: {UPGRADE_ITEM} (У вас недостаточно!)" />
     <string id="RuaA8t97" text="Имя Королевства" />
@@ -272,6 +278,7 @@
     <string id="S9tmCkHz" text="Этот герой очищает зону" />
     <string id="sa2TQu1G" text="Этот герой занят проблемой" />
     <string id="ScDj827c" text="Стартовый капитал" />
+    <string id="sffGeQ1g" text="Gift" />
     <string id="Sls0KQVn" text="Голосование" />
     <string id="slzfQzl3" text="Этот персонаж исчез" />
     <string id="sqdzHOPe" text="Класс" />
@@ -294,6 +301,7 @@
     <string id="twtbH1zv" text="Количество в стопке" />
     <string id="tYz4D8Or" text="Заключенный" />
     <string id="TzLtVzdg" text="Раненые" />
+    <string id="U3ksQXD3" text="Give Away" />
     <string id="UbZL2BJQ" text="Здоровье" />
     <string id="UHLcmf9A" text="Предельное количество пленников" />
     <string id="uJro3Bua" text="Превышение лимита" />

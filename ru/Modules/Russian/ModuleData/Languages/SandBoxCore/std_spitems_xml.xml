@@ -118,6 +118,7 @@
     <string id="6WcZ5Tr0" text="Кузнечный Молот" />
     <string id="6Wkq14uk" text="Горное Крестьянское Платье" />
     <string id="6YCbEaHK" text="Северный Круглый Щит" />
+    <string id="6Ynb0K0f" text="Southern Reinforced Brass Scale Shoulders" />
     <string id="77RIGK7B" text="Кольчужный Койф" />
     <string id="7D3jvAfS" text="Закрытый Колпак" />
     <string id="7dAy51ln" text="Цервельер с Кольчужным Койфом" />
@@ -129,6 +130,7 @@
     <string id="7sgW3eHd" text="Восточное Меховое Платье" />
     <string id="7yGwvnUA" text="Северная Туника" />
     <string id="7ysOvo7H" text="Северный Щадящий Клинок" />
+    <string id="82GMEKy8" text="Scale Shoulders" />
     <string id="85q9uY76" text="Горная Поношенная Упряжь" />
     <string id="89bCqb0Z" text="Плетёный квадратом турнирный щит" />
     <string id="89OWzLBb" text="Топор с Бамбуковой Ручкой" />
@@ -171,7 +173,6 @@
     <string id="a1BGHdaU" text="Охранные Наручи" />
     <string id="a1KxyGOj" text="Северное Платье" />
     <string id="A1zFbFta" text="Усиленный Плоский Каплевидный Щит" />
-    <string id="A2I5SHCr" text="Северный Шлем с Забралом" />
     <string id="a2XnhQ3V" text="Северный Закрытый Шлем" />
     <string id="a71fiml4" text="Имперский Пластинчатый Доспех" />
     <string id="a775acEf" text="Щадящая Железная Шпата" />
@@ -341,6 +342,7 @@
     <string id="EXLY9mEb" text="Усиленный Большой Круглый Щит" />
     <string id="f2O1XjYd" text="Собака" />
     <string id="F4xD8gjJ" text="Франческа" />
+    <string id="F7mWp9Ha" text="Imperial Googled Helmet" />
     <string id="f7RmWqJ2" text="Западный Платок" />
     <string id="F9GB8lMZ" text="Рваные Лохмотья" />
     <string id="F9HQABfN" text="Усиленный Плетённый Квадратный Щит" />
@@ -578,7 +580,6 @@
     <string id="lyGvQPJb" text="Зазубренное Щадящее Копье" />
     <string id="lZ93DOrn" text="Подбитый Ватник без Рукавов" />
     <string id="LzqugHen" text="Скальпель" />
-    <string id="M00MeRJD" text="Хлопок" />
     <string id="M2wvaObX" text="Спата" />
     <string id="m3Nv9rt2" text="Пернатый Шлем Кочевника" />
     <string id="mAEjSAlV" text="Северный Закрытый Шлем с Кольчугой" />
@@ -660,6 +661,7 @@
     <string id="OIcwZGmC" text="Усиленный Плетеный Щит" />
     <string id="oIOYBIbv" text="Северный Закрытый Шлем" />
     <string id="ojhEwC8M" text="Северная Латунная Пластинка на Кольчуге" />
+    <string id="OktZBAVC" text="Southern Brass Scale Shoulders" />
     <string id="olamAwhb" text="Шлем с Наносником поверх Головной Обмотки" />
     <string id="OLTUHPaD" text="Тонкий Стальной Парамерион" />
     <string id="OM9achAa" text="Усиленный Дубовый Каплевидный Щит" />
@@ -768,6 +770,7 @@
     <string id="SGdY9jmK" text="Чеканный Узкий Боевой Меч" />
     <string id="sgfKrAaZ" text="Баттанийский Пони" />
     <string id="SHZ0P7Iu" text="Мягкий Кожаный Плащ" />
+    <string id="SIdCIRfG" text="Brass Scale Pauldrons" />
     <string id="siuuhU6b" text="Бронзовый Шлем с Наносником и Имперской Кольчугой" />
     <string id="sJ1R62Tn" text="Пернатый Шлем" />
     <string id="smHA8Apa" text="Украшенная Шапка Кочевника" />
@@ -819,6 +822,7 @@
     <string id="txgUxMYw" text="Треугольный Щит С Вырезом" />
     <string id="tYVrECy7" text="Каплевидный Щит Наездника" />
     <string id="tZN9H492" text="Баттанийская Боевая Лошадь" />
+    <string id="U0zBG3F9" text="Scale Pauldrons" />
     <string id="U4n0uSlg" text="Плотный Головной Платок" />
     <string id="u6c9yIXF" text="Южный Короткий Подбитый Халат" />
     <string id="U8QfF3Gw" text="Длинная Шерстяная Туника" />
@@ -873,6 +877,7 @@
     <string id="VpxmlDyY" text="Отложные Кожаные Сапоги" />
     <string id="vPXWpJTP" text="Горный Кинжал" />
     <string id="VqFV9LS4" text="Красное Платье" />
+    <string id="Vqu67a3b" text="Raw Silk" />
     <string id="vRIpgxhi" text="Выбор Фортуны" />
     <string id="VRP5Q4mU" text="Южная Кольцевая Кольчуга" />
     <string id="vsavMoLZ" text="Сегментированный Цервельер с Подбитым Тканевым Подшлемником" />

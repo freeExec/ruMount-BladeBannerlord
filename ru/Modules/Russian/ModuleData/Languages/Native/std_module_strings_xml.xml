@@ -97,7 +97,6 @@
     <string id="3tJq5QyQ" text="{HEALTHY_NUM}+{WOUNDED_NUM}р" />
     <string id="3TXGG01D" text="Хорошее решение, {?PLAYER.GENDER}madam{?}sir{\?}. Мои парни знают, как держать свое слово и зарабатывать свои деньги.[rb:very_positive]" />
     <string id="3uR8wLko" text="наш вассал {REFERING_HERO.LINK}" />
-    <string id="3V0bvyLC" text="{STR1}{STR2}" />
     <string id="3vT6TQmF" text="{PLAYER.LINK}, Вы в {SIDE_STRING} {CLASS_NAME}." />
     <string id="3wS4uOvU" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} нападают сзади." />
     <string id="3xeuA9VP" text="+{TROOP_AMOUNT} Отряд{?ISPLURAL}ы{?} {\?} к Поселению" />
@@ -296,7 +295,6 @@
     <string id="aiX4b5kS" text="Выполненные Задания" />
     <string id="AIYWSAyK" text="Получайте прибыль от торговли. Сопровождайте караваны." />
     <string id="aJoNj6JX" text="Сражайтесь с коротким двуручным оружием." />
-    <string id="aJQQnshf" text="Налог с населения:" />
     <string id="aJXhsjmT" text="Привет, путешественник. Если ты не хочешь, чтобы твои кости остались в песке для корма шакалов, отдай нам то, чего мы потребуем." />
     <string id="ajZTZoXQ" text="Двуручная Булава" />
     <string id="AkgIYqHT" text="султанша" />
@@ -361,7 +359,6 @@
     <string id="bFpLKvcS" text="Хан" />
     <string id="bfQLwMUp" text="Кланы" />
     <string id="BfQrnvpC" text="Создание Армии" />
-    <string id="bfsJfrtk" text="{LEFT}{RIGHT}" />
     <string id="BftxIurV" text="Вам необходимо разрешить {DECISION_NAME} проблему." />
     <string id="bg6x6Hbv" text="Шлем" />
     <string id="Bg83jhCR" text="Город явно переживает не лучшие времена." />
@@ -369,6 +366,7 @@
     <string id="bgjiFSHZ" text="Баттания" />
     <string id="bGyrPe8c" text="Производство" />
     <string id="bh2v8n4K" text="Одежда" />
+    <string id="bh9U2fsZ" text="Son-in-law" />
     <string id="BhGlPxqx" text="Можно только распустить мобильные партии" />
     <string id="bIiBytSB" text="Лучники" />
     <string id="bj0Ko5uX" text="Кальрадийская Империя находится в упадке. Еще до убийства императора Ареникоса, некогда единое королевство было разорвано политическим соперничеством. Сегодня эти фракции ведут открытую войну. И все же кальрадийцы перетерпят. Они технологически более развиты, чем их соседи, и их мастерство в инженерном деле проявляется не только в их акведуках, красивой архитектуре и массивных городских стенах. Это также делает их экспертами в осадном деле" />
@@ -540,6 +538,7 @@
     <string id="empiremembers" text="Империя" />
     <string id="eMsA4Vk0" text="Отряд будет расти в размере. Текущий целевой размер {TARGET_SIZE}" />
     <string id="eMwbzp49" text="Битва проиграна..." />
+    <string id="engineeringskill" text="Engineering" />
     <string id="enhza8zr" text="Фракция" />
     <string id="eNQgzubm" text="Сражайтесь пешими. И передвигайтесь по карте кампании пешими." />
     <string id="ENzvOHsA" text="{ASKED_LORD.LINK} в странствиях и {?ASKED_LORD.GENDER}она{?}он{\?} находится близко к {SETTLEMENT_NAME} в текущий момент." />
@@ -745,7 +744,6 @@
     <string id="icmyseoo" text="Мой Лорд," />
     <string id="IcQ2doLo" text="x{QUANTITY}" />
     <string id="id62me1x" text="Нажмите &quot;Осаждать&quot;" />
-    <string id="IdUKVyoF" text="{FIRST_NAME} {JOB_NAME}" />
     <string id="IF7zS5ia" text="Лимит пленников превышен.{newline}Временно ваши пленники остануться с вами, но через некоторое время они начнут быстро покидать отряд. вы также замедлитесь.{newline}Вы уверены?" />
     <string id="iFg5N7r3" text="Одноручное Оружие" />
     <string id="Igoid3sR" text="Предлагаю исключить этот клан из королевства" />
@@ -771,6 +769,7 @@
     <string id="iORENG5d" text="Наемники не могут предлагать политики." />
     <string id="IOtAJCVw" text="Общее Влияние: {TOTAL_INFLUENCE}" />
     <string id="IPjqLEdQ" text="{DAY} дней назад" />
+    <string id="IQ4bSdf5" text="Sister-in-law" />
     <string id="iQao7Ct6" text="Голодающие Партии" />
     <string id="iRo4meJR" text="Нельзя открыть энциклопедию прямо сейчас!" />
     <string id="Is3O8NXW" text=" ({NUMBER_OF_MEN}+{NUMBER_OF_WOUNDED_MEN}р)" />
@@ -948,7 +947,6 @@
     <string id="LZhRP3PM" text="Ждать других осадных машин" />
     <string id="Lzmtqif5" text="Размер Армии " />
     <string id="lznqF0oO" text="Расформирование" />
-    <string id="M00MeRJD" text="Хлопок" />
     <string id="M03MNN3T" text="Мерлон" />
     <string id="M2b5mtAE" text="Спутник" />
     <string id="m2YKBbdI" text="Привет, Маленькая потерянная овца. Мы волки в горах, и мы хотели бы на минутку..." />
@@ -1095,6 +1093,7 @@
     <string id="oVSS2Lp5" text="Снаряжение Лошади III" />
     <string id="OWCoBElc" text="Вас взял в плен {PARTY_NAME}." />
     <string id="owg6SqHF" text="Эмир" />
+    <string id="owTlJjJc" text="Brother-in-law" />
     <string id="OxiaKT0G" text="Стургия" />
     <string id="ozYRUrum" text="Помогайте раненым бойцам восстановиться в поселениях." />
     <string id="P2CRzfV7" text="Магазины в поселении" />
@@ -1111,7 +1110,6 @@
     <string id="pbdrFqb3" text="Принудить распустить эту армию" />
     <string id="Pc0zpaGa" text="Хей, что тут у нас? В этих краях есть налог за проезд, путник, оплати его, либо монетой, либо кровью." />
     <string id="pcy8IXDf" text="{?RULER.GENDER}Королева{?}Король{\?} {RULER.NAME}" />
-    <string id="PCZ23wvW" text="Инженерия" />
     <string id="PDdh1sBj" text="Имя" />
     <string id="PdXqoa2W" text="Направляется в {SETTLEMENT_NAME}" />
     <string id="PE4nuMc7" text="Эта страница объясняет основные игровые принципы в Bannerlord" />
@@ -1132,6 +1130,7 @@
     <string id="pJR9zz06" text="Войска, готовые к улучшению, отмечены специальной иконкой.{newline}{newline}Некоторые из них могут иметь два возможных пути развития." />
     <string id="pLZeP6L6" text="Штурм стен{?IS_GENERAL_SIDE}{?} со стороны {SIDE_STRING}{\?}" />
     <string id="pm0yiOmv" text="Заработано: {DENAR_AMOUNT}{GOLD_ICON}" />
+    <string id="pMb8Pe12" text="Daughter-in-law" />
     <string id="PMnSk81U" text="Так ты намерен драться, ягненок? Давай посмотрим тогда на ваши рога." />
     <string id="PN4Edq9W" text="Оружие Ближнего Боя III" />
     <string id="pn9KNMxb" text="Вы оказались во вражеской ловушке. Но ваши люди не в состоянии бороться. Ваш единственный вариант - это сдаться." />
@@ -1168,7 +1167,6 @@
     <string id="Q3KrMlLd" text="Атака!" />
     <string id="q3mOBLFn" text="Выбор навыка фокусировки" />
     <string id="Q67Wys0i" text="Патрулируют вокруг {SETTLEMENT_NAME}" />
-    <string id="q6P6bdbC" text="Быстро поговорить" />
     <string id="Q7ONA10T" text="&lt;b&gt;Требушет&lt;/b&gt;{newline}Неточное, но разрушительное для стен." />
     <string id="Q8mI3b4K" text="Политика не выбрана" />
     <string id="QA8Gm9PY" text="Жаркий день, не правда ли? Не утомляйте себя во время боя. Дайте нам то, что мы хотим, и мы уйдем." />
@@ -1335,6 +1333,7 @@
     <string id="TmKbTxQy" text="хатун" />
     <string id="TNLRC4Gf" text="Сражайтесь с одноручным оружием." />
     <string id="tnZ7BfO9" text="Предложение мира" />
+    <string id="toK51MD4" text="Visit" />
     <string id="tolOqAaP" text="Лето {DAY}, {YEAR}" />
     <string id="toQLHG6x" text="Доблесть" />
     <string id="tpjGRDHP" text="Дуэль закончилась. Удерживайте {leave_key}, чтобы уйти" />
@@ -1356,6 +1355,7 @@
     <string id="Tyc4aAdz" text="Вступить в бой без помощи." />
     <string id="u3c9M8vx" text="лукавство" />
     <string id="U7er3V9s" text="Предметы" />
+    <string id="U7etPQA2" text="{HERO.FIRSTNAME} the {JOB_NAME}" />
     <string id="U7Z7f7ZT" text="Супруг(а)" />
     <string id="U8TPlwW9" text="Хорошая встреча {PLAYER.LINK}. Я в долгу перед тобой. Я надеюсь, что однажды я найду способ чем отблагодарить." />
     <string id="U8VHRdwF" text="Броня ног: " />
@@ -1377,6 +1377,7 @@
     <string id="UgMbCUMO" text="моим отцом {REFERING_HERO.LINK}" />
     <string id="ugX2RRDY" text="Меня похитили и требовали выкуп" />
     <string id="Uh057UUb" text="Puluc" />
+    <string id="uhcIXeba" text="You are discarding items. Are you sure?" />
     <string id="UI0q8rWw" text="Скот" />
     <string id="uinDitbl" text="Мы должны разрушить стены." />
     <string id="UIqPXN62" text="Закидывайте проитвника метательным оружием." />
@@ -1445,6 +1446,7 @@
     <string id="VPYazFVH" text="Скорость Укола: " />
     <string id="vqHDX6hf" text="+{BONUS_AMOUNT} повышение лояльности к поселению" />
     <string id="VqpmXU1m" text="Стрелять в противников из арбалета." />
+    <string id="Vqu67a3b" text="Raw Silk" />
     <string id="VRdy76RQ" text="Схватка" />
     <string id="VSZGbSEO" text="Нет подходящих товаров." />
     <string id="vt1IbBFt" text="Вы заметили вражескую армию. Будьте осторожны." />
@@ -1621,6 +1623,7 @@
     <string id="ZdeswYbM" text="У продавца не хватает денег! Вы уверены?" />
     <string id="zDHbQtm9" text="Вы были сражены неоседланной лошадью!" />
     <string id="ZdqbU2gw" text="Принять" />
+    <string id="zE6OFPRu" text="Settlement Tax" />
     <string id="zEbvDH7V" text="Вы не можете поддержать свой клан." />
     <string id="zeGAw2IE" text="Убит" />
     <string id="ZEzxHLaH" text="Пленных героев завербовать нельзя" />

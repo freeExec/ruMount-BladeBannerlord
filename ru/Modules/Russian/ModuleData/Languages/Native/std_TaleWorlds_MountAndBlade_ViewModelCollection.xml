@@ -56,6 +56,7 @@
     <string id="aVixswW5" text="Выбор команды" />
     <string id="aWzdkfvn" text="Currently you are not a member of a clan or you don't own a clan. You need to create a party from non-clan member players to form your own clan." />
     <string id="aZnS9ECC" text="Invite" />
+    <string id="b2aqL7T2" text="Lost" />
     <string id="b31ITmm0" text="Размер группы" />
     <string id="b9PT1Yxc" text="Выберите тип игры " />
     <string id="BAaS5Dkc" text="Применить" />
@@ -94,6 +95,7 @@
     <string id="eGuQKRhb" text="Вы покинули игровую зону!" />
     <string id="empirefaction" text="Империя" />
     <string id="enhza8zr" text="Faction" />
+    <string id="eQPSEUml" text="Abandoned" />
     <string id="Etjqamlh" text="{PLAYER_COUNT} игроков" />
     <string id="EUAKPHek" text="Построить:" />
     <string id="F7dBjl83" text="В настоящее время пользовательские битвы отключены" />
@@ -112,6 +114,7 @@
     <string id="G6hYIR5k" text="Тембр Голоса:" />
     <string id="gamevideo" text="Видео" />
     <string id="gcl2duJH" text="Сбросить свой знак" />
+    <string id="gGa3ZhqN" text="This player will be muted automatically." />
     <string id="GGseMDd3" text="Прочность" />
     <string id="GMhOZGnb" text="Нельзя отдать приказ, пока вы мертвы" />
     <string id="GmU1to3Y" text="Статистика" />
@@ -135,6 +138,7 @@
     <string id="IlQnJsUp" text="Флагов захвачено:" />
     <string id="iLUiaRsj" text="Ваш" />
     <string id="iNqucBor" text="Войти в" />
+    <string id="IS4SifJG" text="Won" />
     <string id="iwugyB6z" text="{USERNAME}#{USERID}" />
     <string id="J0vjDOFO" text="Скорость удара" />
     <string id="j35pgljM" text="Choose Faction" />

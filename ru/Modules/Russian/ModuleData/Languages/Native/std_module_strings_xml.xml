@@ -366,7 +366,7 @@
     <string id="bgjiFSHZ" text="Баттания" />
     <string id="bGyrPe8c" text="Производство" />
     <string id="bh2v8n4K" text="Одежда" />
-    <string id="bh9U2fsZ" text="Son-in-law" />
+    <string id="bh9U2fsZ" text="Зять" />
     <string id="BhGlPxqx" text="Можно только распустить мобильные партии" />
     <string id="bIiBytSB" text="Лучники" />
     <string id="bj0Ko5uX" text="Кальрадийская Империя находится в упадке. Еще до убийства императора Ареникоса, некогда единое королевство было разорвано политическим соперничеством. Сегодня эти фракции ведут открытую войну. И все же кальрадийцы перетерпят. Они технологически более развиты, чем их соседи, и их мастерство в инженерном деле проявляется не только в их акведуках, красивой архитектуре и массивных городских стенах. Это также делает их экспертами в осадном деле" />
@@ -538,7 +538,7 @@
     <string id="empiremembers" text="Империя" />
     <string id="eMsA4Vk0" text="Отряд будет расти в размере. Текущий целевой размер {TARGET_SIZE}" />
     <string id="eMwbzp49" text="Битва проиграна..." />
-    <string id="engineeringskill" text="Engineering" />
+    <string id="engineeringskill" text="Инженерия" />
     <string id="enhza8zr" text="Фракция" />
     <string id="eNQgzubm" text="Сражайтесь пешими. И передвигайтесь по карте кампании пешими." />
     <string id="ENzvOHsA" text="{ASKED_LORD.LINK} в странствиях и {?ASKED_LORD.GENDER}она{?}он{\?} находится близко к {SETTLEMENT_NAME} в текущий момент." />
@@ -769,7 +769,7 @@
     <string id="iORENG5d" text="Наемники не могут предлагать политики." />
     <string id="IOtAJCVw" text="Общее Влияние: {TOTAL_INFLUENCE}" />
     <string id="IPjqLEdQ" text="{DAY} дней назад" />
-    <string id="IQ4bSdf5" text="Sister-in-law" />
+    <string id="IQ4bSdf5" text="Невестка" />
     <string id="iQao7Ct6" text="Голодающие Партии" />
     <string id="iRo4meJR" text="Нельзя открыть энциклопедию прямо сейчас!" />
     <string id="Is3O8NXW" text=" ({NUMBER_OF_MEN}+{NUMBER_OF_WOUNDED_MEN}р)" />
@@ -1093,7 +1093,7 @@
     <string id="oVSS2Lp5" text="Снаряжение Лошади III" />
     <string id="OWCoBElc" text="Вас взял в плен {PARTY_NAME}." />
     <string id="owg6SqHF" text="Эмир" />
-    <string id="owTlJjJc" text="Brother-in-law" />
+    <string id="owTlJjJc" text="Шурин" />
     <string id="OxiaKT0G" text="Стургия" />
     <string id="ozYRUrum" text="Помогайте раненым бойцам восстановиться в поселениях." />
     <string id="P2CRzfV7" text="Магазины в поселении" />
@@ -1130,7 +1130,7 @@
     <string id="pJR9zz06" text="Войска, готовые к улучшению, отмечены специальной иконкой.{newline}{newline}Некоторые из них могут иметь два возможных пути развития." />
     <string id="pLZeP6L6" text="Штурм стен{?IS_GENERAL_SIDE}{?} со стороны {SIDE_STRING}{\?}" />
     <string id="pm0yiOmv" text="Заработано: {DENAR_AMOUNT}{GOLD_ICON}" />
-    <string id="pMb8Pe12" text="Daughter-in-law" />
+    <string id="pMb8Pe12" text="Сноха" />
     <string id="PMnSk81U" text="Так ты намерен драться, ягненок? Давай посмотрим тогда на ваши рога." />
     <string id="PN4Edq9W" text="Оружие Ближнего Боя III" />
     <string id="pn9KNMxb" text="Вы оказались во вражеской ловушке. Но ваши люди не в состоянии бороться. Ваш единственный вариант - это сдаться." />
@@ -1377,7 +1377,7 @@
     <string id="UgMbCUMO" text="моим отцом {REFERING_HERO.LINK}" />
     <string id="ugX2RRDY" text="Меня похитили и требовали выкуп" />
     <string id="Uh057UUb" text="Puluc" />
-    <string id="uhcIXeba" text="You are discarding items. Are you sure?" />
+    <string id="uhcIXeba" text="Вы собираетесь выбросить вещь. Вы уверены?" />
     <string id="UI0q8rWw" text="Скот" />
     <string id="uinDitbl" text="Мы должны разрушить стены." />
     <string id="UIqPXN62" text="Закидывайте проитвника метательным оружием." />
@@ -1446,7 +1446,7 @@
     <string id="VPYazFVH" text="Скорость Укола: " />
     <string id="vqHDX6hf" text="+{BONUS_AMOUNT} повышение лояльности к поселению" />
     <string id="VqpmXU1m" text="Стрелять в противников из арбалета." />
-    <string id="Vqu67a3b" text="Raw Silk" />
+    <string id="Vqu67a3b" text="Хлопок" />
     <string id="VRdy76RQ" text="Схватка" />
     <string id="VSZGbSEO" text="Нет подходящих товаров." />
     <string id="vt1IbBFt" text="Вы заметили вражескую армию. Будьте осторожны." />
@@ -1623,7 +1623,7 @@
     <string id="ZdeswYbM" text="У продавца не хватает денег! Вы уверены?" />
     <string id="zDHbQtm9" text="Вы были сражены неоседланной лошадью!" />
     <string id="ZdqbU2gw" text="Принять" />
-    <string id="zE6OFPRu" text="Settlement Tax" />
+    <string id="zE6OFPRu" text="Налог с населения" />
     <string id="zEbvDH7V" text="Вы не можете поддержать свой клан." />
     <string id="zeGAw2IE" text="Убит" />
     <string id="ZEzxHLaH" text="Пленных героев завербовать нельзя" />

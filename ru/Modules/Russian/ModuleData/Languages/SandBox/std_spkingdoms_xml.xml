@@ -1,42 +1,42 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
-    <tag language="Русский"/>
+    <tag language="Русский" />
   </tags>
   <strings>
-    <string id="0B27RrYJ" text="Баттания"/>
-    <string id="5djtBrHj" text="Султан"/>
-    <string id="8HMyTKF6" text="Вландийцы"/>
-    <string id="8pjMAqOg" text="Сенат"/>
-    <string id="afvM7XpQ" text="Верховный Король"/>
-    <string id="bF7HmNGQ" text="Хузаитское ханство"/>
-    <string id="bgjiFSHZ" text="Баттанийцы"/>
-    <string id="bVihnRUu" text="Содружество Княжеств, ныне известное как Стургия, возникло всего лишь столетие назад. Когда вдоль великих северных рек возникли первые города, вожди местных племен заключали брачные союзы с Нордами и другими авантюристами, получая взамен воинов, чтобы покорить своих соседей. Под давлением империи они избрали государя, который возглавил бы их армии, и в конце концов этот титул стал передаваться по наследству. Но бояре никогда не примут идею централизованной монархии, поэтому в Стургии всегда сохраняется риск восстания и переворота."/>
-    <string id="C4qjBqLO" text="Стургиты"/>
-    <string id="fGNdo1BK" text="Веками племена в обширных степях к востоку от империи вели кочевой образ жизни, совершая набеги на имперские земли и торгуя с ними, а затем возвращаясь к своей исконной свободе. Однако два поколения назад что - то случилось далеко на востоке - возможно, перемена ветра или приход неизвестного врага, - но конные кланы пришли в движение. Урхун-Хузаит повел ближайшие к империи кланы на ее восточные провинции, захватил обширные земли и назвал своим ханством. Он подчинил непокорные кланы, заставляя их идти на войну по его приказу, а не тогда, когда они того пожелают. Но после его смерти страх, который он внушал, был утрачен. Его потомки все еще правят ханством, но некоторые кланов пренебрегают их властью, а другие мечтают сами встать во главе орды."/>
-    <string id="FjwRsf1C" text="Вландия"/>
-    <string id="FmbgPGBL" text="Первый Принц"/>
-    <string id="frBQ9mbP" text="Южная Империя"/>
-    <string id="GbnlN6na" text="южной Империи"/>
-    <string id="hwnp9abW" text="Король"/>
-    <string id="IudGLWQZ" text="Вландийская правящая династия происходит от Озрика Железнорукого, военачальника, захватившего западные берега Империи и признанного императорами королем этих земель, дабы заключить мир. Он, в свою очередь, сделал своих самых верных соратников баронами и графами, предоставив им во владение феоды в обмен на то, что они встанут под его знамена во время войны. Некоторые Вландийские короли стремились расширить свою власть, другие же позволяли баронам враждовать между собой до тех пор, пока это не вредит экономике Королевства."/>
-    <string id="iYCR3xuQ" text="Стургианское Княжество"/>
-    <string id="lAWwcO6b" text="Королевство Вландия"/>
-    <string id="NF627oiX" text="Северная Империя"/>
-    <string id="nsDj8Qxl" text="северной Империи"/>
-    <string id="PjO7oY16" text="Стургия"/>
-    <string id="qaDIU0XC" text="Великое Королевство Баттанийцев"/>
-    <string id="qggtvf8Y" text="Империя всегда предпочитала не посылать свои легионы в опасные пустоши Нахасы. Вместо этого она манипулировала местными кланами, посылая к их правителям своих советников, порождая бесконечный танец власти. Те кланы, которые смогли закрепиться в оазисах, получили имперские деньги за защиту проходящих караванов и разбогатели. Тех, кто не мог этого сделать, оттесняли в пустыню, где им оставалось разводить коз и грабить караваны, до тех пор, пока они не смогут вернуться. С упадком Империи, Асераи согласились образовать конфедерацию под руководством султана, избранного из самых богатых кланов, Бану Халлана. Но все понимают, что танец был остановлен лишь на время, и в нужный момент он начнется снова."/>
-    <string id="sZLd6VHi" text="Хузаитский"/>
-    <string id="UsbwPmYb" text="Асерайский Султанат"/>
-    <string id="vJOWy1QF" text="Хузаиты"/>
-    <string id="yG3YUySN" text="Западная Империя"/>
-    <string id="ZEmH0MwL" text="западной Империи"/>
-    <string id="ZjaaAoxd" text="С незапамятных времен существовал Верховный Король Баттании, церемониально коронованный на священном холме Дунтанах. Однако спросите любого Баттанийского вождя, в чьем ”королевстве” он живет, и он оглянется на свой дом, на свои поля и пастбища, на свои стада и своих слуг и ответит: ”В моём собственном, конечно.” - Только в последнее время, следуя примеру Империи, предпринимали ли Верховные Короли какие-либо усилия, чтобы укрепить свою власть? ”Такой упрямый скот, как мой народ, нуждается в сильной пастыре, чтобы вывести его из ущелья и защитить от волков”, - сказал один недавний Верховный король, как раз перед тем, как его предал завистливый кузен и отвел в цепях на ближайший имперский аванпост."/>
-    <string id="aseraifaction" text="Асерай"/>
-    <string id="aseraimembers" text="Асерай"/>
-    <string id="aEfsyVH4" text="Many of the oldest families of the Empire live in the north. They came here as marcher lords, granted vast tracts of land by their colleagues in the Senate to keep 'pacified' northern tribes in check and hold the frontiers against Battanian, Sturgian, and Khuzait raiders. They drained marshes and turned the river floodplains into wheatfields, cut back forests and turned the hillsides into pasture. But as the republic became an empire and as emperors became more and more dependent on money and lands to reward their loyal soldiers, the nobility here began to fear that their estates would one day be seized by some cash-starved tyrant. Consequently, in the ongoing imperial civil war they have become some of the strongest champions of Lucon, who sees a Senate of established property-holders as the supreme authority and the emperor as its servant."/>
-    <string id="mOZsbV8j" text="According to tradition, the first Calradians entered the continent as exiles, coming from lands across the western ocean. But the Empire's center of gravity moved east and south, and their original heartland has, for the most part, been lost to the Vlandians. The west of the Empire today, a warm green land of oak forests and volcanic outcrops, was mostly conquered from the Palaic tribes. They have intermarried with Calradian colonists and today their old languages and customs are mostly forgotten. Service in the legions has traditionally been a path out of rural poverty and many an ambitious general has drawn his most loyal recruits fron this region. The landowners here have naturally gravitated towards Garios, the partisan of soldiers and soldiers' interests, in the ongoing civil war."/>
-    <string id="Xtyb9Dyr" text="The lands that are now the southern Empire were once ruled by proud independent city-states controlling trading routes over the Perassic Sea and the steppe. They invited the Empire into their internal feuds and one by one they were absorbed, some by treaty, some by conquest. Calradian aristocrats intermarried with merchant princes and nomad chiefs, many of whom claimed descent from the kings, champions and demigods of eastern legends. In recent generations, as these towns grew to become some of the richest and most populous in the continent, many Senatorial families elsewhere became suspicious that the southerners would someday try to make one of their own into a hereditary monarch. The southern nobility's support for Rhagaea, an unapolegetic advocate of the dynastic principle, would seem to confirm these fears."/>
+    <string id="0B27RrYJ" text="Баттания" />
+    <string id="5djtBrHj" text="Султан" />
+    <string id="8HMyTKF6" text="Вландийцы" />
+    <string id="8pjMAqOg" text="Сенат" />
+    <string id="aEfsyVH4" text="Many of the oldest families of the Empire live in the north. They came here as marcher lords, granted vast tracts of land by their colleagues in the Senate to keep 'pacified' northern tribes in check and hold the frontiers against Battanian, Sturgian, and Khuzait raiders. They drained marshes and turned the river floodplains into wheatfields, cut back forests and turned the hillsides into pasture. But as the republic became an empire and as emperors became more and more dependent on money and lands to reward their loyal soldiers, the nobility here began to fear that their estates would one day be seized by some cash-starved tyrant. Consequently, in the ongoing imperial civil war they have become some of the strongest champions of Lucon, who sees a Senate of established property-holders as the supreme authority and the emperor as its servant." />
+    <string id="afvM7XpQ" text="Верховный Король" />
+    <string id="aseraifaction" text="Асерай" />
+    <string id="aseraimembers" text="Асерай" />
+    <string id="bF7HmNGQ" text="Хузаитское ханство" />
+    <string id="bgjiFSHZ" text="Баттанийцы" />
+    <string id="bVihnRUu" text="Содружество Княжеств, ныне известное как Стургия, возникло всего лишь столетие назад. Когда вдоль великих северных рек возникли первые города, вожди местных племен заключали брачные союзы с Нордами и другими авантюристами, получая взамен воинов, чтобы покорить своих соседей. Под давлением империи они избрали государя, который возглавил бы их армии, и в конце концов этот титул стал передаваться по наследству. Но бояре никогда не примут идею централизованной монархии, поэтому в Стургии всегда сохраняется риск восстания и переворота." />
+    <string id="C4qjBqLO" text="Стургиты" />
+    <string id="fGNdo1BK" text="Веками племена в обширных степях к востоку от империи вели кочевой образ жизни, совершая набеги на имперские земли и торгуя с ними, а затем возвращаясь к своей исконной свободе. Однако два поколения назад что - то случилось далеко на востоке - возможно, перемена ветра или приход неизвестного врага, - но конные кланы пришли в движение. Урхун-Хузаит повел ближайшие к империи кланы на ее восточные провинции, захватил обширные земли и назвал своим ханством. Он подчинил непокорные кланы, заставляя их идти на войну по его приказу, а не тогда, когда они того пожелают. Но после его смерти страх, который он внушал, был утрачен. Его потомки все еще правят ханством, но некоторые кланов пренебрегают их властью, а другие мечтают сами встать во главе орды." />
+    <string id="FjwRsf1C" text="Вландия" />
+    <string id="FmbgPGBL" text="Первый Принц" />
+    <string id="frBQ9mbP" text="Южная Империя" />
+    <string id="GbnlN6na" text="южной Империи" />
+    <string id="hwnp9abW" text="Король" />
+    <string id="IudGLWQZ" text="Вландийская правящая династия происходит от Озрика Железнорукого, военачальника, захватившего западные берега Империи и признанного императорами королем этих земель, дабы заключить мир. Он, в свою очередь, сделал своих самых верных соратников баронами и графами, предоставив им во владение феоды в обмен на то, что они встанут под его знамена во время войны. Некоторые Вландийские короли стремились расширить свою власть, другие же позволяли баронам враждовать между собой до тех пор, пока это не вредит экономике Королевства." />
+    <string id="iYCR3xuQ" text="Стургианское Княжество" />
+    <string id="lAWwcO6b" text="Королевство Вландия" />
+    <string id="mOZsbV8j" text="According to tradition, the first Calradians entered the continent as exiles, coming from lands across the western ocean. But the Empire's center of gravity moved east and south, and their original heartland has, for the most part, been lost to the Vlandians. The west of the Empire today, a warm green land of oak forests and volcanic outcrops, was mostly conquered from the Palaic tribes. They have intermarried with Calradian colonists and today their old languages and customs are mostly forgotten. Service in the legions has traditionally been a path out of rural poverty and many an ambitious general has drawn his most loyal recruits fron this region. The landowners here have naturally gravitated towards Garios, the partisan of soldiers and soldiers' interests, in the ongoing civil war." />
+    <string id="NF627oiX" text="Северная Империя" />
+    <string id="nsDj8Qxl" text="северной Империи" />
+    <string id="PjO7oY16" text="Стургия" />
+    <string id="qaDIU0XC" text="Великое Королевство Баттанийцев" />
+    <string id="qggtvf8Y" text="Империя всегда предпочитала не посылать свои легионы в опасные пустоши Нахасы. Вместо этого она манипулировала местными кланами, посылая к их правителям своих советников, порождая бесконечный танец власти. Те кланы, которые смогли закрепиться в оазисах, получили имперские деньги за защиту проходящих караванов и разбогатели. Тех, кто не мог этого сделать, оттесняли в пустыню, где им оставалось разводить коз и грабить караваны, до тех пор, пока они не смогут вернуться. С упадком Империи, Асераи согласились образовать конфедерацию под руководством султана, избранного из самых богатых кланов, Бану Халлана. Но все понимают, что танец был остановлен лишь на время, и в нужный момент он начнется снова." />
+    <string id="sZLd6VHi" text="Хузаитский" />
+    <string id="UsbwPmYb" text="Асерайский Султанат" />
+    <string id="vJOWy1QF" text="Хузаиты" />
+    <string id="Xtyb9Dyr" text="The lands that are now the southern Empire were once ruled by proud independent city-states controlling trading routes over the Perassic Sea and the steppe. They invited the Empire into their internal feuds and one by one they were absorbed, some by treaty, some by conquest. Calradian aristocrats intermarried with merchant princes and nomad chiefs, many of whom claimed descent from the kings, champions and demigods of eastern legends. In recent generations, as these towns grew to become some of the richest and most populous in the continent, many Senatorial families elsewhere became suspicious that the southerners would someday try to make one of their own into a hereditary monarch. The southern nobility's support for Rhagaea, an unapolegetic advocate of the dynastic principle, would seem to confirm these fears." />
+    <string id="yG3YUySN" text="Западная Империя" />
+    <string id="ZEmH0MwL" text="западной Империи" />
+    <string id="ZjaaAoxd" text="С незапамятных времен существовал Верховный Король Баттании, церемониально коронованный на священном холме Дунтанах. Однако спросите любого Баттанийского вождя, в чьем ”королевстве” он живет, и он оглянется на свой дом, на свои поля и пастбища, на свои стада и своих слуг и ответит: ”В моём собственном, конечно.” - Только в последнее время, следуя примеру Империи, предпринимали ли Верховные Короли какие-либо усилия, чтобы укрепить свою власть? ”Такой упрямый скот, как мой народ, нуждается в сильной пастыре, чтобы вывести его из ущелья и защитить от волков”, - сказал один недавний Верховный король, как раз перед тем, как его предал завистливый кузен и отвел в цепях на ближайший имперский аванпост." />
   </strings>
 </base>

@@ -144,7 +144,7 @@
     <string id="cvhQOE38" text="Показывать направление атаки" />
     <string id="cWRA5VVr" text="Левый Alt" />
     <string id="czYbd1vo" text="H" />
-    <string id="D008gyKC" text="Выберите приказ 1" />
+    <string id="D008gyKC" text="Выбрать приказ 1" />
     <string id="d5a3QdBR" text="Не удается получить доступ, к папке сохранений." />
     <string id="d6DkPU2b" text="Все" />
     <string id="d75b5uSL" text="Билинейная" />
@@ -321,7 +321,7 @@
     <string id="OiB50fga" text="Выбор карты" />
     <string id="oMaTg568" text="Приблизить камеру к карте кампании." />
     <string id="Oo7wQbfG" text="4 Кнопка мыши " />
-    <string id="Op68a8dO" text="Ярлыки меню " />
+    <string id="Op68a8dO" text="Вызовы меню" />
     <string id="otHjiYlN" text="Качество частиц" />
     <string id="OtS4DYD1" text="T" />
     <string id="OYaqdNAI" text="Выбрать приказ 2" />
@@ -402,7 +402,7 @@
     <string id="TbCbHxeF" text="Toggle Group Selection" />
     <string id="tbGol5PT" text="F4" />
     <string id="tbwhjsqS" text="Правая Кнопка Мыши" />
-    <string id="Tdf5AbRp" text="Открыть Экран Клана." />
+    <string id="Tdf5AbRp" text="Открыть экран клана." />
     <string id="TEuOMadV" text="Tab" />
     <string id="tewykKdc" text="Показывать Направление Блока" />
     <string id="TgIAHPHs" text="Выбрать Приказ 4" />
@@ -513,7 +513,7 @@
     <string id="xZ84ujuu" text="Сколько звуков могут быть воспроизведены сразу. Более низкие значения позволяет снизить загрузку процессора, более высокие значения обеспечивает лучшую атмосферу." />
     <string id="y4fZ1Gn7" text="Установите множитель вертикального движения мыши, по сравнению с горизонтальным движением." />
     <string id="y7dx24ih" text="Поверните камеру чтобы изменить направление движения лошади от первого лица." />
-    <string id="YAHs7wBa" text="Выберите приказ 8" />
+    <string id="YAHs7wBa" text="Выбрать приказ 8" />
     <string id="YDccwh2x" text="Общая громкость" />
     <string id="yDr2HCFR" text="Переключиться в режим кругового обзора вашего персонажа." />
     <string id="yfMN8wWN" text="Анизотропная 4х" />

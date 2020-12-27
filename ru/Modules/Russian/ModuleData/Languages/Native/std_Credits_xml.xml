@@ -51,21 +51,21 @@
     <string id="dujedylV" text="2. Распространение в двоичной форме должно воспроизводить вышеуказанное уведомление об авторских правах, этот список условий и следующий отказ от ответственности в документации и / или других материалах, предоставленных вместе с распространением." />
     <string id="DxzisJKO" text="Operations" />
     <string id="dyJTXTrH" text="Ali Shiby (Oud)" />
-    <string id="engineeringcredits" text="Инженериия" />
+    <string id="engineeringcredits" text="Разработка" />
     <string id="EtnQWZkE" text="Voice Production Cast" />
-    <string id="EzpUaovY" text="Motion Capture" />
+    <string id="EzpUaovY" text="Захват движения" />
     <string id="F4PvNJrS" text="3. Ни имя владельца авторских прав, ни имена его авторов не могут быть использованы для одобрения или продвижения продуктов, полученных из этого программного обеспечения, без специального предварительного письменного разрешения." />
-    <string id="FbvKfN2j" text="Forum Programming" />
-    <string id="fEnidUaD" text="Forum Moderation Team" />
-    <string id="FPdGPPtD" text="Backend Programmers" />
+    <string id="FbvKfN2j" text="Форумный программист" />
+    <string id="fEnidUaD" text="Команда модерации форума" />
+    <string id="FPdGPPtD" text="Серверные программисты" />
     <string id="G0ocXSx0" text="Composed by J. S. Hopkins" />
     <string id="G5ERyhKK" text="MIT License" />
     <string id="g9A0YLeG" text="The following middleware is licensed under the Apache License, Version 2.0: JetBrains.Annotations Copyright 2007-2011 JetBrains s.r.o. Software Occlusion Culling Copyright 2017 Intel Corporation, GCE-Math Copyright (C) 2016-2019 Keith O'Hara." />
     <string id="gc3ZaCea" text="IT Assistant" />
     <string id="gdhSuMiM" text="Ни имя владельца авторских прав, ни имена его авторов не могут быть использованы для одобрения или продвижения продуктов, полученных из этого программного обеспечения, без специального предварительного письменного разрешения." />
     <string id="GgNXPtra" text="Game Systems Team Lead" />
-    <string id="gU8aYXYV" text="Community" />
-    <string id="Gz6ZWpny" text="UI Programmers" />
+    <string id="gU8aYXYV" text="Сообщество" />
+    <string id="Gz6ZWpny" text="UI программисты" />
     <string id="h2byL281" text="From Lithuania" />
     <string id="hdh8DSHk" text="German Localization" />
     <string id="hDIgNVBV" text="Purchasing" />
@@ -73,61 +73,61 @@
     <string id="i4bYuyGT" text="Website frontend" />
     <string id="I9KEqapI" text="Project Managers" />
     <string id="ia6lOF0f" text="Uses Telemetry.  Copyright (C)  2009-2020 by RAD Game Tools, Inc." />
-    <string id="IDSuJSgW" text="Special Thanks" />
+    <string id="IDSuJSgW" text="Особые благодарности" />
     <string id="j0XlgbXO" text="Sulamith Bowinkelmann (Violin)" />
     <string id="j4zzGaNK" text="Development Lead" />
     <string id="J63KwTme" text="you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an &quot;AS IS&quot; BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License." />
     <string id="J6roOUmV" text="Licensed under the Apache License, Version 2.0 (the &quot;License&quot;);" />
-    <string id="jGXauhYH" text="Italian Localization" />
+    <string id="jGXauhYH" text="Итальянская локализация" />
     <string id="k5hLPEvV" text="Cinematics" />
     <string id="KavlbhOa" text="Brand Designs" />
-    <string id="kjsaMvYK" text="Office Support" />
+    <string id="kjsaMvYK" text="Поддержка офиса" />
     <string id="kmTHnu7N" text="Распространение и использование в исходной и двоичной формах, с модификацией или без нее, разрешается при условии соблюдения следующих условий:" />
-    <string id="KZaLQD23" text="3D Artists" />
-    <string id="L3iyUeut" text="External Partners" />
+    <string id="KZaLQD23" text="3D художники" />
+    <string id="L3iyUeut" text="Внешнии партнёры" />
     <string id="lft1JGnv" text="Gregg Jonasson (Producer)" />
     <string id="Lmi0RnrQ" text="Assistant Producers" />
     <string id="mcwsvqeV" text="Website" />
     <string id="mjiPGeaA" text="Illustration" />
     <string id="MQa7CgqF" text="Ferren Freitas (Percussions)" />
-    <string id="myaC3BZR" text="Steam Community Moderation Team" />
-    <string id="N2rnSKY0" text="Character Artists" />
-    <string id="N63XYX2r" text="Support" />
+    <string id="myaC3BZR" text="Команда модерации сообщества Steam" />
+    <string id="N2rnSKY0" text="Художники персонажей" />
+    <string id="N63XYX2r" text="Поддержка" />
     <string id="nbN8JdQt" text="Public Relations Partners" />
     <string id="NdlwtaGj" text="Additional Instrument Recordings" />
     <string id="niSw5MFS" text="Legal Notices" />
-    <string id="NjgkbvaY" text="Localization" />
+    <string id="NjgkbvaY" text="Локализация" />
     <string id="NXpjWNys" text="Studio Administration &amp; Operations" />
     <string id="O03UudTV" text="Portuguese Localization (Brazilian)" />
     <string id="oebbeWtK" text="1. Происхождение этого программного обеспечения не должно быть искажено; вы не должны утверждать, что написали оригинальное программное обеспечение. Если вы используете это программное обеспечение в продукте, подтверждение в документации по продукту будет оценено, но не требуется." />
     <string id="oMVL32vx" text="Технические исполнители" />
-    <string id="opGawi8D" text="AI Programmers" />
-    <string id="OtgIVbBo" text="Volunteers" />
+    <string id="opGawi8D" text="AI программисты" />
+    <string id="OtgIVbBo" text="Волонтёры" />
     <string id="OTXMIRE3" text="Website &amp; Forum designers" />
     <string id="OU8xH8HP" text="Platform Engineer" />
     <string id="OwWmriyd" text="Additional Voice Support" />
-    <string id="PGLl1PPt" text="QA Lead" />
+    <string id="PGLl1PPt" text="Глава QA" />
     <string id="pIaFYfAS" text="Этот программный продукт включает в себя технологию anti-cheat BattlEye(TM), © 2020 BattlEye Innovations e.K.. Все права защищены." />
-    <string id="PKUclaUm" text="2D Artists" />
+    <string id="PKUclaUm" text="2D художники" />
     <string id="PNjeYVAE" text="Bad Words Lab Cast" />
     <string id="po94Llpu" text="Community Notables" />
-    <string id="PpLloLh4" text="Level Designers" />
+    <string id="PpLloLh4" text="Дизайнеры уровней" />
     <string id="pU9xe3hJ" text="Lighting &amp; Particles" />
     <string id="puGce4U8" text="THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE." />
-    <string id="q1u6Pmt3" text="Art Director" />
-    <string id="q9buyaE5" text="Art" />
-    <string id="QA5PTOVx" text="Community Management" />
+    <string id="q1u6Pmt3" text="Арт-директор" />
+    <string id="q9buyaE5" text="Художники" />
+    <string id="QA5PTOVx" text="Управление сообществом" />
     <string id="QiXNr6ec" text="THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS &quot;AS IS&quot; AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE." />
     <string id="qUajaG6E" text="Reception" />
     <string id="QXK9yaMb" text="Game Systems Programmers" />
     <string id="r2HFpefP" text="Motion Capture Talents" />
-    <string id="r5hNDcB0" text="Writing" />
+    <string id="r5hNDcB0" text="Писатель" />
     <string id="rLkaodJw" text="Apache BSD License" />
     <string id="rPLbPekK" text="Simplified BSD License" />
     <string id="rpZOQyFT" text="IT Manager" />
     <string id="RUO61OPl" text="WARNING: IT IS A VIOLATION OF FEDERAL COPYRIGHT LAW TO COPY, DUPLICATE OR REPRODUCE THIS PROGRAM OR ANY PORTIONS OF THIS PROGRAM WITHOUT THE EXPRESS WRITTEN PERMISSION OF THE COPYRIGHT OWNER" />
     <string id="RWtetmX9" text="Concept Artists" />
-    <string id="rYfkudiO" text="French Localization" />
+    <string id="rYfkudiO" text="Французкая локализация" />
     <string id="rzpWUcUp" text="При распространении исходного кода должно сохраняться вышеуказанное уведомление об авторских правах, этот список условий и следующий отказ от ответственности." />
     <string id="s45CdRMU" text="Malte Meibauer (Cello)" />
     <string id="sabEi8fE" text="Additional Programming" />

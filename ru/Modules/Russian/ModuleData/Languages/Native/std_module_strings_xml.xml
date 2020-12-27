@@ -479,7 +479,7 @@
     <string id="dgaf7Jpb" text="Установить" />
     <string id="di4MlBRx" text="{NUMBER_OF} {ITEM}" />
     <string id="DItheHi7" text="Оставайтесь в резерве" />
-    <string id="DIuI1moW" text="Лидер Банды" />
+    <string id="DIuI1moW" text="Лидер банды" />
     <string id="dJbaRaAD" text="Дней до того, как кончится еда" />
     <string id="DJgeYv9X" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} перемещаются в резерв." />
     <string id="DjoYTx2w" text="Наемники не могут собирать армии" />
@@ -487,11 +487,11 @@
     <string id="DKnL0IcO" text="Вы уничтожили Империю!" />
     <string id="DKqLY1aJ" text="Экипировать" />
     <string id="dKXdN4BL" text="Вы ведете армию" />
-    <string id="dLXZaEI1" text="Покупка Продуктов Питания" />
+    <string id="dLXZaEI1" text="Покупка продуктов питания" />
     <string id="DM6luo3c" text="Продолжить" />
     <string id="dMKyWmJ6" text="Вы оказались в ловушке врагов." />
-    <string id="dO5tqXT8" text="Бывшая Супруга" />
-    <string id="DOKG38dF" text="Обучения Включены" />
+    <string id="dO5tqXT8" text="Бывшая супруга" />
+    <string id="DOKG38dF" text="Обучения включены" />
     <string id="dpylFaD1" text="Юниты" />
     <string id="DqJG7bvh" text="Перегрузка" />
     <string id="dQRdP9eQ" text="Схватка" />
@@ -523,13 +523,13 @@
     <string id="eaIQXj6O" text="Свободных очков аттрибутов: {NUMBER}" />
     <string id="ealIwlQH" text="Защищает {SETTLEMENT_NAME}" />
     <string id="eavr4x8n" text="Ежедневная продукция:" />
-    <string id="eb0nLx5E" text="Асерайский Султанат" />
-    <string id="EbB9y2zZ" text="Объявить Войну" />
+    <string id="eb0nLx5E" text="Асерайский султанат" />
+    <string id="EbB9y2zZ" text="Объявить войну" />
     <string id="eDVvDS1i" text="Жители" />
     <string id="EegxpPka" text="+{BONUS_AMOUNT} бонус к молотам" />
     <string id="eEmbb1MR" text="Производство(а)" />
     <string id="EHkzaZBi" text="Турнир поселения {SETTLEMENT_NAME}" />
-    <string id="eIws123Z" text="Броня Ног" />
+    <string id="eIws123Z" text="Броня ног" />
     <string id="ejhFyhyx" text="&lt;b&gt;Осадная башня&lt;/b&gt;&lt;br&gt;{NEWLINE}Поднимает атакующих на одну высоту со стенами и уравнивает шансы с защитниками." />
     <string id="eKwhGmbI" text="После этого воин получит {XP_AMOUNT} xp, еще воин отряд будет доступен для апгрейда" />
     <string id="elhSbQfW" text="моим родичем {REFERING_HERO.LINK}" />
@@ -550,13 +550,13 @@
     <string id="ErnykQEH" text="Производит" />
     <string id="es0Y3Bxc" text="Присоединиться" />
     <string id="esxNxipn" text="Отряды с низкой моралью" />
-    <string id="eTyaQ1sG" text="Возобновить Кампанию" />
+    <string id="eTyaQ1sG" text="Возобновить кампанию" />
     <string id="eu25AFfI" text="Нельзя открыть инвентарь прямо сейчас!" />
     <string id="eufhFrnC" text="Жители деревни {VILLAGE_NAME}" />
     <string id="EUmwEtap" text="Это было хорошее сражение, {PLAYER.LINK}. Ты победил {OPPONENT_COUNT} оппонентов. Ты заслужил денежный приз за это: {PRIZE}{GOLD_ICON}. Неплохо, правда?" />
     <string id="eURzhtb0" text="Собираются около {PARTY_NAME}" />
-    <string id="EUzxzL9s" text="Броня Головы: " />
-    <string id="EV0av1mc" text="Бонус Уровня Лидера" />
+    <string id="EUzxzL9s" text="Броня головы: " />
+    <string id="EV0av1mc" text="Бонус уровня лидера" />
     <string id="EvAriC6s" text="Каждый персонаж в Кальрадии имеет два комплекта обмундирования. Персонажи используют свой военный комплект, когда ожидаются неприятности. Вы можете переключаться между их наборами, используя кнопки над моделью персонажа. Обратите внимание, что большинство доспехов и оружия не может использоваться в гражданских комплектах, потому что гражданское обмундирование используются, когда нецелесообразно или запрещено быть хорошо вооруженным." />
     <string id="evuR5kwf" text="Сплетни сообщают, что {ITEM_NAME} продавать здесь дешевле, чем в других городах. Если Вы собирались купить несколько вещей здесь и отвезти в город {TOWN_NAME}, где это можно было бы дороже продать, Вы могли бы заработать {PRICE_DIFF}{GOLD_ICON} за каждую вещь." />
     <string id="EvvMNX3A" text="Первый игрок выбирает одну из четырех пешек, которая будет удалена с доски.{newline}Затем, другой игрок выбирает смежную пешку, чтобы тоже убрать ее с доски. Если пешка первого игрока была убрана из центра, то другой игрок должен также убрать одну из двух пешек в центре.{newline}{newline}А теперь игра начинается." />
@@ -579,12 +579,12 @@
     <string id="EZLs7hLL" text="Ты! Стоять! Отдавай нам серебро. Мы не шутим." />
     <string id="EzrK2tnA" text="Вы не можете управлять армией в бою" />
     <string id="F4RMyaR5" text="Вы столкнулись с {PARTY}." />
-    <string id="F5UPr9jh" text="Взять Все" />
+    <string id="F5UPr9jh" text="Взять всё" />
     <string id="f6gSyvnC" text="Стреляйте во врагов из лука. Выполняйте сложные выстрелы с большого расстояния." />
     <string id="f6pjlKdz" text="Вчера" />
     <string id="f7t4saJu" text="Цена" />
     <string id="F8g1TzoX" text="Вы находитесь около {SETTLEMENT_NAME}. Вы видите знамя {LORD.LINK}, развевающегося над воротами замка." />
-    <string id="Fa16r8MN" text="Казнить Заключенного" />
+    <string id="Fa16r8MN" text="Казнить заключенного" />
     <string id="Fa2nKXxI" text="Управляющий" />
     <string id="faYiCHXK" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} сближаются для атаки метательным оружием." />
     <string id="FbcC2loc" text="Вы потеряли сознание, Ваш противник выигрывает!" />
@@ -676,8 +676,8 @@
     <string id="gY8kkujq" text="Бой закончился! Нажмите клавишу Tab, чтобы выйти... " />
     <string id="gYATKZJp" text="{NUMBER}%" />
     <string id="GYhHacVk" text="Вы получили 1 очко за удар!" />
-    <string id="gZmQvtxm" text="Таран Крыши" />
-    <string id="h03DZtbc" text="Тяжелая Лошадь" />
+    <string id="gZmQvtxm" text="Таран крыши" />
+    <string id="h03DZtbc" text="Тяжелая лошадь" />
     <string id="H0o13D7a" text="Магазины" />
     <string id="H1emUb6k" text="Возраст:" />
     <string id="H4rAiNlf" text="Ты поставил {BET_AMOUNT} на себя и выиграл в схватке. Вот твоя награда {REWARD_AMOUNT}{GOLD_ICON}." />
@@ -689,7 +689,7 @@
     <string id="hAgZBZP8" text="Сдаться" />
     <string id="haLX0kbG" text="Нажмите чтобы продолжить" />
     <string id="hbeUbpEA" text="Вы уверены, что хотите отменить?" />
-    <string id="HcAV8x7p" text="Член Отряда" />
+    <string id="HcAV8x7p" text="Член отряда" />
     <string id="HCZ5XSEL" text="{?IS_POSITIVE}+{?}-{\?} {NUMBER}" />
     <string id="HD2wzAxz" text="Стургиты являются потомками иностранных племен северной Кальрадии. По мере того, как империя расширялась в свои холодные леса, она обнаружила готовый рынок для роскошных мехов лесных животных, на которых они традиционно охотились. Стургийские вожди стали князьями, борясь за превосходство с помощью нордских наемников, которые мигрировали в их королевство. Они хорошие охотники и странники, путешествующие далеко в поисках возможностей как для торговли, так и для грабежа." />
     <string id="hDktLs4a" text="Вы поступили мудро и с уважением. Вы можете пойти." />
@@ -843,7 +843,7 @@
     <string id="K0mlQblA" text="Ежедневное потребление пищи в армии" />
     <string id="K0XVOalL" text="Текущая ставка" />
     <string id="K2G3XJwZ" text="Вспыльчивый" />
-    <string id="k3LajvfJ" text="Редактор Знамени " />
+    <string id="k3LajvfJ" text="Редактор Знамени" />
     <string id="k4TcX1wT" text="{HOUR_PREPARATION_TIME} {?PLURAL_HOURS}часов{?}часа{\?}" />
     <string id="K5uR5HVX" text="Нажмите '{EXTEND_KEY}' для получения дополнительной информации." />
     <string id="K6GYskvJ" text="Культура:" />

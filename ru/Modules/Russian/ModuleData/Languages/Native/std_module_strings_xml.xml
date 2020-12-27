@@ -146,7 +146,6 @@
     <string id="5kS1qjZL" text="Уже есть неразрешенное решение по этому населенному пункту." />
     <string id="5lDYh7wJ" text="Вы построили барьер против своего противника, но имеете меньше пешек. Вы проиграли!" />
     <string id="5pGjYBFn" text="Дань получена" />
-    <string id="5pGjYBFn" text="Дань получена" />
     <string id="5QN7SFNW" text="III" />
     <string id="5rj7xQE4" text="Лук" />
     <string id="5RSfkx7d" text="Сбор вашей армии может занять некоторое время." />
@@ -325,7 +324,6 @@
     <string id="awQrcrt2" text="Керамика" />
     <string id="AWW0T6xR" text="Пешка может перемещаться ортогонально, на одну клетку за ход.{newline}Пешка не может вернуться на то место, с которого она пришла в предыдущем ходу.{newline}Если игрок не может походить, то у него имеется возможность убрать одну из пешек врага и все еще сделать ход." />
     <string id="Ayrvf5yp" text="Убили" />
-    <string id="aZrbxdat" text="Удерживайте [{KEY_NAME}] чтобы сделать все" />
     <string id="aZrbxdat" text="Удерживайте [{KEY_NAME}] чтобы сделать все" />
     <string id="b0Mv6mZy" text="Верните положение замка!" />
     <string id="b0yJ9JsW" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} штурмуют стены." />
@@ -537,7 +535,6 @@
     <string id="elhSbQfW" text="моим родичем {REFERING_HERO.LINK}" />
     <string id="ELsDFwAD" text="Вино" />
     <string id="EMCISbYJ" text="Боевое обмундирование" />
-    <string id="empiremembers" text="Империя" />
     <string id="empiremembers" text="Империя" />
     <string id="eMsA4Vk0" text="Отряд будет расти в размере. Текущий целевой размер {TARGET_SIZE}" />
     <string id="eMwbzp49" text="Битва проиграна..." />
@@ -1170,7 +1167,6 @@
     <string id="Q3KrMlLd" text="Атака!" />
     <string id="q3mOBLFn" text="Выбор навыка фокусировки" />
     <string id="Q67Wys0i" text="Патрулируют вокруг {SETTLEMENT_NAME}" />
-    <string id="q6P6bdbC" text="Быстрый разговор" />
     <string id="Q7ONA10T" text="&lt;b&gt;Требушет&lt;/b&gt;{newline}Неточное, но разрушительное для стен." />
     <string id="Q8mI3b4K" text="Политика не выбрана" />
     <string id="QA8Gm9PY" text="Жаркий день, не правда ли? Не утомляйте себя во время боя. Дайте нам то, что мы хотим, и мы уйдем." />

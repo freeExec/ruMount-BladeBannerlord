@@ -31,6 +31,7 @@
 * freeExec
 * BROadu$
 * Halynsky
+* Artess999
 
 # Используете наш русификатор за основу?
 1. в SubModule.xml обязательно оставить автора;

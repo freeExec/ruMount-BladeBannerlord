@@ -1,27 +1,5 @@
 by DOG729
-site: DOG729.RU
-site download: https://fgame.dog729.ru/#mb2rus
-updated: 2020-08-20
+updated: 2020-12-25
 
 by freeExec
-updated: 2020-11-21
-
-Credit:
-haman115
-EdMyGod
-ZhestkovAS
-taranikys
-energizerus
-Scaroman
-Cas
-Isknikita
-Scaro
-angel - Isknikita
-i1qwert
-Emphatic44
-ChaosClap
-MyUselessness
-freeExec
-BROadu$
-BLIN
-Klementain
+updated: 2020-11-27

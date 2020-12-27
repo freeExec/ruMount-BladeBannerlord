@@ -141,7 +141,7 @@
     <string id="AtNVVwTF" text="Короткое древко из сосны" />
     <string id="aUJaQmN1" text="Усиленная драгоценными камнями двуручная рукоять" />
     <string id="aVBGVt7N" text="/Коническая рогатая/ рукоять" />
-    <string id="Aw7Veoaa" text="Окованное железом грубая кожаная углова рукоять" />
+    <string id="Aw7Veoaa" text="Окованное железом грубая кожаная угловая рукоять" />
     <string id="az6t2tOm" text="Ребристая западная гарда" />
     <string id="azjW7lAg" text="Гравированная /ild/ гарда" />
     <string id="aZp1ur9Q" text="/Навершие в виде чаши/" />
@@ -180,7 +180,7 @@
     <string id="c6aNuaDP" text="Jagged Blunt Spear Head" />
     <string id="C89rbAz6" text="Усиленный рыцарский клинок меча" />
     <string id="cag70E1F" text="Навершие Пернача" />
-    <string id="cbHjFPEb" text="Высокогорная тонкая кожанная рукоять полуторного меча" />
+    <string id="cbHjFPEb" text="Высокогорная тонкая кожаная рукоять полуторного меча" />
     <string id="CdBAvJdP" text="Навершие /Контос/" />
     <string id="CE1IQiEU" text="Спиральная рукоять меча, усиленная тонкой кожей" />
     <string id="cEU66ABf" text="Северное лезвие боевого топора" />
@@ -247,6 +247,7 @@
     <string id="fRVQzcoY" text="Грубая толстая обернутая кожей одноручная рукоять" />
     <string id="Ft5A2Eb4" text="Покрытая кожей восточная усиленная двуручная рукоять" />
     <string id="ftwNaFZh" text="Крылья с двойным крючком" />
+    <string id="fuIxmJ2g" text="Heavy Wooden Blade" />
     <string id="fuIxmJ2g" text="Heavy Wooden Blade" />
     <string id="FxCfO3zN" text="Железная усиленная рукоять булавы" />
     <string id="FyaygeEx" text="Шишковатая дубина" />
@@ -436,7 +437,7 @@
     <string id="NLs9M1D6" text="Восточная Простой Овальной Охранник" />
     <string id="NmkDgmWW" text="Стали Horsemans Булава Ручка" />
     <string id="NO6FhjbJ" text="Мандариновый Кожаные Ручки" />
-    <string id="NQb8boHt" text="Затвердетый Вал Золы " />
+    <string id="NQb8boHt" text="Затверделый Вал Золы" />
     <string id="nr3K4od2" text="Пилум Голову" />
     <string id="NRhAqB5a" text="Long Grassland Blunt Spear" />
     <string id="nRKOX66b" text="Зубчатые Тонкой Стали Копье Головы" />
@@ -480,7 +481,7 @@
     <string id="PbxZzhZx" text="Узкие Seax Охранник" />
     <string id="PjMeZcwO" text="Губами Кинжал Гвардии" />
     <string id="pkmy6zB2" text="Южная Звезда Охраны" />
-    <string id="PmPxx2gK" text="Согнутая навершие лезвия" />
+    <string id="PmPxx2gK" text="Согнутое навершие лезвия" />
     <string id="pnS90zg8" text="Flat Ridged Blunt Spatha Blade" />
     <string id="pocRP9dq" text="Длинный Посох Пепла " />
     <string id="PQ8rR13R" text="Длинный Клинок Ятагана Зз Хорошей Стали" />
@@ -580,7 +581,7 @@
     <string id="Uhc0KIdz" text="Сосновая рукоять копья" />
     <string id="uIciSK8t" text="Награжден Круглый Южного Благородный Сцепление" />
     <string id="uKu7rTrW" text="Плотно Завернутый Узкий Одноручный Хват" />
-    <string id="UKWwPPkx" text="Опрятный Клинок с Отпечатком Золотых Леспестков" />
+    <string id="UKWwPPkx" text="Опрятный Клинок с Отпечатком Золотых Лепестков" />
     <string id="ukYW8FVm" text="Луковичное Навершие Сабли" />
     <string id="uLqEw8LB" text="Шипованные Imperial Длинная Ручка" />
     <string id="uQsJQLJH" text="Короткое Северное Скрыть Ручка" />

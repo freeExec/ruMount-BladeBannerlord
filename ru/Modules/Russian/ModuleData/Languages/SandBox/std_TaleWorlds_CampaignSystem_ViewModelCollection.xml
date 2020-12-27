@@ -65,7 +65,8 @@
     <string id="armorTier" text="Класс экипировки: " />
     <string id="aROohsat" text="Является членом в другой армии." />
     <string id="aTdrjrEh" text="{SWING_DAMAGE_FACTOR}" />
-    <string id="AxRxT2Xj" text="После роспуска армии, все ее бойцы примкнут к отряду союзника или отправятся в близжайшее союзное поселение,что бы вступить в гарнизон. Этот приказ нельзя будет отменить. Вы точно уверены,что хотите сделать это?" />
+    <string id="AxRxT2Xj" text="После роспуска армии, все ее бойцы примкнут к отряду союзника или отправятся в ближайшее союзное поселение,что бы вступить в гарнизон. Этот приказ нельзя будет отменить. Вы точно уверены,что хотите сделать это?" />
+    <string id="bAqDnkaT" text="Скорость снаряда" />
     <string id="bAqDnkaT" text="Скорость снаряда" />
     <string id="bd7oAQq6" text="Ежедневно" />
     <string id="bfQLwMUp" text="Кланы" />
@@ -78,6 +79,7 @@
     <string id="BV5exuPf" text="Удалить из закладок" />
     <string id="C2qpwFq5" text="Владелец земель {SETTLEMENTS}" />
     <string id="c5eYzHaM" text="{DAYS} {?DAY_IS_PLURAL}Дней{?}День{\?} ({PERCENTAGE}%)" />
+    <string id="c6BtCIrX" text="{DAYS} дней назад" />
     <string id="c6BtCIrX" text="{DAYS} дней назад" />
     <string id="c6e4c8588ca9e42f6e1b47b11f0f367b" text="Длина: " />
     <string id="c7638a0869219ae845de0f660fd57a9d" text="Урон 'В Атаку': " />
@@ -92,6 +94,7 @@
     <string id="CnsIzaWo" text="Поле Битвы" />
     <string id="cUUI8u2G" text="Выносливость в кузне " />
     <string id="d2K6gMsZ" text="Отправить воинов. Нужен как минимум 1 спутник." />
+    <string id="d8jrv3nA" text="Добавить в закладки" />
     <string id="d8jrv3nA" text="Добавить в закладки" />
     <string id="DAmdTxuC" text="Управление армией" />
     <string id="dD3kRDHi" text="This hero is a fugitive and running from their captors. They will will be available after some time" />
@@ -165,10 +168,11 @@
     <string id="j8uZBakZ" text="{PROPERTIES}" />
     <string id="JIr3Jc7b" text="Отказаться от своих владений" />
     <string id="jlgjLDo7" text="Гарнизон" />
-    <string id="JOELdSab" text="Не хватает средств для улучшения мпстерской. Нужно как минимум {AMOUNT} динаров." />
+    <string id="JOELdSab" text="Не хватает средств для улучшения мастерской. Нужно как минимум {AMOUNT} динаров." />
     <string id="jPBhgu7a" text="Лагерь" />
     <string id="jQdBl4hf" text="Губернатор города " />
     <string id="JTxI3sW2" text="Взять в осаду {TARGET_SETTLEMENT}." />
+    <string id="jxypVgl2" text="Изменения отношений" />
     <string id="jxypVgl2" text="Изменения отношений" />
     <string id="Jyfkahka" text="{VALUE} ({?POSITIVE}+{?}{\?}{DELTA_VALUE})" />
     <string id="JYOcl7Ox" text="Неэффективно!" />
@@ -241,6 +245,8 @@
     <string id="pWObBhj5" text="Нельзя назначить лидера отряда в качестве губернатора поселения" />
     <string id="PXT6aA4J" text="Параметры Кампании" />
     <string id="q1J4a8rr" text="Скорость Обучение" />
+    <string id="Q8dhryRX" text="Parties' Food" />
+    <string id="QBB0KQ2Z" text="Parties' Average Morale" />
     <string id="Q8dhryRX" text="Parties' Food" />
     <string id="QBB0KQ2Z" text="Parties' Average Morale" />
     <string id="QBPrRdQJ" text="Врач" />

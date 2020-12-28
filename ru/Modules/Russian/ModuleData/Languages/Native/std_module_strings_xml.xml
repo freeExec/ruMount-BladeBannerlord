@@ -1355,7 +1355,7 @@
     <string id="Tyc4aAdz" text="Вступить в бой без помощи." />
     <string id="u3c9M8vx" text="лукавство" />
     <string id="U7er3V9s" text="Предметы" />
-    <string id="U7etPQA2" text="{HERO.FIRSTNAME} the {JOB_NAME}" />
+    <string id="U7etPQA2" text="{HERO.FIRSTNAME} {JOB_NAME}" />
     <string id="U7Z7f7ZT" text="Супруг(а)" />
     <string id="U8TPlwW9" text="Хорошая встреча {PLAYER.LINK}. Я в долгу перед тобой. Я надеюсь, что однажды я найду способ чем отблагодарить." />
     <string id="U8VHRdwF" text="Броня ног: " />

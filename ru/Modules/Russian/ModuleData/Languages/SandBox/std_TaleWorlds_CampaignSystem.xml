@@ -4,7 +4,7 @@
     <tag language="Русский" />
   </tags>
   <strings>
-    <string id=" VbU8Ue0O" text="After waiting for a while you find a good opportunity to close in undetected beneath the shroud of the night." />
+    <string id=" VbU8Ue0O" text="Подождав некоторое время, вы находите хорошую возможность подойти ближе и остаться незамеченным под покровом ночи." />
     <string id="00bd3Huo" text="выполняя новые ритуалы, которые почитают правителя как полубожество" />
     <string id="00DQxO0Q" text="Training for adult life starts early for a child in Calradia. Every child will be assigned tutors and instructors throughout their childhood, and frequently one of them becomes a mentor for the child, filling in for parents who are busy with warfare and politics. You entrusted {CHILD.NAME} first and foremost to..." />
     <string id="028iCb8B" text="Jythea" />
@@ -53,7 +53,7 @@
     <string id="0mK6MIJW" text="Продолжай, дитя мое." />
     <string id="0mKYUNb8" text="Права На Охоту " />
     <string id="0mVwnCES" text="Я должен кое-что сказать. Ваши люди говорят, что их зарплаты удерживают. Мы должны позаботиться, чтобы этого больше не произошло." />
-    <string id="0nhqJewP" text="{RULER.NAME} of the {KINGDOM} grants {SETTLEMENT} to {LEADER.NAME} with {?RULER.GENDER}her{?}his{\?} council's support." />
+    <string id="0nhqJewP" text="{RULER.NAME} из {KINGDOM} передал {SETTLEMENT} в руки {LEADER.NAME}, с полным одобрением совета." />
     <string id="0oGz5rVx" text="Честь" />
     <string id="0Pd84h4W" text="Я приму это." />
     <string id="0pyLfrGZ" text="Прогулка" />
@@ -873,7 +873,7 @@
     <string id="AzKq8AfI" text="В теории, король или империя имеет право командовать людьми на поле битвы. Любой, кто командует армией, делает это во имя короля." />
     <string id="aZne44IB" text="Семья {CLAN_NAME}" />
     <string id="b0ak3yGV" text="Ярость" />
-    <string id="B0eBWPoO" text=" Вы поделились своим продовольствием с голодными солдатами вашей армии. Вы получили {INFLUENCE} {INFLUENCE_ICON}." />
+    <string id="B0eBWPoO" text="Вы поделились своим продовольствием с голодными солдатами вашей армии. Вы получили {INFLUENCE} {INFLUENCE_ICON}." />
     <string id="B0UdQpDf" text="You've tasked the steward to make sure that your child knows goods and prices, and where {?CHILD.GENDER}she{?}he{\?} is likely to get the best deals either buying or selling." />
     <string id="B0uKPW9S" text="Проголосуйте за следующего правителя {KINGDOM_NAME}" />
     <string id="B0YOpGsZ" text="Есть какие нибудь новости о моих заключённых?" />
@@ -2227,7 +2227,7 @@
     <string id="L4Se89I6" text="Отказать ему, ждать лучшего предложения." />
     <string id="L53ABEua" text="Get 20% healing bonus in villages." />
     <string id="l549ODcw" text="К сожалению. Я не могу сделать это прямо сейчас." />
-    <string id="l5H9x7Lo" text="{RULER.NAME} of the {KINGDOM} grants {SETTLEMENT} to {LEADER.NAME}, with {?RULER.GENDER}her{?}his{\?} council evenly split." />
+    <string id="l5H9x7Lo" text="{RULER.NAME} из {KINGDOM} передал {SETTLEMENT} в руки {LEADER.NAME}, с неоднозначным решением совета." />
     <string id="l5kDEI6N" text="Имперские Города" />
     <string id="l5YipTe3" text="{SETTLEMENT} под осадой. {SIEGE_LEADER} командует осадой." />
     <string id="L6N2YLa6" text="{HERO.FIRSTNAME} Палец" />

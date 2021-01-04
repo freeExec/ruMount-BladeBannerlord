@@ -314,7 +314,7 @@
     <string id="arHXmqqc" text="мольба" />
     <string id="arWaVMpe" text="Мы должны ударить мощно и уничтожить их осадные машины." />
     <string id="aseraifaction" text="Асераи" />
-    <string id="aseraimembers" text="Асерай" />
+    <string id="aseraimembers" text="Асераи" />
     <string id="asHzEWnG" text="Мы окропим пески твоей кровью, в таком случае." />
     <string id="aTLrmbVL" text="Ур. IV" />
     <string id="aUNYlvbN" text="Вы прибыли в {SETTLEMENT}, чтобы разграбить его. Некоторые жители собрались, чтобы помещать вам." />
@@ -744,7 +744,7 @@
     <string id="icmyseoo" text="Мой Лорд," />
     <string id="IcQ2doLo" text="x{QUANTITY}" />
     <string id="id62me1x" text="Нажмите &quot;Осаждать&quot;" />
-    <string id="IF7zS5ia" text="Лимит пленников превышен.{newline}Временно ваши пленники остануться с вами, но через некоторое время они начнут быстро покидать отряд. вы также замедлитесь.{newline}Вы уверены?" />
+    <string id="IF7zS5ia" text="Лимит пленников превышен.{newline}Временно ваши пленники останутся с вами, но через некоторое время они начнут быстро покидать отряд. вы также замедлитесь.{newline}Вы уверены?" />
     <string id="iFg5N7r3" text="Одноручное Оружие" />
     <string id="Igoid3sR" text="Предлагаю исключить этот клан из королевства" />
     <string id="ihVHfUFT" text="Формирование" />
@@ -956,7 +956,7 @@
     <string id="M9p0vPad" text="Я знаю, как вас зовут... {COMMENT_STRING_MAIN}" />
     <string id="m9vD3VlN" text="Эта партия не будет расти или уменьшаться в размерах. Он будет пытаться удержать его размер, как это." />
     <string id="MaBSSg7I" text="Таран" />
-    <string id="MacceKIX" text="{RELATION_TEXT} {NAME}" />
+    <string id="MacceKIX" text="{RELATION_TEXT} из {NAME}" />
     <string id="mAxXKaXp" text="Сброс" />
     <string id="mbS0DkUo" text="Рейд" />
     <string id="mbT1uNPa" text="Кинжал" />
@@ -1113,7 +1113,7 @@
     <string id="PDdh1sBj" text="Имя" />
     <string id="PdXqoa2W" text="Направляется в {SETTLEMENT_NAME}" />
     <string id="PE4nuMc7" text="Эта страница объясняет основные игровые принципы в Bannerlord" />
-    <string id="PEKxMxal" text="STUB: теперь вы можете выйти." />
+    <string id="PEKxMxal" text="Заглушки: теперь вы можете выйти." />
     <string id="pEm60xEX" text="Ваш противник захватывает пешку." />
     <string id="pERXhX7A" text="Вы нашли первый кусок Знамени!" />
     <string id="pftVKkgq" text="Для отслеживания поселения на карте кампании, нажмите на круг рядом с его названием." />

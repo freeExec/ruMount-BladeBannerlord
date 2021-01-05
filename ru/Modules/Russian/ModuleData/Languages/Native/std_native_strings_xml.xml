@@ -300,7 +300,7 @@
     <string id="t2Oh6uty" text="Приветственное сообщение" />
     <string id="t78atYqH" text="Двуручное" />
     <string id="t8lAbdCk" text="Остров Дериад (Winter)" />
-    <string id="tAeflOpj" text="Нанесено {DAMAGE} {DAMAGE_TYPE} урона." />
+    <string id="tAeflOpj" text="Получено {DAMAGE} {DAMAGE_TYPE} урона." />
     <string id="tAyw51tM" text="Разрешить индивидуальные флаги" />
     <string id="TDy1GZHv" text="Перестрелка в битве" />
     <string id="tE1VwKTZ" text="Метательный топор" />

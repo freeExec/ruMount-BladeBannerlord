@@ -301,7 +301,7 @@
     <string id="4G3Aeqna" text="{KING.NAME}" />
     <string id="4GgfFDWG" text="Заключить мир с {KINGDOM_NAME}" />
     <string id="4hUEryJ6" text="Значимые услуги" />
-    <string id="4hvV3GF1" text="+2% Скорость взмаха." />
+    <string id="4hvV3GF1" text="+2% Скорость удара." />
     <string id="4HWFvX8M" text="Я дал клятву своему сеньору. Нарушить её, даже по уважительной причине, было бы большим пятном на моей чести." />
     <string id="4iJku8oc" text="&quot;{CHILD.NAME} хочет поиграть!&quot;" />
     <string id="4iTaEZKg" text="Миледи, может ты дашь мне еще один шанс проявить себя?" />
@@ -2385,7 +2385,7 @@
     <string id="MaK0r9as" text="{HERO.FIRSTNAME} Дубина" />
     <string id="MalIalPA" text="Я не стану слушать подобные вещи, пока нахожусь в армии." />
     <string id="MAn7vRUe" text="{TARGET_HERO.LINK} больше нет в живых. Вы не смогли вовремя доставить {?TARGET_HERO.GENDER}ей{?}ему{\?} предметы." />
-    <string id="maptrack" text="Track" />
+    <string id="maptrack" text="След" />
     <string id="MaXA5HJi" text="{ISSUE_GIVER.LINK} шлет вам сообщение. «Было приятно иметь дело с вами и вашими людьми.»" />
     <string id="maXW8tps" text="Вам не удалось захватить и доставить пленного вовремя." />
     <string id="mb25Ue3f" text="Прав Выпаса " />
@@ -2813,7 +2813,7 @@
     <string id="PSmDvbGM" text="Прибыль с вклада динар (в Банковской Карты Тинькофф) +0,1% в день." />
     <string id="PstO2f5I" text="Зернохранилище" />
     <string id="Pt2n5Cez" text="20% шанс избежать критической неудачи в убеждении" />
-    <string id="PThYJE2U" text="Скорость Отряда:" />
+    <string id="PThYJE2U" text="Скорость отряда:" />
     <string id="PTj1WtJx" text="Как мы убежали там... Стыдно даже вспоминать. В следующий раз уж лучше сразиться до смерти, чем слушать как тебя называют трусом!" />
     <string id="PtWQ789Z" text="Я не уверен, что могу доверять вашим людям." />
     <string id="PTYKFbqf" text="Управляемое поселение получает +1 к процветанию в день." />
@@ -3017,7 +3017,7 @@
     <string id="rBt7JprD" text="Вам не нужно знать всю историю выходок вашего ребенка {CUNNING_PROFESSION} в компании, но {CUNNING_PROFESSION} сообщает вам, что {?CHILD.GENDER}она{?}он{\?} демонстрирует естественный талант в этом" />
     <string id="RbToDs0n" text="Вот ваш груз, теперь пришло время для оплаты." />
     <string id="rbYHF03o" text="Заработная плата снижена на 50% при ожидании в поселениях." />
-    <string id="rCiKbsyW" text="Запасные Крепления" />
+    <string id="rCiKbsyW" text="Свободные лошади" />
     <string id="rCTMTayH" text="{INITIAL_COURTSHIP_REACTION}" />
     <string id="rCzzYL7U" text="Убирает штраф к боевому духу за наим войск вашей фракции." />
     <string id="rd229FYG" text="{RULER.NAME} исключает клан {CLAN} из {KINGDOM}, с поддержкой {?RULER.GENDER}ее{?}его{\?} совета." />
@@ -3603,7 +3603,7 @@
     <string id="vpGuPeAH" text="Увеличьте урон от древкового оружия на 2%." />
     <string id="VpLzd69e" text="Сопровождение Торгового Каравана" />
     <string id="vpxBLXHH" text="Караван заблудился, и ваш ребенок заметил ориентиры, чтобы вернуть его на курс" />
-    <string id="VqAEqhr2" text="Качество милиции увеличивается на 10%, в деревне налоговые доходы сократились на 5%" />
+    <string id="VqAEqhr2" text="Качество милиции увеличивается на 10%, налоговые доходы с деревень сокращаются на 5%" />
     <string id="vqSHB7mJ" text="Ферма Свиней " />
     <string id="vquApOWo" text="Охранники" />
     <string id="VRLbAaYe" text="Спасибо за спасение моего дела {?PLAYER.GENDER}мадам{?}сир{\?}. Вот ваш платеж." />

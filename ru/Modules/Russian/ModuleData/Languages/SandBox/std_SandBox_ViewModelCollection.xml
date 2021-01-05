@@ -21,11 +21,11 @@
     <string id="eL8nhkhQ" text="Создать новый слот для сохранения" />
     <string id="eTw2aNV5" text="+" />
     <string id="gDKhs4lD" text="{A0} has died on the battlefield." />
-    <string id="GZWPHmAw" text="День : {DAY}" />
+    <string id="GZWPHmAw" text="День: {DAY}" />
     <string id="HH2mZq8J" text="Вы уверены, что хотите удалить эту игру??" />
     <string id="hiCxFj4E" text="Сохранения" />
     <string id="hYL3CFHX" text="Хотите перезаписать эту сохраненную игру?" />
-    <string id="IwhpeT8C" text="Уровень : {PLAYER_LEVEL}" />
+    <string id="IwhpeT8C" text="Уровень: {PLAYER_LEVEL}" />
     <string id="IXwOaa98" text="Размер отряда" />
     <string id="JAFIo7cM" text=":" />
     <string id="L9GnQvsq" text="Ставка: {BETTED_DENARS}" />

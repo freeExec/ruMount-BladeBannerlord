@@ -649,7 +649,7 @@
     <string id="ggpRTQQl" text="Лидер партии" />
     <string id="ggrqoGnE" text="Потрачено {AMOUNT}" />
     <string id="ggzCiYkk" text="{VALUE}{GOLD_ICON} необходимо для улучшения." />
-    <string id="gHnfFi1s" text="В отставку" />
+    <string id="gHnfFi1s" text="В отставке" />
     <string id="GhVXQrYF" text="Модернизация войск" />
     <string id="giftverb" text="Подарок" />
     <string id="gj2HD7M3" text="У вас еще есть шанс выиграть. Вы точно хотите сдаться?" />
@@ -990,7 +990,7 @@
     <string id="mtndRgOg" text="Вы начали заговор против Империи!" />
     <string id="mTTWkewD" text="Дать" />
     <string id="MUCmJaXQ" text="Правитель {FACTION}" />
-    <string id="MW8rlyfL" text="мет." />
+    <string id="MW8rlyfL" text="Метательное" />
     <string id="mwegfVKr" text="Головного мозга" />
     <string id="MWGATOoz" text="Турнир будет групповой рукопашный бой." />
     <string id="MwgcfGsr" text="A pawn that lands on a tile with an opposing pawn already there, will capture that opposing pawn. The captured pawn will be stacked underneath the invading pawn.{newline}A stack of pawns can be also be re-captured as long as the top pawn belongs to the opponent.{newline}As soon as a pawn makes a capture, it will move back towards its home-tile in the next turn." />
@@ -1275,7 +1275,7 @@
     <string id="SdXS4lxN" text="Бонус лидера фракции" />
     <string id="SEBZa2Lh" text="Повысить сплоченность" />
     <string id="SeQ0Q7r6" text="Текущая проблема" />
-    <string id="settlementtrack" text="След" />
+    <string id="settlementtrack" text="Отслеживать" />
     <string id="sfcbd6QS" text="Вы набрали {CURRENT_PROGRESS} баллов из {TARGET_PROGRESS}, необходимых попытки успеха в убеждении." />
     <string id="SFddKpPz" text="Жесткие руки" />
     <string id="SFg3xgCM" text="Рядом" />
@@ -1623,7 +1623,7 @@
     <string id="ZdeswYbM" text="У продавца не хватает денег! Вы уверены?" />
     <string id="zDHbQtm9" text="Вы были сражены неоседланной лошадью!" />
     <string id="ZdqbU2gw" text="Принять" />
-    <string id="zE6OFPRu" text="Налог с населения" />
+    <string id="zE6OFPRu" text="Налог с поселения" />
     <string id="zEbvDH7V" text="Вы не можете поддержать свой клан." />
     <string id="zeGAw2IE" text="Убит" />
     <string id="ZEzxHLaH" text="Пленных героев завербовать нельзя" />

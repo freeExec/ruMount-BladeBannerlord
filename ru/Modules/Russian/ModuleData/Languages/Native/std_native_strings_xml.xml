@@ -54,7 +54,7 @@
     <string id="621DbiOw" text="Асимметрия носа" />
     <string id="64n3piBf" text="Всего игр" />
     <string id="6DBVzw9r" text="Построить" />
-    <string id="6usZYAVm" text="Злоупотребление общением" />
+    <string id="6usZYAVm" text="Нарушение правил общения" />
     <string id="6yZnboe6" text="Размер глазниц" />
     <string id="74tYdiOb" text="Мудро выбирайте свои войска в соответствии с потребностями вашей команды. Количество войск определяется их силой." />
     <string id="77arWi0m" text="Внутренняя высота глаз" />
@@ -147,7 +147,7 @@
     <string id="fGFMqlGz" text="Пол" />
     <string id="FgJpTBp1" text="Дружественный урон от огня" />
     <string id="fjD2tRXW" text="Выпуклость подбородка" />
-    <string id="fJHsYtKu" text="Echerion" />
+    <string id="fJHsYtKu" text="Эхерион" />
     <string id="fJqJiJvl" text="Использовать реалистичную блокировку" />
     <string id="fnJQO5Os" text="Высота кончика носа" />
     <string id="FoSTFipC" text="{PLAYER_NAME} заглушен." />
@@ -158,7 +158,7 @@
     <string id="GcosVDAt" text="Помочь посчитать" />
     <string id="GnKCsV44" text="Длина подбородка " />
     <string id="GoEo27il" text="Период возрождения атакующих" />
-    <string id="GQOS4d9g" text="Разрешить/запретить стоять лицом" />
+    <string id="GQOS4d9g" text="Переключить направление взгляда" />
     <string id="Gr994CTR" text="Запретить оружие дальнего боя" />
     <string id="GY4NaieE" text="Чисто" />
     <string id="h5OsTOFM" text="Губы вогнутый/выпуклый" />
@@ -170,8 +170,8 @@
     <string id="HyG3eUFN" text="Включить звук" />
     <string id="I4wnvBGd" text="Испытайте жестокость средневековых осад с защищающейся или атакующей стороны в этом крупном PvP-режиме. Используйте множество осадных орудий, чтобы отразить вражеские силы или закрепиться в пределах замка, когда вы пытаетесь защитить или захватить крепость." />
     <string id="IaaVNwwb" text="Включить BattlEye" />
-    <string id="IBAaKSbp" text="Port at Omor" />
-    <string id="iBk2wbn3" text="Форма" />
+    <string id="IBAaKSbp" text="Порт Омора" />
+    <string id="iBk2wbn3" text="Построение" />
     <string id="iDMBz55E" text="В многопользовательской игре" />
     <string id="ig0lsiwY" text="Отряд" />
     <string id="iJXH3841" text="Свободный" />
@@ -185,7 +185,7 @@
     <string id="Jd0Kq9lD" text="Щит" />
     <string id="jEh6EdF9" text="Лучшее из {ROUND_COUNT}" />
     <string id="JetpbYv9" text="Испортить" />
-    <string id="jpeq1gF0" text="Норд Таун" />
+    <string id="jpeq1gF0" text="Город Нордов" />
     <string id="JPimShCw" text="Тип игры" />
     <string id="jsqyGWGu" text="Процент прироста золота защитников" />
     <string id="jukzZmBb" text="Зарабатывайте золото и очки, убивая врагов и помогая своим товарищам по команде, так как вы соревнуетесь с противоположной командой до победы." />
@@ -276,7 +276,7 @@
     <string id="rbYITcao" text="Рот" />
     <string id="rbz1Bwbv" text="Инвентарь" />
     <string id="RDsOaEtS" text="Дополнительный урон от перков и эффектов: {MODIFIED_DAMAGE}" />
-    <string id="RJEHDWmu" text="·   Покупайте ограниченное возрождение за {newline}·   Удерживайте контрольные точки на карте, чтобы подорвать боевой дух врага{newline}·   Убейте всю вражескую команду или истощите их боевой дух, чтобы победить" />
+    <string id="RJEHDWmu" text="·   Покупайте ограниченное возрождение за золото{newline}·   Удерживайте контрольные точки на карте, чтобы подорвать боевой дух врага{newline}·   Убейте всю вражескую команду или истощите их боевой дух, чтобы победить" />
     <string id="RlDVtPpB" text="Глубина глаз" />
     <string id="rLozutts" text="Запрос на дружбу" />
     <string id="rTFaZCdY" text="Лес" />
@@ -324,7 +324,7 @@
     <string id="uCyQNvq1" text="Клин" />
     <string id="uGM8DWrm" text="Верхом" />
     <string id="UHIZLFBn" text="Убит {TROOP_NAME}" />
-    <string id="UJaQuEpD" text="Смена верхом" />
+    <string id="UJaQuEpD" text="Спешиться/оседлать" />
     <string id="Umb8XsZH" text="Колющий" />
     <string id="umhwsoqb" text="Выберите желаемый отряд в начале раунда и для дальнейшего возрождения, используйте золото." />
     <string id="uPLRkTZr" text="Получайте подкрепление используя золото в зависимости от успеха при осаде." />
@@ -339,7 +339,7 @@
     <string id="V4iU0wRv" text="Золото" />
     <string id="V6BAHTnv" text="Культура команды 2" />
     <string id="VbeHEAsa" text="Отступление" />
-    <string id="VecPWliR" text="Чрезмерное сообщение игрока может привести к бану." />
+    <string id="VecPWliR" text="Чрезмерные жалобы на игрока могут привести к бану." />
     <string id="VI4gQt8Q" text="Булава" />
     <string id="vkEzdL3k" text="Изменить тип игры или сцену" />
     <string id="vLjgcdgB" text="Снег" />
@@ -385,7 +385,7 @@
     <string id="YNkPy4ta" text="Клановый бой" />
     <string id="YoNYyLba" text="Копье" />
     <string id="yQtzabbe" text="Рядом" />
-    <string id="YRabuUqx" text="Окружение Баравенос" />
+    <string id="YRabuUqx" text="Окружение Баравеноса" />
     <string id="YRymCbaa" text="Меня пробило насквозь!" />
     <string id="Yvjap05b" text="Скорость передвижения" />
     <string id="YvK6gI6q" text="Окраина города" />

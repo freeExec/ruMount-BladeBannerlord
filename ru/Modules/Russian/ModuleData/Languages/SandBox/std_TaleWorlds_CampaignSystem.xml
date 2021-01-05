@@ -317,7 +317,7 @@
     <string id="4Pbfs4rV" text="Заводчик" />
     <string id="4pCODkNn" text="Увеличит максимальное здоровье на 5." />
     <string id="4PJF5EFA" text="{DEFECTION_AGREE_WITHOUT_BARTER}" />
-    <string id="4pmvrnmN" text="Замок {SETTLEMENT_LINK} принадлежит {LORD.LINK}, {FACTION_OFFICIAL} из {FACTION_TERM}. {KEEP_INFO}" />
+    <string id="4pmvrnmN" text="Крепость {SETTLEMENT_LINK} принадлежит {LORD.LINK}, {FACTION_OFFICIAL} из {FACTION_TERM}. {KEEP_INFO}" />
     <string id="4RNREbPW" text="Вам удалось вернуть все войска {QUEST_GIVER.LINK} и обучить их. {?QUEST_GIVER.GENDER}She{?}He{\?} посылает вам следующее письмо.    “{?PLAYER.GENDER}Madam{?}Sir{\?}, Спасибо, что присматриваешь за моими людьми. Вы выполнили наше соглашение, и я вам очень благодарен. Пожалуйста примите это {GOLD}{GOLD_ICON}.”" />
     <string id="4RWpqxwE" text="{HERO.FIRSTNAME} Брокер" />
     <string id="4Sb0d8FY" text="Дождаться темноты, чтобы напасть" />
@@ -3229,7 +3229,7 @@
     <string id="SvahUNo6" text="Пленных Выкуп " />
     <string id="SVebFiHQ" text="Похоже, {ENEMY_NAME} хочет войны с нами. Ну, я говорю, мы покажем ублюдкам, кто мы!" />
     <string id="SVrCpvpZ" text="Спасибо, {PLAYER.NAME}. Наши люди благодарны вам за то, что вы сделали сегодня. Прощайте." />
-    <string id="sVXa3zFx" text="Замок" />
+    <string id="sVXa3zFx" text="Крепость" />
     <string id="swggGckO" text="+1 отряд" />
     <string id="SXCudsWT" text="Государственные Монополии" />
     <string id="SxkaQbSa" text="Вы приближаетесь к воротам. Мужчины на стенах наблюдать." />

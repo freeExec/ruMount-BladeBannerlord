@@ -10,7 +10,7 @@
     <string id="3bW5jWJ1" text="{STR_SALUTATION}... Даже самому недостойному доверия человеку должен быть дан шанс восстановить свою честь. Именно поэтому я выслушаю то, что вы хотите сказать." />
     <string id="3WtZ4AKa" text="Я тебя не знаю... Если тебе есть что сказать, говори сейчас. Вороны голодны и я бы не заставлял их ждать." />
     <string id="43KLZl7D" text="{STR_SALUTATION}... Если дело дойдет до драки между вами и мной, что ж... Я не получу от этого никакого удовольствия." />
-    <string id="4j7uEWlA" text="{STR_SALUTATION}... I am at your service." />
+    <string id="4j7uEWlA" text="{STR_SALUTATION}... Я к вашим услугам." />
     <string id="4Lfz6ux4" text="{STR_SALUTATION}... Давно не виделись.." />
     <string id="4RbOYBQb" text="А ну стой. Не хочешь представиться или обойдёмся так?" />
     <string id="4RMGcBuj" text="{STR_SALUTATION}... Мир вам... Рад вас видеть." />
@@ -23,11 +23,11 @@
     <string id="97bAooa5" text="Боже.. Вино здесь на вкус как моча. А, да... так кто вы?" />
     <string id="9emUaMsx" text="{STR_SALUTATION}... Я к вашим услугам." />
     <string id="9MZ1SaXt" text="Ну... Не помню чтобы мы встречались. Не желаете ли представиться?" />
-    <string id="9uQibOo8" text="I'm at your service, {STR_SALUTATION}." />
+    <string id="9uQibOo8" text="Я к вашим услугам, {STR_SALUTATION}." />
     <string id="A3eeOUZH" text="Ты же знаешь какого я мнения о тебе. Лучше бы это было важно." />
     <string id="a67lBQad" text="А ты кто такой? Отвечай быстро, пока я не отдал приказ атаковать." />
-    <string id="aCFQOGye" text="{STR_SALUTATION}... Я жду ваших приказов." />
-    <string id="AFsNtnd8" text="{STR_SALUTATION}... At your service, as always." />
+    <string id="aCFQOGye" text="{STR_SALUTATION}... Я ожидаю ваших приказов." />
+    <string id="AFsNtnd8" text="{STR_SALUTATION}... К вашим услугам, как и всегда." />
     <string id="AoBIFXZH" text="{STR_SALUTATION}... Ну-ну. Мне очень любопытно услышать все, что ты собираешься сказать." />
     <string id="aOkilS3H" text="Верно. Так кто же вы тогда такой?" />
     <string id="axO6JCWt" text="С вашего позволения... приостановитесь пожалуйста. Хотелось бы узнать ваше имя." />
@@ -77,12 +77,12 @@
     <string id="lK32NXY8" text="Я верю, что ты хорошо держался, с честью сражался и прорубал кровавые леса своих врагов." />
     <string id="LNhUaIoB" text="Всё верно. Вы. Готовьтесь ко всему, что близится к вам." />
     <string id="LRpsEe3F" text="{STR_SALUTATION}... Приятно вас видеть." />
-    <string id="LvafEVjz" text="{STR_SALUTATION}... I'm yours to command." />
+    <string id="LvafEVjz" text="{STR_SALUTATION}... Жду дальнейших распоряжений." />
     <string id="lvScVM9T" text="Побыстрее, пожалуйста. Времени и так нет." />
     <string id="mcNlccCF" text="Хм? Не думаю, что знаю вас. Мир вам, странник." />
     <string id="mHjnRrLk" text="Не буду отрицать, что будет приятно посмотреть на то как ты корчишься от боли и истекаешь кровью на песке" />
     <string id="mkFfE4Pm" text="Так, ни шагу больше. Кто вы?" />
-    <string id="mru1p8Fz" text="{STR_SALUTATION}... Awaiting your orders, as always." />
+    <string id="mru1p8Fz" text="{STR_SALUTATION}... Жду ваших приказов, как и всегда." />
     <string id="n5Va4JVo" text="Ах, хорошо. Справедливость видно назначила меня её палачом. Неравнодушен ты к мечу иль неравнодушен ты к петле?" />
     <string id="nESnaBbx" text="Миледи... Вы как всегда прекрасны." />
     <string id="nFPrHMdU" text="Эх. Вино здесь на вкус как моча. В любом случае, что вам нужно?" />
@@ -137,7 +137,7 @@
     <string id="Z2bRJhTh" text="{STR_SALUTATION}... Если ты сегодня умрешь, то даю слово, твои подвиги не будут забыты." />
     <string id="z3zTyNru" text="Подойди еще ближе, незнакомец, и я воткну тебе нож в живот. Но если вы останетесь там, где находитесь, мы сможем довольно приятно поболтать." />
     <string id="ZBjXh6cA" text="Остановитесь, путник. Я желаю вам мира. По крайней мере, пока не выясню, кто вы." />
-    <string id="zfWpSLfd" text="Well... And who do we have here? Would you care to tell me your good name?" />
+    <string id="zfWpSLfd" text="Ну ... А у нас тут кто? Не могли бы вы назвать мне свое доброе имя?" />
     <string id="ZRUCzgxQ" text="{STR_SALUTATION}... Если у тебя нет доказательств, то иди строй козни в другом месте." />
   </strings>
 </base>

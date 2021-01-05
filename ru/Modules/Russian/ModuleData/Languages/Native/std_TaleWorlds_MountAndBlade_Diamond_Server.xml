@@ -24,7 +24,7 @@
     <string id="6cMSAe2Z" text="Could not report player. Player cannot be found." />
     <string id="8O8XqtqZ" text="You have to be at lobby to delete clan announcements." />
     <string id="91cJB1tP" text="Игрок {INVITEDPLAYER} уже состоит в отряде." />
-    <string id="963x2S0a" text="Friend has been removed" />
+    <string id="963x2S0a" text="Друг был удален" />
     <string id="9uUOpV6r" text="You must be at lobby to add an announcement." />
     <string id="a8AxTVro" text="You must be the clan leader to change sigil." />
     <string id="AAnoAhox" text="Could not change selected game mode" />
@@ -38,7 +38,7 @@
     <string id="bcdU2DHW" text="Игрок {INVITEE} получил приглашение в отряд от {INVITER}." />
     <string id="BDVYCAdP" text="Invited player is not at lobby." />
     <string id="bFwUxUJm" text="Only the leader of the clan can edit announcements." />
-    <string id="bivF3RXY" text="Нельзя назначать самого себя!" />
+    <string id="bivF3RXY" text="Вы не можете сменить лидера отряда во время создания клана." />
     <string id="bMLqfPRv" text="You are not in a clan." />
     <string id="BwBR7TJB" text="В вашем отряде никого не осталось и он был распущен!" />
     <string id="BYv1Laa4" text="You must be in a clan to add an announcement. Obviously." />
@@ -46,7 +46,7 @@
     <string id="caMylVF7" text="Чтобы вступить в сражение, вам нужно выбрать режим." />
     <string id="cBY4Mymw" text="Player has been reported." />
     <string id="d4eShU5x" text="{PLAYER} accepted your friend request" />
-    <string id="dabogDDj" text="You are already friends" />
+    <string id="dabogDDj" text="Вы уже друзья" />
     <string id="DAhyeheV" text="You must be at lobby to change clan information text." />
     <string id="dbLB0tuT" text="Family share is not allowed." />
     <string id="dDF2wZGu" text="{PLAYER} declined your friend request" />

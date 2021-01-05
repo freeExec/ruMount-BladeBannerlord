@@ -4,14 +4,14 @@
     <tag language="Русский" />
   </tags>
   <strings>
-    <string id="03vNcoOt" text="Dhila" />
-    <string id="0AuMcOga" text="Rolan" />
+    <string id="03vNcoOt" text="Дила" />
+    <string id="0AuMcOga" text="Ролан" />
     <string id="0CQgia2a" text="Кульхарн" />
     <string id="0YZQ8vr8" text="Ульман" />
     <string id="10urvYUQ" text="Белитор" />
     <string id="13YN3S79" text="Разана" />
     <string id="1cKxsHSh" text="Пейтон" />
-    <string id="1yJZWqhG" text="Pradentia" />
+    <string id="1yJZWqhG" text="Прадентия" />
     <string id="26W8jFm9" text="Секанис" />
     <string id="27fMB4Ri" text="Агнала" />
     <string id="2Bh8DS8S" text="Сиги" />
@@ -31,11 +31,11 @@
     <string id="3Y4jnu5i" text="Мародёр Герой" />
     <string id="48bvCvb2" text="Фарон" />
     <string id="4MwHbMFs" text="Кафид" />
-    <string id="4WiAzdHf" text="Jonna" />
+    <string id="4WiAzdHf" text="Джонна" />
     <string id="4YOld4FR" text="Доратила" />
     <string id="4YOoGhpK" text="Нифрон" />
     <string id="5eTb2xr7" text="Санон" />
-    <string id="5g54Smqk" text="Berican" />
+    <string id="5g54Smqk" text="Берикан" />
     <string id="5lYm8YtD" text="Изденка" />
     <string id="5N6i1jQP" text="Флинора" />
     <string id="5xOBW2Qz" text="Ашиса" />
@@ -58,7 +58,7 @@
     <string id="94xDbGvf" text="Бейтрин" />
     <string id="9iyfFTok" text="Сохатаи" />
     <string id="9lFmNG5c" text="Хадан" />
-    <string id="9Pw7LDXY" text="Maritzios" />
+    <string id="9Pw7LDXY" text="Марициос" />
     <string id="9xyXdX4I" text="Тарос" />
     <string id="a2rhPaGB" text="Балдрон" />
     <string id="A3LSuoBu" text="Сеонаг" />
@@ -69,7 +69,7 @@
     <string id="acp2IcMs" text="Кретор" />
     <string id="AdK4Ilzw" text="Кхалиси" />
     <string id="AEA6qavG" text="Леонтия" />
-    <string id="aemIaJIv" text="Chastimir" />
+    <string id="aemIaJIv" text="Кастимир" />
     <string id="agn93v7y" text="Йорик" />
     <string id="aJhRX6Lz" text="Педриек" />
     <string id="Al1FEd8h" text="Аэрон" />
@@ -79,7 +79,7 @@
     <string id="aRCzXkiD" text="Герой Горных Бандитов" />
     <string id="aSNUtnbH" text="Темучин" />
     <string id="Atuo4eR7" text="Шайма" />
-    <string id="auMsvXpb" text="Максим" />
+    <string id="auMsvXpb" text="Казинон" />
     <string id="AVEDQNvr" text="Валария" />
     <string id="aVfnZMt6" text="Борончар" />
     <string id="aVkqqEOx" text="Фарина" />
@@ -95,43 +95,43 @@
     <string id="BosCJ3Rb" text="Тристания" />
     <string id="bpl9EXWY" text="Эльбет" />
     <string id="brZGZw7D" text="Азина" />
-    <string id="bujI7g96" text="Сливина" />
+    <string id="bujI7g96" text="Силвина" />
     <string id="buvim3t7" text="Занува" />
     <string id="bVAPtfVG" text="Кхамбуй" />
     <string id="BVNCWAai" text="Эскобар" />
     <string id="bvY3HRvY" text="Валкава" />
     <string id="BxABzWjH" text="Кателла" />
-    <string id="C1LIflK9" text="РичХелда" />
+    <string id="C1LIflK9" text="Ричельда" />
     <string id="cdmrCQfC" text="Урунаги" />
     <string id="cdViCKs7" text="Расмус" />
     <string id="CfuGI5RK" text="Диарбхайн" />
     <string id="cjuYkvlX" text="Пелагея" />
     <string id="cL1lO5iP" text="Эрвин" />
     <string id="CLqPbdiZ" text="Люкон" />
-    <string id="codK1ezX" text="Элидурис" />
-    <string id="cqu8MATS" text="Есахей" />
+    <string id="codK1ezX" text="Эледуран" />
+    <string id="cqu8MATS" text="Эсачей" />
     <string id="CS4unEGi" text="Биачхаг" />
     <string id="CuH8aalQ" text="Валла" />
     <string id="CwK8l7IX" text="Софалия" />
-    <string id="D2aRzMRF" text="Ромул" />
-    <string id="d6aTWH9m" text="Варина" />
+    <string id="D2aRzMRF" text="Раф" />
+    <string id="d6aTWH9m" text="Верина" />
     <string id="D6sMSANW" text="Амальгам" />
-    <string id="D71AGZWF" text="Dakhila" />
+    <string id="D71AGZWF" text="Дакхила" />
     <string id="d8D98oFG" text="Мелидрон" />
     <string id="DADHWcX4" text="Бушила" />
     <string id="dbe79bvU" text="Арита" />
-    <string id="DCAa3GOY" text="Хода" />
+    <string id="DCAa3GOY" text="Рода" />
     <string id="DH7SnD7L" text="Эроникс" />
     <string id="dkEJCrzi" text="Асель" />
-    <string id="dqSpWdO9" text="Лигхгардис" />
+    <string id="dqSpWdO9" text="Лиетгардис" />
     <string id="Dsclf61p" text="Хасон" />
     <string id="DsduCz91" text="Санит" />
     <string id="DuTdWRbB" text="Фарзана" />
     <string id="DVtqrS0T" text="Акром" />
     <string id="dwFZFQ6V" text="Лисица" />
-    <string id="e0iDOkUq" text="Gusukan" />
+    <string id="e0iDOkUq" text="Гусукан" />
     <string id="E5CKYEWf" text="Киша" />
-    <string id="e8NQzxiE" text="Луда" />
+    <string id="e8NQzxiE" text="Люда" />
     <string id="ebQiU2wT" text="Корейн" />
     <string id="EdQ0Lp2a" text="Венеранда" />
     <string id="EFgG35sB" text="Зулайка" />
@@ -139,49 +139,49 @@
     <string id="EHalkcEU" text="Моргон" />
     <string id="EHHVVfgW" text="Герой Лесных Бандитов" />
     <string id="EJFY3KdF" text="Альтенос" />
-    <string id="enuXNYIl" text="Аморцон" />
+    <string id="enuXNYIl" text="Аморкон" />
     <string id="eoTzkbbv" text="Митела" />
     <string id="EptYW9tj" text="Нянтай" />
     <string id="EPVOYcgH" text="Ширан" />
     <string id="Er3eFLdH" text="Сурух" />
-    <string id="eRhu9Lbf" text="Тоаросе" />
+    <string id="eRhu9Lbf" text="Таорсе" />
     <string id="eTS0B8NB" text="Олимпос" />
     <string id="f6urGGlU" text="Гудвин" />
     <string id="fb0F6jKI" text="Сежерон" />
-    <string id="FBa3bDcl" text="Арзамуд" />
+    <string id="FBa3bDcl" text="Артамунд" />
     <string id="fepOjbsV" text="Попилия" />
-    <string id="fGp76I0G" text="Каллиниа" />
+    <string id="fGp76I0G" text="Каллиния" />
     <string id="FLrdHzSf" text="Аннет" />
-    <string id="FP1nudkE" text="Дал'фар" />
+    <string id="FP1nudkE" text="Джалфар" />
     <string id="FR2wUMdb" text="Элис" />
     <string id="FUT6eXfw" text="Фэй" />
     <string id="GFmOwx4L" text="Идран" />
-    <string id="GFV7bzME" text="Айкрейша" />
+    <string id="GFV7bzME" text="Икратия" />
     <string id="Ggj9PWIU" text="Минарвина" />
     <string id="GK1k9K4j" text="Фьюрнхард" />
     <string id="gnGxp46c" text="Войтун" />
     <string id="gQ1JZ8ow" text="Ухай" />
     <string id="gRcc0zjg" text="Андрута" />
     <string id="GRjLT63Z" text="Киег" />
-    <string id="gSR6ObvN" text="Theavisos" />
+    <string id="gSR6ObvN" text="Теавизос" />
     <string id="gyqSk2Mp" text="Фениган" />
     <string id="GysebVMW" text="Эселен" />
-    <string id="H4OolRf7" text="З'хенева" />
+    <string id="H4OolRf7" text="Женева" />
     <string id="haAlaU7N" text="Талисор" />
-    <string id="heDA2r49" text="Voleric" />
+    <string id="heDA2r49" text="Волерик" />
     <string id="Hf70w27i" text="Брок" />
     <string id="HGBWqbhQ" text="Темин" />
     <string id="HIi53JMZ" text="Галдон" />
-    <string id="hjcwElSM" text="Euresa" />
+    <string id="hjcwElSM" text="Эуреса" />
     <string id="HQaqg40g" text="Oварос" />
     <string id="HSlPLC4m" text="Ира" />
     <string id="HSlqsoPK" text="Тамзан" />
     <string id="hy7mIh48" text="Водраг" />
     <string id="hzUbrsG6" text="Юнаген" />
     <string id="I2gnhOc2" text="Гоноратус" />
-    <string id="I6pJg72E" text="Sevin" />
+    <string id="I6pJg72E" text="Севин" />
     <string id="I72U5ttG" text="Гариос" />
-    <string id="i7GvKab4" text="Аполанена" />
+    <string id="i7GvKab4" text="Аполанея" />
     <string id="iaUQ9lt9" text="Ингалл" />
     <string id="IbgH3J03" text="Вивиана" />
     <string id="IgSZcCW0" text="Карит" />
@@ -190,26 +190,26 @@
     <string id="iOZtAOgk" text="Таис" />
     <string id="it6GDDPw" text="Ингунде" />
     <string id="iU8D2Psj" text="Сулхана" />
-    <string id="IwAcNgLc" text="Свен" />
+    <string id="IwAcNgLc" text="Освен" />
     <string id="IWI3T6zi" text="Кнутаг" />
     <string id="J0QdMsnX" text="Сусада" />
-    <string id="J2LE3595" text="Бобофлед" />
-    <string id="j3iaqr6v" text="Thiqa" />
+    <string id="J2LE3595" text="Одофлед" />
+    <string id="j3iaqr6v" text="Тига" />
     <string id="ja22un5W" text="Сведорн" />
-    <string id="JEfh8gHY" text="Ваймирос" />
+    <string id="JEfh8gHY" text="Вармирос" />
     <string id="jEIsVazl" text="Дертхерт" />
     <string id="JFVseSa3" text="Орос" />
     <string id="JhLPgr5x" text="Джина" />
     <string id="jIOMwnka" text="Варра" />
-    <string id="JJcFwAUb" text="Паларис" />
+    <string id="JJcFwAUb" text="Палариса" />
     <string id="JjGuU6Tt" text="Лотар" />
     <string id="JjK987wB" text="Тилун" />
     <string id="JPBz1blG" text="Тарик" />
     <string id="jqdpTXYV" text="Юстина" />
     <string id="jQjouVRk" text="Гифор" />
-    <string id="JTSWHkvd" text="Флоаридш" />
-    <string id="juzJA5Tw" text="Товейсис" />
-    <string id="jXIFcw1a" text="Ладогейл" />
+    <string id="JTSWHkvd" text="Флораид" />
+    <string id="juzJA5Tw" text="Торвазис" />
+    <string id="jXIFcw1a" text="Ладогуал" />
     <string id="JZvihMbB" text="Эргене" />
     <string id="K2UUjntt" text="Консталия" />
     <string id="K2uyaOia" text="Ячана" />
@@ -227,10 +227,10 @@
     <string id="KNppNkHr" text="Тэйган" />
     <string id="kNThwuOH" text="Герой Степных Бандитов" />
     <string id="KsBoNHW5" text="Катильда" />
-    <string id="ktPP2R1i" text="Гайран" />
+    <string id="ktPP2R1i" text="Гуаран" />
     <string id="kuOs90Uh" text="Арадвир" />
     <string id="kvxnbHjF" text="Ялас" />
-    <string id="KwNdjleW" text="Colambea" />
+    <string id="KwNdjleW" text="Коламбея" />
     <string id="kwNl4bsS" text="Аменон" />
     <string id="KxvbFSnm" text="Ингельтруд" />
     <string id="l1Ac8s1T" text="Люканд" />
@@ -241,7 +241,7 @@
     <string id="LiAefNmE" text="Тефлиос" />
     <string id="LJ6Intaq" text="Ушэр" />
     <string id="LQYkBOsU" text="Маврентиос" />
-    <string id="lRjHdd5l" text="Qaban" />
+    <string id="lRjHdd5l" text="Кабан" />
     <string id="LwbqCwne" text="Оспир" />
     <string id="m460qJaY" text="Велина" />
     <string id="m9ZgghCo" text="Абагай" />
@@ -259,8 +259,8 @@
     <string id="N7qb7ae6" text="Фафин" />
     <string id="nBDKxiyC" text="Румия" />
     <string id="NdkT0eqh" text="Ранаон" />
-    <string id="ndSKTPib" text="Aqar" />
-    <string id="nfvgHpn5" text="Фостер" />
+    <string id="ndSKTPib" text="Агар" />
+    <string id="nfvgHpn5" text="Фостор" />
     <string id="NiOxe8Y2" text="Юдира" />
     <string id="NOchnEwX" text="Гузид" />
     <string id="o5C0LbdP" text="Мегарита" />
@@ -268,10 +268,10 @@
     <string id="O75XlydW" text="Акрон" />
     <string id="OMkSgsV2" text="Жатея" />
     <string id="ooIX4QHL" text="Эйлид" />
-    <string id="oPN4vTKh" text="Бригхан" />
+    <string id="oPN4vTKh" text="Бриган" />
     <string id="otabNNZK" text="Заверена" />
     <string id="OtzsT453" text="Зуад" />
-    <string id="oyb1LMDs" text="Марияс" />
+    <string id="oyb1LMDs" text="Мэйреас" />
     <string id="OymqpgTX" text="Сердион" />
     <string id="ozpbN30B" text="Олимпия" />
     <string id="p4vC5oBc" text="Иефалия" />
@@ -284,7 +284,7 @@
     <string id="pkJy3oQL" text="Олек Старый" />
     <string id="pMbA799s" text="Вилдур" />
     <string id="PopVsatN" text="Сеоргис" />
-    <string id="PQoWbtKo" text="Сунесиос" />
+    <string id="PQoWbtKo" text="Сунезиос" />
     <string id="psnfaZbC" text="Сира" />
     <string id="PuRfbiW3" text="Эдгард" />
     <string id="Pya9aCTd" text="Этильд" />
@@ -299,14 +299,14 @@
     <string id="qKrOVIAq" text="Огвир" />
     <string id="qqW5n5Ox" text="Милос" />
     <string id="qtwYBHIn" text="Томунд" />
-    <string id="QuGKE0wg" text="Айтария" />
+    <string id="QuGKE0wg" text="Итария" />
     <string id="quVUTYOB" text="Шланек" />
     <string id="QvfUqzpF" text="Мина" />
     <string id="r3oIoCr8" text="Анкид" />
-    <string id="rBjsDVgz" text="Сачен" />
-    <string id="rf8KHRSP" text="Pagarios" />
+    <string id="rBjsDVgz" text="Сечен" />
+    <string id="rf8KHRSP" text="Пагариос" />
     <string id="rGuYLmez" text="Асцирон" />
-    <string id="rhSlO9g3" text="Нейтис" />
+    <string id="rhSlO9g3" text="Нестис" />
     <string id="Rlx9ndwy" text="Беасаг" />
     <string id="rNrq6QdU" text="Равангад" />
     <string id="RoKwj5XN" text="Чагун" />
@@ -314,53 +314,53 @@
     <string id="RYksq67N" text="Аблитос" />
     <string id="saaeExBg" text="Адда" />
     <string id="sABDrRyF" text="Орхан" />
-    <string id="SbiUqDke" text="Златха" />
+    <string id="SbiUqDke" text="Златка" />
     <string id="SFybYZNK" text="Менгус" />
     <string id="sh1o5nEe" text="Гавен" />
     <string id="sikx0BFu" text="Сильвид" />
-    <string id="sPSqyA4R" text="Сасайт" />
-    <string id="stjahQvD" text="Lucala" />
+    <string id="sPSqyA4R" text="Сасайта" />
+    <string id="stjahQvD" text="Лукала" />
     <string id="sZebVgCp" text="Фиканис" />
     <string id="T2JS44bJ" text="Бельгир" />
     <string id="t31RboMa" text="Хафиса" />
     <string id="TAGefbaW" text="Кантуджан" />
-    <string id="TbluOCYP" text="Dagunic" />
+    <string id="TbluOCYP" text="Дагуник" />
     <string id="TbQ9w13e" text="Фарид" />
     <string id="tCTzsaIu" text="Мюнсер" />
     <string id="TfNSLFNF" text="Аида" />
     <string id="tHtt3HCn" text="Плинтер" />
     <string id="Toj0vayQ" text="Мончуг" />
-    <string id="tRAl9AW2" text="Комитосос" />
+    <string id="tRAl9AW2" text="Коматаса" />
     <string id="tTuaiLS6" text="Ментор" />
-    <string id="txyVEr0U" text="Satros" />
+    <string id="txyVEr0U" text="Сатрос" />
     <string id="u1lTJoPO" text="Немос" />
     <string id="uD0BU83l" text="Рейнгарда" />
     <string id="uDlnsFIF" text="Юрик" />
     <string id="uducgNbf" text="Кахан" />
-    <string id="ujbkd52l" text="Elendara" />
+    <string id="ujbkd52l" text="Элендара" />
     <string id="uLjRHv9p" text="Надя" />
     <string id="up2Pbi6u" text="Драча" />
-    <string id="Upt1X9HN" text="Нирейда" />
+    <string id="Upt1X9HN" text="Нерейда" />
     <string id="UQg7UijR" text="Гудонхельда" />
     <string id="uqGvaPxz" text="Лилижа" />
     <string id="UTFGUeVQ" text="Зенис" />
     <string id="uTFjknE2" text="Андерриос" />
-    <string id="uxt1DnZM" text="Галюк" />
+    <string id="uxt1DnZM" text="Галяк" />
     <string id="V1QLbhRl" text="Сора" />
     <string id="V44d9fIP" text="Терра" />
-    <string id="v6CSTkR4" text="Халасиана" />
+    <string id="v6CSTkR4" text="Хайласиана" />
     <string id="VAAIYJqI" text="Талнас" />
     <string id="vAKB54zO" text="Айва" />
-    <string id="vDqbZTbb" text="Mela" />
+    <string id="vDqbZTbb" text="Мела" />
     <string id="vDTGRgtu" text="Вермунд" />
     <string id="vEsKYrFR" text="Элдрик" />
     <string id="VGxQ98Tp" text="Ясум" />
-    <string id="VIs6y29A" text="Магет'ча" />
+    <string id="VIs6y29A" text="Мегечия" />
     <string id="vl2tgsKa" text="Урхун" />
     <string id="vlpRh9ZB" text="Эпиферия" />
     <string id="voa4jkxo" text="Анструда" />
     <string id="voimockT" text="Мирас" />
-    <string id="VPH7syd9" text="Прешана" />
+    <string id="VPH7syd9" text="Пресциана" />
     <string id="VPnW6rA1" text="Шимра" />
     <string id="VvFQhqub" text="Зорика" />
     <string id="VzhbUL60" text="Венделия" />
@@ -376,7 +376,7 @@
     <string id="x9LbvJYp" text="Нимр" />
     <string id="xC3kCGte" text="Юдиль" />
     <string id="XDAQgjpH" text="Тимин" />
-    <string id="xfSKiKl1" text="Vincantios" />
+    <string id="xfSKiKl1" text="Винкантиос" />
     <string id="XjMsnpgS" text="Тулаг" />
     <string id="XkNnlSwA" text="Джастион" />
     <string id="Xnngcfg9" text="Зейн" />
@@ -385,8 +385,8 @@
     <string id="XSfDaaFp" text="Адальтруд" />
     <string id="xtEfnInH" text="Олек" />
     <string id="xViSxONn" text="Ульдрос" />
-    <string id="Y0I9T9pe" text="Diasca" />
-    <string id="y881d2ER" text="Variasis" />
+    <string id="Y0I9T9pe" text="Диаска" />
+    <string id="y881d2ER" text="Вариазис" />
     <string id="YaHhZccz" text="Лазанд" />
     <string id="YBGCXSEx" text="Деббана" />
     <string id="Ybpa7Nbz" text="Аполитея" />
@@ -394,16 +394,16 @@
     <string id="yl6y9ua7" text="Бертлиана" />
     <string id="yNSLGTYc" text="Ирта" />
     <string id="yROMCMB3" text="Нонесос" />
-    <string id="ysrWE08a" text="Казурай" />
+    <string id="ysrWE08a" text="Казейрия" />
     <string id="YUoydtNS" text="Яна" />
     <string id="YWJUZlzt" text="Лантанор" />
     <string id="yWPpaXij" text="Калахан" />
-    <string id="zaHnL2It" text="Евтропиус" />
+    <string id="zaHnL2It" text="Эвтропиос" />
     <string id="zFPc7VEO" text="Декантия" />
     <string id="ZkaaXxeB" text="Иван" />
     <string id="Zq11L8aO" text="Ямина" />
-    <string id="Zttbvvxr" text="Rodarac" />
+    <string id="Zttbvvxr" text="Родак" />
     <string id="zUJKwx5J" text="Лена" />
-    <string id="Zzw3S7Lo" text="Forim" />
+    <string id="Zzw3S7Lo" text="Форим" />
   </strings>
 </base>

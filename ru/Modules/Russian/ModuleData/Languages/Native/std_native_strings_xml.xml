@@ -9,7 +9,7 @@
     <string id="05w8Tl7n" text="Степной" />
     <string id="0cpbEvsG" text="Старое лицо" />
     <string id="0DBQGaka" text="Нанесено рыцарским ударом!" />
-    <string id="0HTNYQz2" text="Сменить" />
+    <string id="0HTNYQz2" text="Переключить" />
     <string id="0nRbr6Z9" text="Северная Америка" />
     <string id="0P89VyAQ" text="Асимметрия лица" />
     <string id="0WHQKap4" text="Лимит времени выбора вооружения (секунд)" />
@@ -40,7 +40,7 @@
     <string id="43L45sjx" text="Количество ботов в формировании" />
     <string id="4DcNDein" text="Лимит времени на карте (минут)" />
     <string id="4Dd2xgPm" text="Вес" />
-    <string id="4jv2sW4U" text="Торговая точка" />
+    <string id="4jv2sW4U" text="Торговый пост" />
     <string id="4NaOKslb" text="-" />
     <string id="4PrfimcK" text="Знак" />
     <string id="4wLU6s4S" text="Живот" />
@@ -137,7 +137,7 @@
     <string id="EmVbbIUc" text="Вернуться" />
     <string id="EUHaR98k" text="Отчет" />
     <string id="EX4bKRbV" text="Смертей" />
-    <string id="EZRnvPJS" text="Лицом туда" />
+    <string id="EZRnvPJS" text="Следить за этим направлением" />
     <string id="f4ZeGAJi" text="Относительная скорость: {SPEED} m/s" />
     <string id="f5y9qyDb" text="Рука" />
     <string id="F6dUDgg3" text="Поражение" />
@@ -158,7 +158,7 @@
     <string id="GcosVDAt" text="Помочь посчитать" />
     <string id="GnKCsV44" text="Длина подбородка " />
     <string id="GoEo27il" text="Период возрождения атакующих" />
-    <string id="GQOS4d9g" text="Смена Facing" />
+    <string id="GQOS4d9g" text="Разрешить/запретить стоять лицом" />
     <string id="Gr994CTR" text="Запретить оружие дальнего боя" />
     <string id="GY4NaieE" text="Чисто" />
     <string id="h5OsTOFM" text="Губы вогнутый/выпуклый" />
@@ -171,7 +171,7 @@
     <string id="I4wnvBGd" text="Испытайте жестокость средневековых осад с защищающейся или атакующей стороны в этом крупном PvP-режиме. Используйте множество осадных орудий, чтобы отразить вражеские силы или закрепиться в пределах замка, когда вы пытаетесь защитить или захватить крепость." />
     <string id="IaaVNwwb" text="Включить BattlEye" />
     <string id="IBAaKSbp" text="Port at Omor" />
-    <string id="iBk2wbn3" text="Form" />
+    <string id="iBk2wbn3" text="Форма" />
     <string id="iDMBz55E" text="В многопользовательской игре" />
     <string id="ig0lsiwY" text="Отряд" />
     <string id="iJXH3841" text="Свободный" />
@@ -194,9 +194,9 @@
     <string id="JwnoxhKI" text="Глубина лица" />
     <string id="k4cMrbVf" text="Первое убийство в ближнем бою" />
     <string id="kCMGJl1W" text="Мост" />
-    <string id="Ke7eAS5B" text="Perk Bonus" />
+    <string id="Ke7eAS5B" text="Бонус за умение" />
     <string id="KHx75GnA" text="Вода" />
-    <string id="KiJd6Xik" text="Movement" />
+    <string id="KiJd6Xik" text="Движение" />
     <string id="koX9okuG" text="Нет" />
     <string id="kVwwG63i" text="Разрешить голосование за смену карты" />
     <string id="kW4c2liv" text="Использовать зависимую от прогресса анимацию" />
@@ -284,7 +284,7 @@
     <string id="Rvr1bcu8" text="Далее" />
     <string id="Sbna6UGb" text="Направление взгляда" />
     <string id="sBU9vyF1" text="Выстрел в голову!" />
-    <string id="scoreboardkick" text="Kick" />
+    <string id="scoreboardkick" text="Исключить" />
     <string id="SdxEH6b1" text="Нижняя форма губ" />
     <string id="SfJgnzdq" text="Заглушить" />
     <string id="siegemultiplayergametype" text="Осада" />
@@ -335,7 +335,7 @@
     <string id="UvIsHvrt" text="Река" />
     <string id="UwXP9UAR" text="Хорошо" />
     <string id="UY79LYHf" text="Бедный" />
-    <string id="V1kxYbRp" text="Смена огонь" />
+    <string id="V1kxYbRp" text="Разрешить/запретить огонь" />
     <string id="V4iU0wRv" text="Золото" />
     <string id="V6BAHTnv" text="Культура команды 2" />
     <string id="VbeHEAsa" text="Отступление" />

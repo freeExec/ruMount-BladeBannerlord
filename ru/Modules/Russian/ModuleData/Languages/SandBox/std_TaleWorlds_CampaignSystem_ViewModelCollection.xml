@@ -13,7 +13,7 @@
     <string id="154a34f8caccfc833238cc89d38861e8" text="Требуется:" />
     <string id="1CXlqb2U" text="Выберите: " />
     <string id="1JlzQIXE" text="Disabled" />
-    <string id="1UbocG5B" text="Denounce your rights and responsibilities from this fief by giving it back to the realm." />
+    <string id="1UbocG5B" text="Откажитесь от своих прав и обязанностей в этой вотчине, вернув ее королевству." />
     <string id="2abtb4xu" text="Независимый" />
     <string id="2ckyCKR7" text="Резерв" />
     <string id="2Cq3tViJ" text="Максимальная численность отряда" />
@@ -125,7 +125,7 @@
     <string id="fI7a7RoE" text="Максимальный вес" />
     <string id="FjJi1DJb" text="Этот герой уже является частью другого отряда" />
     <string id="fOSGakix" text="Вы не можете управлять армией, пока находитесь в плену." />
-    <string id="G2h0V10w" text="Gift this settlement to a clan in your kingdom." />
+    <string id="G2h0V10w" text="Подарите это поселение клану в своем королевстве." />
     <string id="g4XqKGUr" text="В группе уже есть участник с этой ролью." />
     <string id="G6cCjixe" text="{COMPLETION_PERCENT} (Приблизительно {DAYS} дней до завершения)" />
     <string id="g9VIbA9s" text="Сержант" />
@@ -205,7 +205,7 @@
     <string id="N63XYX2r" text="Поддержка" />
     <string id="N6QTvjMf" text="Пленники" />
     <string id="NAA4pajB" text="Вам нужно покинуть нынешнюю армию, чтобы создать новую." />
-    <string id="NC9bbrt5" text="Конец дня денаров" />
+    <string id="NC9bbrt5" text="Динары на конец дня" />
     <string id="NcYbdiyT" text="Сменить Лидера" />
     <string id="nMcvafHY" text="Активно" />
     <string id="nYYUQQm0" text="Множитель рубящего урона " />
@@ -271,7 +271,7 @@
     <string id="RuaA8t97" text="Имя Королевства" />
     <string id="rUeWBOOi" text="Выберите предмет для переплавки" />
     <string id="RVPidk5a" text="Влияние" />
-    <string id="rwKBR4NE" text="Average Days Until Food Runs Out" />
+    <string id="rwKBR4NE" text="Среднее количество дней до того, как закончится еда" />
     <string id="s31DnnAf" text="Урон" />
     <string id="s5b77f0H" text="Даёт +{BOOSTAMOUNT} сплоченности вашей армии" />
     <string id="s6koeapc" text="{MAP_FACTION}" />

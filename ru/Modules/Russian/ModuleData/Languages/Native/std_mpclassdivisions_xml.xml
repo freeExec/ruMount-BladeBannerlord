@@ -14,7 +14,7 @@
     <string id="2bzFzemV" text="Тяжелый Арбалет" />
     <string id="2JZakvPJ" text="Заменяет Менавлу на Тяжелую Менавлу, медленнее, но наносит больше урона." />
     <string id="3ksDHRKT" text="Дает Восточное Длинное Копье. Двуручное длинное копье." />
-    <string id="4eFFdbbh" text="Заменяет Вульж на Двуручный Меч. Эффективен в дуэлях." />
+    <string id="4eFFdbbh" text="Заменяет Вульж на Двуручный Меч. Эффективен во время дуэлей и нанесения колющих ударов." />
     <string id="4wdgiTta" text="Серп" />
     <string id="5JQFx3EW" text="Заменяет коня на более быстрого и маневренного." />
     <string id="5pLEUc4t" text="Усиленные стрелы" />
@@ -51,7 +51,7 @@
     <string id="bzdCMVuG" text="Кавалерийская Булава" />
     <string id="bzr6vtXi" text="Тяжелая Менавла" />
     <string id="C2XqmIAQ" text="Заменяет Изогнутый Лук на Составной Лук, наносит больше урона и точнее, но медленней." />
-    <string id="C9ufRSsL" text="Sword and Shield" />
+    <string id="C9ufRSsL" text="Меч и щит" />
     <string id="CaEBx7NK" text="Заменяет Табарзин на Бердыш, медленней, но наносит больше урона." />
     <string id="cfSgK0nk" text="Проворный конь" />
     <string id="CG5D5r2w" text="Заменяет Меч на Булаву, эффе против бронированных врагов." />
@@ -74,7 +74,7 @@
     <string id="eyCVSK43" text="Тяжелое Кавалерийское Копье" />
     <string id="F49w1uD0" text="(Временно)Заменяет Топор на Тяжелый Топор, наносит больше урона, но короче." />
     <string id="FaW2RuA8" text="Дополнительные Метательные Дротики" />
-    <string id="FfpqIuV8" text="Replaces Voulge with a Sword and Shield combination. Grants versatility and protection." />
+    <string id="FfpqIuV8" text="Заменяет Вульж на Щит и Меч. Обеспечивает подвижность и защиту." />
     <string id="FLBYsvxp" text="Длинный Меч" />
     <string id="g3EFq1ld" text="Улучшенные Дротики" />
     <string id="g7DvxQYg" text="Дает Тяжелый Скимитар, наносит больше урона, длиннее, но медленней." />
@@ -115,7 +115,7 @@
     <string id="loPT6GUc" text="Дает Павезу, облегчает блокирование, эффективна против стрелков." />
     <string id="LstE2rEG" text="Заменяет Имперского Боевого коня на Боевого Рысака, более маневренного и быстрого." />
     <string id="meWoLxtc" text="Заменяет Меч на Топор, эффективен против щитов." />
-    <string id="MnmUBlbL" text="Targe" />
+    <string id="MnmUBlbL" text="Тарджет" />
     <string id="n3q8k0lB" text="Броня для лошади" />
     <string id="n497RC1p" text="(Временно)Дает Ускоренные Стрелы." />
     <string id="NiaLmb1S" text="Заменяет Охотничий Лук на Короткий Лук, наносит больше урона, но медленнее." />
@@ -134,14 +134,14 @@
     <string id="PNZmPprx" text="Двуручный Меч" />
     <string id="pyupZxJK" text="Контос" />
     <string id="q8n63o4y" text="Дает Альшпис, очень эффективен против кавалерии, длиннее, чем копья, двуручный." />
-    <string id="qENFMPqP" text="Grants Throwing Spear, longer than spears, throwable, can be used in melee." />
+    <string id="qENFMPqP" text="Предоставляет Метательное Копье. Оно длиннее обычных копий, его можно метать, и оно может быть использовано в ближнем бою." />
     <string id="QLcP8bIs" text="Фалькс" />
     <string id="QojyuDln" text="Дает Контос, длинней, наносит больше урона, но медленнее." />
-    <string id="QR4bNj8H" text="Даёт кавалерийскую версию Менавлиона." />
+    <string id="QR4bNj8H" text="Предоставляет кавалерийскую версию Менавлиона." />
     <string id="Qs4VOXgE" text="Короткое Копье" />
-    <string id="r1Jp5c72" text="Grants a Pilum, longer, good for harrassing, can be used in melee." />
+    <string id="r1Jp5c72" text="Предоставляет Пилум. Он длиннее обычного копья, хорош для преследования, может быть использован в ближнем бою." />
     <string id="R7TAImaC" text="Большой Щит" />
-    <string id="rkqaCud5" text="Pilum" />
+    <string id="rkqaCud5" text="Пилум" />
     <string id="RV6BCPvg" text="Заменяет Топор на длинный и тяжелый Топор. Крайне эффективен против щитов." />
     <string id="rzP3J3Kb" text="Заменяет Фалькс на Ромфею, длиннее, но наносит меньше урона и медленнее." />
     <string id="sagHGCh7" text="Заменяет Длинное Копье на Контос, длиннее и наносит больше урона, но медленнее." />

@@ -606,7 +606,7 @@
     <string id="Fp68NbYO" text="Королевства" />
     <string id="fpdXZ0fl" text="Подбор" />
     <string id="FpI5JMZq" text="Транзакции были отменены" />
-    <string id="fpP2s7hX" text="+{BONUS_AMOUNT} бонус к производству деревни" />
+    <string id="fpP2s7hX" text="+{BONUS_AMOUNT} бонус к росту деревни." />
     <string id="fQ2RLaOa" text="У клана нет собственных владений" />
     <string id="fQAGU9GW" text="Щедрость:" />
     <string id="FqwHAxuM" text="Двуручное древковое" />
@@ -623,7 +623,7 @@
     <string id="FwlZRESM" text="+{BONUS_AMOUNT} бонус к ополчению" />
     <string id="fWwYUOVs" text="Мы принимаем ваше предложение." />
     <string id="FxoVjLvl" text="Щиты и дальнобойные орудия" />
-    <string id="FxPzcyLN" text="{SUPPORTERNAME} is supporting {CANDIDATENAME}" />
+    <string id="FxPzcyLN" text="{SUPPORTERNAME} поддерживает {CANDIDATENAME}" />
     <string id="FZBqNCvd" text="никто" />
     <string id="G0AWk1rX" text="Лестница" />
     <string id="g0gDsalr" text="Импульсивный" />
@@ -657,7 +657,7 @@
     <string id="GKO2ogal" text="Коррупция" />
     <string id="gKzLAjXr" text="Обратите внимание на то, как сплоченность вашей армии снизилась до минимума, и, довольно вероятно, ваша армия распадется.{newline}Вы можете нажать на кнопку управления армией, чтобы повысить вашу сплоченность." />
     <string id="GmcgoiGy" text="Торговля" />
-    <string id="GNkrUdwb" text="Твоя помощь была очень кстати, незнакомец. Мое имя {NPC.LINK}. Могу я узнать твоё?" />
+    <string id="GNkrUdwb" text="Твоя помощь была очень кстати, незнакомец. Мое имя {CONVERSATION_CHARACTER.LINK}. Могу я узнать твоё?" />
     <string id="GnWy8WAW" text="Лояльность:" />
     <string id="gNzXoCrq" text="Можешь идти, букашка." />
     <string id="GopVkA1q" text="Бандит" />
@@ -706,7 +706,7 @@
     <string id="HmbvM9Na" text="Вы хотите пропустить текущую матч?" />
     <string id="HMgrtLYa" text="Ваш чемпион проиграл дуэль. Ваша армия разочарована этим поражением. Ваша партия теряет боевой дух." />
     <string id="hMIjbLjt" text="мадам" />
-    <string id="hmlUJaDa" text="Неплохая встреча {PLAYER.LINK}. Мое имя {NPC.LINK} и я навсегда в долгу перед тобой. Если есть что-нить, в чем я могу тебе помочь, просто дай мне знать..." />
+    <string id="hmlUJaDa" text="Неплохая встреча {PLAYER.LINK}. Мое имя {CONVERSATION_CHARACTER.LINK} и я навсегда в долгу перед тобой. Если есть что-нить, в чем я могу тебе помочь, просто дай мне знать..." />
     <string id="HNBAw1uO" text="{PARTY} получила {AMOUNT_TO_ADD} известности. Известность {CLAN} теперь {NEW_RENOWN}." />
     <string id="HNqy4Ctc" text="Нельзя исключить спутника, который отбыл по поручению." />
     <string id="ho5EndaV" text="Решение" />
@@ -722,7 +722,7 @@
     <string id="husbandmotherinlaw" text="тёща" />
     <string id="husbandsisterinlaw" text="невеста" />
     <string id="hVmamTJX" text="Повышайте боевой дух отряда разнообразием провизии (Квартирмейстер). Улучшайте благосостояние поселения и создавайте проекты (Губернатор). Проводите время в своих поселениях (Лидер клана)." />
-    <string id="HWSKCne0" text="Ускорение +50 строительства на 1 день. стоит 500&lt;img src=&quot;Icons\Coin@2x&quot;&gt;" />
+    <string id="HWSKCne0" text="Ускорение строительства на {BOOST}. Стоит {COST}&lt;img src=&quot;Icons\Coin@2x&quot;&gt; в день" />
     <string id="Hx47TGrA" text="Тяжелый" />
     <string id="hYgmzZJX" text="Динаров" />
     <string id="HYVQKIhh" text="Защищающиеся" />
@@ -800,7 +800,7 @@
     <string id="JAFIo7cM" text=":" />
     <string id="jbQ3LYBl" text="император" />
     <string id="JbTCDDb0" text="Болт" />
-    <string id="jCbYaCcg" text="Наконец-то мы встретились, {PLAYER.LINK}. Я {NPC.LINK}. Спасибо за помощь, и, я надеюсь, мы встретимся вновь." />
+    <string id="jCbYaCcg" text="Наконец-то мы встретились, {PLAYER.LINK}. Я {CONVERSATION_CHARACTER.LINK}. Спасибо за помощь, и, я надеюсь, мы встретимся вновь." />
     <string id="Jd0Kq9lD" text="Щит" />
     <string id="jd4ULLGr" text="Активные задания" />
     <string id="JdNTRtpJ" text="Поддерживайте высокий боевой дух вашего отряда. Собирайте и возглавляйте армии." />
@@ -874,7 +874,7 @@
     <string id="KiJd6Xik" text="Движение" />
     <string id="KiVCv1Bx" text="Осаждает {SETTLEMENT_NAME}" />
     <string id="KJDqOGEU" text="Мы планируем вернуться в отряд, чтобы сразиться в другой день" />
-    <string id="KkaVpLXd" text="Довести эту политику до голосования" />
+    <string id="KkaVpLXd" text="Вынести эту политику на рассмотрение (Поддержка: {SUPPORT}%)" />
     <string id="klZnvb15" text="Персонаж" />
     <string id="kM1Y8XT0" text="Вы не разочаруетесь, {?PLAYER.GENDER}мадам{?}сэр{\?}. Вы во всей Кальрадии не найдете воинов лучше.[rb:very_positive]" />
     <string id="koX9okuG" text="Нисколько" />
@@ -909,7 +909,7 @@
     <string id="LApMSsnb" text="Очки концентрации" />
     <string id="laV5aNhK" text="Уникальные" />
     <string id="lAWwcO6b" text="Королевство Вландия" />
-    <string id="lb13ceVM" text="{?RULER.GENDER}Высшая королева{?}Высший король{\?} {RULER.NAME}" />
+    <string id="lb13ceVM" text="{?RULER.GENDER}Верховная королева{?}Верховный король{\?} {RULER.NAME}" />
     <string id="lbdSaDpI" text="Осталось времени" />
     <string id="lBn2pSBL" text="Члены" />
     <string id="LBNzsqyb" text="Владения" />
@@ -923,7 +923,7 @@
     <string id="LJ6Krlbr" text="Разведка" />
     <string id="lj8XH6O7" text="Сейчас нет доступа к меню королевства!" />
     <string id="LJwKdMdw" text="Дождитесь пока оппонент встаёт в позицию" />
-    <string id="LL6GkIfg" text="If you can beat {OPPONENT_COUNT_1} opponents before going down, you'll earn {PRIZE_1}{GOLD_ICON}. You'll get {PRIZE_2}{GOLD_ICON} for striking down at least {OPPONENT_COUNT_2} opponents, {PRIZE_3}{GOLD_ICON} if you can defeat {OPPONENT_COUNT_3} opponents, and {PRIZE_4}{GOLD_ICON} if you can survive long enough to beat {OPPONENT_COUNT_4} opponents. If you can manage to be the last fighter standing, you'll earn the great prize of the fights, {PRIZE_5}{GOLD_ICON}. Sounds good, eh?[rb:trivial]" />
+    <string id="LL6GkIfg" text="Если вы сможете победить {OPPONENT_COUNT_1} противников до падения, вы получите {PRIZE_1}{GOLD_ICON}. Вы получите {PRIZE_2}{GOLD_ICON} за поражение как минимум {OPPONENT_COUNT_2} противников, {PRIZE_3}{GOLD_ICON}, если сможете победить {OPPONENT_COUNT_3} противников, и {PRIZE_4}{GOLD_ICON}, если сможете выжить достаточно долго, чтобы победить противников: {OPPONENT_COUNT_4}. Если вам удастся стать последним выжившим бойцом, вы получите главный приз в боях - {PRIZE_5}{GOLD_ICON}. Звучит хорошо, а?[rb:trivial]" />
     <string id="Ll90uaxu" text="Удачных Осад" />
     <string id="LmwhFv5p" text="Мясо" />
     <string id="lnKAqDVM" text="Защищать ключевые позиции" />
@@ -1007,7 +1007,7 @@
     <string id="N6QTvjMf" text="Пленные " />
     <string id="N7w6zi0F" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} pulling back." />
     <string id="N84HlDaV" text="{NUMBER_OF} {ITEM} ({AMOUNT}{GOLD_ICON})" />
-    <string id="NaAA5kjG" text="Попробуйте помириться, получая дань {TRIBUTE} в день. (Поддержка: {SUPPORT}%)" />
+    <string id="NaAA5kjG" text="Рассмотрите возможность заключения мира. Вы будете получать дань в размере {TRIBUTE} в день. (Поддержка: {SUPPORT}%)" />
     <string id="nAaT19CC" text="{?RULER.GENDER}Архонисса{?}Архонт{\?} {RULER.NAME}" />
     <string id="NaorUInI" text="Understrength Сторон" />
     <string id="nbBgbwM2" text="В очереди: {NUMBER}" />
@@ -1031,7 +1031,7 @@
     <string id="nnr8sANN" text="{PARTY_LIST_TAG}({COUNT} + {WEAK_COUNT}р)" />
     <string id="nNRKCYpR" text="Земли вокруг поселения" />
     <string id="NnZ5w9zm" text="{NUM1} ({NUM2})" />
-    <string id="nojcK4ia" text="{?RULER.GENDER}Великая принцесса{?}Великий князь{\?} {RULER.NAME}" />
+    <string id="nojcK4ia" text="{?RULER.GENDER}Великая княгиня{?}Великий князь{\?} {RULER.NAME}" />
     <string id="NqarFr4P" text="Настройки" />
     <string id="NQbqtEqP" text="Цена: {COUNT}" />
     <string id="NqSLYe6b" text="Известность:" />
@@ -1137,7 +1137,7 @@
     <string id="PNZmPprx" text="Двуручный Меч" />
     <string id="pOCOS8um" text="Ребенок" />
     <string id="policypropose" text="Предложить" />
-    <string id="porKAP64" text="Поставьте снова эту политику на голосование" />
+    <string id="porKAP64" text="Рассмотрите возможность отмены этой политики ({SUPPORT}%)" />
     <string id="PpPbWYPB" text="Может быть наемником" />
     <string id="pPRYdrk7" text="Управление армией" />
     <string id="pq48aN8d" text="Мораль: {reg1}" />
@@ -1225,12 +1225,12 @@
     <string id="R7v2UD8b" text="Вы перемещаете пешку." />
     <string id="R9DiQfax" text="Битва" />
     <string id="RaAnj4On" text="Защитники" />
-    <string id="rangedtroop" text="Дальний бой" />
+    <string id="rangedtroop" text="Стрелки" />
     <string id="rBieLPA7" text="Вы превысили лимит своих войск.{newline}Вы временно удержите свои войска, но через некоторое время они быстро покинут вас. Вы также будете замедляться.{newline}Вы уверены?" />
     <string id="rbz1Bwbv" text="Инвентарь" />
     <string id="rdbw9TVm" text="Щит II" />
     <string id="rDnWQL87" text="Показать/Скрыть ножны" />
-    <string id="RdsbyNE2" text="Попробуйте помириться, отдавая дань {TRIBUTE} в день. (Поддержка: {SUPPORT}%)" />
+    <string id="RdsbyNE2" text="Рассмотрите возможность заключения мира. Вы будете выплачивать дань в размере {TRIBUTE} в день. (Поддержка: {SUPPORT}%)" />
     <string id="REdb7vbQ" text="{?RULER.GENDER}Султанша{?}Султан{\?} {RULER.NAME}" />
     <string id="redwEIlW" text="Снабженец" />
     <string id="rFvEZJu7" text="{ITEM_NAME} был добавлен в инвентарь {PLAYER.LINK}" />
@@ -1353,7 +1353,7 @@
     <string id="TxeKpK3Y" text="Ваши отношения с {HERO.NAME} увеличивается на {MAGNITUDE} до {VALUE}." />
     <string id="tXl9REtA" text="Ополчение {SETTLEMENT_NAME}" />
     <string id="Tyc4aAdz" text="Вступить в бой без помощи." />
-    <string id="u3c9M8vx" text="лукавство" />
+    <string id="u3c9M8vx" text="архонесса" />
     <string id="U7er3V9s" text="Предметы" />
     <string id="U7etPQA2" text="{HERO.FIRSTNAME} {JOB_NAME}" />
     <string id="U7Z7f7ZT" text="Супруг(а)" />
@@ -1377,7 +1377,7 @@
     <string id="UgMbCUMO" text="моим отцом {REFERING_HERO.LINK}" />
     <string id="ugX2RRDY" text="Меня похитили и требовали выкуп" />
     <string id="Uh057UUb" text="Пулук" />
-    <string id="uhcIXeba" text="Вы собираетесь выбросить вещь. Вы уверены?" />
+    <string id="uhcIXeba" text="Вы собираетесь выбросить вещи. Вы уверены?" />
     <string id="UI0q8rWw" text="Скот" />
     <string id="uinDitbl" text="Мы должны разрушить стены." />
     <string id="UIqPXN62" text="Закидывайте противника метательным оружием." />
@@ -1578,7 +1578,7 @@
     <string id="YifFZaG7" text="Командир отряда" />
     <string id="Yj0cQVLH" text="Атака!" />
     <string id="YJaNtktT" text="Завербовать всех" />
-    <string id="yjXoftYs" text="В последний раз видели {?IS_IN_SETTLEMENT}в{?}около{\?} {SETTLEMENT} {?IS_TODAY}сегодня{?}{DAY_VALUE} назад{\?}." />
+    <string id="yjXoftYs" text="Последний раз видели {?IS_IN_SETTLEMENT}в{?}возле{\?} {SETTLEMENT} {?IS_TODAY}сегодня{?}{DAY_VALUE} {?IS_MORE_THAN_ONE_DAY}дней{?}день{\?} назад{\?}." />
     <string id="YK3nXtoM" text="Друзья" />
     <string id="YkagFP1z" text="Моя мать {REFERING_HERO.LINK}" />
     <string id="ykZLXKH3" text="Известность: {RENOWN}" />

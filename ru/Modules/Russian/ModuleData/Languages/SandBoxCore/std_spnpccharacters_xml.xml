@@ -8,7 +8,7 @@
     <string id="0GkJB08d" text="Стургийская Ветеранская Стража Каравана" />
     <string id="0Xku0LQD" text="Стургианский Крестьянин" />
     <string id="1gAasy1t" text="Ветеран озёрных крыс" />
-    <string id="1i0Ttr8H" text="Sturgian Otroki" />
+    <string id="1i0Ttr8H" text="Стургианский отрок" />
     <string id="1PsLlMaQ" text="Имперский Эквит" />
     <string id="1WfDVpya" text="Стургианский Лучник" />
     <string id="1zObCG2o" text="Баттанийский Фиан Чемпион" />
@@ -46,7 +46,7 @@
     <string id="ac8MZYne" text="Баттанийский Герой" />
     <string id="acubGB3g" text="Вландийский Закаленной Арбалетчик" />
     <string id="afhXdjBU" text="Кочевник" />
-    <string id="AlmaRAib" text="RuralNotableNotary" />
+    <string id="AlmaRAib" text="Сельский нотариус знати" />
     <string id="AloMryIU" text="Вландийский Легкий Кавалерист" />
     <string id="AoFZUbun" text="Асерайский Фарис Авангард" />
     <string id="arb5nRri" text="Асерайский Дикарь" />
@@ -59,7 +59,7 @@
     <string id="BbTpfJ7G" text="Дрантон" />
     <string id="BC5YGna3" text="Мародёр озёрных крыс " />
     <string id="bHx8jaeI" text="Воин" />
-    <string id="bLMGbLF8" text="PreacherNotary" />
+    <string id="bLMGbLF8" text="Секретарь проповедника" />
     <string id="bLq2HXMo" text="Имперская Ветеранская Стража Каравана" />
     <string id="BmYpwIYi" text="Баттанийский Крестьянин" />
     <string id="bNnQt4jN" text="Кузнец" />
@@ -70,7 +70,7 @@
     <string id="bYn4ad1t" text="Экспертный Хранитель Клятвы" />
     <string id="byPNCb5e" text="Sturgian Heavy Spearman" />
     <string id="c5rVdg75" text="Копейщик Ветеран Имперского Ополчения" />
-    <string id="C8hwcOdF" text="Mounted Pillager" />
+    <string id="C8hwcOdF" text="Конный мародер" />
     <string id="CAYZDsAj" text="Легионер" />
     <string id="Cc3knKFB" text="Дворцовая Стража" />
     <string id="CDUvlu4d" text="Имперский Палатинский Страж" />
@@ -96,7 +96,7 @@
     <string id="DNsbKR7B" text="Баттанийский Следопыт" />
     <string id="DNTUqbGo" text="Ксерина" />
     <string id="e8qbF7Ey" text="Имперский Менавлиатон" />
-    <string id="ECxiXTbF" text="Нотариус" />
+    <string id="ECxiXTbF" text="Секретарь ремесленника" />
     <string id="ehACDRBk" text="Секретный человек" />
     <string id="eHVgfyPH" text="Кузаитский Всадник Лучник" />
     <string id="eWRlQ4XU" text="Вор" />
@@ -136,7 +136,7 @@
     <string id="IxcCmtxz" text="Копейщик Ветеран Баттанийского Ополчения" />
     <string id="iXjMfCyp" text="Кузаитский Всадник" />
     <string id="IZ8OmByJ" text="Имперский Опытный Пехотинец" />
-    <string id="J6Yksji5" text="Mounted Ransacker" />
+    <string id="J6Yksji5" text="Конный грабитель" />
     <string id="jaK1A7CI" text="Асерайский Фарис" />
     <string id="jFQPRvLg" text="Хускарл Мечник" />
     <string id="JGsUtBT3" text="Имперский Легионер" />
@@ -213,7 +213,7 @@
     <string id="Qo2cc7bF" text="Скен" />
     <string id="QvSmhaAV" text="Избранный Волк" />
     <string id="R74i2pQz" text="Наемный Клинок" />
-    <string id="reoVAtrE" text="Купец Нотариус" />
+    <string id="reoVAtrE" text="Секретарь торговца" />
     <string id="rIqwYlSK" text="Кузаитский Кочевник" />
     <string id="riT39wKu" text="Саплинг" />
     <string id="Rj0bNOOh" text="Керн" />
@@ -271,7 +271,7 @@
     <string id="W2WXkiAh" text="Посредник По Выкупу" />
     <string id="w6YwFaG7" text="Кузаитский Копейщик" />
     <string id="WEHDGbEE" text="Кузаитский Караванщик" />
-    <string id="WH7EGGIg" text="Barber" />
+    <string id="WH7EGGIg" text="Цирюльник" />
     <string id="WJbOQSiT" text="Асерайский Мамелюкский Воин" />
     <string id="WNU7kE5N" text="Ветеран Страж" />
     <string id="wtmCSMrC" text="Асерайский Пехотнец" />

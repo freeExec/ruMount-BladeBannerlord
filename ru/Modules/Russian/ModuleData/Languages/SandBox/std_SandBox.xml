@@ -7,7 +7,7 @@
     <string id="04gFKwY1" text="Ну, если ты увидишь кого-то такого, дай мне знать." />
     <string id="0C4PoPw5" text="Они работают на {ALLEY_BOSS.NAME}, привозили выпивку, азартные игры и женщин. Некоторые магазины здесь потеряют в обороте, но остальные из нас не будут скучать по пьяным незнакомцам, начинающим драки на наших порогах." />
     <string id="0dlDkkJV" text="Вы не смогли найти шпиона. {QUEST_GIVER.LINK} разочарован." />
-    <string id="0eAc6WQk" text="Я хотел бы вступить в {FACTION_SERVICE_TERM}." />
+    <string id="0eAc6WQk" text="Я хотел бы {FACTION_SERVICE_TERM}." />
     <string id="0enbhess" text="Спасибо. Я уверен, что ваши ребята стоят того.." />
     <string id="0fp67gxl" text="Хорошего дня." />
     <string id="0geP718k" text="Ну... я не знаю, что сказать. До свидания." />
@@ -1330,7 +1330,7 @@
     <string id="zNqDEuAw" text="Но я обещал найти тебя и вернуть {?QUEST_GIVER.GENDER}твоей матери{?}твоему отцу{\?}, {?QUEST_GIVER.GENDER}она{?}он{\?} очень скучает." />
     <string id="ZnZAPDMo" text="Так и быть. И ваше остроумие тут ни к чему.[if:idle_angry][ib:warrior]" />
     <string id="ZO5RaXMW" text="Избавьте нас от таких {?OWNER.GENDER}дам{?}лордов{\?} как {OWNER.LINK}, чьи сердца слишком нежны, чтобы наказать воров и жуликов, которые терроризируют честных людей." />
-    <string id="ZOkUKXV2" text="ваши ряды" />
+    <string id="ZOkUKXV2" text="служить вам" />
     <string id="zOp48Fsg" text="Я принимаю эти условия и готов заплатить {AMOUNT}{GOLD_ICON} для создания каравана." />
     <string id="ZpDQxmzJ" text="Семейная вражда" />
     <string id="zpqP5LsC" text="Я сейчас же пойду." />

@@ -19,7 +19,7 @@
     <string id="8mCL2HhJ" text="{HERO.FIRSTNAME} Торговец медью" />
     <string id="8o5SDCCJ" text="{HERO.FIRSTNAME} Акула" />
     <string id="aDiMMgLH" text="{HERO.FIRSTNAME} Прислужник" />
-    <string id="aE8abvsQ" text="{HERO.FIRSTNAME} Удачливый" />
+    <string id="aE8abvsQ" text="{HERO.FIRSTNAME} Счастливчик" />
     <string id="agS5lIg7" text="{HERO.FIRSTNAME} Безродный" />
     <string id="akALDUs0" text="{HERO.FIRSTNAME} Лонгнайф" />
     <string id="azCSz9QH" text="из Сокрытой Длани" />
@@ -30,12 +30,12 @@
     <string id="c5Kjcxsa" text="{HERO.FIRSTNAME} Странник" />
     <string id="CePmep0z" text="Браконьер" />
     <string id="cP1o8eUs" text="из Джаввалов" />
-    <string id="CQOlMayc" text="{HERO.FIRSTNAME} Сирота" />
+    <string id="CQOlMayc" text="{HERO.FIRSTNAME} Босяк" />
     <string id="cud22JY1" text="{HERO.FIRSTNAME} Хирург" />
     <string id="eobXmmLg" text="Из Компании" />
     <string id="fJmGKlaO" text="{HERO.FIRSTNAME} Конокрад" />
     <string id="FtpxQYf0" text="{HERO.FIRSTNAME} Говорун" />
-    <string id="G8mawcBV" text="{HERO.FIRSTNAME} Целитель" />
+    <string id="G8mawcBV" text="{HERO.FIRSTNAME} Знахарь" />
     <string id="gED0ZMhi" text="Илай" />
     <string id="GwGMjnEA" text="{HERO.FIRSTNAME} Торговец лошадьми" />
     <string id="H5Uuazxj" text="{HERO.FIRSTNAME} Оценщик" />

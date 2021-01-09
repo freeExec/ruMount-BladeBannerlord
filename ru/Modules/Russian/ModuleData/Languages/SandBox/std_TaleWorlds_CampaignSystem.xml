@@ -685,7 +685,7 @@
     <string id="A1LHEGX4" text="Ледокол" />
     <string id="a1n2zCaD" text="Я хочу узнать, что именно вам от меня нужно." />
     <string id="a1xdJxMs" text="Герой должен обладать всеми этими навыками:" />
-    <string id="a2ajWcI3" text="Viria" />
+    <string id="a2ajWcI3" text="Вириа" />
     <string id="a2AO5T1Q" text="{CLAN_NAME} закончил свой контракт наемника с {KINGDOM_NAME}." />
     <string id="a2dJDUoL" text="Мой меч - мое приданое. За ними идут золото и земля." />
     <string id="A310vHqJ" text="Увеличение скорости исцеления войск +{a0}%" />
@@ -731,9 +731,9 @@
     <string id="ABYGws1M" text="Я сам принесу вам {NEEDED_AMOUNT} штук {NEEDED_TYPE}." />
     <string id="ac8PkfhG" text="Печи для извести -  печи для производства негашеной извести, которая используется для обогащения почвы. Увеличивает производство сельскохозяйственной продукции" />
     <string id="acbkKbT0" text="Нам следует сделать что-нибудь другое." />
-    <string id="AccBcEIt" text="Zoana" />
+    <string id="AccBcEIt" text="Зоана" />
     <string id="acOOsQaC" text="Пища заканчивается. Это несправедливо по отношению к людям. Нам стоит позаботиться о том, чтобы пища не закончилась." />
-    <string id="acp2IcMs" text="Crotor" />
+    <string id="acp2IcMs" text="Кротор" />
     <string id="acu1wTeq" text="Ваши люди уверены, что пара вещей были украдены из багажа повозки." />
     <string id="ACvQdkG8" text="Обсудить условия вашей капитуляции" />
     <string id="AcYxyuDL" text="5% бонус к скорости передвижения в пустынях и дюнах" />
@@ -741,17 +741,17 @@
     <string id="ADabRUeh" text="оружие" />
     <string id="Adah5bay" text="Чтобы правильно использовать самое мощное оружие, требуются годы практики и тренировок. Их владельцам нужно начинать рано." />
     <string id="aDbvfb8z" text="+ 50% урона при попадании в голову из метательного оружия" />
-    <string id="AdK4Ilzw" text="Chalia" />
+    <string id="AdK4Ilzw" text="Чалина" />
     <string id="AdkSktd2" text="Вы должны отправить {NUMBER} {?MOUNTED}кавалерию {?}{\?}войск для этого квеста." />
     <string id="AdoaDR26" text="{QUEST_GIVER.LINK} просит вас разведать {SETTLEMENT_1}, {SETTLEMENT_2} и {SETTLEMENT_3}." />
     <string id="aDQcIGfH" text="Высокий моральный дух" />
     <string id="aeKdXKnO" text="{ISSUE_GIVER.LINK}, ремесленник из {SETTLEMENT}, сказал вам, что местный торговец {COUNTER_OFFER.LINK} просит смешные деньги за сырье, которое {?ISSUE_GIVER.GENDER}ей{?}ему{\?} необходимо для продолжения {?ISSUE_GIVER.GENDER}её{?}его{\?} работы. Вы попросили {COMPANION.LINK} остаться с {?ISSUE_GIVER.GENDER}ней {?}ним{\?} и попытаться решить {?ISSUE_GIVER.GENDER}её{?}его{\?} проблемы. Вы ожидаете, что {COMPANION.LINK} отчитается вам в течение {RETURN_DAYS} дней." />
-    <string id="aeLgc0cU" text="Acthon" />
+    <string id="aeLgc0cU" text="Актон" />
     <string id="aEmYZadz" text="Фестиваль и игры" />
     <string id="aEt1kqxm" text="{PEACEMAKER_RULER.NAME} of the {KINGDOM_CONSIDERING_PEACE} has decided to make peace with the {KINGDOM}, with his {?PEACEMAKER_RULER.GENDER}her{?}his{\?} council evenly divided on the matter." />
     <string id="aExKdXmx" text="Нам нужно {REQUESTED_ANIMAL_AMOUNT} {?PLURAL}{SELECTED_ANIMAL}{.s}{?}{SELECTED_ANIMAL}{\?}. Если честно, деревня у нас бедная, казна пустая. Мы можем заплатить только мясом - мясом старых животных, которых мы забьём как только вы привезёте нам новых. Мы можем предложить вам {MEAT_AMOUNT} мяса, вы согласны, {?PLAYER.GENDER}мадам{?}сир{\?}?" />
-    <string id="aezwJGvY" text="Chenon" />
-    <string id="afaCdojS" text="Coaching" />
+    <string id="aezwJGvY" text="Шенон" />
+    <string id="afaCdojS" text="Коучинг" />
     <string id="afbLOXbb" text="Может быть, мы можем прийти к соглашению." />
     <string id="aFDiKxhr" text="Наша сделка заключалась в том, что вы получаете свою долю от продаж, которые я {?CONVERSATION_NPC.GENDER}сделала{?}сделал{\?}. Без продажи - значит без доли. {?CONVERSATION_NPC.GENDER}Уверена{?}Уверен{\?}, вы понимаете" />
     <string id="aFNfxhwz" text="Вам больше не хватает {MOUNT_TYPE} для  {QUEST_GIVER.LINK}." />
@@ -1229,7 +1229,7 @@
     <string id="d5aK6Sv0" text="Сильный" />
     <string id="D5JUgcyl" text="Войска 1 и 2 ранга имеют на 30% больше шансов оправиться от смертельных ран." />
     <string id="d5ztuP3P" text="Это слишком много." />
-    <string id="D6YLpUQa" text="кантоны" />
+    <string id="D6YLpUQa" text="Кантоны" />
     <string id="d7dUtRgd" text="Увеличивает предел пленных на 20%." />
     <string id="D7DZxiSt" text="На 10% больше урона в автобитвах при защите осадного лагеря." />
     <string id="D867vF71" text="Дисциплина" />
@@ -1879,7 +1879,7 @@
     <string id="iazij7fO" text="Хранит запасы пищи, так что поселение имеет больше продуктов питания. Увеличивает продовольственное снабжение." />
     <string id="ib2SMG9b" text="Обезболивающие" />
     <string id="IBhZGxxm" text="тарелку оливок" />
-    <string id="IBlJ42MN" text="Военные Корона" />
+    <string id="IBlJ42MN" text="Военная корона" />
     <string id="Ibm1A68t" text="Стражники передали ваше оружие обратно." />
     <string id="IBPU6MWB" text="{?CHILD.GENDER}Она{?}Он{\?} не хочет много говорить об этом, но вы знаете, что {?CHILD.GENDER}она увидела{?}он увидел{\?} темную сторону Кальрадии" />
     <string id="IBXfCLMp" text="Я, конечно, тоже надеюсь, {?PLAYER.GENDER}леди{?}лорд{\?}! Опять же, я хочу поблагодарить вас за все, и прежде чем я уйду, пожалуйста, примите этот подарок в качестве смиренной благодарности!" />
@@ -2228,7 +2228,7 @@
     <string id="L53ABEua" text="Получите 20% бонус к лечению в деревнях." />
     <string id="l549ODcw" text="К сожалению. Я не могу сделать это прямо сейчас." />
     <string id="l5H9x7Lo" text="{RULER.NAME} из {KINGDOM} передал {SETTLEMENT} в руки {LEADER.NAME}, с неоднозначным решением совета." />
-    <string id="l5kDEI6N" text="Имперские Города" />
+    <string id="l5kDEI6N" text="Города императора" />
     <string id="l5YipTe3" text="{SETTLEMENT} под осадой. {SIEGE_LEADER} командует осадой." />
     <string id="L6N2YLa6" text="{HERO.FIRSTNAME} Палец" />
     <string id="L700FNht" text="Доставлено {RAW_MATERIAL}" />
@@ -3758,7 +3758,7 @@
     <string id="wxa33C1s" text="На {?CHILD.GENDER}ее{?}его{\?} 15-й день рождения вы подарили {?CHILD.GENDER}своей дочке{?}своему сыну{\?} подарок. Вы заметили, что {?CHILD.GENDER}она{?}он{\?} ценит его, и вы понимаете, что {?CHILD.GENDER}она, должно быть сформировала{?}он, должно быть сформировал{\?}, то, кто {?CHILD.GENDER}она{?}он{\?} есть" />
     <string id="wxDbPiNH" text="Что ж, у вас есть репутация человека, способного справиться с головорезами. Может быть, вы сумеете какого-нибудь другого Лорда, который будет нуждаться в них больше и заплатит им больше динаров. Я оплатил их контракт на несколько месяцев. Я могу дать вам небольшое вознаграждение, и если вы найдете покупателя, вы можете передать ему оставшуюся часть контракта и забрать оплату." />
     <string id="WXDcmG0f" text="Увеличить набор ополченцев в населенных пунктах на 1." />
-    <string id="WXPGv7Si" text="Your couch lance attacks deal triple damage against shields." />
+    <string id="WXPGv7Si" text="Атаки вашего копья наносят тройной урон щитам." />
     <string id="WYPotR6p" text="Повышайте боевой дух войск дальнего боя в вашей группе в начале битвы на 10%." />
     <string id="WyXs70nc" text="Увеличивает урон от двуручного оружия на 20%, когда ваше здоровье ниже 50%." />
     <string id="WzBo28iT" text="{HERO.FIRSTNAME} Рубака" />

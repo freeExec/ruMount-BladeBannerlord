@@ -39,6 +39,7 @@
     <string id="5fa36d2798479803b4518a64beb4d732" text="Длина оружия: " />
     <string id="5Unqsx3N" text="Подтвердить" />
     <string id="63Ic1Ahe" text="Стоимость: {UPGRADE_COST} (У вас недостаточно средств)" />
+    <string id="68IlDbA2" text="You need to have {PERK_NAME} perk to upgrade a bandit troop to a normal troop." />
     <string id="6adabc1f82216992571c3e22abc164d7" text="Боезапас: " />
     <string id="6GSXsdeX" text="Скорость" />
     <string id="74dc1908cb0b990e80fb977b5a0ef10d" text="Скорость: " />
@@ -67,6 +68,7 @@
     <string id="aTdrjrEh" text="{SWING_DAMAGE_FACTOR}" />
     <string id="AxRxT2Xj" text="После роспуска армии, все ее бойцы примкнут к отряду союзника или отправятся в ближайшее союзное поселение,что бы вступить в гарнизон. Этот приказ нельзя будет отменить. Вы точно уверены,что хотите сделать это?" />
     <string id="bAqDnkaT" text="Скорость полёта" />
+    <string id="Bcs9s2tC" text="Right Click to Remove" />
     <string id="bd7oAQq6" text="Ежедневно" />
     <string id="bfQLwMUp" text="Кланы" />
     <string id="BgqZWbga" text="Знати не понравится ваше решение отречься от своей клятвы. Вы уверены, что хотите покинуть Королевство?" />
@@ -88,6 +90,7 @@
     <string id="CExQ40Ux" text="{PARTY_1S_MEMBERS}   " />
     <string id="cf61cce254c7dca65be9bebac7fb9bf5" text="Защита рук: " />
     <string id="cJmI2poS" text="Информация" />
+    <string id="Ck9HT8fQ" text="Summary" />
     <string id="cnmRwV4s" text="Лимит снарядов" />
     <string id="CnsIzaWo" text="Поле Битвы" />
     <string id="cUUI8u2G" text="Выносливость в кузне" />
@@ -104,7 +107,6 @@
     <string id="DXczLzml" text="Состояние" />
     <string id="DzviXC3W" text="Уровень: " />
     <string id="e8390c3480028e34c370c7b60ebc41e2" text="Класс лошади: " />
-    <string id="ebbyLN2i" text="Города" />
     <string id="eHVq6yDa" text="Цена предмета" />
     <string id="eIGFuGOx" text="Give Settlement" />
     <string id="eIws123Z" text="Защита ног" />
@@ -116,6 +118,7 @@
     <string id="EuGCNdHG" text="Покинуть" />
     <string id="exnL6SS7" text="Нападает на {TARGET_SETTLEMENT}" />
     <string id="EZxQHBF4" text="Вы можете изменить тип продукции в этой мастерской за {AMOUNT} динаров." />
+    <string id="F0a7hyp0" text="Risk of rebellion" />
     <string id="f2971dc587a9777223ad2d7be236fb05" text="Торговые слухи" />
     <string id="f4nc7FfE" text="Улучшить до {UPGRADE_NAME}" />
     <string id="F6GhrriD" text="Создать королевство" />
@@ -124,6 +127,7 @@
     <string id="FBYFcrWo" text="Оставить в поселении" />
     <string id="fI7a7RoE" text="Максимальный вес" />
     <string id="FjJi1DJb" text="Этот герой уже является частью другого отряда" />
+    <string id="flxDkoMh" text="Stage Complete" />
     <string id="fOSGakix" text="Вы не можете управлять армией, пока находитесь в плену." />
     <string id="G2h0V10w" text="Подарите это поселение клану в своем королевстве." />
     <string id="g4XqKGUr" text="В группе уже есть участник с этой ролью." />
@@ -140,6 +144,7 @@
     <string id="HkfY3Ds5" text="Нагрудник" />
     <string id="hn9TPqhK" text="Ранг оружия" />
     <string id="horseTier" text="Уровень лошади: " />
+    <string id="hOVPiG3z" text="Recently rebelled" />
     <string id="hr4MuPnt" text="Необходимые Материалы" />
     <string id="hTzTMLsf" text="Дальность обзора" />
     <string id="HURdAXDQ" text="Hideout Crew" />
@@ -193,6 +198,7 @@
     <string id="LVmkE2Ow" text="Готовые к бою войска" />
     <string id="lVuGCYPC" text="Навык Кузнечного дела" />
     <string id="lxwGbRwu" text="x {SHOP_DIFFERENCE_COUNT}" />
+    <string id="m1Yynagz" text="Page {NUMBER}" />
     <string id="McJjNM50" text="Стоимость: {UPGRADE_COST}" />
     <string id="mDFhzEMC" text="Максимальное здоровье" />
     <string id="Mfbc4rQR" text="Урон от натиска" />
@@ -208,6 +214,7 @@
     <string id="NC9bbrt5" text="Динары на конец дня" />
     <string id="NcYbdiyT" text="Сменить Лидера" />
     <string id="nMcvafHY" text="Активно" />
+    <string id="NxEy5Nbt" text="High risk of rebellion" />
     <string id="nYYUQQm0" text="Множитель рубящего урона " />
     <string id="O3dhjtOS" text="Шлем" />
     <string id="oBbiVeKE" text="Здоровье" />
@@ -271,6 +278,7 @@
     <string id="RuaA8t97" text="Имя Королевства" />
     <string id="rUeWBOOi" text="Выберите предмет для переплавки" />
     <string id="RVPidk5a" text="Влияние" />
+    <string id="Rvr1bcu8" text="Next" />
     <string id="rwKBR4NE" text="Среднее количество дней до того, как закончится еда" />
     <string id="s31DnnAf" text="Урон" />
     <string id="s5b77f0H" text="Даёт +{BOOSTAMOUNT} сплоченности вашей армии" />
@@ -326,6 +334,7 @@
     <string id="Wir2xZIg" text="Вы не умеете ковать некоторые из выбранных элементов." />
     <string id="WN7cYIXM" text="Вы должны быть частью королевства" />
     <string id="WttsvMTW" text="Восстание в {SETTLEMENT}" />
+    <string id="WXAaWZVf" text="Previous" />
     <string id="XAL3t1bs" text="Направляется к точке" />
     <string id="XCz81XYm" text="Входы" />
     <string id="XIioBPi0" text="Никаких изменений" />

@@ -61,7 +61,6 @@
     <string id="4aFPp5hj" text="Лёгкий овальный щит" />
     <string id="4BfbPgkY" text="Цервельер с Наносником и Побитым Подшлемником" />
     <string id="4CPxahsU" text="Восточная Кавалерийская Булава" />
-    <string id="4DiJ8dfj" text="Западный полуторный Топор" />
     <string id="4gNT4MYk" text="Стрелы Охотника" />
     <string id="4KYF5iCd" text="Многослойная Кожаная Туника" />
     <string id="4n6n3KL7" text="Пустынный Головной Убор" />
@@ -267,6 +266,7 @@
     <string id="GNdVXMue" text="Шарф" />
     <string id="Goloz0Vm" text="Одногорбый Верблюд" />
     <string id="gqbjCBld" text="Северный Метательный Топор" />
+    <string id="GrfnpDxu" text="Highland Throwing Axe" />
     <string id="gT8WENO3" text="Длинная Броня" />
     <string id="gTptIfxY" text="Пустынная Шапка" />
     <string id="GTWUtUFj" text="Цепная Лошадиная Упряжь" />
@@ -466,6 +466,7 @@
     <string id="q4iQapMS" text="Щит Горных Наездников" />
     <string id="Q50hfNjW" text="Койф из Тонкой Шкуры" />
     <string id="QaKohN0V" text="Имперская Кольчуга поверх Рваной Кожанки" />
+    <string id="QArSPrAV" text="Northern Kite Shield" />
     <string id="QaysED62" text="Туника из Прокатанного Полотна" />
     <string id="Qazvdg1P" text="Имперский Закрытый Койф" />
     <string id="qc0P0b2r" text="Шлем с Полумаской и Кольчугой" />
@@ -491,7 +492,6 @@
     <string id="radJHwRW" text="Тяжёлый Каплевидный Щит Наездника" />
     <string id="RCq6DcvS" text="Северное длинное Копьё" />
     <string id="RF7uVEGp" text="Бамбуковое Копьё" />
-    <string id="rifv0h0H" text="Кавалерийский Каплевидный Щит" />
     <string id="rOpxDHXL" text="Восточный Кожаный Пластинчатый Доспех" />
     <string id="RsIImqXA" text="Восточная Дубина Пехотинца" />
     <string id="RTIzskq1" text="Шлем Землевладельца поверх Цельной Кольчуги" />
@@ -669,6 +669,7 @@
     <string id="ZFETxZKP" text="Куфея с Шёлковой Лентой" />
     <string id="zGXZJFOb" text="Пластинчатый Доспех с Объёмным Подолом" />
     <string id="ZjAZNjvu" text="Северный Кольчужный Бард" />
+    <string id="ZJweh5Oh" text="Bastard Axe" />
     <string id="zKJtr0MV" text="Макебская Лошадь" />
     <string id="zmEnxUpL" text="Имперский Объёмный Бард" />
     <string id="zNoDVcHg" text="Рысак" />

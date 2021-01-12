@@ -125,7 +125,6 @@
     <string id="4ol7MhA5" text="Вы оказались в ловушке врагов. Но ваши люди не в состоянии воевать." />
     <string id="4rRsmX8i" text="Хорошо. Иногда лучше стричь овец, чем съесть их." />
     <string id="4Skg9QhO" text="Требушет" />
-    <string id="4smaJqhw" text="Аннексировать" />
     <string id="4U6x48yQ" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}возглавляют{?}возглавляет{\?} битву." />
     <string id="4WD0kJSR" text="Аррр.. Тебе лучше не играть с нами." />
     <string id="4wYguFLZ" text="Решение проблемы" />
@@ -194,6 +193,7 @@
     <string id="7JpAR59k" text="Используется для перевозки грузов" />
     <string id="7llkDelg" text="Решения Королевства " />
     <string id="7mRN2br0" text="Командование формацией было передано герою {HERO_NAME}." />
+    <string id="7MSuWxaY" text="{CHILD.NAME} has reached the age of {CHILD.AGE} and {?CHILD.GENDER}she{?}he{\?} needs your guidance." />
     <string id="7MWaMaez" text="Вот что у нас есть: {ITEM_LIST}. Забирайте все это, но оставьте нас в живых." />
     <string id="7oJ9gIeT" text="У торговца не хватает денег." />
     <string id="7pAZatbz" text="{?RULER.GENDER}Императрица{?}Император{\?} {RULER.NAME}" />
@@ -213,6 +213,7 @@
     <string id="8apwrVjc" text="Дополнительный отряд" />
     <string id="8B7V0qdT" text="Вы проиграли бой!" />
     <string id="8bSHlWBL" text="В настоящее время в городе не проводится турнир." />
+    <string id="8byRf9zO" text="General" />
     <string id="8cY08v3s" text="Деревня со средним достатком. Люди и животные выглядят сытыми. Жители занимаются сезонными делами." />
     <string id="8geYNpC9" text="{THRUST_DAMAGE_TYPE} урона: " />
     <string id="8HMyTKF6" text="Вландия" />
@@ -422,7 +423,6 @@
     <string id="C6n2tZlQ" text="мой союзник {REFERING_HERO.LINK}" />
     <string id="c7bVbjD7" text="Как вы пожелаете. Отныне мы будем сражаться за вас." />
     <string id="C9EDof32" text="Нет Выбранной Армии" />
-    <string id="C9pxqWY8" text="Ожидается, что ваш юнит: {BEHAVIOUR_NAME_BEGIN}{?IS_PLURAL} и {?}{\?}{BEHAVIOUR_NAME_END}{?IS_GENERAL_SIDE} с {SIDE_STRING}{?}{\?}" />
     <string id="caadBNhn" text="Осадная Башня (Уровень 3)" />
     <string id="caFEBWSY" text="Ваш соперник окружил вас. Вы проиграли." />
     <string id="cAgI2lPn" text="Управляющий поселением {SETTLEMENT_NAME}" />
@@ -525,6 +525,7 @@
     <string id="eavr4x8n" text="Ежедневная продукция:" />
     <string id="eb0nLx5E" text="Асерайский султанат" />
     <string id="EbB9y2zZ" text="Объявить войну" />
+    <string id="ebbyLN2i" text="Towns" />
     <string id="eDVvDS1i" text="Жители" />
     <string id="EegxpPka" text="+{BONUS_AMOUNT} бонус к молотам" />
     <string id="eEmbb1MR" text="Производство(а)" />
@@ -591,6 +592,7 @@
     <string id="fd35ahzV" text="&lt;b&gt;Огненная Баллиста&lt;/b&gt;{NEWLINE}Стреляет болтами с наконечниками, смоченными в смоле.{NEWLINE}Они наносят огненный урон вражеским осадным орудиям и деревянным конструкциям, а также наносят смертельный урон по солдатам." />
     <string id="FD9abtTo" text="Если Вы поставите 100&lt;img src=&quot;Icons\Coin@2x&quot;&gt; и выиграете, то получите {NORMALIZED_EXPECTED_GOLD}&lt;img src=&quot;Icons\Coin@2x&quot;&gt;" />
     <string id="FdTd3yIx" text="Внесенные вами изменения не могут быть применены. Вы хотите сбросить изменения?" />
+    <string id="fEJQcb4U" text="Loyalty Drift" />
     <string id="fEqd7jXj" text="{EFFECT_NAME}: +{NUM}" />
     <string id="fEu5S6Bd" text="Расстояние" />
     <string id="fEXuXAl1" text="Мораль армии: {ARMY_MORALE}{newline}{ARMY_MORALE_ITEMS}" />
@@ -744,6 +746,7 @@
     <string id="icmyseoo" text="Мой Лорд," />
     <string id="IcQ2doLo" text="x{QUANTITY}" />
     <string id="id62me1x" text="Нажмите &quot;Осаждать&quot;" />
+    <string id="If65Vm9h" text="Child Education" />
     <string id="IF7zS5ia" text="Лимит пленников превышен.{newline}Временно ваши пленники останутся с вами, но через некоторое время они начнут быстро покидать отряд. вы также замедлитесь.{newline}Вы уверены?" />
     <string id="iFg5N7r3" text="Одноручное Оружие" />
     <string id="Igoid3sR" text="Предлагаю исключить этот клан из королевства" />
@@ -892,6 +895,7 @@
     <string id="kUh3nsAF" text="Вы нашли третью и последнюю часть знамени!" />
     <string id="kuKad3dj" text="{MISSION_MODE}" />
     <string id="kuLjsNgz" text="Сельская Знать" />
+    <string id="kVLfRWjE" text="+{BONUS_AMOUNT}% reduce at garrison wages." />
     <string id="kvykuTJS" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}были атакованы{?}был атакован{\?}  осадным оружием." />
     <string id="kwKT6zKq" text="Ожидается, что ваш юнит: {BEHAVIOUR_NAME_BEGIN}{?IS_PLURAL} и {?}{\?}{BEHAVIOUR_NAME_END}" />
     <string id="KWXEMsHC" text="{LORD.LINK} в {SETTLEMENT_NAME}" />
@@ -922,6 +926,7 @@
     <string id="lihYjOSc" text="шт." />
     <string id="LJ6Krlbr" text="Разведка" />
     <string id="lj8XH6O7" text="Сейчас нет доступа к меню королевства!" />
+    <string id="ljcHO6PW" text="Security Drift" />
     <string id="LJwKdMdw" text="Дождитесь пока оппонент встаёт в позицию" />
     <string id="LL6GkIfg" text="Если вы сможете победить {OPPONENT_COUNT_1} противников до падения, вы получите {PRIZE_1}{GOLD_ICON}. Вы получите {PRIZE_2}{GOLD_ICON} за поражение как минимум {OPPONENT_COUNT_2} противников, {PRIZE_3}{GOLD_ICON}, если сможете победить {OPPONENT_COUNT_3} противников, и {PRIZE_4}{GOLD_ICON}, если сможете выжить достаточно долго, чтобы победить противников: {OPPONENT_COUNT_4}. Если вам удастся стать последним выжившим бойцом, вы получите главный приз в боях - {PRIZE_5}{GOLD_ICON}. Звучит хорошо, а?[rb:trivial]" />
     <string id="Ll90uaxu" text="Удачных осад" />
@@ -947,7 +952,6 @@
     <string id="LZhRP3PM" text="Ждать других осадных машин" />
     <string id="Lzmtqif5" text="Размер Армии " />
     <string id="lznqF0oO" text="Расформирование" />
-    <string id="M03MNN3T" text="Мерлон" />
     <string id="M2b5mtAE" text="Спутник" />
     <string id="m2YKBbdI" text="Привет, Маленькая потерянная овца. Мы волки в горах, и мы хотели бы на минутку..." />
     <string id="m6A7RLby" text="Коварный" />
@@ -1016,6 +1020,7 @@
     <string id="nDNOn5o2" text="Оборудование" />
     <string id="NeWvHjCw" text="Огонь Баллисты" />
     <string id="NF627oiX" text="Северная Империя" />
+    <string id="Nfm5lLWv" text="{CHILD.NAME} needs your immediate attention!" />
     <string id="nfQhamAF" text="Скорость удара: " />
     <string id="NgHSyQem" text="В Армии" />
     <string id="nHGm1wYg" text="Битва окончена. Нажмите {leave_key} для просмотра результатов" />
@@ -1035,6 +1040,7 @@
     <string id="NqarFr4P" text="Настройки" />
     <string id="NQbqtEqP" text="Цена: {COUNT}" />
     <string id="NqSLYe6b" text="Известность:" />
+    <string id="NqtTPVzn" text="Attributes" />
     <string id="NRpwZGxI" text="Солдат" />
     <string id="NSSsxBHV" text="Случайно" />
     <string id="NvJru5Tz" text="Только Мужчина" />
@@ -1615,6 +1621,7 @@
     <string id="z716wRaB" text="Вы не можете распустить военную группу" />
     <string id="z7vSaa7L" text="Производство в деревне" />
     <string id="Z7zWkAV8" text="Вы можете продать пленных у работорговца.{newline}{newline}Вы можете найти его в таверне." />
+    <string id="Z8LeI4ho" text="Bodyguard" />
     <string id="ZaoZKcx9" text="Горожане" />
     <string id="ZaseErqk" text="Не можем отступить, поблизости есть враги!" />
     <string id="zb9fiIP6" text="Вы можете построить осадные машины, используя квадраты для дальнобойных двигателей, а также круги для таранов и осадных башен." />

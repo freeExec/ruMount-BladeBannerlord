@@ -92,6 +92,7 @@
     <string id="dxlkHhw5" text="Games Won" />
     <string id="ECb8IPbA" text="Create Clan" />
     <string id="eCOJSSUH" text="({BOT_COUNT} ботов)" />
+    <string id="eeJcVeQG" text="Focus End" />
     <string id="eGuQKRhb" text="Вы покинули игровую зону!" />
     <string id="empirefaction" text="Империя" />
     <string id="enhza8zr" text="Faction" />
@@ -119,6 +120,7 @@
     <string id="GMhOZGnb" text="Нельзя отдать приказ, пока вы мертвы" />
     <string id="GmU1to3Y" text="Статистика" />
     <string id="gqNxq11A" text="Цели" />
+    <string id="graphics_option" text="Graphics" />
     <string id="GRpGNYHW" text="Promote To Clan Leader" />
     <string id="GXosklej" text="Случайные" />
     <string id="gzdNEM76" text="Создать игру" />
@@ -138,11 +140,13 @@
     <string id="IlQnJsUp" text="Флагов захвачено:" />
     <string id="iLUiaRsj" text="Ваш" />
     <string id="iNqucBor" text="Войти в" />
+    <string id="iPx4jep6" text="Exposure" />
     <string id="IS4SifJG" text="Won" />
     <string id="iwugyB6z" text="{USERNAME}#{USERID}" />
     <string id="J0vjDOFO" text="Скр. укола" />
     <string id="j35pgljM" text="Choose Faction" />
     <string id="j4F7tTzy" text="Clan" />
+    <string id="j5pLIV91" text="Focus Start" />
     <string id="Jd44GGJW" text="{TEAM} команда победила в тайм-ауте" />
     <string id="JPimShCw" text="Тип игры" />
     <string id="jQJbU9Wl" text="Searching for a match" />
@@ -194,6 +198,7 @@
     <string id="OSoAVlqc" text="Экипировано" />
     <string id="OUvFT99g" text="Tag" />
     <string id="OVcoYxj1" text="Имя Сервера" />
+    <string id="overall_option" text="Overall" />
     <string id="OwqFpPwa" text="Фильтры" />
     <string id="oyVeCtlg" text="Roster" />
     <string id="ozREO8ev" text="Change Bannerlord ID" />
@@ -203,9 +208,11 @@
     <string id="partykick" text="Кикнуть" />
     <string id="PDdh1sBj" text="Имя" />
     <string id="pguhTmXw" text="Результаты битвы" />
+    <string id="photomodefocus" text="Focus" />
     <string id="PjO7oY16" text="Стургия" />
     <string id="Po8jNaXb" text="Can only contain letters" />
     <string id="pSheKLB4" text="Зритель" />
+    <string id="Pwi1YCjH" text="Copy Bannerlord ID" />
     <string id="q2Y7aHSF" text="Invite Suggestion" />
     <string id="q37arODj" text="Add friends with Bannerlord ID" />
     <string id="Q50X65NB" text="Классы" />

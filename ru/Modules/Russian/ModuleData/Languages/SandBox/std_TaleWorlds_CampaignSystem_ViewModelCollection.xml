@@ -97,11 +97,11 @@
     <string id="d2K6gMsZ" text="Отправить воинов. Нужен как минимум 1 спутник." />
     <string id="d8jrv3nA" text="Добавить в закладки" />
     <string id="DAmdTxuC" text="Управление армией" />
-    <string id="dD3kRDHi" text="This hero is a fugitive and running from their captors. They will will be available after some time" />
+    <string id="dD3kRDHi" text="Этот герой спасается бегством от взявших его в плен. Он будет доступен через некоторое время." />
     <string id="DNq9bdvV" text="{THRUST_DAMAGE_FACTOR}" />
     <string id="DNXD37JL" text="Settlement's Days Until Food Runs Out" />
     <string id="dO95yR9b" text="Колющий урон" />
-    <string id="DPTPuyip" text="And {NUMBER} more..." />
+    <string id="DPTPuyip" text="И {NUMBER} еще..." />
     <string id="Dqydb21E" text=" {PARTY_SIZE}" />
     <string id="dWYm9GsC" text="Требует" />
     <string id="DXczLzml" text="Состояние" />
@@ -110,8 +110,8 @@
     <string id="eHVq6yDa" text="Цена предмета" />
     <string id="eIGFuGOx" text="Give Settlement" />
     <string id="eIws123Z" text="Защита ног" />
-    <string id="EkFDvG7z" text="Settlement Food Stocks" />
-    <string id="eoVW9z54" text="Average Morale" />
+    <string id="EkFDvG7z" text="Запасы еды в поселении" />
+    <string id="eoVW9z54" text="Средняя мораль" />
     <string id="EQHq3bHM" text="Направляется в {TARGET_PARTY}" />
     <string id="ErnykQEH" text="Выходы" />
     <string id="eTw2aNV5" text="+" />
@@ -130,7 +130,7 @@
     <string id="flxDkoMh" text="Stage Complete" />
     <string id="fOSGakix" text="Вы не можете управлять армией, пока находитесь в плену." />
     <string id="G2h0V10w" text="Подарите это поселение клану в своем королевстве." />
-    <string id="g4XqKGUr" text="В группе уже есть участник с этой ролью." />
+    <string id="g4XqKGUr" text="В отряде уже есть участник с этой ролью." />
     <string id="G6cCjixe" text="{COMPLETION_PERCENT} (Приблизительно {DAYS} дней до завершения)" />
     <string id="g9VIbA9s" text="Сержант" />
     <string id="GCaYjA5W" text="Вы должны быть лидером клана,что бы переименовать его." />
@@ -147,11 +147,11 @@
     <string id="hOVPiG3z" text="Recently rebelled" />
     <string id="hr4MuPnt" text="Необходимые Материалы" />
     <string id="hTzTMLsf" text="Дальность обзора" />
-    <string id="HURdAXDQ" text="Hideout Crew" />
+    <string id="HURdAXDQ" text="Отряд для зачистки убежища" />
     <string id="hylxyNtU" text="Вам не хватает." />
     <string id="Hz8XO8wk" text="Персонаж не может вести за собой отряд,будучи губернатором." />
     <string id="I2sZ7K28" text="Are you sure want to reset tutorials?" />
-    <string id="i9OsCshW" text="This kingdom decision is not relevant anymore." />
+    <string id="i9OsCshW" text="Данное решение перестало быть актуальным для Королевства." />
     <string id="IagYTD5O" text="Счастье" />
     <string id="IbqRyrKo" text="Это определит начальную активную политику Королевства. Выберите максимум 4 политики." />
     <string id="IcgVKFxZ" text="Правитель" />
@@ -219,7 +219,7 @@
     <string id="O3dhjtOS" text="Шлем" />
     <string id="oBbiVeKE" text="Здоровье" />
     <string id="ocSW4WA2" text="Полный провал!" />
-    <string id="OhNYkblK" text="Этот герой только что сбежал от похитителей и будет доступен через некоторое время." />
+    <string id="OhNYkblK" text="Этот герой только что сбежал от взявших его в плен и будет доступен через некоторое время." />
     <string id="oibdTnXP" text="Обработка" />
     <string id="OIeXNTEn" text="Мастерская не может быть улучшена." />
     <string id="OkWLI5C8" text="Размер:" />
@@ -248,8 +248,8 @@
     <string id="pWObBhj5" text="Нельзя назначить лидера отряда в качестве губернатора поселения" />
     <string id="PXT6aA4J" text="Настройка кампании" />
     <string id="q1J4a8rr" text="Скорость обучения" />
-    <string id="Q8dhryRX" text="Parties' Food" />
-    <string id="QBB0KQ2Z" text="Parties' Average Morale" />
+    <string id="Q8dhryRX" text="Еда отрядов" />
+    <string id="QBB0KQ2Z" text="Средняя мораль отрядов" />
     <string id="QBPrRdQJ" text="Врач" />
     <string id="qBq70qDq" text="Текущий Проект" />
     <string id="QeToaiLt" text="Рубящий урон " />
@@ -276,7 +276,7 @@
     <string id="rsHPaaYZ" text="Что бы усилить сплоченность,она должна быть ниже, чем {MINAMOUNT}." />
     <string id="rThSy9ed" text="Требуется: {UPGRADE_ITEM} (У вас недостаточно!)" />
     <string id="RuaA8t97" text="Имя Королевства" />
-    <string id="rUeWBOOi" text="Выберите предмет для переплавки" />
+    <string id="rUeWBOOi" text="Выберите предмет для расплавки" />
     <string id="RVPidk5a" text="Влияние" />
     <string id="Rvr1bcu8" text="Next" />
     <string id="rwKBR4NE" text="Среднее количество дней до того, как закончится еда" />
@@ -359,7 +359,7 @@
     <string id="zawBaxl5" text="Дистанция: {DISTANCE}" />
     <string id="ZcybPatO" text="Длина" />
     <string id="zMMqgxb1" text="Тип: " />
-    <string id="zrhr4rDA" text="Are you sure you want to disband this army? This will result in relation loss." />
+    <string id="zrhr4rDA" text="Вы уверены, что хотите распустить эту армию? Это приведет к ухудшению отношений." />
     <string id="ZUgoQ1Ws" text="Тип" />
     <string id="zWaCtOJU" text="{SETTLEMENTS}" />
     <string id="zWaVxD6T" text="Скорость отряда" />

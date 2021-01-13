@@ -180,7 +180,7 @@
     <string id="drG1OL8d" text="Колесико вверх" />
     <string id="DTSHoHbu" text="Окно инвентаря " />
     <string id="dTyINo1B" text="Lock target" />
-    <string id="dV5ar9eP" text="Max (1000)" />
+    <string id="dV5ar9eP" text="Максимум (1000)" />
     <string id="Dw58UUua" text="Подповерхностное рассеивание" />
     <string id="DYcLYL6E" text="Bar" />
     <string id="E5xbXlLB" text="Включает солнечные лучи." />
@@ -201,12 +201,12 @@
     <string id="FLLnblfP" text="Сообщения о потерях" />
     <string id="FqvJUBRn" text="Очень низкое" />
     <string id="fsI2wuHa" text="Группа 2 слушай" />
-    <string id="G17kWzwi" text="Very High (600)" />
+    <string id="G17kWzwi" text="Очень высоко (600)" />
     <string id="G2e8xucc" text="Если клетчатый рисунок не виден внутри рамки, попробуйте переместить ползунки.{newline}Установите ползунки в такой позиции, чтобы рисунок был едва различим." />
     <string id="g4Iq82iw" text="Открыть командный чат." />
     <string id="g4VjAbMG" text="J" />
     <string id="G8ug5Bwx" text="Чат" />
-    <string id="G9oAjFL7" text="Very Low (200)" />
+    <string id="G9oAjFL7" text="Очень низкий (200)" />
     <string id="gCDjIGB6" text="Показать кровь" />
     <string id="Gd2iUUHa" text="Устанавливает качество визуализации частиц. Более высокое значение означает более резкие частицы." />
     <string id="gIsqhwTs" text="Поле зрения от первого лица" />
@@ -237,7 +237,7 @@
     <string id="I6OJtaMT" text="Никогда" />
     <string id="I9PN1qny" text="Numpad Enter" />
     <string id="IahiWHHW" text="К" />
-    <string id="Iam02fhz" text="Low (300)" />
+    <string id="Iam02fhz" text="Низкий (300)" />
     <string id="IaoVYeZi" text="Включает тесселяцию." />
     <string id="iblHebbT" text="F1" />
     <string id="IcEPmXxM" text="Устанавливает метод окклюзии." />
@@ -245,7 +245,7 @@
     <string id="ID9lG6xg" text="Просмотр приказов" />
     <string id="igGLkaf6" text="Экипировать предмет 2" />
     <string id="iGi5HsGS" text="Левый Shift" />
-    <string id="ihAadMd5" text="Open Encyclopedia on the campaign map" />
+    <string id="ihAadMd5" text="Откройте энциклопедию на карте кампании" />
     <string id="IjhCSwNn" text="Отдалить камеру при виде от третьего лица." />
     <string id="IjLcnwpz" text="Increase Camera Focus" />
     <string id="IjRHUbbN" text="Тесселяция" />
@@ -291,13 +291,13 @@
     <string id="kak4GxOh" text="F6" />
     <string id="kG4051e5" text="ВыбратьПриказ7" />
     <string id="KGaaYZi1" text="Частота кадров" />
-    <string id="Kh8qRccB" text="Reset changes" />
+    <string id="Kh8qRccB" text="Сбросить изменения" />
     <string id="KHbdmIfF" text="Только статические" />
     <string id="KjZas5Xs" text="Выбор видеоадаптера который будет воспроизводить игру." />
     <string id="Kk0hMffJ" text="Чувствительность мыши " />
     <string id="KKNmozPI" text="Стрелка влево" />
     <string id="KL8cGTao" text="Radial" />
-    <string id="kNpWwJcc" text="High (500)" />
+    <string id="kNpWwJcc" text="Высоко (500)" />
     <string id="KO5zuUvN" text="Действие" />
     <string id="KONClayU" text="\" />
     <string id="koX9okuG" text="Нет" />
@@ -323,7 +323,7 @@
     <string id="M1ZFZR5I" text="Качество рельефа " />
     <string id="M2LCpC4Z" text="Инвертировать ось Y" />
     <string id="m7B471Hw" text="Устанавливает качество освещения." />
-    <string id="mAxXKaXp" text="Reset" />
+    <string id="mAxXKaXp" text="Сброс" />
     <string id="Mf5qVgAv" text="Экипировать предмет 3" />
     <string id="MFbBFDqx" text="Map Fast Move" />
     <string id="MfsNAPh6" text="Включает подповерхностное рассеивание." />
@@ -345,7 +345,7 @@
     <string id="nDjFBDvE" text="Задает максимальное количество юнитов в бою. Более высокие значения требуют более мощные CPU и GPU." />
     <string id="NN7DHB1A" text="Группа 1 слушай" />
     <string id="o0QPZODk" text="Перемещать отряд влево" />
-    <string id="O5j0ChFf" text="Increase FocusStart" />
+    <string id="O5j0ChFf" text="Увеличить фокус старта" />
     <string id="o8WjGqS4" text="Z" />
     <string id="O9ed2AWr" text="Завершите сообщение если окно чата активно. В противном случае активируйте окно чата." />
     <string id="ocNVbyPJ" text="Оконный без рамки" />
@@ -361,7 +361,7 @@
     <string id="otHjiYlN" text="Качество частиц" />
     <string id="OtS4DYD1" text="T" />
     <string id="OYaqdNAI" text="Выбрать приказ 2" />
-    <string id="P2zN2brG" text="Increase Focus" />
+    <string id="P2zN2brG" text="Увеличить фокус" />
     <string id="P4rblFQN" text="Уменьшить масштаб карты" />
     <string id="P5x1HU1u" text="Сглаживание" />
     <string id="P7E3rS3m" text="Уровень громкости музыки." />
@@ -413,7 +413,7 @@
     <string id="ro0NhUnJ" text="Задает поле зрения от первого лица." />
     <string id="roJLc9oH" text="Половинная" />
     <string id="rP058aIm" text="Экипировать предмет в первый слот." />
-    <string id="RqDlastU" text="Decrease Focus" />
+    <string id="RqDlastU" text="Уменьшить фокус" />
     <string id="rs0wImmD" text="Не удается сохранить данные." />
     <string id="rS6nO0wb" text="Toggle Vignette" />
     <string id="RSmsn6mb" text="Возобновить/Остановить время" />
@@ -500,7 +500,7 @@
     <string id="Vea6bRUO" text="Включите элементы интерфейса, которые сообщают о повреждениях и жертвах игроков в центре внизу." />
     <string id="vJ41v8zh" text="Прозрачность банера союзных войск" />
     <string id="vJDxgaOZ" text="Версии этих модулей различаются:" />
-    <string id="VklN5Wm6" text="Photo Mode" />
+    <string id="VklN5Wm6" text="Фото режим" />
     <string id="Vpy2qEcN" text="С помощью клавиш движения" />
     <string id="vT3yIxmO" text="Numpad 4" />
     <string id="vXvmeGhm" text="Тип теней" />
@@ -521,7 +521,7 @@
     <string id="WVpVmbzC" text="Эти модули новые в игре:" />
     <string id="wWDHH5FK" text="Глубина резкости" />
     <string id="wYicqUa9" text="Время на карты нормальное" />
-    <string id="X1nFnomy" text="Medium (400)" />
+    <string id="X1nFnomy" text="Средняя (400)" />
     <string id="X5cSNxHf" text="5" />
     <string id="x7kYOUfi" text="Громкость эффектов" />
     <string id="x7qfk550" text="Q" />

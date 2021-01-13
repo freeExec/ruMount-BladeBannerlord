@@ -166,7 +166,7 @@
     <string id="2duoimiP" text="Подхватил Болезнь" />
     <string id="2DXiydXl" text="Нет, спасибо. Может вам стоит рискнуть с командирами нашего клана." />
     <string id="2E7s4L9R" text="Вам не нужны наемники? У меня есть контракт, который могу передать вам за {DEMAND_GOLD} динар." />
-    <string id="2eBBY7nG" text="Ballista in siege bombardment reload 25% faster." />
+    <string id="2eBBY7nG" text="Баллиста при осадной бомбардировке перезаряжается на 25% быстрее." />
     <string id="2EiC1YyZ" text="Ну, если они пронюхают о том, что ты задумал, все может пойти не так, как надо. Поторопись." />
     <string id="2Ekt9yKN" text="Увеличить выносливость (ВЫН) на 1." />
     <string id="2ELhox6C" text="Если не хотите влезать в битву, то оставьте несколько спутников и {NUMBER_OF_TROOPS} своих солдат на пару дней." />
@@ -336,7 +336,7 @@
     <string id="4t5zOiVF" text="{HERO.FIRSTNAME} Столпа" />
     <string id="4tY23HWb" text="Конечно. Мне Рады во всех дворах Кальрадии. Мало кто может это сказать! Так что всегда будьте уверены, что где-то зарыт горшок с динарами, и верный слуга, который может найти его в спешке." />
     <string id="4uKTfTg9" text="Извиняюсь. На этот раз у меня для вас ничего нет." />
-    <string id="4V3sK20q" text="Ranged siege engine build speed increased by 10%." />
+    <string id="4V3sK20q" text="Ускорена сборка осадных орудий дальнего боя на 10%." />
     <string id="4VxFPTT0" text="got bloodied." />
     <string id="4Wvdk30M" text="Чит: Следуйте за мной" />
     <string id="4Ybbhzjw" text="Политик" />
@@ -466,7 +466,7 @@
     <string id="6mWaEzgs" text="У пехотных войск в строю, который вы возглавляете, навык обращения с двуручным оружием повышен на 30." />
     <string id="6ncPxxfa" text="Войска дальнего боя в вашем построении после сражений получают 10% общего опыта." />
     <string id="6nm9biYR" text="Войска в вашем формировании используют арбалеты с навыком арбалета +30." />
-    <string id="6nSusCkE" text="Continuous projects provides 20 gold per day." />
+    <string id="6nSusCkE" text="Непрерывные проекты дают 20 золота в день." />
     <string id="6nUa0FIl" text="Войска в вашем формировании с луком игнорируют 5% брони врагов." />
     <string id="6NWExCu6" text="Армия создана" />
     <string id="6OKW8Ba3" text="{ISSUE_GIVER.LINK}, {?ISSUE_GIVER.GENDER}землевладелица{?}землевладелец{\?} из {ISSUE_GIVER_SETTLEMENT} {?ISSUE_GIVER.GENDER}рассказала{?}рассказал{\?} вам о {?ISSUE_GIVER.GENDER}ее{?}его{\?} проблеме с жителями поселения {TARGET_SETTLEMENT}. Очевидно, {?ISSUE_GIVER.GENDER}она приобрела{?}он приобрел{\?} право на использование пастбищ неподалеку от деревни. Но некоторые местные жители не уходят с этих земель и создают проблемы для {?ISSUE_GIVER.GENDER}ее{?}его{\?} пастухов. Вы согласились отправить {COMPANION.LINK} вместе с {NEEDED_MEN_COUNT} людьми, чтобы они позаботились о ситуации. Вы ожидаете, что они вернутся через {RETURN_DAYS} дней." />
@@ -546,7 +546,7 @@
     <string id="7LjTNs1k" text="{QUEST_GIVER.LINK} заплатит вам {REWARD_GOLD}{GOLD_ICON} динар когда задание будет выполнено." />
     <string id="7mbE4z2v" text="{?CHILD.GENDER}She{?}He{\?} won a friendly horse racing competition, and was rewarded with a magnificent saddle." />
     <string id="7naLQmq1" text="Вы проиграли битву против наемников. Вы не смогли избавиться от них, как  обещали. Теперь они превратились в бандитов и начали грабить в сельской местности" />
-    <string id="7NCG7w45" text="During besieging, army loses 50% less cohesion." />
+    <string id="7NCG7w45" text="Во время осады армия теряет на 50% меньше сплоченности." />
     <string id="7o4AfEhN" text="Пока вы отдыхаете, вы слышите новости о том, что силы во главе с {ATTACKER} прибыли за пределами {DEFENDER}, чтобы совершить набег." />
     <string id="7o68QryW" text="Еще нет. У меня есть другие дела." />
     <string id="7P3wiojT" text="a sharp mind." />
@@ -564,7 +564,7 @@
     <string id="7ve3bQxg" text="Оружие с рынка" />
     <string id="7VUNi3zy" text="{QUEST_GIVER.LINK} произведет оплату {MEAT_AMOUNT} мясом, по окончании выполнения задачи." />
     <string id="7Vw6iYNI" text="{?CHARACTER.GENDER}Она умерла{?}Он умер{\?} при рождении в {YEAR}г в возрасте {CHARACTER.AGE}. {?CHARACTER.GENDER}У нее{?}У него{\?} после этого пошла репутация {REPUTATION}" />
-    <string id="7vZcwCqA" text="Increase equipped shield hitpoints by 30%." />
+    <string id="7vZcwCqA" text="Увеличивает прочность щита на 30%." />
     <string id="7WlQ0Twr" text="{WEAPON} в {SETTLEMENT} побило пару солдат {BESIEGER}!" />
     <string id="7XR4MJci" text="{QUEST_GIVER.LINK}, землевладелец из {SETTLEMENT}, {?QUEST_GIVER.GENDER}сказала{?}сказал{\?} вам, что {?QUEST_GIVER.GENDER}она{?}он{\?} нуждается в заключённых для использования их в {?QUEST_GIVER.GENDER}её{?}его{\?} шахте в качестве рабочих рук. {?QUEST_GIVER.GENDER}Она просила{?}Он просил{\?} вас привести хотя бы {NEEDED_PRISONER_AMOUNT} заключённых, но {?QUEST_GIVER.GENDER}она{?}он{\?} доплатит, если вы принесете больше. Вы согласились привести {?QUEST_GIVER.GENDER}ей{?}ему{\?} хотя бы {NEEDED_PRISONER_AMOUNT} заключённых, и вам заплатят в десять раз больше их рыночной цены за каждого." />
     <string id="7ZqusnEa" text="Персонаж может производить необработанное железо более эффективно, получая 3 единицы необработанного железа из 1 единицы железной руды." />
@@ -702,7 +702,7 @@
     <string id="9zJNjWes" text="{SETTLEMENT} находится под набегом. Ваше соглашение с {QUEST_GIVER.LINK} отменено." />
     <string id="a0MVffcN" text="Переулок" />
     <string id="a0UTO8tW" text="{ISSUE_OWNER.LINK}, правитель {ISSUE_SETTLEMENT} попросил вас доставить {GRAIN_AMOUNT} единиц зерна {?QUEST_GIVER.GENDER}ей{?}ему{\?} для использования в качестве семян. В противном случае крестьяне не смогут сеять поля и будут голодать в наступающем сезоне. Вы согласились отправить вашего спутника {COMPANION.NAME} вместе с 20ю людьми, чтобы найти семена и вернуться в деревню. Ваши люди должны вернуться через {RETURN_DAYS} дней." />
-    <string id="A16GZubg" text="Rams and siege-towers have 33% more hitpoints." />
+    <string id="A16GZubg" text="У таранов и осадных башен на 33% больше прочности." />
     <string id="A1LHEGX4" text="Ледокол" />
     <string id="a1n2zCaD" text="Я хочу узнать, что именно вам от меня нужно." />
     <string id="a1PPbzbi" text="focused on the big picture." />
@@ -1083,7 +1083,7 @@
     <string id="bu2rmgY1" text="{HERO.FIRSTNAME} Ивовый" />
     <string id="buKXELE3" text="Принять предложение." />
     <string id="BUM63VJq" text="Вот это я понимаю. Мои люди скажут вам, как найти укрытие. Спасите этих бедных пленников, и к вам прибудет будет большой мешок серебра!" />
-    <string id="bUNitf5F" text="Damage to walls increased by 25% during siege." />
+    <string id="bUNitf5F" text="Урон стенам во время осады увеличен на 25%." />
     <string id="BuPOdw0f" text="Ваши пехотинцы получают на 10% меньше урона в автобое от войск дальнего боя." />
     <string id="bvEOmHWd" text="Я думаю, что человек, умеющий торговать бок о бок с {ALTERNATIVE_TROOP_AMOUNT} бойцами, может без проблем справиться со своей работой. Также им понадобится {GOLD_REQUIRED_FOR_ALTERNATIVE_SOLUTION}{GOLD_ICON} динар для покупки животных. Вы или один из ваших компаньонов, {?PLAYER.GENDER}мадам{?}сир{\?} - это не имеет значения для нас, пока вы находите животных, которые нам нужны..." />
     <string id="bVi0JKSx" text="Вы будете казнены. Вы должны принять это как можно смелее" />
@@ -1096,7 +1096,7 @@
     <string id="BWafzwTr" text="Each time you build a siege machine, troops in your party gain 5 experience instead flat xp value to whole party." />
     <string id="bWb245zO" text="Волеос" />
     <string id="bWbcuOji" text="Да. Это много, но я могу заплатить. Спасибо, {?PLAYER.GENDER}миледи{?}мой лорд{\?}. Я знал, что мы достигнем соглашения." />
-    <string id="BWdrwU59" text="Increase campaign map ballista accuracy by 20%." />
+    <string id="BWdrwU59" text="На 20% увеличивает точность баллисты на карте кампании." />
     <string id="BwIT8F0k" text="Я не против, бандит. Сдавайся или умри!" />
     <string id="bWpLYiEg" text="Вы когда-нибудь находили способ справиться с этими наемниками?" />
     <string id="bwuawgrW" text="Как опытный участник с высочайшим навыком тактики {HIGHEST_TACTICS_SKILLED_MEMBER} ({HIGHEST_TACTICS_SKILL}) разработал план рассеивания в пустыне, чтобы оторваться от своих врагов. Вы и большинство людей можете сбежать, но {NEEEDED_MEN_COUNT} {SOLDIER_OR_SOLDIERS} будут потеряны и часть вашего груза может быть захвачена." />
@@ -1174,7 +1174,7 @@
     <string id="CKtZ7bES" text="TODO" />
     <string id="cKz1cyuM" text="Ваш клан сейчас воюет с {QUEST_GIVER_SETTLEMENT_FACTION}. Задание отменено." />
     <string id="CLPj9WZe" text="Вербовка мелких фракций в клан на 20% дешевле." />
-    <string id="ClrrVHcM" text="Convert non-bandit prisoners 30% faster." />
+    <string id="ClrrVHcM" text="Набор в армию заключенных не являющихся бандитами на 30% быстрее." />
     <string id="CM8Tr3lL" text="&quot;О, мой карман расчистили {newline}А моя рубашка промокла от болезни {newline}И моя голова чувствует, как будто она взорвалась&quot; »" />
     <string id="Cn4lnECZ" text="У нас с вами нет хорошей истории... Я вам не доверяю." />
     <string id="cnaxgN5b" text="Вы не смогли вовремя привести войска." />
@@ -1182,7 +1182,7 @@
     <string id="CNYoZKyf" text="dabbled in intrigue." />
     <string id="cO61R3va" text="Мы не враждуем с тобой." />
     <string id="cojKmfSk" text="Там никого нет внутри." />
-    <string id="cOS8cdib" text="Mangonels and trebuchets in siege bombardment reload 25% faster." />
+    <string id="cOS8cdib" text="Mangonels и требушеты при осадной бомбардировке перезаряжаются на 25% быстрее." />
     <string id="cOyolp4F" text="Я просто не... Как бы это сказать? Вы меня не привлекаете." />
     <string id="Cp7dI87a" text="Авангард" />
     <string id="CpafrIbY" text="{HERO.FIRSTNAME} Мельник" />
@@ -1374,7 +1374,7 @@
     <string id="DTnaWgAv" text="Парад" />
     <string id="dtzKfkrh" text="Мы никогда не соглашались с этим. Я плачу вам не больше, чем {GATHERED_DENARS}{GOLD_ICON}, и вы не можете меня заставить." />
     <string id="dU7haWkI" text="Скрепленный" />
-    <string id="DuaVp7UH" text="Increase the rate of recruiting melee prisoners by %50." />
+    <string id="DuaVp7UH" text="Увеличьте скорость набора заключенных ближнего боя на 50%." />
     <string id="DUB6zfSe" text="У меня есть небольшой спор с {TARGET_SETTLEMENT}. Недавно я купил право пасти скот на близлежащих пастбищах у помещика. Но теперь некоторые из сельских жителей создают проблемы." />
     <string id="dUhV0ZxZ" text="Вы должны развивать более тесную дружбу с другим человеком" />
     <string id="DV2kW53e" text="Ваши караваны собирают торговые слухи." />
@@ -1410,7 +1410,7 @@
     <string id="E90ArBnZ" text="fell in with the wrong crowd." />
     <string id="e9bk6QBv" text="Пехотные войска в строю, которым вы руководите, увеличивают свой урон против верховых животных на 10%." />
     <string id="E9s2bjqw" text="Я могу только надеяться, что когда-нибудь вы поменяете свое мнение." />
-    <string id="ea78JOZK" text="Each militia increase build speed of siege engines by 0.1%." />
+    <string id="ea78JOZK" text="Каждое ополчение увеличивает скорость постройки осадных орудий на 0,1%. (оборона)" />
     <string id="EA9YX6BQ" text="Ваша фракция теперь в состоянии войны с {ISSUEGIVER.LINK}ой фракцией. Ваши соглашения с {ISSUEGIVER.LINK} более недействительны." />
     <string id="eabR87ne" text="Войти в поселение" />
     <string id="EaifHOao" text="Конечно {?PLAYER.GENDER}леди{?}сир{\?}, я сделаю." />
@@ -1539,7 +1539,7 @@
     <string id="f4lnEplc" text="Легендарный кузнец" />
     <string id="F4V7oaVx" text="Построить дом" />
     <string id="F51HfzZj" text="Белая ложь" />
-    <string id="F58CwbzF" text="Ranged siege engines are 25% less likely to be hit while bombarding settlements." />
+    <string id="F58CwbzF" text="Вероятность попадания осадных орудий дальнего боя при бомбардировке поселений на 25% ниже. (оборона)" />
     <string id="f5jHMbOq" text="Акведуки" />
     <string id="f5X5uU0m" text="Деревенское процветание" />
     <string id="F6dEZOVl" text="Набеги на 5% быстрее" />
@@ -1561,7 +1561,7 @@
     <string id="FbowXAC0" text="Там нет доступных продуктов прямо сейчас." />
     <string id="fbsFZWhb" text="Rebels in {SETTLEMENT} have taken the ownership of the settlement." />
     <string id="FbwRbuWR" text="Похоже, вы уже сталкивались с подобной проблемой" />
-    <string id="FbzyR6hL" text="25% increased build speed for town projects." />
+    <string id="FbzyR6hL" text="На 25% увеличена скорость строительства для городских проектов." />
     <string id="Fc7OsyZ8" text="Воинские традиции" />
     <string id="FClEZIkT" text="Совос" />
     <string id="fcRLq8LL" text="{QUEST_GIVER.LINK} землевладелец в {QUEST_SETTLEMENT}, просит вас обучить несколько рекрутов для {?QUEST_GIVER.GENDER}нее{?}него{\?}. {?QUEST_GIVER.GENDER}Она{?}Он{\?} дает вам  {NUMBER_OF_MEN} людей. Надеюсь получить их обратно, когда у них появится некоторый опыт.{newline}Нападать на слабые отряды - самый простой способ обучить их, не подвергая опасности." />
@@ -1636,7 +1636,7 @@
     <string id="FSl1LFP6" text="{CLAN} получил известность в размере {AMOUNT_TO_ADD}. Новая известность - {NEW_RENOWN}" />
     <string id="fsr2yhrr" text="While there were few military feats to accomplish, {CHILD.NAME} still became quite popular among the troops and improved their morale in the process." />
     <string id="ft08QZrA" text="Право владения землей" />
-    <string id="ft6k4Fav" text="Polearm attacks that deal over 25% damage have 25% chance to knock opponents down." />
+    <string id="ft6k4Fav" text="Атаки древковым оружием, наносящие более 25% урона, имеют 25% шанс сбить противников с ног." />
     <string id="FTjKWm8s" text="{KING.NAME} должен править нами" />
     <string id="FUT6eXfw" text="Фаэя" />
     <string id="fUvs4g40" text="Увеличение скорости исцеления героев +{a0}%" />
@@ -1729,7 +1729,7 @@
     <string id="GIljHGh9" text="20% бонус к скорости строительства городских проектов, осадных орудий и ремонту стен." />
     <string id="Gitd3DN8" text="a thirst for knowledge." />
     <string id="gjGb044I" text="Я надеюсь, что они будут..." />
-    <string id="gkAHdFul" text="Prisoner escape chance from dungeons are decreased by 25%." />
+    <string id="gkAHdFul" text="Шанс побега заключенного из подземелий снижен на 25%." />
     <string id="gkuS35ly" text="caring for your horses." />
     <string id="gL7Ltjpc" text="Сметающий ветер" />
     <string id="GlfwOWre" text="Вы получили сообщение от {ISSUE_OWNER.LINK}; Оно гласит: " />
@@ -3412,7 +3412,7 @@
     <string id="toQLHG6x" text="Валор" />
     <string id="tp3p7R8E" text="Облегченная Броня" />
     <string id="Tp4X51vX" text="Может быть, мои люди справятся с этим для вас." />
-    <string id="TPMrjd5m" text="30% chance per day to recover a lame horse." />
+    <string id="TPMrjd5m" text="30% шанс в день, вылечить хромую лошадь." />
     <string id="tpPebu3G" text="{SHEPHERD_COUNT} {SHEPHERD_TYPE} и {ANIMAL_COUNT} {ANIMAL_TYPE} добавлены в вашу группу." />
     <string id="Tpvthjf1" text="Увеличивает бонус к урону от скорости двуручного оружия на 20% когда вы спешены" />
     <string id="TpzZgFsA" text="Молодой и уважительный" />
@@ -3912,7 +3912,7 @@
     <string id="XH66Leg5" text="Приветствую вас {?PLAYER.GENDER}леди{?}лорд{\?}.  много слышал о твоих деяниях. Спасибо, что согласились тренировать меня. Надеюсь, я вас не разочарую." />
     <string id="xHstOUBx" text="You made sure your artisan taught this child to recognize quality work, as well as its worth in denars." />
     <string id="Xi1wpR2L" text="Примите телесные наказания и заплатите {FINE}{GOLD_ICON}" />
-    <string id="xIDEjHyf" text="Non-ranged siege engine build speed increased by 10%." />
+    <string id="xIDEjHyf" text="Скорость сборки осадных орудий ближнего воздействия увеличена на 10%.." />
     <string id="XixNAaD5" text="Improved Tools" />
     <string id="xJ2uDcob" text="Лояльность поселения увеличивается на 2 в день. Производство поселения уменьшается на 5%" />
     <string id="XjbPBIct" text="Увеличивает на 20% скорость лечения войск в армии." />

@@ -5,14 +5,14 @@
   </tags>
   <strings>
     <string id="028iCb8B" text="Йитея" />
-    <string id="04dAbdjM" text="Nyvia" />
-    <string id="04zSjaRe" text="Nartiros" />
+    <string id="04dAbdjM" text="Нивия" />
+    <string id="04zSjaRe" text="Нартирос" />
     <string id="074bIPbm" text="Ллум" />
     <string id="0atYAnDF" text="Тулул" />
     <string id="0B27RrYJ" text="Баттания" />
     <string id="0CQgia2a" text="Куларн" />
     <string id="0DgWpr8b" text="Денгул" />
-    <string id="0MJi7mre" text="Hyscasia" />
+    <string id="0MJi7mre" text="Хисказия" />
     <string id="0OFMT7AO" text="Ротард" />
     <string id="0VZ5sROI" text="Охог" />
     <string id="0XEaaoah" text="Росазия" />
@@ -39,7 +39,7 @@
     <string id="2oy7atk6" text="Лундана" />
     <string id="2s7Tb4NC" text="Фионара" />
     <string id="2Sn4uK35" text="Оргунда" />
-    <string id="2uKoNaSG" text="Denos" />
+    <string id="2uKoNaSG" text="Денос" />
     <string id="38o99yqa" text="Борча" />
     <string id="3apHdqU7" text="Ингчит" />
     <string id="3ipKaDWU" text="Натти" />
@@ -48,7 +48,7 @@
     <string id="3NRUkzaV" text="Ясуган" />
     <string id="3oeb8Bav" text="Джассид" />
     <string id="3pgwKPsf" text="Караим" />
-    <string id="3RbayfTG" text="Ascytala" />
+    <string id="3RbayfTG" text="Аскитала" />
     <string id="3RBVn5yi" text="Зорос" />
     <string id="3rXHA6fI" text="Самар" />
     <string id="4833ZS9c" text="Алдусунит" />
@@ -124,7 +124,7 @@
     <string id="9HcXWNoh" text="Фолк" />
     <string id="9I9ziX31" text="Вилатруд" />
     <string id="9l3RSCJp" text="Колсунд" />
-    <string id="9mQuSI3c" text="Thucasys" />
+    <string id="9mQuSI3c" text="Закасис" />
     <string id="9pnUaj0g" text="Элъйакша" />
     <string id="9SJa91sZ" text="Марена" />
     <string id="9sokmYMZ" text="Падмос" />
@@ -146,13 +146,13 @@
     <string id="AcUEb8zX" text="Корот" />
     <string id="aDAJGO4y" text="Галтар" />
     <string id="AdK4Ilzw" text="Чалия" />
-    <string id="AEaRpupL" text="Ocheros" />
+    <string id="AEaRpupL" text="Окерос" />
     <string id="aeLgc0cU" text="Актон" />
     <string id="AeNqteUX" text="Зебалес" />
     <string id="aezwJGvY" text="Ченон" />
     <string id="agn93v7y" text="Йориг" />
-    <string id="aH2ncPbK" text="Zalasos" />
-    <string id="am2UnbAK" text="Menor" />
+    <string id="aH2ncPbK" text="Заласос" />
+    <string id="am2UnbAK" text="Менор" />
     <string id="AMmJVlrt" text="Кираслава" />
     <string id="Ao69q2aY" text="Пера" />
     <string id="aqd6QHES" text="Джанаб" />
@@ -186,7 +186,7 @@
     <string id="bHbR5Mgy" text="Лосис" />
     <string id="bHh03ob0" text="Ваккен" />
     <string id="bHTdXTwC" text="Алари" />
-    <string id="BIAEZaVx" text="Rhandana" />
+    <string id="BIAEZaVx" text="Рандана" />
     <string id="bm9surN9" text="Уболд" />
     <string id="bmHAYBwX" text="Катила" />
     <string id="bNj9gI2y" text="Астин" />
@@ -224,7 +224,7 @@
     <string id="CuocGtTq" text="Лестарос" />
     <string id="cv1QgU1H" text="Пажел" />
     <string id="CvVJyKYA" text="Телея" />
-    <string id="Cxazvjr3" text="Tamarea" />
+    <string id="Cxazvjr3" text="Тамарея" />
     <string id="cxNCgqkI" text="Литка" />
     <string id="CXpnTfdk" text="Гулдриманд" />
     <string id="CYxjotI2" text="фен Крусак" />
@@ -265,7 +265,7 @@
     <string id="empirefaction" text="Империя" />
     <string id="Emsd1xmS" text="Дашвал" />
     <string id="eoF4TEr2" text="Далисет" />
-    <string id="eOHeCKxn" text="Jespara" />
+    <string id="eOHeCKxn" text="Жеспара" />
     <string id="epxmhQav" text="Дария" />
     <string id="ESKeInbq" text="Аран" />
     <string id="EUQTT8so" text="Ошир" />
@@ -296,7 +296,7 @@
     <string id="FVl3D2qT" text="Меонес" />
     <string id="FwcFIHfl" text="Севелар" />
     <string id="fWKnmnXb" text="Так" />
-    <string id="fXgftgNv" text="Aphanys" />
+    <string id="fXgftgNv" text="Афанис" />
     <string id="fydMDGtL" text="Феркрид" />
     <string id="fYN6Aawl" text="Кираслав" />
     <string id="g7etVhSO" text="Сумессос" />
@@ -330,7 +330,7 @@
     <string id="hF3F3u8u" text="Дувэйн" />
     <string id="HfuAdGQX" text="Дестор" />
     <string id="HMCZ2w9t" text="Анахайд" />
-    <string id="Ho6zsGTI" text="Sachanion" />
+    <string id="Ho6zsGTI" text="Саханион" />
     <string id="HPrHkie6" text="Фенигос" />
     <string id="HSlPLC4m" text="Ира" />
     <string id="htJuLron" text="Вараг" />
@@ -339,7 +339,7 @@
     <string id="hWKKCdeX" text="Мулум" />
     <string id="HxKE18yl" text="Ласвак" />
     <string id="hy7mIh48" text="Видар" />
-    <string id="hyOgAehG" text="Emarys" />
+    <string id="hyOgAehG" text="Емарис" />
     <string id="i9ZDrsi1" text="Рафард" />
     <string id="iaUQ9lt9" text="Ингалтер" />
     <string id="IDeemU90" text="Рослинд" />
@@ -349,8 +349,8 @@
     <string id="ig8zAo8f" text="Ори" />
     <string id="IHhWB1aa" text="Дарши" />
     <string id="iiGXfCWd" text="Менар" />
-    <string id="IJlw8V5D" text="Mystesa" />
-    <string id="iJvIH6NP" text="Jutheros" />
+    <string id="IJlw8V5D" text="Мистеса" />
+    <string id="iJvIH6NP" text="Ютерос" />
     <string id="IkTCwsB8" text="Кол" />
     <string id="iltXQqgS" text="Турвалд" />
     <string id="imBaF78b" text="Тунейха" />
@@ -379,7 +379,7 @@
     <string id="jhT7CfhM" text="Айвар" />
     <string id="Jif1C3X3" text="Лария" />
     <string id="JJtww9pt" text="Арйуш" />
-    <string id="jJV5Tn09" text="Tethyclesa" />
+    <string id="jJV5Tn09" text="Тефиклеса" />
     <string id="jKviMpbP" text="Кальрадия" />
     <string id="jMPWSzAi" text="Лойн" />
     <string id="jqaPJbpP" text="Ургил" />
@@ -415,7 +415,7 @@
     <string id="la6HgVXN" text="Митунис" />
     <string id="lac74G8a" text="Агатевда" />
     <string id="lB7b7N1b" text="Девен" />
-    <string id="lbTMVAcI" text="Lerosion" />
+    <string id="lbTMVAcI" text="Леросион" />
     <string id="lD1sl2XC" text="Камнон" />
     <string id="LE9mRhSs" text="Хеспедия" />
     <string id="lEHtUGed" text="Диокосос" />
@@ -433,7 +433,7 @@
     <string id="LpLL0m3O" text="Арлех" />
     <string id="LZ2nBcdv" text="Лис" />
     <string id="M1ORaYny" text="Пол" />
-    <string id="M9CWBbMe" text="Rhanos" />
+    <string id="M9CWBbMe" text="Ранос" />
     <string id="M9gqEb6D" text="Радан" />
     <string id="m9ZgghCo" text="Абагаи" />
     <string id="Ma855h44" text="Иона" />
@@ -460,7 +460,7 @@
     <string id="ncEWiljT" text="Рия" />
     <string id="ncodEt9Q" text="Нокан" />
     <string id="NeFDHnOS" text="Мирим" />
-    <string id="NFIQZOPQ" text="Leosios" />
+    <string id="NFIQZOPQ" text="Леосиос" />
     <string id="NH6avjbc" text="Фалсевор" />
     <string id="nhwnbFJ0" text="Галаза" />
     <string id="nisA6W98" text="Бахештур" />
@@ -468,10 +468,10 @@
     <string id="NOchnEwX" text="Гузид" />
     <string id="nOJ9W5FE" text="Брунда" />
     <string id="NqhPOiMQ" text="Улусумай" />
-    <string id="nqxxr9We" text="Gavalon" />
+    <string id="nqxxr9We" text="Гавалон" />
     <string id="nSoJkeBI" text="Ситтакея" />
     <string id="nTYJWGAa" text="Шата" />
-    <string id="NxDJcR2c" text="Haratheos" />
+    <string id="NxDJcR2c" text="Харатеос" />
     <string id="NXOOJs2X" text="Патрис" />
     <string id="nyCtbjg6" text="Джамаир" />
     <string id="OABjrV1T" text="Вйошен" />
@@ -484,7 +484,7 @@
     <string id="oKeoaDcF" text="Гармунд" />
     <string id="OL6fbZRY" text="Палтос" />
     <string id="OLLYkaWd" text="Асраловинг" />
-    <string id="oQCZp9qv" text="Eumenys" />
+    <string id="oQCZp9qv" text="Эвменис" />
     <string id="OQLPPwrL" text="Озея" />
     <string id="OqOnfdYv" text="Эригай" />
     <string id="ORJZJYt7" text="Чуриг" />
@@ -493,13 +493,13 @@
     <string id="oyxam3bN" text="Благ" />
     <string id="p0hcyZdp" text="Зенон" />
     <string id="p1dFvTAc" text="дей {ORIGIN_SETTLEMENT}" />
-    <string id="P1zsoSPN" text="Rhovarion" />
+    <string id="P1zsoSPN" text="Роварион" />
     <string id="p4BMhcsQ" text="Иара" />
     <string id="P7iNhhPl" text="Туриадос" />
     <string id="pBUc2pL8" text="Морские Разбойники" />
     <string id="pCBkH35Q" text="Данос" />
     <string id="PdK2pGIb" text="Йеша" />
-    <string id="PDK4FHAx" text="Suvys" />
+    <string id="PDK4FHAx" text="Сувис" />
     <string id="pDNlFlc0" text="Алча" />
     <string id="pEvpjIa9" text="Бундук" />
     <string id="pfAkvdYc" text="Горги" />
@@ -510,7 +510,7 @@
     <string id="PknomRIt" text="Мадван" />
     <string id="PlGiSfwr" text="Илен" />
     <string id="plx8kkxa" text="Пеликос" />
-    <string id="PNR2CvvX" text="Ithicala" />
+    <string id="PNR2CvvX" text="Итикала" />
     <string id="ppmUUMY7" text="Сигатруда" />
     <string id="ppQbB9BH" text="фен Эртус" />
     <string id="pq0w8kry" text="Оракос" />
@@ -525,7 +525,7 @@
     <string id="pUvrTrHT" text="Гессиос" />
     <string id="pVGKlS3W" text="Истиона" />
     <string id="PwflQ4dc" text="Бранд" />
-    <string id="pXBvPxHI" text="Penestea" />
+    <string id="pXBvPxHI" text="Пенестея" />
     <string id="Py1Jj5mB" text="Лорик" />
     <string id="q186AQHt" text="Фадон" />
     <string id="Q26RhEj6" text="Ифар" />
@@ -544,7 +544,7 @@
     <string id="QjJAbaoT" text="Апис" />
     <string id="qJprzW1N" text="Айрит" />
     <string id="QJq4VAU7" text="Месуи" />
-    <string id="QNtdUfis" text="Vemioros" />
+    <string id="QNtdUfis" text="Вемиорос" />
     <string id="qqW5n5Ox" text="Милос" />
     <string id="QR3aNalC" text="Имирза" />
     <string id="qrAEaydU" text="Орест" />
@@ -556,7 +556,7 @@
     <string id="Qx7ZfdbV" text="Кут" />
     <string id="QyXwJXIV" text="Андраса" />
     <string id="r0dXXtoU" text="Харид" />
-    <string id="R11i2uVl" text="Calytos" />
+    <string id="R11i2uVl" text="Калитос" />
     <string id="r1RohnC6" text="Фуркред" />
     <string id="R1yWuIzd" text="Мелья" />
     <string id="r28vZDkN" text="Вара" />
@@ -597,7 +597,7 @@
     <string id="sDFb1PRI" text="Нортос" />
     <string id="SDSbjMSj" text="Курунтаи" />
     <string id="Se7U6BSK" text="Улуен" />
-    <string id="sEgUB3jW" text="Deasora" />
+    <string id="sEgUB3jW" text="Деасора" />
     <string id="sF0H1hEV" text="Халгард" />
     <string id="SFDdq8GH" text="Холуджин" />
     <string id="SFybYZNK" text="Менгус" />
@@ -630,8 +630,8 @@
     <string id="tCTzsaIu" text="Муинсер" />
     <string id="tCy0qwXp" text="Ихара" />
     <string id="tDaWbJlY" text="Оранарит" />
-    <string id="tGhrpQ0D" text="Hyradia" />
-    <string id="tgVJZ1Uc" text="Hecaron" />
+    <string id="tGhrpQ0D" text="Гирадия" />
+    <string id="tgVJZ1Uc" text="Гекарон" />
     <string id="tHtt3HCn" text="Приндор" />
     <string id="TiJOjUi5" text="Валаос" />
     <string id="TjvbLQRT" text="Дачан" />
@@ -654,7 +654,7 @@
     <string id="Ub0awU1n" text="Ивин" />
     <string id="UcteBSP6" text="Аси" />
     <string id="uCyAnus4" text="Зостиос" />
-    <string id="Ud1AMybr" text="Стурги-выходцы из суровых северных лесов, чуть южнее ледяного Батнонского моря. На протяжении многих веков они изолированно жили глубоко в лесах, где их численность сдерживалась смертоносными морозами. Но по мере того, как империя расширялась, поглощая всё больше земель Кальрадии, торговцы все чаще отправлялись в леса стургов в поисках меда, болотного железа и ,прежде всего, меха. Большие города возникали вдоль русла рек, привлекая искателей славы и лёгкой наживы из степей и северных земель. С тех пор, стургийские князья всё чаще стали бросать свои взоры на богатые и плодородные земли своих южных соседей, зарабатывая себе репутацию грозных воинов за свой воинственный подход к любому делу и свой деловой подход к войне." />
+    <string id="Ud1AMybr" text="Стурги-выходцы из суровых северных лесов, чуть южнее ледяного Батнонского моря. На протяжении многих веков они изолированно жили глубоко в лесах, где их численность сдерживалась смертоносными морозами. Но по мере того, как империя расширялась, поглощая всё больше земель Кальрадии, торговцы все чаще отправлялись в леса стургов в поисках меда, болотного железа и ,прежде всего, меха. Большие города возникали на сети заливов и озер, которые соединили земли Стургии с внешним миром, привлекая искателей славы и лёгкой наживы из степей и северных земель. С тех пор, стургийские князья всё чаще стали бросать свои взоры на богатые и плодородные земли своих южных соседей, зарабатывая себе репутацию грозных воинов за свой воинственный подход к любому делу и свой деловой подход к войне." />
     <string id="ud6rhXbn" text="Мостирос" />
     <string id="uDlnsFIF" text="Урик" />
     <string id="uducgNbf" text="Чаган" />
@@ -672,7 +672,7 @@
     <string id="V3QHxJb1" text="Полмарк" />
     <string id="v5bWtXj1" text="Племена, живущие в море степей к востоку от империи, имеют много названий: Начаган, Аркиты, Хергиты, Карахергиты. Чужаки. Однако, всместе их принято называть Хузаитами, в честь клана, который за последние два поколения сковал разрозненные племена в грозную армию, ставшую весомой силой Юга,с которой нельзя не считаться. Когда Урхун Великий принял капитуляцию торговых городов на краю степи, он приказал своим нойонам отказаться от бродячего образа жизни. Всем его соратникам предоставляли феоды и деньги на строительство крепостей, а также поощряли их превращать местных крестьян в своих арендаторов. Однако племена Конфедерации Хузаитов все еще сохраняют многие из своих кочевых традиций, и войлочные юрты, стоящие рядом с глинобитными башнями в поселениях, которые являются наполовину деревней, наполовину лагерем, здесь  - обычное дело." />
     <string id="v7tfA4y6" text="Сийафан" />
-    <string id="v9B50R0Q" text="Acarion" />
+    <string id="v9B50R0Q" text="Акарион" />
     <string id="vAKB54zO" text="Арва" />
     <string id="VaqB0x4K" text="Дранга" />
     <string id="vb2rv3OK" text="Уна" />
@@ -681,10 +681,10 @@
     <string id="VG9ng2n2" text="Чандион" />
     <string id="vgBRa2BE" text="Пораклис" />
     <string id="VhbasI9J" text="Кастор" />
-    <string id="VJbAdJe4" text="Purios" />
+    <string id="VJbAdJe4" text="Пуриос" />
     <string id="vjeyAchh" text="Дерагунда" />
     <string id="vl2tgsKa" text="Урхун" />
-    <string id="VN1D1Qps" text="Velanor" />
+    <string id="VN1D1Qps" text="Веланор" />
     <string id="VP9hqkxO" text="Аэдид" />
     <string id="vPlwv7Vj" text="Милох" />
     <string id="VQYTvnfW" text="Дуролд" />
@@ -695,7 +695,7 @@
     <string id="VYWtQe8r" text="Вармонд" />
     <string id="vz038vX7" text="Акита" />
     <string id="VzhbUL60" text="Венделия" />
-    <string id="w*" text="Ucasios" />
+    <string id="w*" text="Юкасиос" />
     <string id="w1a9E7a9" text="Фьянсин" />
     <string id="W1uwgvAQ" text="Арион" />
     <string id="W1yur1cf" text="Хачин" />
@@ -715,7 +715,7 @@
     <string id="WNu6dKHe" text="Ллиари" />
     <string id="WP63fA7r" text="Алкирья" />
     <string id="WpTXwQw1" text="Вуони" />
-    <string id="wQJGxBJI" text="Hophtalamos" />
+    <string id="wQJGxBJI" text="Хофталамос" />
     <string id="WrAMfIG1" text="Фенория" />
     <string id="wsCMwqFw" text="Перибард" />
     <string id="WTePYMNF" text="Зараклис" />
@@ -760,7 +760,7 @@
     <string id="YEqDIbir" text="Оана" />
     <string id="YeQlI2Yj" text="Мизам" />
     <string id="yhCgI9ph" text="Магна" />
-    <string id="yhfJVEe0" text="Phelenos" />
+    <string id="yhfJVEe0" text="Феленос" />
     <string id="yhLbBk1D" text="Сорох" />
     <string id="YIpKt79X" text="Кус" />
     <string id="yJz9AxjY" text="Ринана" />

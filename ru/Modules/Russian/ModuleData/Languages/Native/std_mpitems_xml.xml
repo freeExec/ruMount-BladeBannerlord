@@ -266,7 +266,7 @@
     <string id="GNdVXMue" text="Шарф" />
     <string id="Goloz0Vm" text="Одногорбый Верблюд" />
     <string id="gqbjCBld" text="Северный Метательный Топор" />
-    <string id="GrfnpDxu" text="Highland Throwing Axe" />
+    <string id="GrfnpDxu" text="Метательный топор горцев" />
     <string id="gT8WENO3" text="Длинная Броня" />
     <string id="gTptIfxY" text="Пустынная Шапка" />
     <string id="GTWUtUFj" text="Цепная Лошадиная Упряжь" />
@@ -466,7 +466,7 @@
     <string id="q4iQapMS" text="Щит Горных Наездников" />
     <string id="Q50hfNjW" text="Койф из Тонкой Шкуры" />
     <string id="QaKohN0V" text="Имперская Кольчуга поверх Рваной Кожанки" />
-    <string id="QArSPrAV" text="Northern Kite Shield" />
+    <string id="QArSPrAV" text="Северный каплевидный щит" />
     <string id="QaysED62" text="Туника из Прокатанного Полотна" />
     <string id="Qazvdg1P" text="Имперский Закрытый Койф" />
     <string id="qc0P0b2r" text="Шлем с Полумаской и Кольчугой" />
@@ -600,7 +600,7 @@
     <string id="whvMZZba" text="Защитные Подбитые Наручи" />
     <string id="WiPJqTXv" text="Закрытый Пустынный Шлем" />
     <string id="wKucIANJ" text="Кожаное Пальто с Тканевой Подкладкой" />
-    <string id="wltdyF2j" text="Охотничий Лук" />
+    <string id="wltdyF2j" text="Быстрый Охотничий Лук" />
     <string id="WMqHlEvb" text="Сегментированный Цервельер с Кольчужным Койфом" />
     <string id="Wo5RbJia" text="Плащ Горных Лесов" />
     <string id="WOzcBg62" text="Усиленный Северный Рыбный Гарпун" />
@@ -669,7 +669,7 @@
     <string id="ZFETxZKP" text="Куфея с Шёлковой Лентой" />
     <string id="zGXZJFOb" text="Пластинчатый Доспех с Объёмным Подолом" />
     <string id="ZjAZNjvu" text="Северный Кольчужный Бард" />
-    <string id="ZJweh5Oh" text="Bastard Axe" />
+    <string id="ZJweh5Oh" text="Полутораручный топор" />
     <string id="zKJtr0MV" text="Макебская Лошадь" />
     <string id="zmEnxUpL" text="Имперский Объёмный Бард" />
     <string id="zNoDVcHg" text="Рысак" />

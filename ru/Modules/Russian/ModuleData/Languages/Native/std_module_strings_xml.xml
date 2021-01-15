@@ -193,7 +193,7 @@
     <string id="7JpAR59k" text="Используется для перевозки грузов" />
     <string id="7llkDelg" text="Решения Королевства " />
     <string id="7mRN2br0" text="Командование формацией было передано герою {HERO_NAME}." />
-    <string id="7MSuWxaY" text="{CHILD.NAME} has reached the age of {CHILD.AGE} and {?CHILD.GENDER}she{?}he{\?} needs your guidance." />
+    <string id="7MSuWxaY" text="{CHILD.NAME} достиг возраста {CHILD.AGE} и {?CHILD.GENDER}ей{?}ему{\?} нужно ваше наставление." />
     <string id="7MWaMaez" text="Вот что у нас есть: {ITEM_LIST}. Забирайте все это, но оставьте нас в живых." />
     <string id="7oJ9gIeT" text="У торговца не хватает денег." />
     <string id="7pAZatbz" text="{?RULER.GENDER}Императрица{?}Император{\?} {RULER.NAME}" />
@@ -525,7 +525,7 @@
     <string id="eavr4x8n" text="Ежедневная продукция:" />
     <string id="eb0nLx5E" text="Асерайский султанат" />
     <string id="EbB9y2zZ" text="Объявить войну" />
-    <string id="ebbyLN2i" text="Towns" />
+    <string id="ebbyLN2i" text="Города" />
     <string id="eDVvDS1i" text="Жители" />
     <string id="EegxpPka" text="+{BONUS_AMOUNT} бонус к молотам" />
     <string id="eEmbb1MR" text="Производство(а)" />
@@ -746,7 +746,7 @@
     <string id="icmyseoo" text="Мой Лорд," />
     <string id="IcQ2doLo" text="x{QUANTITY}" />
     <string id="id62me1x" text="Нажмите &quot;Осаждать&quot;" />
-    <string id="If65Vm9h" text="Child Education" />
+    <string id="If65Vm9h" text="Обучение ребенка" />
     <string id="IF7zS5ia" text="Лимит пленников превышен.{newline}Временно ваши пленники останутся с вами, но через некоторое время они начнут быстро покидать отряд. вы также замедлитесь.{newline}Вы уверены?" />
     <string id="iFg5N7r3" text="Одноручное Оружие" />
     <string id="Igoid3sR" text="Предлагаю исключить этот клан из королевства" />
@@ -895,7 +895,7 @@
     <string id="kUh3nsAF" text="Вы нашли третью и последнюю часть знамени!" />
     <string id="kuKad3dj" text="{MISSION_MODE}" />
     <string id="kuLjsNgz" text="Сельская Знать" />
-    <string id="kVLfRWjE" text="+{BONUS_AMOUNT}% reduce at garrison wages." />
+    <string id="kVLfRWjE" text="На {BONUS_AMOUNT}% уменьшено жалованье гарнизона." />
     <string id="kvykuTJS" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}были атакованы{?}был атакован{\?}  осадным оружием." />
     <string id="kwKT6zKq" text="Ожидается, что ваш юнит: {BEHAVIOUR_NAME_BEGIN}{?IS_PLURAL} и {?}{\?}{BEHAVIOUR_NAME_END}" />
     <string id="KWXEMsHC" text="{LORD.LINK} в {SETTLEMENT_NAME}" />
@@ -1020,7 +1020,7 @@
     <string id="nDNOn5o2" text="Оборудование" />
     <string id="NeWvHjCw" text="Огонь Баллисты" />
     <string id="NF627oiX" text="Северная Империя" />
-    <string id="Nfm5lLWv" text="{CHILD.NAME} needs your immediate attention!" />
+    <string id="Nfm5lLWv" text="{CHILD.NAME} требует вашего немедленного внимания!" />
     <string id="nfQhamAF" text="Скорость удара: " />
     <string id="NgHSyQem" text="В Армии" />
     <string id="nHGm1wYg" text="Битва окончена. Нажмите {leave_key} для просмотра результатов" />
@@ -1040,7 +1040,7 @@
     <string id="NqarFr4P" text="Настройки" />
     <string id="NQbqtEqP" text="Цена: {COUNT}" />
     <string id="NqSLYe6b" text="Известность:" />
-    <string id="NqtTPVzn" text="Attributes" />
+    <string id="NqtTPVzn" text="Атрибуты" />
     <string id="NRpwZGxI" text="Солдат" />
     <string id="NSSsxBHV" text="Случайно" />
     <string id="NvJru5Tz" text="Только Мужчина" />
@@ -1621,7 +1621,7 @@
     <string id="z716wRaB" text="Вы не можете распустить военную группу" />
     <string id="z7vSaa7L" text="Производство в деревне" />
     <string id="Z7zWkAV8" text="Вы можете продать пленных у работорговца.{newline}{newline}Вы можете найти его в таверне." />
-    <string id="Z8LeI4ho" text="Bodyguard" />
+    <string id="Z8LeI4ho" text="Телохранители" />
     <string id="ZaoZKcx9" text="Горожане" />
     <string id="ZaseErqk" text="Не можем отступить, поблизости есть враги!" />
     <string id="zb9fiIP6" text="Вы можете построить осадные машины, используя квадраты для дальнобойных двигателей, а также круги для таранов и осадных башен." />

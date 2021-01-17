@@ -61,7 +61,7 @@
     <string id="AcMayd1p" text="Убегает от {TARGET_PARTY}" />
     <string id="aE4ZRbB6" text=" {HEALTH}%" />
     <string id="aFYwbosi" text="Этот персонаж уже является лидером отряда." />
-    <string id="aGFxIvqx" text="Покинуть участника(ов)" />
+    <string id="aGFxIvqx" text="Оставить участника(ов)" />
     <string id="aRhQzJca" text="Наемники не могут создавать армии или управлять ими." />
     <string id="armorTier" text="Класс экипировки: " />
     <string id="aROohsat" text="Является членом в другой армии." />

@@ -2362,7 +2362,7 @@
     <string id="LjMR6OuD" text="Уменьшите штраф точности верхом на 15% для войск дальнего боя в вашей формации." />
     <string id="Ljs9ahMk" text="Я знаю что вы задумали!. Я не позволю обокрасть этих бедных жителей!" />
     <string id="LJsckbyF" text="{?PLAYER_CHILD}Your{?}This{\?} child spends hours exploring the edges of the estate, following animal tracks and looking for edible plants." />
-    <string id="LjUhEJxz" text="Караван {OWNER.NAME}" />
+    <string id="LjUhEJxz" text="Караван {OWNER}" /> <!-- {OWNER.NAME} пока не работает -->
     <string id="Lk6ln3sR" text="Мы расстались, но я счастлив, что нашел тебя. Присоединяйтесь ко мне, мы должны продолжить ваше обучение." />
     <string id="lkLNrscj" text="{HERO.FIRSTNAME} {?HERO.GENDER}Горничная{?}Управляющий{\?}" />
     <string id="lKoaSWLf" text="{DUEL_RESULT}" />
@@ -3255,7 +3255,7 @@
     <string id="Shal1Prg" text="Вы пали. Бандиты быстро обыскали ваше тело на наличие монет и бесследно исчезли. Они оставили вас еле живым. К счастью, какие-то проходившие рядом городские люди, нашли вас у дороги и поняли, что вы не еще один нищий. Они относят вас в ближайший трактир, где залечивают вам раны." />
     <string id="shihxzUN" text="Хвала небесам... {LORD.LINK} встретил {OTHER_SIDE} и показал им кузькину мать. Может сейчас наступит конец этой войне." />
     <string id="shjD1RUy" text="Базы (Ночь)" />
-    <string id="shL0WElC" text="Отряд {TROOP.NAME}" />
+    <string id="shL0WElC" text="Отряд {TROOP}" /> <!-- {TROOP.NAME} пока не работает -->
     <string id="shNl2Npf" text="Какие есть новости с рынков?" />
     <string id="shU7OlQT" text="Вы не можете торговаться будучи замаскированным." />
     <string id="siegeevent" text="Осада" />

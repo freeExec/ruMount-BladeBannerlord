@@ -2,18 +2,17 @@
 <Module>
 	<Name value = "Russian by DOG729"/>
 	<Id value = "Russian"/>
-	<Version value = "e1.5.7.2"/>
-	<VersionNative value = "e1.5.7"/>
+	<Version value = "e1.5.7.3"/>
 	<DefaultModule value="true"/>
 	<SingleplayerModule value="true"/>
 	<MultiplayerModule value="true"/>
 	<Author value="DOG729, freeExec" />
   	<Official value="false" />
 	<DependedModules>
-		<DependedModule Id="Native"/>
-		<DependedModule Id="SandBoxCore""/>
-		<DependedModule Id="Sandbox"/>
-		<DependedModule Id="StoryMode"/>
+		<DependedModule Id="Native" DependentVersion="e1.5.7"/>
+		<DependedModule Id="SandBoxCore" DependentVersion="e1.5.7"/>
+		<DependedModule Id="Sandbox" DependentVersion="e1.5.7"/>
+		<DependedModule Id="StoryMode" DependentVersion="e1.5.7"/>
 	</DependedModules>
 	<SubModules/>
 	<Xmls> 

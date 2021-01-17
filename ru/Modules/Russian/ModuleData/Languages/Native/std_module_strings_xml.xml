@@ -592,7 +592,7 @@
     <string id="fd35ahzV" text="&lt;b&gt;Огненная Баллиста&lt;/b&gt;{NEWLINE}Стреляет болтами с наконечниками, смоченными в смоле.{NEWLINE}Они наносят огненный урон вражеским осадным орудиям и деревянным конструкциям, а также наносят смертельный урон по солдатам." />
     <string id="FD9abtTo" text="Если Вы поставите 100&lt;img src=&quot;Icons\Coin@2x&quot;&gt; и выиграете, то получите {NORMALIZED_EXPECTED_GOLD}&lt;img src=&quot;Icons\Coin@2x&quot;&gt;" />
     <string id="FdTd3yIx" text="Внесенные вами изменения не могут быть применены. Вы хотите сбросить изменения?" />
-    <string id="fEJQcb4U" text="Loyalty Drift" />
+    <string id="fEJQcb4U" text="Тренд изменения лояльности" />
     <string id="fEqd7jXj" text="{EFFECT_NAME}: +{NUM}" />
     <string id="fEu5S6Bd" text="Расстояние" />
     <string id="fEXuXAl1" text="Мораль армии: {ARMY_MORALE}{newline}{ARMY_MORALE_ITEMS}" />
@@ -613,7 +613,7 @@
     <string id="fQAGU9GW" text="Щедрость:" />
     <string id="FqwHAxuM" text="Двуручное древковое" />
     <string id="frBQ9mbP" text="Южная Империя" />
-    <string id="FRepQsmO" text="Турнир будет рыцарским поединок." />
+    <string id="FRepQsmO" text="Турнир по рыцарским поединкам." />
     <string id="frt7AmX0" text="Гарнизон {MAJOR_PARTY_LEADER}" />
     <string id="fRu5Y4OT" text="Я был ранен и оставлен умирать" />
     <string id="FRuzuVyO" text="Ни один клан не выбраны" />
@@ -651,7 +651,7 @@
     <string id="ggpRTQQl" text="Лидер партии" />
     <string id="ggrqoGnE" text="Потрачено {AMOUNT}" />
     <string id="ggzCiYkk" text="{VALUE}{GOLD_ICON} необходимо для улучшения." />
-    <string id="gHnfFi1s" text="В отставке" />
+    <string id="gHnfFi1s" text="В отставку" />
     <string id="GhVXQrYF" text="Модернизация войск" />
     <string id="giftverb" text="Подарок" />
     <string id="gj2HD7M3" text="У вас еще есть шанс выиграть. Вы точно хотите сдаться?" />
@@ -786,7 +786,7 @@
     <string id="IUxlDj4s" text="Рандомизировать все" />
     <string id="iVEZrZzs" text="Ехать в Авангарде" />
     <string id="IvrBQHRp" text="Оружие ближнего боя " />
-    <string id="IwpFM2CJ" text="Турнир будет состоять из скачек на лошадях." />
+    <string id="IwpFM2CJ" text="Турнир по скачкам на лошадях." />
     <string id="IXwOaa98" text="Отряд" />
     <string id="iYCR3xuQ" text="Княжество Стурджия" />
     <string id="iyob7aH3" text="Защищайте свою позицию" />
@@ -926,7 +926,7 @@
     <string id="lihYjOSc" text="шт." />
     <string id="LJ6Krlbr" text="Разведка" />
     <string id="lj8XH6O7" text="Сейчас нет доступа к меню королевства!" />
-    <string id="ljcHO6PW" text="Security Drift" />
+    <string id="ljcHO6PW" text="Тренд изменения безопасности" />
     <string id="LJwKdMdw" text="Дождитесь пока оппонент встаёт в позицию" />
     <string id="LL6GkIfg" text="Если вы сможете победить {OPPONENT_COUNT_1} противников до падения, вы получите {PRIZE_1}{GOLD_ICON}. Вы получите {PRIZE_2}{GOLD_ICON} за поражение как минимум {OPPONENT_COUNT_2} противников, {PRIZE_3}{GOLD_ICON}, если сможете победить {OPPONENT_COUNT_3} противников, и {PRIZE_4}{GOLD_ICON}, если сможете выжить достаточно долго, чтобы победить противников: {OPPONENT_COUNT_4}. Если вам удастся стать последним выжившим бойцом, вы получите главный приз в боях - {PRIZE_5}{GOLD_ICON}. Звучит хорошо, а?[rb:trivial]" />
     <string id="Ll90uaxu" text="Удачных осад" />
@@ -996,7 +996,7 @@
     <string id="MUCmJaXQ" text="Правитель {FACTION}" />
     <string id="MW8rlyfL" text="Метательное" />
     <string id="mwegfVKr" text="Головного мозга" />
-    <string id="MWGATOoz" text="Турнир будет групповой рукопашный бой." />
+    <string id="MWGATOoz" text="Турнир по групповому рукопашному бою." />
     <string id="MwgcfGsr" text="A pawn that lands on a tile with an opposing pawn already there, will capture that opposing pawn. The captured pawn will be stacked underneath the invading pawn.{newline}A stack of pawns can be also be re-captured as long as the top pawn belongs to the opponent.{newline}As soon as a pawn makes a capture, it will move back towards its home-tile in the next turn." />
     <string id="MxG4217V" text="Селянки" />
     <string id="MxmOWsHj" text="Энциклопедия" />

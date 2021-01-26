@@ -302,7 +302,7 @@
     <string id="4BeLW46B" text="Увеличивает на +5 безопасность в городе ежедневно, пока вы в нём ждёте." />
     <string id="4bkLDxIU" text="То, что мы сделали там, в той деревне... Но я этого не делал. Я не хотел в этом участвовать." />
     <string id="4Bl1LWmZ" text="Before {CHILD.NAME} left, you encouraged {?CHILD.GENDER}her{?}him{\?} to..." />
-    <string id="4BLBgJ1U" text="Каждое очко навка после 250 увеличивает ваш размер отряда на +1." />
+    <string id="4BLBgJ1U" text="Каждое очко навыка после 250 увеличивает ваш размер отряда на +1." />
     <string id="4Bub0GY6" text="Убежище было очищено кем-то другим. Ваше соглашение с {QUEST_GIVER.LINK} отменено." />
     <string id="4CuMDzvd" text="You asked your best warrior to take {?CHILD.GENDER}her{?}him{\?} under his wings and make sure {?CHILD.GENDER}she{?}he{\?} gets the taste of battle without being seriously harmed." />
     <string id="4FdtVyj1" text="Корпус помощи" />
@@ -425,7 +425,7 @@
     <string id="64RFlBFr" text="Очень хорошо. Не волнуйтесь, все ваши расходы окупятся." />
     <string id="65PA77cZ" text="(Рифма) &quot;дождь, дождь уходи прочь&quot;" />
     <string id="68rmPu7Z" text="Ваше здоровье слишком низкое для сражения." />
-    <string id="6aiNd5W0" text="You can deflect arrows with two handed swords while blocking." />
+    <string id="6aiNd5W0" text="При блокировании двуручным мечом вы можете отражать стрелы." />
     <string id="6ALN43LY" text="{HERO.FIRSTNAME} {?HERO.GENDER}Звонкая{?}Звонкий{\?}" />
     <string id="6apaXF8k" text="You wanted this child to learn most from those who worked with their hands for a living. You asked an artisan in your employ to teach {?CHILD.GENDER}her{?}him{\?}..." />
     <string id="6ba4n9n6" text="We are waiting for your good news {?PLAYER.GENDER}my lady{?}sir{\?}." />
@@ -1780,7 +1780,7 @@
     <string id="GVltJbbv" text="Игра сохранена." />
     <string id="GvSVxyO0" text="Your steward is happy with the child's progress. He informs you that {?CHILD.GENDER}she{?}he{\?} shows some natural talent in {SKILL}." />
     <string id="gVuF84RZ" text="Стражники поймали вас" />
-    <string id="gW4Qmn73" text="Polearm thrust attacks have 30% more chance to knock opponents back." />
+    <string id="gW4Qmn73" text="Колющие атаки древковым оружием с шансом 30% отталкивают врага." />
     <string id="GW8ITTMb" text="Вы награбили {PRODUCTS}." />
     <string id="GWaJ7Ksq" text="Йокулос" />
     <string id="GwAZMQ8b" text="Размер отряда правителя увеличивается на 80{newline}Правящий клан получает 1 влияние в день{newline}Не правящие кланы теряют 0,2 влияния в день" />
@@ -2464,7 +2464,7 @@
     <string id="MaXA5HJi" text="{ISSUE_GIVER.LINK} шлет вам сообщение. «Было приятно иметь дело с вами и вашими людьми.»" />
     <string id="maXW8tps" text="Вам не удалось захватить и доставить пленного вовремя." />
     <string id="mb25Ue3f" text="Прав Выпаса " />
-    <string id="MbRZSiuq" text="Arrow Deflection" />
+    <string id="MbRZSiuq" text="Отражение стрел" />
     <string id="mchBqAXt" text="Повышает мораль отряда на 4, если количество лошадей больше, чем не кавалерийских войск." />
     <string id="McHsHbH8" text="Посетить кузню" />
     <string id="mcWYveN4" text="Один раз в день, при входе в поселение, у вас есть 50% шанс улучшить отношения с известным кланом на 1." />
@@ -3353,7 +3353,7 @@
     <string id="taKIDPxj" text="Embassies carry gifts and attract bandits. Fighting them off made the trip much more exciting than {?CHILD.GENDER}she{?}he{\?} had expected." />
     <string id="TAlERbfz" text="Увеличит броню гражданской экипировки на 10." />
     <string id="TaouqUu7" text="{HERO.FIRSTNAME} Шагов" />
-    <string id="taTbOAte" text="Атаки древковым оружием, наносящие более 25 урона, имеют 25% шанс выбить всадника с седла." />
+    <string id="taTbOAte" text="Атаки древковым оружием, наносящие более 25% урона, имеют 25% шанс выбить всадника с седла." />
     <string id="TaucWWCB" text="Держитесь подальше" />
     <string id="TauRjAud" text="{NAME} из {FACTION}" />
     <string id="taz5cAtw" text="Вы не справились с тренировкой {YOUNG_HERO.LINK} которую вы обещали {QUEST_GIVER.LINK}. {?QUEST_GIVER.GENDER}Она разочарована{?}Он разочарован{\?}." />
@@ -3755,7 +3755,7 @@
     <string id="w9olmhv0" text="Пришло время объявить войну" />
     <string id="Wa0Rp59Q" text="Увеличивает ваш урон против верховых животных двуручным оружием на 50%." />
     <string id="wa7Dmeri" text="Начальник" />
-    <string id="WAbqnair" text="Two handed weapon attacks that deal over 25% damage have 30% chance to knock opponents down." />
+    <string id="WAbqnair" text="Атаки двуручным оружием, наносящие более 25% урона, могут опрокинуть врага с шансом 30%." />
     <string id="wAhXFoNH" text="Сначала вам придется сразиться с нами![rf:idle_angry][ib:aggressive]" />
     <string id="wBBidWVw" text="Что тут у нас? Вы не можете войти в город с таким количеством оружия. Отдайте его мне! Вы можете забрать его, когда уйдете." />
     <string id="WBCt4M0J" text="Increase max granary food storage capacity by 100." />

@@ -38,8 +38,8 @@
     <string id="O9nwLrYp" text="+{WOUNDEDAMOUNT}р" />
     <string id="oBbiVeKE" text="Здоровье" />
     <string id="ol0rBSrb" text="{STR1}{newline}{STR2}" />
-    <string id="onLDP7mP" text="A problem occured while trying to load the saved game." />
-    <string id="oZrVNUOk" text="Error" />
+    <string id="onLDP7mP" text="Не удалось загрузить сохраненную игру." />
+    <string id="oZrVNUOk" text="Ошибка" />
     <string id="Q1HIlJxe" text="Переписать" />
     <string id="QHV8aeEg" text="Удалить сохранение" />
     <string id="qIeDZoSx" text="Куплен" />

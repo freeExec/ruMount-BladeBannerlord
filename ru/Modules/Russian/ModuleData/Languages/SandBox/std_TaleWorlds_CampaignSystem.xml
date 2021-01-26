@@ -302,7 +302,7 @@
     <string id="4BeLW46B" text="Увеличивает на +5 безопасность в городе ежедневно, пока вы в нём ждёте." />
     <string id="4bkLDxIU" text="То, что мы сделали там, в той деревне... Но я этого не делал. Я не хотел в этом участвовать." />
     <string id="4Bl1LWmZ" text="Before {CHILD.NAME} left, you encouraged {?CHILD.GENDER}her{?}him{\?} to..." />
-    <string id="4BLBgJ1U" text="Каждое повышение навыка после 250 увеличивает вас размер отряда на +1." />
+    <string id="4BLBgJ1U" text="Каждое очко навка после 250 увеличивает ваш размер отряда на +1." />
     <string id="4Bub0GY6" text="Убежище было очищено кем-то другим. Ваше соглашение с {QUEST_GIVER.LINK} отменено." />
     <string id="4CuMDzvd" text="You asked your best warrior to take {?CHILD.GENDER}her{?}him{\?} under his wings and make sure {?CHILD.GENDER}she{?}he{\?} gets the taste of battle without being seriously harmed." />
     <string id="4FdtVyj1" text="Корпус помощи" />
@@ -1182,7 +1182,7 @@
     <string id="CNYoZKyf" text="dabbled in intrigue." />
     <string id="cO61R3va" text="Мы не враждуем с тобой." />
     <string id="cojKmfSk" text="Там никого нет внутри." />
-    <string id="cOS8cdib" text="Mangonels и требушеты при осадной бомбардировке перезаряжаются на 25% быстрее." />
+    <string id="cOS8cdib" text="Баллисты и требушеты при осадной бомбардировке перезаряжаются на 25% быстрее." />
     <string id="cOyolp4F" text="Я просто не... Как бы это сказать? Вы меня не привлекаете." />
     <string id="Cp7dI87a" text="Авангард" />
     <string id="CpafrIbY" text="{HERO.FIRSTNAME} Мельник" />
@@ -1327,7 +1327,7 @@
     <string id="dj7YQaTS" text="Штраф при торговле вьючными животными снижен на 20%." />
     <string id="DJcMau0U" text="Еще нет. Мы все еще ищем их." />
     <string id="dJVjbgyu" text="Есть новости о наших инструментах {?PLAYER.GENDER}мадам{?}сир{\?}?" />
-    <string id="DjYcaHTw" text="Войска в в вашем строю наносят на 5% больше урона от метательного оружия вражеской кавалерии." />
+    <string id="DjYcaHTw" text="Войска в вашем строю наносят на 5% больше урона метательным оружием по вражеской кавалерии." />
     <string id="Dk4kdMhe" text=" Тип форм. " />
     <string id="dKEADOhG" text="Вы защитили караван, принадлежащий {QUESTGIVER.LINK} от {SETTLEMENT}, как и было обещано. {?QUESTGIVER.GENDER} Она {?} Он {\?} был доволен вашей работой." />
     <string id="DKiLA9f2" text="Не волнуйся, я найду их." />
@@ -1492,7 +1492,7 @@
     <string id="erKuPRWA" text="У меня есть план, чтобы подняться в этом мире. Я еще только в самом начале пути." />
     <string id="es0Y3Bxc" text="Участвовать" />
     <string id="ESM0NhLy" text="{ARMY} разбежалась, так как мораль была исчерпана." />
-    <string id="eSNa0skd" text="Troops under the formation you control have their armor values increased by 5." />
+    <string id="eSNa0skd" text="Войска в вашем строю увеличивают свою броню на 5." />
     <string id="EsNDadiR" text="Вы выполнили свою часть сделки и заработали несколько динар, просто используя свой ум." />
     <string id="eSpRuda1" text="Вы решили сохранить одолженные войска которые {QUEST_GIVER.LINK} {?QUEST_GIVER.GENDER}дала{?}дал{\?} вам для тренировки. Когда {?QUEST_GIVER.GENDER}Она{?}Он{\?} слышит об этом {?QUEST_GIVER.GENDER}она{?}он{\?} отправляет вам следующее письмо.     “{?PLAYER.GENDER}Мадам{?}Сир{\?}, я ясно {?QUEST_GIVER.GENDER}дала{?}дал{\?} вам понять, что я {?QUEST_GIVER.GENDER}ожидала{?}ожидал{\?} возвращения моих людей ко мне. Я считаю, что вы злоупотребили моим доверием.”" />
     <string id="essaRvXP" text="Поддержка короля" />
@@ -1864,7 +1864,7 @@
     <string id="HkbK8cqw" text="Ваш клан в состоянии войны с фракцией {QUEST_GIVER.LINK}. Ваше соглашение с {QUEST_GIVER.LINK} было отменено." />
     <string id="HkjaCc44" text="Ваши люди говорят, что там мало еды. Они маршируют, они сражаются. Они заслуживают того, чтобы поесть." />
     <string id="HKNtU2NI" text="Пехотинцы в вашем построении получают +5 к жизни." />
-    <string id="hKP7E6lQ" text="Every 1 skill point over 250 increase siege engine campaign damage by 1%." />
+    <string id="hKP7E6lQ" text="Каждое очко навыка после 250 дает вам увеличение урона осадных орудий 1%." />
     <string id="HKT5MnjP" text="Судебные приставы" />
     <string id="HkvlHhPN" text="{TARGET_HERO.LINK} был взят в плен и брошен в темницу {SETTLEMENT}." />
     <string id="Hl33qopv" text="Управляемые поселения, связанные с деревнями, имеют +5% производства." />
@@ -2242,7 +2242,7 @@
     <string id="kmsNUfbA" text="Пожертвовать пленными" />
     <string id="KN6khbSl" text="Clan Influence" />
     <string id="knWgaYdk" text="Оточенные Лезвия" />
-    <string id="KODafKT7" text="Architectural Commissions" />
+    <string id="KODafKT7" text="Архитектурные комиссии" />
     <string id="kolBffjD" text="В марше" />
     <string id="KOyGEcbQ" text="Войска с луком в вашем отряде получают +1 дополнительные стрелы к каждому колчану." />
     <string id="kPqs7EIf" text="дает правителям больше силы, чтобы призывать армии" />
@@ -2369,7 +2369,7 @@
     <string id="lKWflUid" text="Пока вы ожидаете в {DEFENDER}, {ATTACKER} начал атаку." />
     <string id="Ll1EJHXF" text="Управление замком" />
     <string id="ll4s461C" text="Вы получаете +3 дополнительные стрелы в колчан." />
-    <string id="lLaIzlr4" text="Increase campaign map mangonel and trebuchet accuracy by 10%." />
+    <string id="lLaIzlr4" text="Увеличивает точность баллист и требушетов при осаде на карте на 10%." />
     <string id="lMIi4CXO" text="Стурнийская снежная ловкость" />
     <string id="lmJYF6pQ" text="Скажите, как я могу помочь." />
     <string id="LmTii9E2" text="Было приятно иметь с вами дело. Если бы только все были так же честны, как вы." />
@@ -2578,7 +2578,7 @@
     <string id="N70ovtjV" text="Вы останетесь в {SETTLEMENT} на некоторое время." />
     <string id="N8UfRVVH" text="Снижает штраф точности на 20% при использовании метательного оружия." />
     <string id="n99VA8KP" text="Вы никогда не возьмете нас живыми![if:idle_angry][rb:very_negative]" />
-    <string id="N9lA0KwA" text="Troops under the formation you control deal 5% more melee damage." />
+    <string id="N9lA0KwA" text="Войска в вашем строю наносят на 5% больше урона в ближнем бою." />
     <string id="n9qR84YI" text="{PRISONER.NAME} сбежал из {SETTLEMENT}." />
     <string id="N9r8azlb" text="{POACHERS_PERSUADE_ATTEMPT_2}" />
     <string id="n9zbvTCq" text="Увеличьте бонус укрепления в симуляции боя (автобой) на 20%." />
@@ -2987,7 +2987,7 @@
     <string id="QjJAbaoT" text="Апис" />
     <string id="qjpNREwg" text="У вас нет никаких спутников." />
     <string id="qjuiWN4K" text="{PLAYER.NAME}, вы должны ждать с нами в деревне, чтобы устроить засаду дезертирам" />
-    <string id="qjvDsu8u" text="Metallurgy" />
+    <string id="qjvDsu8u" text="Металлургия" />
     <string id="QkbbLb4v" text="Урон двуручного оружия: +{a0}%" />
     <string id="QKIxepj5" text="Это владение должно перейти к {RECIPIENT.CLAN}" />
     <string id="QKNWsJRb" text="Отпустить отряд {PARTY}" />
@@ -3281,7 +3281,7 @@
     <string id="SnEjsXsH" text="defeated an enemy." />
     <string id="SngfSCqh" text="На 10% больше урона в автобитвах при численном превосходстве." />
     <string id="SNH3PagC" text="Увеличить скорость изучения новых конструкций деталей при плавке на 100%." />
-    <string id="SNsAlN4R" text="Masterwork" />
+    <string id="SNsAlN4R" text="Шедевр" />
     <string id="snSBfQkV" text="Подвиги" />
     <string id="SOHgkGKy" text="Ваши мастерские собирают торговые слухи." />
     <string id="SoTUisL3" text="Дальтизос" />
@@ -3347,7 +3347,7 @@
     <string id="t8TfagYL" text="Дворяне рекомендуется для укрепления своих поместьях, и могут реквизировать рабочую силу и материалы, чтобы сделать так." />
     <string id="t968gMty" text="{HERO.FIRSTNAME} {?HERO.GENDER}Леди{?}Ублюдок{\?}" />
     <string id="t9bDPzab" text="Заработная плата гарнизона в управляемом городе снижена на 10%." />
-    <string id="ta2z0bEv" text="Camp preparation is 20% faster." />
+    <string id="ta2z0bEv" text="Разворачивание лагеря на 20% быстрее." />
     <string id="TaAHFZfd" text="You asked your head of expedition to make sure that your {?CHILD.GENDER}daughter{?}son{\?}..." />
     <string id="taJOTFrb" text="Despite its tender age, the baby already starts to show some aptitude in {ATR_1} and {ATR_2}." />
     <string id="taKIDPxj" text="Embassies carry gifts and attract bandits. Fighting them off made the trip much more exciting than {?CHILD.GENDER}she{?}he{\?} had expected." />
@@ -3913,7 +3913,7 @@
     <string id="xHstOUBx" text="You made sure your artisan taught this child to recognize quality work, as well as its worth in denars." />
     <string id="Xi1wpR2L" text="Примите телесные наказания и заплатите {FINE}{GOLD_ICON}" />
     <string id="xIDEjHyf" text="Скорость сборки осадных орудий ближнего воздействия увеличена на 10%.." />
-    <string id="XixNAaD5" text="Improved Tools" />
+    <string id="XixNAaD5" text="Улучшенные инструменты" />
     <string id="xJ2uDcob" text="Лояльность поселения увеличивается на 2 в день. Производство поселения уменьшается на 5%" />
     <string id="XjbPBIct" text="Увеличивает на 20% скорость лечения войск в армии." />
     <string id="xjMAjshT" text="Конечно. Просто убедитесь, что он будет с охраной. Товары привлекают бандитов, я уверен вы и так это знаете. Полагаю {ALTERNATIVE_TROOP_AMOUNT} хорошо вооружённых людей будет достаточно." />
@@ -4150,7 +4150,7 @@
     <string id="Z8ntYx0Y" text="Поле Льна " />
     <string id="Z9LWA6A3" text="Запланированные ярмарки привозят кучу народа из разных поселений. Продается все за приличное количество золота, часть из которого конечно же попадает местному правителю. Увеличивает у поселения богатство и доход с налогов." />
     <string id="z9pbB0K5" text="Вы успешно доставили припасы." />
-    <string id="Z9Rey6LC" text="Clockwork" />
+    <string id="Z9Rey6LC" text="Работает как часы" />
     <string id="zak93zXu" text="Ты заплатишь за это.[rb:very_negative]" />
     <string id="zalLawWA" text="Войска в вашем формировании получают на 5% больше опыта в битвах." />
     <string id="ZAqEJI9T" text="Насчет задания, которое мне выдал {QUEST_GIVER.LINK}." />

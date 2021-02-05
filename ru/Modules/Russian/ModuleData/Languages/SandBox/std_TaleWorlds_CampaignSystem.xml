@@ -4,7 +4,6 @@
     <tag language="Русский" />
   </tags>
   <strings>
-    <string id=" VbU8Ue0O" text="Подождав некоторое время, вы находите хорошую возможность напасть незамеченным под покровом ночи." />
     <string id="00bd3Huo" text="выполняя новые ритуалы, которые почитают правителя как полубожество" />
     <string id="028iCb8B" text="Джатея" />
     <string id="02c5bQSM" text="Сбросить" />
@@ -34,6 +33,7 @@
     <string id="0Euf4iPM" text="Указывает, член банды, специализирующегося на запуске игорных притонов" />
     <string id="0ewaZnfe" text="Очень хорошо. Пусть проходят." />
     <string id="0FIbRZsi" text="You can not help but notice how people are put at ease by {?PLAYER_CHILD}your {?CHILD.GENDER}daughter{?}son{\?}{?}the {?CHILD.GENDER}girl{?}boy{\?}{\?} and seek {?CHILD.GENDER}her{?}his{\?} company." />
+    <string id="0FxtNPvV" text="You cannot devastate a settlement that has your faction culture.\n" />
     <string id="0g4R557I" text="Переговоры о обмене безопасного прохода на 50% дешевле." />
     <string id="0g7MZCAK" text="Доход мастерской" />
     <string id="0gwQGnm4" text="{ARMY_OWNER_TEXT} {ARMY_BEHAVIOR}" />
@@ -75,6 +75,7 @@
     <string id="0XuFh3cX" text="Лесной род" />
     <string id="0Yhuvx3C" text="Кавалерия генерирует на 10% больше общего опыта" />
     <string id="0YRl5Yie" text="Я сам приведу ваш {MOUNT_TYPE}." />
+    <string id="112qk7bb" text="Fear not. I will find the right market for your {SELECTED_ITEM} myself." />
     <string id="117W31dZ" text="Вы не смогли увезти сельчан из оспариваемого пастбища. Землевладелец, {QUEST_GIVER.LINK}, считает, что вы подвели {?QUEST_GIVER.GENDER}ее{?}его{\?}." />
     <string id="11KckWau" text="Митара" />
     <string id="13GCPNo5" text="Increased hit chance to siege engines by 10% during campaign siege." />
@@ -124,6 +125,7 @@
     <string id="1q3FKY1s" text="Вы закончили? Я полагаю, что вы смогли продать то что я вам дал?" />
     <string id="1r0tDsrR" text="Атакуйте!" />
     <string id="1rbg3Hz2" text="{HOSTILE_FACTION} и {SETTLEMENT_FACTION} больше не враждуют." />
+    <string id="1RBxhh4W" text="{QUEST_GIVER.LINK} is not avaliable for this quest anymore." />
     <string id="1REltXXz" text="Я помогу, если смогу." />
     <string id="1s54uxsA" text="К сожалению. У меня нет никаких животных на этот раз." />
     <string id="1sbbbOyr" text="Отлично, рассчитываю на вас! Караван скоро уедет." />
@@ -163,6 +165,7 @@
     <string id="2bKgL66e" text="{COURTSHIP_DECLINE_REACTION}" />
     <string id="2BVDp7Tg" text="{KINGDOM} остановит {POLICY_DESCRIPTION} ({POLICY}). {POLICY_SUPPORT}" />
     <string id="2ckRF4Tb" text="Умрет? Это ты сегодня умрешь, пес!" />
+    <string id="2diuD0rT" text="Your clan/faction is now at war with {QUEST_GIVER.LINK}'s faction. Your agreement with {QUEST_GIVER.LINK} has been canceled." />
     <string id="2duoimiP" text="Подхватил Болезнь" />
     <string id="2DXiydXl" text="Нет, спасибо. Может вам стоит рискнуть с командирами нашего клана." />
     <string id="2E7s4L9R" text="Вам не нужны наемники? У меня есть контракт, который могу передать вам за {DEMAND_GOLD} динар." />
@@ -213,6 +216,7 @@
     <string id="2wixoeOF" text="{?HERO.GENDER}Волосатая{?}Волосатый{\?} {HERO.FIRSTNAME}" />
     <string id="2wmKs6Is" text="Как ваш лидер я решаю как нам лучше действовать.." />
     <string id="2WnhUBMM" text="Мой лорд, дайте мне еще один шанс проявить себя?" />
+    <string id="2wwAyZdL" text="\nArmy Gold Gain : {ARMY_GOLD_GAIN}" />
     <string id="2xVbLS5r" text="Запросить Переговоры" />
     <string id="2y9DhzCR" text="Вы теряете из виду караван. Найдите его, прежде чем он попадет в беду." />
     <string id="2YiPE05P" text="Спасибо, {?PLAYER.GENDER}миледи{?}мой лорд{\?}. Ваш спутник без сомнения будет очень полезен." />
@@ -224,10 +228,12 @@
     <string id="33mKghKQ" text="Пожалуйста не убивайте нас. Мы сдаемся.[rf:idle_angry][ib:nervous]" />
     <string id="34MdCd6u" text="Вы как и обещали, продали наемников другому лорду. {QUEST_GIVER.LINK} благодарен и передает {?QUEST_GIVER.GENDER}ее{?}его{\?} поздравления." />
     <string id="36ZmyM8V" text="{HERO.FIRSTNAME} {?HERO.GENDER}Сборщица{?}Сборщик{\?}" />
+    <string id="38dcXWzq" text="\nNotable Powers: {NOTABLE_POWER_LOST_AMOUNT}%" />
     <string id="38DvG2ba" text="Да? Что теперь? [sp:/Modules/Russian/Sounds/bandit_caught2.ogg]" />
     <string id="39s03DwM" text="Всё в порядке, {?HERO.GENDER}миледи{?}мой лорд{\?}. Дела идут хорошо, но могло быть и лучше. Цены повышаются, но то что нужно моим людям в целом доступно." />
     <string id="3aDfv5w8" text="Снижает получаемый урон от падения на 50%, урон от ударов удваивается." />
     <string id="3aOIY6wl" text="Соляная Шахта" />
+    <string id="3BvfOe1y" text="Very well then. You catch some more and you want me to take them off of your hands, you know where to find me..." />
     <string id="3cBfSJOI" text="Что-то ещё?[rb:trivial]" />
     <string id="3cQs44Et" text="Увеличение отношения с противоположным полом на 20%" />
     <string id="3cw5pRFM" text="Я не думал, что я мог бы жениться на Дева. Но это интригует. Скажи мне, Ты убивал людей в бою?" />
@@ -383,6 +389,7 @@
     <string id="5HL8Iqdx" text="Наш славный лидер" />
     <string id="5id9mGrc" text="Вы находитесь рядом с ареной. {ADDITIONAL_STRING}" />
     <string id="5JaGVr0U" text="Путешествуя по невысоким холмам, вы видите останки места разбивки лагеря в овраге ручья." />
+    <string id="5JTEvvaO" text="{EXP_VALUE} Skill Level and {FOCUS_VALUE} Focus Point to {SKILL_ONE} and {SKILL_TWO}\n{ATTR_VALUE} attribute point to {ATTR_NAME}{TRAIT_DESC}{RENOWN_DESC}{GOLD_DESC}" />
     <string id="5k4dxUEJ" text="Войска" />
     <string id="5kxDhBWk" text="Ваши разведчики вернулись из {SETTLEMENT}. Согласно их отчету, в гарнизоне {SETTLEMENT} есть {GARRISON_SIZE} человек, а стены недостаточно высоки, но могут быть полезны при достаточной поддержке гарнизона." />
     <string id="5L0wDGhR" text="{AGGRESSOR_RULER.NAME} из {AGGRESSOR_KINGDOM} предпочел не воевать с {KINGDOM}, с участием {?AGGRESSOR_RULER.GENDER}ее{?}его{\?} council evenly split." />
@@ -423,6 +430,7 @@
     <string id="61J1wa6k" text="Регулярные учения для простолюдинов, увеличивают набор в ополчение." />
     <string id="63lHFDSG" text="Гурман" />
     <string id="64RFlBFr" text="Очень хорошо. Не волнуйтесь, все ваши расходы окупятся." />
+    <string id="65BTaOl8" text="{QUEST_GIVER.LINK} died and your mission is canceled." />
     <string id="65PA77cZ" text="(Рифма) &quot;дождь, дождь уходи прочь&quot;" />
     <string id="68rmPu7Z" text="Ваше здоровье слишком низкое для сражения." />
     <string id="6aiNd5W0" text="При блокировании двуручным мечом вы можете отражать стрелы." />
@@ -489,6 +497,7 @@
     <string id="6UKdUrPs" text="Люди говорят что еда на заканчивается. Мы ожидаем что они умрут за нас если понадобится. Меньшее что мы можем сделать для них, это позволить им умереть с полными животами." />
     <string id="6vPCEaSR" text="Спасибо вам {?PLAYER.GENDER}моя леди{?}мой лорд{\?} это было бы очень хорошо. Торговцам не понравится это, но такие трудолюбивые ремесленники как я будут признательны вам за это." />
     <string id="6vtmYjTW" text="Иоланна" />
+    <string id="6VtZJPSb" text="Javelins you throw penetrate shields like ballista bolts." />
     <string id="6Wc1XErN" text="Подожди, подожди... ты пока никуда не пойдешь." />
     <string id="6WUaFzlv" text="{?PLAYER_CHILD}Your{?}The{\?} child forged a sword - blade, hilt and pommel. The artisan said that he has never seen such dedication and patience in one so young." />
     <string id="6x1EcNvO" text="Увеличивает размер гарнизона на 20." />
@@ -703,6 +712,7 @@
     <string id="a0MVffcN" text="Переулок" />
     <string id="a0UTO8tW" text="{ISSUE_OWNER.LINK}, правитель {ISSUE_SETTLEMENT} попросил вас доставить {GRAIN_AMOUNT} единиц зерна {?QUEST_GIVER.GENDER}ей{?}ему{\?} для использования в качестве семян. В противном случае крестьяне не смогут сеять поля и будут голодать в наступающем сезоне. Вы согласились отправить вашего спутника {COMPANION.NAME} вместе с 20ю людьми, чтобы найти семена и вернуться в деревню. Ваши люди должны вернуться через {RETURN_DAYS} дней." />
     <string id="A16GZubg" text="У таранов и осадных башен на 33% больше прочности." />
+    <string id="a1EDzSY7" text="You have failed to raid required number of enemy villages. {QUEST_GIVER.LINK} is disappointed." />
     <string id="A1LHEGX4" text="Ледокол" />
     <string id="a1n2zCaD" text="Я хочу узнать, что именно вам от меня нужно." />
     <string id="a1PPbzbi" text="focused on the big picture." />
@@ -723,7 +733,6 @@
     <string id="A61ppTa6" text="Не знаете никого, у кого может быть задание для кого-то вроде меня?" />
     <string id="A6E74QyR" text="Вам очень сильно не хватает людей. Восстанию нужно пройти хоть как-то успешно." />
     <string id="a6FfHHVg" text="Building Effects" />
-    <string id="a6HoG7Je" text="{TOWN_NAME} был взят армией, членом которой вы являетесь." />
     <string id="a6qaFH7L" text="Herena" />
     <string id="a7fEPW5Y" text="За такую цену я могу сопроводить караван сам." />
     <string id="a7iyhqNR" text="На 10% увеличена грузоподъемность войск." />
@@ -842,6 +851,7 @@
     <string id="arbaXvQf" text="Влияет на производство деревни." />
     <string id="arBQHbWv" text="Не могу с уверенностью утверждать, что знаю вас достаточно хорошо, чтобы обсудить что-то подобное." />
     <string id="arCGUuR5" text="Поселение находится в осаде." />
+    <string id="aRfMtTUT" text="Good. See if you can hit {NUMBER_OF_TARGET_VILLAGE} villages. They won't be able to ignore that kind of damage. I'll give you {BASE_REWARD}{GOLD_ICON} for doing that, and {EXTRA_REWARD}{GOLD_ICON} more for every extra one that you raid. Agreed?" />
     <string id="ARNYrXln" text="{TROOP.NAME} заявил, что {SIDE1_PARTY} в настоящее время находится под крылом {SIDE2_FACTION}" />
     <string id="Arwl4bAi" text="Повышает боевой дух каждого отряда 1–3 уровня на 10%." />
     <string id="asePjBVy" text="{HERO.FIRSTNAME} {?HERO.GENDER}Свободная{?}Свободный{\?}" />
@@ -881,8 +891,10 @@
     <string id="aWWzrwAw" text="Стоимость отзыва владения из клана удваивается{newline}Кланы получают 1 влияние за каждое владение, которым они обладают" />
     <string id="axdYx3zY" text="Найм компаньонов обходится на 30% дешевле." />
     <string id="Axe5FkET" text="Талисон" />
+    <string id="aXFYyBEQ" text="Showing mercy to a settlement that shares your faction’s culture requires no influence.\n" />
     <string id="aXhPvVud" text="{HERO.LINK} создает армию." />
     <string id="aXOgAKfj" text="Спасибо, {?PLAYER.GENDER}мадам{?}сэр{\?}. Надеюсь, что ваши люди преуспеют во всём." />
+    <string id="AXsbnTBb" text="{QUEST_GIVER.LINK} has made peace with the {ENEMYFACTION_INFORMALNAME}. Your agreement with {QUEST_GIVER.LINK} has been canceled." />
     <string id="aY2SKxqG" text="Совершите набег на их деревни!" />
     <string id="aYQybo4E" text="Планы подстраховки" />
     <string id="Az0yhQID" text="Распределение земли среди ветеранов было ключевой основой Римских популистов, таких как Мария и Цезарь. Присутствие ветеранов в фермерских общинах помогает в организации ополчения." />
@@ -989,6 +1001,7 @@
     <string id="bHZyublA" text="В общем... Я рад возможности провести время вместе." />
     <string id="BI7QxubQ" text="У вас нет спутников или членов семьи для отправки." />
     <string id="BibRbG6U" text="Увеличивает урон от двуручного оружия на 15%, когда ваше здоровье выше 90%." />
+    <string id="bIDvq6wA" text="The enemy no longer holds any villages. {QUEST_GIVER.LINK} has canceled your mission." />
     <string id="bigS7KHi" text="Хорошее телосложение" />
     <string id="bIiBytSB" text="Лучники" />
     <string id="bioyMrUD" text="Вы просто кучка охотников. У вас нет шансов против нас!" />
@@ -1014,6 +1027,7 @@
     <string id="bL5YPUbd" text="Повышение на 20% опыта для войск из сражений." />
     <string id="bl7zYCaL" text="Войска под вашим командованием наносят на 2% больше урона двуручным оружием" />
     <string id="bLfGgakQ" text="&quot;Приходите в другой раз.&quot;" />
+    <string id="bLfXzCyc" text="I'm at your service my {?ISSUE_OWNER.GENDER}lady{?}lord{\?}. Just tell me the details." />
     <string id="BlidMNGT" text="Отношение" />
     <string id="bloxcikL" text="Хорошо подготовленный" />
     <string id="BLrwIj7s" text="В темноте вашей темницы проходят дни за днём. Вы проходите через них как только можете - выдерживаете удары ногами и проклятия стражников, наблюдаете, как ваше недоеденное тело все больше и больше начинает чахнуть..." />
@@ -1032,6 +1046,7 @@
     <string id="bmW77NvO" text="Как насчет моих {MOUNT_TYPE}?" />
     <string id="bmzGNUtb" text="Пробираясь через город, вы замечаете, насколько пусты улицы. К вашему удивлению, вы даже не видите стражников вокруг. Когда вы задаетесь, что это может означать, вы слышите, как кто-то вытащил клинок из ножен. Вы понимаете, что попали в ловушку, и единственный выход - сражаться." />
     <string id="bN3bLDb2" text="Боевая добыча +{a0}%" />
+    <string id="bn5fpYx3" text="{HERO.NAME} must use {INFLUENCE_AMOUNT} influence to convince {CRUEL_LORD_COUNT} non-merciful leaders of this action.\n" />
     <string id="bNAbWn4E" text="Я наблюдал, как вы справляетесь с разными людьми: как представляли себя, как обращались с людьми из разных слоев общества, как внушали свое величие тем, кто доверял вам." />
     <string id="BNb88lyN" text="Ничего. Идите своим путем." />
     <string id="BNnLbOkN" text="Адинея" />
@@ -1051,6 +1066,7 @@
     <string id="bOTQ7Pta" text="Город" />
     <string id="bOtYmSP8" text="Дорожные пошлины" />
     <string id="bOyjQ4yr" text="Если вы сможете доставить {AMOUNT_REQUESTED} единиц {RAW_MATERIAL} моему знакомому {TARGET_HERO.LINK} в {TARGET_SETTLEMENT}, то поможете прожить ещё какое-то время. Торговцы в городе будут в ярости и начнут конечно же закидывать юридическими претензиями, но надеюсь вам не придется с этим столкнуться." />
+    <string id="Bp0ZQbfp" text="{DEFAULT_TEXT}{ARMY_LEADER.LINK} has decided to show mercy to the people of {SETTLEMENT}." />
     <string id="bP3XdKK3" text="{HERO.FIRSTNAME} Рассвет" />
     <string id="bPbzwMat" text="Я мог доставить только {AMOUNT_TO_DELIVER} единиц {REQUESTED_GOOD}." />
     <string id="bPcO3Km2" text="Да, всё складывается, но мое соглашение с {QUEST_GIVER.LINK} заключалось в фиксированном количестве товаров. Не хочу создавать новую сделку. Пожалуйста, возвращайтесь, когда получите нужное количество." />
@@ -1067,6 +1083,7 @@
     <string id="BQuVWKvq" text="Пожалуйста. Есть ли что-то ещё, что нужно обсудить?" />
     <string id="bqXpBNvF" text="Корица {HERO.FIRSTNAME}" />
     <string id="BRbEODrQ" text="Увеличение дохода с пошлин на 10%" />
+    <string id="bRdjTD7Q" text="Throwing weapon projectile speed increased by 25%." />
     <string id="brDw7ewN" text="Вы не смогли доставить {GRAIN_AMOUNT} единиц зерна жителям деревни. Они не смогут сеять их до наступающей зимы. Староста и жители обречены." />
     <string id="brixvCjC" text="guided the caravan." />
     <string id="brmnjfP3" text="Каждое очко навыка после 250 дает вам увеличение скорости двуручного оружия на 0,2%." />
@@ -1109,6 +1126,7 @@
     <string id="bXCEfH0O" text="Приключенческие истории" />
     <string id="BxMix2hk" text="{GUARDS_PERSUADE_ATTEMPT_3}" />
     <string id="bXrpRfcT" text="Пешие войска получают +2 опыта ежедневно." />
+    <string id="BXw5MwX7" text="{DEFAULT_TEXT}{ARMY_LEADER.LINK} grants {?ARMY_LEADER.GENDER}her{?}his{\?} men their customary right of pillage after a successful siege. {?ARMY_LEADER.GENDER}She{?}He{\?} tells them they may take property but must spare the townsfolk’s lives." />
     <string id="bxWITUaN" text="позволяя величайшим лордам королевства встретиться как маленький тайный совет" />
     <string id="bXzAluln" text="Когда через некоторое время ваши войска перегруппируются, быстро подсчитайте свои войска, чтобы убедиться, что они все целы." />
     <string id="by1b61pn" text="Глубокие карманы" />
@@ -1124,6 +1142,7 @@
     <string id="bZmYOE8z" text="Скрытие краденного в {ISSUE_GIVER_SETTLEMENT}" />
     <string id="BZwKEIm5" text="{ISSUE_GIVER.LINK} хочет, чтобы вы продали {?ISSUE_GIVER.GENDER}её{?}его{\?} товары по цене выше среднерыночной." />
     <string id="C06TxxnM" text="Я приведу к вам как минимум {WANTED_PRISONER_AMOUNT} заключенных как можно скорее." />
+    <string id="C2KeQd0a" text="{ENCOUNTER_LEADER.LINK} thanks you for helping in the siege of {SETTLEMENT}. You were able to loot your fallen foes, but you do not participate in the sack of the {?IS_TOWN}town{?}castle{\?} as you are not part of the army that took it." />
     <string id="c2pdihCB" text="Караваны" />
     <string id="c2Yrci3B" text="Я считаю, что в этих землях нам нужен сильный правитель. Не хотелось бы оказаться в ссоре с вами." />
     <string id="C2ZGNwwh" text="{COMPANION.NAME}" />
@@ -1155,6 +1174,7 @@
     <string id="ceq6ZMIx" text="Военные достижения приветствуются, и лорды могут голосовать за награждение друг друга украшениями и почётом (например, Римская корона)." />
     <string id="CeYwClaG" text="Да, есть один, начиная с {NEARBY_TOURNAMENTS_LIST}. Я {?CONVERSATION_NPC.GENDER}уверена{?}уверен{\?}, что мастер арены может объяснить правила, если вам нужно их знать." />
     <string id="CfDlOdTH" text="Идти на арену" />
+    <string id="cfjTtxWv" text="Maximum" />
     <string id="cFN6JaT2" text="Конница ближнего боя в вашем формировании получает +5% к урону (в ближнем бою)." />
     <string id="Cg3hH8gN" text="Вы должны отправить {NUMBER} {?MOUNTED}кавалерию {?}{\?}войска не ниже ранга {TIER} к этому квесту." />
     <string id="CGOG31aq" text="Каждый выполненный проект увеличивает отношения с владельцем на 1" />
@@ -1205,6 +1225,7 @@
     <string id="cRwfJ7aU" text="Пехотные войска в вашем строю, увеличивают свой урон на 2%." />
     <string id="cRwNeSzb" text="У всего есть цена" />
     <string id="CRXQ3Fmn" text="+1 точек фокусировки для метания." />
+    <string id="CrzFdo2H" text="Yes. It's about the war with the {ENEMYFACTION_INFORMALNAME}. We need to tie up some of their forces. A relatively small force moving quickly through their lands and raiding their villages should be a good distraction. Their lords will need to chase the raiders and won't be able to threaten us elsewhere. You seem to be the right {?PLAYER.GENDER}warrior{?}man{\?} for the job. What do you say? You'll have my gratitude and you'll be well rewarded if you succeed." />
     <string id="csKot5g4" text="Ваше метательное оружие наносит на 50% больше урона противникам, у которых осталось менее 50% здоровья." />
     <string id="CSqaF7tz" text="В последнее время здесь был настоящий всплеск бандитизма. Я не знаю, происходит ли это из-за того, что лорды уезжают сражаться или что-то еще, но это чудо, если путешественник сможет три шага пройти за воротами, не будучи атакованным дорожниками." />
     <string id="cSt26auo" text="Увеличить размер гарнизона на +{a0}" />
@@ -1230,7 +1251,6 @@
     <string id="CxKC5gqq" text="Вы не смогли дойти до раунда {ROUND_COUNT} в турнире. " />
     <string id="cXlnH1Jp" text="Шустрый скакун" />
     <string id="cxQGUbUD" text="Я так вам благодарен! Вы сохранили мою мастерскую и тем самым прокормили мою семью. Пожалуйста, возьмите эти деньги и ещё немного, чтобы покрыть расходы." />
-    <string id="CYKhLnmw" text="Один из моих компаньонов мог бы это сделать?" />
     <string id="CymOFgzv" text="Я дал клятву {CURRENT_LIEGE.LINK} - но {?LORD.GENDER}её{?}его{\?} пренебрежение простыми людьми этого королевства заставляет меня задуматься." />
     <string id="cyQXm7VA" text="The young {?CHILD.GENDER}woman{?}man{\?} was charged with ensuring they had the food, saddles, animals, teamsters and guards for the journey." />
     <string id="cYvpUGq9" text="Вероятность побега заключенных в вашей группе на 50% меньше." />
@@ -1367,6 +1387,7 @@
     <string id="ds294zxi" text="Что-нибудь еще?" />
     <string id="DsbtHShA" text="Увеличит животноводство в управляемых деревнях на 10%." />
     <string id="DSKtsYPi" text="Престиж" />
+    <string id="DSlhMswt" text="Raid an Enemy Teritory" />
     <string id="DSMMIrz9" text="Заключенные ... Вы хотите преступников или военнопленных?" />
     <string id="Dt1VM9WR" text="Кавалерийские войска в вашем построении наносят на 2% больше урона пехоте противника" />
     <string id="dt6kKXSL" text="Сырье с завышенной ценой в {SETTLEMENT}" />
@@ -1377,6 +1398,7 @@
     <string id="DuaVp7UH" text="Увеличьте скорость набора заключенных ближнего боя на 50%." />
     <string id="DUB6zfSe" text="У меня есть небольшой спор с {TARGET_SETTLEMENT}. Недавно я купил право пасти скот на близлежащих пастбищах у помещика. Но теперь некоторые из сельских жителей создают проблемы." />
     <string id="dUhV0ZxZ" text="Вы должны развивать более тесную дружбу с другим человеком" />
+    <string id="DuQvj7zd" text="\n+{VALUE} to {TRAIT_NAME}" />
     <string id="DV2kW53e" text="Ваши караваны собирают торговые слухи." />
     <string id="dv2ZNazN" text="Идти в зал лорда" />
     <string id="dvEkfaab" text="Признание простых людей в качестве полноправных граждан" />
@@ -1489,6 +1511,7 @@
     <string id="EqLQtlca" text="То, как мы только что сбежали от врага... Я не хочу, чтобы меня прозвали  трусом." />
     <string id="Eqwrqotp" text="Увеличьте скорость взмаха двуручными мечами на 3%." />
     <string id="eQzskygV" text="{?QUEST_GIVER.GENDER}Она предложила{?}Он предложил{\?} {._}{EXCHANGE_ITEM} {EXCHANGE_ITEM_COUNT} {?EXCHANGE_ITEM_COUNT&gt;1}единицы{?}единица{\?} в качестве оплаты, когда задача будет выполнена." />
+    <string id="ERh2DVEa" text="Prosperity Lost: {PROSPERITY_LOST_AMOUNT}" />
     <string id="erKuPRWA" text="У меня есть план, чтобы подняться в этом мире. Я еще только в самом начале пути." />
     <string id="es0Y3Bxc" text="Участвовать" />
     <string id="ESM0NhLy" text="{ARMY} разбежалась, так как мораль была исчерпана." />
@@ -1507,11 +1530,13 @@
     <string id="EU4JjLqV" text="Сортировочная палатка" />
     <string id="EUbdov2r" text="Отойдите, {?PLAYER.GENDER}незнакомка{?}незнакомец{\?}. Там еще десятки из нас прячутся в том овраге, просто ожидая нашего сигнала." />
     <string id="EUJlNTrf" text="Симпатяшко {HERO.FIRSTNAME}" />
+    <string id="EuwtMZGZ" text="Show Mercy {SHOW_MERCY_INFLUENCE_COST_TEXT}" />
     <string id="EvAubSxs" text="Какие у них войска?" />
     <string id="eVcvaxz6" text="торговля товарами" />
     <string id="EVLzPv1t" text="Подожди - расскажи мне больше о вас." />
     <string id="EVODEPGw" text="После мучительных дней нахождения в плену, вы ловите момент и сбегаете от захватчиков!" />
     <string id="eVTnUmSB" text="Цена лояльности" />
+    <string id="EVxxKXmW" text="\nLoyalty in {SETTLEMENT} : {LOYALTY_LOST_AMOUNT}" />
     <string id="Ew69yN84" text="Ютис" />
     <string id="eWa2Rcla" text="У ваших мастерских на 20% ниже стоимость обслуживания." />
     <string id="ewrkbwI9" text="Оливковые деревья" />
@@ -1534,6 +1559,7 @@
     <string id="F16k4H7R" text="{QUEST_GIVER.LINK} {?QUEST_GIVER.GENDER}сказала{?}сказал{\?} вам, что {?QUEST_GIVER.GENDER}она{?}он{\?} нуждается {?PLURAL}{SELECTED_ANIMAL}{.s}{?}{SELECTED_ANIMAL}{\?} для {?QUEST_GIVER.GENDER}ее{?}его{\?} деревни. Вы просили {COMPANION.LINK} и {ALTERNATIVE_TROOP_AMOUNT} ваших людей доставить {REQUESTED_ANIMAL_AMOUNT} {?PLURAL}{SELECTED_ANIMAL}{.s}{?}{SELECTED_ANIMAL}{\?} к {QUEST_GIVER.LINK}. Они присоединятся к вашему отряду через {RETURN_DAYS} дней." />
     <string id="f1etg9oL" text="Подумай о чем-нибудь другом." />
     <string id="f1mcYyDa" text="Вы должны быть добрее" />
+    <string id="F1syZDs4" text="\n+{VALUE} to {TRAIT_NAME_ONE} and {TRAIT_NAME_TWO}" />
     <string id="f3hTGKIP" text="Гаритопс" />
     <string id="F41aPt80" text="Королевская гвардия" />
     <string id="f4lnEplc" text="Легендарный кузнец" />
@@ -1625,7 +1651,9 @@
     <string id="FOoMM4AU" text="Продолжить подготовку к осаде." />
     <string id="fP8NHthR" text="{RULER.NAME} решает не давать {SETTLEMENT} новому клану, мнение {?RULER.GENDER}ее{?}его{\?} свое, мнение по этому вопросу разделилось поровну." />
     <string id="FPbmUpy7" text="{QUEST_GIVER.NAME} находится в упадке из-за монополии торговцев, так я слышал." />
+    <string id="FPPb7ur6" text="({INFLUENCE_AMOUNT}{INFLUENCE_ICON})" />
     <string id="FpUybbSk" text="Приветствую. Этот караван принадлежит {MERCHANT.LINK}. Мы торгуем под защитой {PROTECTOR.LINK}, хозяина {HOMETOWN}. Чем мы можем вам помочь?[rb: positive]" />
+    <string id="fQaPv0Xl" text="I will be staying here for a few days. Let me know if you need my services." />
     <string id="FQkHkMhw" text="Знаменитый командир" />
     <string id="fr4F4IQc" text="Приятно слышать вас {PLAYER.NAME}, но пожалуйста поторопитесь. Я ожидаю от вас большего." />
     <string id="Fr7wzk97" text="Я законный правитель этой земли. Я буду рад вашей поддержке." />
@@ -1740,7 +1768,9 @@
     <string id="GM3tAYMr" text="Враждебные действия" />
     <string id="gmaqJZyv" text="Вы получили сообщение от {NEW_OWNER.LINK}:{newline}&quot;К сожалению, {OLD_OWNER.LINK} помер. Но вы можете продолжать выполнение задания, и доложить мне." />
     <string id="GmcgoiGy" text="Торговля" />
+    <string id="gMvDCnlx" text="You have successfully raided enemy villages and distracted enemy forces as promised" />
     <string id="Gn3KBN8L" text="Сбивание" />
+    <string id="GNalaRaN" text="Minimum" />
     <string id="gNHh9bvb" text="Мне очень жаль, что вам не удалось получить прибыль. Но вы выполняете свою часть сделки, и это достойно восхищения." />
     <string id="gnuojd9u" text="{VILLAGE} нуждается в инструментах" />
     <string id="gnXoIChw" text="Возможно, вы и я..." />
@@ -1839,6 +1869,7 @@
     <string id="HCXHcBzT" text="Маттис" />
     <string id="HDBryERe" text="Личности" />
     <string id="Hdd7n8Ux" text="Увеличивает ежедневное ополчение на +2, во время осады" />
+    <string id="HDNedIxl" text="\n        {BUILDING_NAME}: {LEVEL_LOST}" />
     <string id="He6DW2Xb" text="Спасибо, что защитили нас {?PLAYER.GENDER}мадам{?}сир{\?}. Продолжайте следовать за нами, мы почти у цели.." />
     <string id="HeIIW3EH" text="Мы ждем хороших вестей от вас, {?PLAYER.GENDER}миледи{?}сир{\?}." />
     <string id="hes54oh0" text="joins in a tournament." />
@@ -1893,9 +1924,11 @@
     <string id="hsIvt3WC" text="поощряет лордов, к укреплению своих имений" />
     <string id="HSlPLC4m" text="Ира" />
     <string id="HsZBO3Wt" text=" Объект Игры " />
+    <string id="HtHcEv7N" text="\nParty Morale Change : {MORALE_CHANGE}" />
     <string id="HU5n5KTW" text="{?CHARACTER.GENDER}Она умерла{?}Он умер{\?} естественной смертью, от старости в {YEAR} в возрасте {CHARACTER.AGE}. {?CHARACTER.GENDER}Она имела{?}Он имел{\?} репутацию {REPUTATION}" />
     <string id="HVHEhXbO" text="Обман смерти (Игнорируйте первый отрицательный результат для неизлечимо больного)." />
     <string id="hVIsGd2y" text="Землевладельцу нужны разнорабочие" />
+    <string id="hvQUqRSb" text="{SETTLEMENT} has been taken by an army of which you are a member. " />
     <string id="HvTrhCKc" text="Подождите. Эти товары были взяты у моего коллеги. Возможно, тогда вы этого не знали, но теперь знаете. Покупка краденого - это преступление, и вы не хотите, чтобы ваше имя было запятнано этим. Я буду счастлив забрать их у вас и вернуть их владельцу, и я могу дать вам {REWARD}{GOLD_ICON} в качестве компенсации. Откажитесь, и здешние власти поступят с вами как с обычным преступником." />
     <string id="Hvw3uSNN" text="{PRISONER.NAME} был освобожден, после того как {?PRISONER.GENDER}ее{?}его{\?} пленители потерпели поражение в бою" />
     <string id="HVxvToRR" text="Пехота получает +15 ко всем навыкам управления, дальнобойные войска получают +15 ко всем навыкам выносливости" />
@@ -1918,6 +1951,7 @@
     <string id="I0StkXlK" text="{?PLAYER.GENDER}Мадам{?}Сэр{\?}, вам нужны солдаты? Я и {?PLURAL}{MERCENARY_COUNT} мой человек{?} моих людей{\?} ищут хозяина. Можете называть нас наемниками. Мы присоединимся к вам за {GOLD_AMOUNT}{GOLD_ICON}" />
     <string id="I0ZG4tIj" text="{TOWN_NAME} пал под натиском ваших солдат. Вы можете разместить здесь гарнизон, чтобы защитить его от врагов, которые могут попытаться отбить его." />
     <string id="I1CMeL9R" text="Конные Лучники" />
+    <string id="i20baAus" text="\n+{VALUE} to {TRAIT_NAME_ONE}, {TRAIT_NAME_TWO} and {TRAIT_NAME_THREE}" />
     <string id="i2FwKPmC" text="Да, я хочу поговорить о другом." />
     <string id="i2qOUBF4" text="The child will win any game that involves throwing and aiming, and the local crows have learned to keep their distance lest they want to be hit by a stone." />
     <string id="I2thb8VU" text="К сожалению. Мне пока не нужны люди." />
@@ -2074,6 +2108,8 @@
     <string id="JE3RTqx5" text="Эффект Правителя Клана " />
     <string id="Je7SWXK3" text="Они утверждают, что я не имею права там пастись, что деревенскую землю нельзя так покупать и продавать. Послушайте, я потратил свое серебро. Я не получу его обратно. Я не могу позволить себе ждать. Мне нужно, чтобы кто-то ехал вместе с моими пастухами, и мой скот мог пастись, так или иначе, даже если это будет означать насилие. Я не могу позволить своему стаду просто умереть с голоду." />
     <string id="jeljPTgV" text="Благодарю вас, {?PLAYER.GENDER}леди{?}лорд{\?} я знал, что мы сможем прийти к соглашению[rb:positive]" />
+    <string id="JEuZoV1E" text="{ISSUE_OWNER.LINK} asks you to raid enemy villages to distract enemy war parties." />
+    <string id="jeWV2uV3" text="{EXP_VALUE} Skill Level and {FOCUS_VALUE} Focus Point to {SKILL_ONE}, {SKILL_TWO} and {SKILL_THREE}\n{ATTR_VALUE} attribute point to {ATTR_NAME}{TRAIT_DESC}{RENOWN_DESC}{GOLD_DESC}" />
     <string id="jF4Nl8Au" text="{NPC_LIEGE.NAME}, {LIEGE_RELATIONSHIP}? Долгих лет жизни {?NPC_LIEGE.GENDER}ей{?}ему{\?}." />
     <string id="JfBTbsX2" text="{EFFECT_DESCRIPTION}{NEW_LINE_1}{SKILL_DESCRIPTION}{NEW_LINE_2}{ATTRIBUTE_DESCRIPTION}" />
     <string id="JfLCWjqI" text="Наносит на 40% больше урона по щитам с помощью метательного оружия" />
@@ -2161,6 +2197,7 @@
     <string id="jyxo4YgW" text="Да, он многообещающий мальчик." />
     <string id="jZ8Eqxbf" text="Вы осаждаете поселение." />
     <string id="JzALLCEX" text="{RULER.NAME} решает предоставить {SETTLEMENT} новому клану, мнение {?RULER.GENDER}ее{?}его{\?} совета по этому вопросу разделилось поровну." />
+    <string id="jZmBbA5M" text="\n        {BUILDING_NAME}" />
     <string id="JZvywHNy" text="Вы думаете, что я сумасшедший? Я не доверяю." />
     <string id="jZYUdkXF" text="Голодают" />
     <string id="K08ed2LS" text="You asked your master-at-arms to make sure that as a noble, this {?CHILD.GENDER}daughter{?}son{\?} of the clan knows how to hold {?CHILD.GENDER}herself{?}himself{\?} properly on the saddle." />
@@ -2277,6 +2314,7 @@
     <string id="kWruAXaF" text="Ну... вы знаете, пока эти бандиты остаются там, ни один путешественник не будет в безопасности." />
     <string id="kwVELZN1" text="Урон пехотных войск в строю, который вы возглавляете, увеличен на 2%." />
     <string id="kWZ3cskl" text="Что? Это нарушение контракта. {QUEST_GIVER.LINK} определенно узнает об этом..." />
+    <string id="KXtaJNo4" text="\n+{VALUE} renown" />
     <string id="kXVHwjoV" text="Вы прибыли в свои владения {SETTLEMENT_LINK}. {PROSPERITY_INFO} {MORALE_INFO}" />
     <string id="Ky03jg94" text="Бой" />
     <string id="ky6bub8F" text="Земельные наделы для ветеранов" />
@@ -2493,7 +2531,6 @@
     <string id="mIfHAazB" text="Повышение эффективности проекта более чем на 20%. " />
     <string id="miMZavW3" text="Крещеный в крови" />
     <string id="MISEi5Bh" text="Увеличение максимальной дистанции обнаружения следов на 20%" />
-    <string id="miVfVmu9" text="Скорость снаряда увеличена на 5%." />
     <string id="MiVYmiBc" text="Совершите налет на убежище и спасите моих товарищей. Я знаю что время стоит денег, скажем {GOLD_AMOUNT} динар." />
     <string id="MJdVfS4z" text="Не беспокойтесь. Я доставлю {ANIMAL_COUNT_TO_DELIVER} {HERD_TYPE_TO_DELIVER} лично {TARGET_HERO.LINK} в {TARGET_SETTLEMENT}" />
     <string id="mjOcwUSA" text="Руководить штурмом" />
@@ -2564,6 +2601,7 @@
     <string id="mzu6exTe" text="an outbreak of plague" />
     <string id="N0E8gd5H" text="{QUEST_GIVER.LINK} ремесленник из {QUEST_GIVER_SETTLEMENT} что не может продать свои товары по той цене, которую они хотят, из-за несправедливых местных законов. Вы согласились отвезти {?QUEST_GIVER.GENDER}ее{?}его{\?} товары {TARGET_HERO.LINK} в {TARGET_SETTLEMENT}." />
     <string id="N0eHkPV2" text="A craftsman makes parts and an engineer fits them together. The best artisans learn to do both." />
+    <string id="n1bQHmCk" text="\n    Projects Destroyed: {BUILDINGS_DESTROYED}" />
     <string id="N1Ue4Blt" text="Мои собственные силы." />
     <string id="N1WyvVHY" text="You instructed the child to pay close attention to how the steward exerts authority." />
     <string id="n3bFiuVu" text="Увеличивает мораль отрядам под вашим командованием +{a0}" />
@@ -2647,11 +2685,11 @@
     <string id="Nr1GPYSr" text="Siegeworks" />
     <string id="Nr49hlfC" text="Оставить армию." />
     <string id="NRiJ615C" text="Деревенские отряды на 10% больше. " />
+    <string id="nrRvyKgL" text="I'll strike into their territory as you command, my {?ISSUE_OWNER.GENDER}lady{?}lord{\?}." />
     <string id="Ns315pxY" text="Возможно, мы не созданы друг для друга." />
     <string id="NsBKUeQG" text="Бандитские отряды в вашем отряде получают +10 к силе (СИЛ) и навыкам контроля (КОН)." />
     <string id="nSoJkeBI" text="Ситтача" />
     <string id="nsRY31eN" text="Как вы знаете, наши фракции находятся в состоянии войны." />
-    <string id="nSTn4SaY" text="Установить на минимум" />
     <string id="nSwkI97I" text="Стена щитов" />
     <string id="nt1ra97u" text="кочевой клан" />
     <string id="NT5fwUuJ" text="Брод" />
@@ -2683,7 +2721,6 @@
     <string id="nysBXpEO" text="верблюды" />
     <string id="nZaeTlj8" text="Обмен войсками" />
     <string id="nZbaYvVx" text="Тайник" />
-    <string id="NzIK0ZE8" text="Я возьмусь за это. Я продам, когда найду рынок для вашего {SELECTED_ITEM}." />
     <string id="nZK2r5Gn" text="Скорость прибытия добровольцев кавалеристов в городах, которыми управляет ваш клан, увеличился на 30%." />
     <string id="o0qwDa0q" text="Ваши отношения увеличились на {RELATION_VALUE} с ближайшими знаменитостями." />
     <string id="o1pZHZOF" text="{ATTACK_TEXT}!" />
@@ -2827,9 +2864,11 @@
     <string id="PDLDvUfH" text="Отлично. Я найму {?PLURAL}всех вас{?}вас{\?}. Вот {GOLD_AMOUNT}{GOLD_ICON}" />
     <string id="pdLfrowl" text="Вы получаете двойную известность на турнирах." />
     <string id="PDM8MzCA" text="Шило" />
+    <string id="PE97ZWvX" text="Not just anybody. If you have a companion that has your complete trust, then I'll agree... Just make sure he is well guarded. Goods attract bandits, as I'm sure you know. I suppose {ALTERNATIVE_TROOP_AMOUNT} well-armed man would be enough." />
     <string id="PeaiNrSu" text="Ловкий выпад" />
     <string id="pEFDJNJ6" text="При атаке ваши войска наносят на 5% больше урона в автобитвах." />
     <string id="PeffuEmp" text="{POACHERS_PERSUADE_ATTEMPT_3}" />
+    <string id="peHCARhM" text="{DEFAULT_TEXT}{ARMY_LEADER.LINK} has ordered that {SETTLEMENT} to be laid waste. {?ARMY_LEADER.GENDER}Her{?}His{\?} troops sweep through the city taking whatever loot they like and setting fire to the rest." />
     <string id="pF47ldtJ" text="часть брони" />
     <string id="pF92DagG" text="Исключить {CLAN_NAME} с {KINGDOM_NAME}" />
     <string id="pf9jQ2aO" text="Ваши войска решен вопрос и вернулся из своей миссии." />
@@ -2932,6 +2971,7 @@
     <string id="Q51nMDju" text="Ускорения за динары, для городских проектов, на 20% эффективнее." />
     <string id="q5q13YYt" text="Пару слухов о рынках, караванах и тому подобных." />
     <string id="Q8VN9UCq" text="Выберите пленников для продажи" />
+    <string id="Q9RXyDBz" text="{HERO.NAME} must use {INFLUENCE_AMOUNT} influence to convince {MERCIFUL_LORD_COUNT} merciful leaders of this action.\n" />
     <string id="qa4FlTWS" text="{RULER.NAME} из {KINGDOM} забирает {SETTLEMENT} как {?RULER.GENDER}ее{?}его{\?} феод, не смотря на возражение {?RULER.GENDER}ее{?}его{\?} совета." />
     <string id="QAg8DQy6" text="{QUEST_GIVER.LINK} шлет вам сообщение. «Спасибо, что так доблестно сражались от моего имени. Пожалуйста, возьмите {REWARD} динар с нашей благодарностью.»" />
     <string id="QakanPLW" text="It will be years before the child can develop the strength, breathing techniques, and patience needed to wield a powerful bow, but it never hurts to start early." />
@@ -3064,6 +3104,7 @@
     <string id="R0snRqBm" text="Вам не хватает войск для выполнения этой задачи." />
     <string id="R1MaIgOb" text="Действие Ополчения " />
     <string id="R1W5Il2d" text="Вы можете принять ваши претензии к вашему лорду, или к тому, кто продал землю. Закон гласит, что у покупателя есть права и вам их нужно расчистить." />
+    <string id="R21SLyGK" text="Excellent. You are a brave and loyal warrior. You have my thanks." />
     <string id="r2y3n7dR" text="Посещенные Поселения" />
     <string id="r46NWboa" text="Я тоже иду на рынок. Какие продукты у вас есть?" />
     <string id="r4pLtP5V" text="Вы правы. Мы договорились об этой цене. Спасибо за ваши усилия." />
@@ -3107,6 +3148,7 @@
     <string id="REWGj2ge" text="восходящий новый клан" />
     <string id="rFbAjSWM" text="Горигос" />
     <string id="rFESkhK0" text="{HERO.FIRSTNAME} {?HERO.GENDER}Нарезчица{?}Нарезчик{\?}" />
+    <string id="RFH1lDMj" text="Raided Village Count" />
     <string id="rfkrddb9" text="Восстанавливайте 10 очков здоровья после каждого атакующего боя." />
     <string id="RFpjl75i" text="25% истощения против защитников осады." />
     <string id="rFriAZcL" text="Вы действительно можете заплатить мне {BASE_REWARD_X_2}{GOLD_ICON} за вашу свободу?" />
@@ -3139,9 +3181,11 @@
     <string id="rlqjkZ9Q" text="У вас {NUMBER} новых перков доступных для выбора." />
     <string id="rMagXCrI" text="Вам не хватает влияния, чтобы снять обвинения." />
     <string id="Rmbd2OkI" text="You are usually away from your estate, but when you are able to spend time with {CHILD.NAME}, you encouraged {?CHILD.GENDER}her{?}him{\?} to develop..." />
+    <string id="RmW8Wf83" text="\nParty Gold Gain : {PARTY_GOLD_GAIN}" />
     <string id="rmydcPP3" text="Размер Отряда:" />
     <string id="rNDRyFP4" text="Вы зачистили логово и спасли партнеров {QUEST_GIVER.LINK}. {?QUEST_GIVER.GENDER}Она{?}Он{\?} отправляет вам следующее письмо. " />
     <string id="RNT5hMVb" text="Товары с рынка" />
+    <string id="RO3Zv0K4" text="\nRelation with Settlement Owner : {OWNER.LINK} : {RELATION_CHANGE}" />
     <string id="rO704KOG" text="Поблизости нет никого авторитетного, кто мог бы поговорить с вами." />
     <string id="rOBRabQz" text="Хорошо. Жду от вас хороших новостей." />
     <string id="roTCX8S8" text="{ISSUE_GIVER_1.NAME} упомянул что-то о необходимости кого-то для выполнения кое-какой роботы." />
@@ -3153,7 +3197,6 @@
     <string id="rqHFujhr" text="Священное Величество" />
     <string id="rR8iTDPI" text="Практикующий кузнец" />
     <string id="rrCkJgtd" text="Мы недостаточно знаем о противнике, о его слабых и сильных сторонах. Я не хочу вести через их территорию огромную армию на охоту на диких гусей. Нам нужен кто-то, чтобы быстро проехать через них и разведать их гарнизоны. Ты сможешь этим заняться?" />
-    <string id="rRdWgBeS" text="Дротики и копья, которые вы бросаете, пробивают щиты, как болты баллисты." />
     <string id="RREyouKr" text="Охотник" />
     <string id="rRGbn0Sm" text="Спасибо {?PLAYER.GENDER}леди{?}сер{\?}. Вы оказали большую услугу людям из {ISSUE_VILLAGE}." />
     <string id="rrqCZa0H" text="Я прослежу, чтобы те, кто рисковали, те кто потел и истекал кровью ради меня, получат всё по заслугам." />
@@ -3320,6 +3363,7 @@
     <string id="SxkaQbSa" text="Вы приближаетесь к воротам. Мужчины на стенах наблюдать." />
     <string id="sXwOLNo9" text="Мне не нравится, отвернулся от врага, как это. Для меня смерть в бою лучше, чем бесчестье." />
     <string id="SydDh9jf" text="Вы получили {COUNT} {ITEM} от {HERO.NAME}." />
+    <string id="sYfvsMwN" text="{QUEST_GIVER.LINK} asked you to raid {NUMBER_OF_TARGET_VILLAGE} {ENEMYFACTION_INFORMALNAME} villages to distract their lords and weaken their armies. {?QUEST_GIVER.GENDER}She{?}He{\?} also offered you {EXTRA_REWARD}{GOLD_ICON} for every extra villages that you raid." />
     <string id="sYNFwOVg" text="Гражданство" />
     <string id="SyuxD1aY" text="Вы доставили заключенных в {QUEST_GIVER.LINK}, как и обещали, и разделили половину прибыли с главой и жителями деревни." />
     <string id="SzIPvqLk" text="Конечно, нет. Если вы не хотите сражаться {?PLAYER.GENDER}сама{?}сам{\?} - я понимаю, что вы можете быть очень {?PLAYER.GENDER}занята{?}занят{\?}. Вы можете использовать свое влияние, чтобы убедить знатных этой фракции провести следующий турнир в мою честь." />
@@ -3329,7 +3373,6 @@
     <string id="T0LaDdAs" text="It is important that the child of the clan learns about the goods and their prices, that kind of understanding will be useful for all {?CHILD.GENDER}her{?}his{\?} life." />
     <string id="t0UGXPV4" text="Я заинтересован в торговле. Какие продукты у вас есть?" />
     <string id="t154GeM2" text="На деревню {SETTLEMENT} был совершен набег. Ваше согласие с {QUEST_GIVER.LINK} отменено." />
-    <string id="T1A78Zzk" text="Установить Лимит" />
     <string id="t1OpnZph" text="Джеремос" />
     <string id="t2dcmd1L" text="Увеличивает вашу манёвренность на 10%." />
     <string id="T3UdjMXf" text="Повышение скорости восстановления выносливости крафта на 50%." />
@@ -3376,6 +3419,7 @@
     <string id="TEhwK74M" text="Мы готовы заплатить {REWARD}{GOLD_ICON} динар за {REQUESTED_ANIMAL_AMOUNT} здоровых и сильных {?PLURAL}{SELECTED_ANIMAL}{.s}{?}{SELECTED_ANIMAL}{\?}. В отличии от нас, я уверен, вы легко сможете путешествовать до дальних деревень в поисках лучших и дешёвых." />
     <string id="TEUVTPIa" text="Ну, мы тут отдыхаем в городе, поэтому наша информация является, наверное, совсем устарела." />
     <string id="tf04Piaj" text="Вы сказали {?QUEST_GIVER.GENDER}ей{?}ему{\?} что вы продадите товар лично." />
+    <string id="tF1G5YLe" text="\nTotal Building Levels Reduced: {LEVELS_LOST}" />
     <string id="TFy2VYtM" text="Ревизор амбаров" />
     <string id="tGFgar0U" text="Я не хочу въезжать в город. Просто проезжали мимо." />
     <string id="TGYJUUn0" text="Перейти на." />
@@ -3463,6 +3507,7 @@
     <string id="tyzzUNN7" text="You instructed the artisan to teach your the child the basics of managing a workshop." />
     <string id="tzbXy8Nb" text="Навык медицины, теперь распространяется и на врагов, снижая шанс смерти." />
     <string id="tzBybYcf" text="Мне интересно, кто {?TARGET_HERO.GENDER}эта женщина{?}этот мужчина{\?}?." />
+    <string id="tZCLAkGZ" text="Pillage" />
     <string id="tZqbrlV9" text="Как можете помочь вы?" />
     <string id="TzqxgiQl" text="Мужчины говорят, что их зарплаты опаздывают. Лучше соблюдать свою часть сделки с ними, или они не могли держать их. Это особенно будет сложно, если они решили аннулировать свой контракт во время боя, не так ли?" />
     <string id="tZumf1sD" text="+1 ополчения в день." />
@@ -3586,10 +3631,12 @@
     <string id="uuyso3mg" text="Доходы от однопартийцев" />
     <string id="uvjOVy5P" text="Мертвый" />
     <string id="UW1roOES" text="Вы должны обсудить этот вопрос с {REDIRECT_HERO_RELATIONSHIP}, который будет говорить за всю нашу семью." />
+    <string id="uw2kKrQk" text="{EXP_VALUE} Skill Level and {FOCUS_VALUE} Focus Point to {SKILL_ONE}\n{ATTR_VALUE} attribute point to {ATTR_NAME}{TRAIT_DESC}{RENOWN_DESC}{GOLD_DESC}" />
     <string id="uW38UtSH" text="Евпитор" />
     <string id="UwEbBanm" text="Таковы законы нашего города. Ремесленники не жалуйтесь, когда законы требуют от нас, чтобы купить от них." />
     <string id="uwjjqEob" text="{QUEST_GIVER.LINK}, глава банды из {QUEST_GIVER_SETTLEMENT}, предложил вам продать  {STOLEN_GOOD_AMOUNT} единиц украденного {STOLEN_GOOD} а половину обычной цены. {?QUESTGIVER.GENDER}Она{?}Он{\?} говорит, что как только вы поедете в другой город, их продажа не будет проблемой. Вы согласились купить." />
     <string id="uwmfgcM3" text="Нам нужно {._}{ITEM}, {NUMBER_OF_ITEM} {?NUMBER_OF_ITEM&gt;1}единиц{?}единица{\?} в течение {NUMBER_OF_DAYS} дней. Проблема в том, что в деревне не хватает динар, поэтому мы можем произвести оплату в натуральной форме - {._}{EXCHANGE_ITEM} {NUMBER_OF_EXCHANGE_ITEM} {?NUMBER_OF_EXCHANGE_ITEM&gt;1}единиц{?}единица{\?} . Что скажете?" />
+    <string id="uwmHjy7z" text="You cannot pillage a settlement that has your faction culture.\n" />
     <string id="UwPs3wmj" text="Мой господин {NEW_LIEGE.NAME} будет рад вашей поддержке. Присоединяйтесь к нам!" />
     <string id="UWzQsHA2" text="{SETTLEMENT_LINK} находится под управлением {LORD.LINK}, {FACTION_OFFICIAL} из {FACTION_TERM}. {PROSPERITY_INFO} {MORALE_INFO}" />
     <string id="UxAl9iyi" text="Личное" />
@@ -3600,6 +3647,7 @@
     <string id="UZHvbYTr" text="Конный арбалетчик" />
     <string id="UzMYZgoE" text="Осаждать замок." />
     <string id="uZOBwhEx" text="{LORD_RESPONDS_TO_PLAYER_REFUSAL_TO_SURRENDER}" />
+    <string id="v0mZi3Zd" text="Devastate {DEVASTATE_INFLUENCE_COST_TEXT}" />
     <string id="V0QmrGda" text="Before {CHILD.NAME} left, you asked your warrior to make sure that the young {?CHILD.GENDER}woman{?}man{\?}..." />
     <string id="v1hC6Aem" text="Миледи, я хочу заявить, что являюсь вашим самым горячим поклонником" />
     <string id="V1QLbhRl" text="Сора" />
@@ -3624,6 +3672,7 @@
     <string id="vbbc6sIU" text="Я сожалею, чтобы сказать вам, что мои успехи под Вашим руководством не является удовлетворительным. Я должен вернуться в мой клан, чтобы возобновить учебу. В любом случае, спасибо за беспокойство." />
     <string id="vbiA31xT" text="Вымогательство дезертирами в {SETTLEMENT}" />
     <string id="VbRyXBsv" text="Если вы идете в направлении {TARGET_SETTLEMENT}, может быть, вы отведете туда наше стадо? {TARGET_HERO.LINK}. Несколько поселенцев пойдут с вам, чтобы помощь сопроводить животных." />
+    <string id="VbU8Ue0O" text="After waiting for a while you find a good opportunity to close in undetected beneath the shroud of the night." />
     <string id="VbWAsWWY" text="Guide the Tutor" />
     <string id="vbxQoyN3" text="{RANDOM_HIRE_SENTENCE}" />
     <string id="VCREeAF1" text="Замаскироваться и пройти через ворота ({SNEAK_CHANCE}%)" />
@@ -3704,6 +3753,7 @@
     <string id="VUxFbEiW" text="Седельные сумки" />
     <string id="Vv2ednFa" text="Образование" />
     <string id="Vv81gkWN" text="Знаменосец" />
+    <string id="vvabqi2w" text="Caravan" />
     <string id="vvb8UG8i" text="+2 пассивного получения опыта для всех войск." />
     <string id="VVBx07cK" text="The siege engines needed gears and bracings, and the master assigned {?PLAYER_CHILD}your{?}the{\?} child to assist in forging them." />
     <string id="vvCwVo7i" text="{DAMAGE} {DAMAGE_TYPE}" />
@@ -3736,6 +3786,8 @@
     <string id="W0w0Eunx" text="Ваш компаньон {COMPANION.LINK} {?COMPANION.GENDER}доставила{?}доставил{\?} товар как было обещано. {ISSUE_GIVER.LINK} {?ISSUE_GIVER.GENDER}рада{?}рад{\?} этому." />
     <string id="W0Zu4iDz" text="Скорость перезарядки арбалета: +{a0} %" />
     <string id="w1B71sNj" text="Рывок и разрез" />
+    <string id="W1KJEvit" text="\n    Levels Lost: {BUILDINGS_LOST_LEVEL}" />
+    <string id="w1rVTUIs" text="This seems like a simple errand. Would your offer still stand if I get someone else to do it for me?" />
     <string id="W1uwgvAQ" text="Арион" />
     <string id="w290a2DV" text="{HERO.FIRSTNAME} {?IMPERIAL}Маркетант{?}Торговец товарами{\?}" />
     <string id="W2WXkiAh" text="Брокер по выкупу" />
@@ -3769,6 +3821,7 @@
     <string id="WD6soDM1" text="It was a minor skirmish but a clear victory nonetheless. {CHILD.NAME} wasn't just there when the commander came up with the winning strategy but also took part in executing it." />
     <string id="WdIGdHuL" text="Осадить город" />
     <string id="wdpyBN0P" text="{ROMANCE_PERSUADE_ATTEMPT_4}" />
+    <string id="WDRTZ8se" text="\nTown Projects Razed: {LEVELS_LOST}{PROJECTS_DESTROYED}" />
     <string id="webjbgTa" text="trained really hard." />
     <string id="wEdkXEa0" text="Базовый" />
     <string id="WEkjz9tg" text="А! Да... Мы рассматриваем предложения... У вас есть кто-то на примете?" />
@@ -3793,6 +3846,7 @@
     <string id="wlhJGG0q" text="{PRISONER_LORD.LINK_AND_FACTION} был освобожден из-за объявления мира." />
     <string id="wlKtDR2z" text="Благодарю вас {?PLAYER.GENDER}леди{?}сэр{\?}." />
     <string id="wM77S68a" text="А что тут обсуждать?" />
+    <string id="Wmq47pvL" text="{DEFAULT_TEXT}{ARMY_LEADER.LINK} had to show mercy to the people of {SETTLEMENT} who were originally descendants of {FACTION}. You can hear disgruntled murmuring among the troops, who have been denied their customary right of pillage." />
     <string id="wmZYHGb9" text="Я привел {HERD_AMOUNT} голов {HERD_TYPE} как мы и договаривались." />
     <string id="WNKkdpN3" text="{CLAN_NAME} покинул королевство {OLD_FACTION_NAME}." />
     <string id="WO3EaqB3" text="Как я могу помочь вам?" />
@@ -3899,6 +3953,7 @@
     <string id="XFcmlN1J" text="Безопасность города увеличивается на 1 в день {newline}В городах с безопасностью свыше только на дополнительное очко влияния клана владельца.  {newline}Налог из городов уменьшен на 0,5" />
     <string id="xFhaMGmY" text="Ваш отряд имеет 10% преимущество в автобитвах с бандитами." />
     <string id="xFHb9nAk" text="Вы уже узнали где {?TARGET_HERO.GENDER}она{?}он{\?} находится?" />
+    <string id="xFmYRCHs" text="Let me see what you have..." />
     <string id="XFr4IfXf" text=" Сменить Владельца {SETTLEMENT}" />
     <string id="XFzbzt3W" text="Вы известны своей доблестью. Удача любит смелых. Вместе мы быстро выиграем эту войну." />
     <string id="XFZcqNBB" text="battled brigands." />
@@ -3916,7 +3971,6 @@
     <string id="XixNAaD5" text="Улучшенные инструменты" />
     <string id="xJ2uDcob" text="Лояльность поселения увеличивается на 2 в день. Производство поселения уменьшается на 5%" />
     <string id="XjbPBIct" text="Увеличивает на 20% скорость лечения войск в армии." />
-    <string id="xjMAjshT" text="Конечно. Просто убедитесь, что он будет с охраной. Товары привлекают бандитов, я уверен вы и так это знаете. Полагаю {ALTERNATIVE_TROOP_AMOUNT} хорошо вооружённых людей будет достаточно." />
     <string id="xjtibL4J" text="Пехотинцы в вашем строю получают на 50% меньше урона от атак." />
     <string id="xKVBAL3m" text=" Вопрос Кампании" />
     <string id="XKxeaF0I" text="Далидос" />
@@ -4016,6 +4070,7 @@
     <string id="YBGCXSEx" text="Дэбана" />
     <string id="yBL3TzXw" text="{RULER.NAME} {?RULER.GENDER}решила{?}решил{\?} не исключать клан {CLAN} из {KINGDOM}, при поддержке {?RULER.GENDER}ее{?}его{\?} совета." />
     <string id="YblqUbdp" text="Войска той же культуры, что и лидер, увеличивают боевой дух на 5 в начале битвы" />
+    <string id="YBqmnNGv" text="\n+{VALUE} gold" />
     <string id="YbsVaZkb" text="Да, я {?PLAYER.GENDER}доставила{?}доставил{?} зерно и скот, как вы просили." />
     <string id="ybXgaKEv" text="бокал местного вина" />
     <string id="ybzBF59f" text="Вырвался из {SETTLEMENT}." />

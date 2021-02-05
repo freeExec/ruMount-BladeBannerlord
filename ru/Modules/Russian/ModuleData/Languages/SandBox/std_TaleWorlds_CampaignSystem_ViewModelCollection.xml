@@ -9,6 +9,7 @@
     <string id="0mqdFC2x" text="Созданное оружие!" />
     <string id="0Q4Xo2BQ" text="Выберите лидера для нового отряда" />
     <string id="0rBsbw1T" text="Никакого эффекта" />
+    <string id="0TauthlH" text="Never (%{PERCENTAGE})" />
     <string id="13wo3QQB" text="Вторичное свойство" />
     <string id="154a34f8caccfc833238cc89d38861e8" text="Требуется:" />
     <string id="1CXlqb2U" text="Выберите: " />
@@ -57,7 +58,6 @@
     <string id="a241aacb1780599430c79fd9f667b67f" text="Спутников: " />
     <string id="a4GDfSel" text="Reset Tutorials" />
     <string id="a8nRxITn" text="В плену у {PARTY_NAME}" />
-    <string id="aadiCuDe" text="{COMPLETION_PERCENT} (Приблизительно {DAYS} дней до завершения)" />
     <string id="AcMayd1p" text="Убегает от {TARGET_PARTY}" />
     <string id="aE4ZRbB6" text=" {HEALTH}%" />
     <string id="aFYwbosi" text="Этот персонаж уже является лидером отряда." />
@@ -131,12 +131,12 @@
     <string id="fOSGakix" text="Вы не можете управлять армией, пока находитесь в плену." />
     <string id="G2h0V10w" text="Подарите это поселение клану в своем королевстве." />
     <string id="g4XqKGUr" text="В отряде уже есть участник с этой ролью." />
-    <string id="G6cCjixe" text="{COMPLETION_PERCENT} (Приблизительно {DAYS} дней до завершения)" />
     <string id="g9VIbA9s" text="Сержант" />
     <string id="GCaYjA5W" text="Вы должны быть лидером клана,что бы переименовать его." />
     <string id="gduqxfck" text="У вас нет всех необходимых материалов!" />
     <string id="ggpRTQQl" text="Лидер отряда" />
     <string id="gsVtO9A7" text="Ополчение" />
+    <string id="GwA9oUBC" text="Your skill focus determines the rate your skill increases with practice" />
     <string id="HAaElX8X" text="{PARTY_OWNERS_FACTION}" />
     <string id="HcAV8x7p" text="Член отряда" />
     <string id="HFZdseH9" text="Только правитель королевства может переименовать его." />
@@ -193,6 +193,7 @@
     <string id="lc9s4rLZ" text="Созвать армию" />
     <string id="LEiZWuZm" text="{SKILL_NAME}: {SKILL_VALUE}" />
     <string id="lGWb26Lj" text="Этот герой занят заданием." />
+    <string id="lkJfq1ap" text="Owned settlements remain under your control but nobles will dislike this dishonorable act and the kingdom will declare war on you." />
     <string id="LpsoPtOo" text="Проекты" />
     <string id="LsZEdD2z" text="Стены" />
     <string id="LVmkE2Ow" text="Готовые к бою войска" />
@@ -332,6 +333,7 @@
     <string id="weaponTier" text="Класс оружия: " />
     <string id="WiNRdfsm" text="Выполнить" />
     <string id="Wir2xZIg" text="Вы не умеете ковать некоторые из выбранных элементов." />
+    <string id="wMiLUTNY" text="Are you sure you want to smelt this weapon? It is locked in the inventory." />
     <string id="WN7cYIXM" text="Вы должны быть частью королевства" />
     <string id="WttsvMTW" text="Восстание в {SETTLEMENT}" />
     <string id="WXAaWZVf" text="Previous" />
@@ -358,6 +360,7 @@
     <string id="z8h0BRAb" text="Сохранить все запасы" />
     <string id="zawBaxl5" text="Дистанция: {DISTANCE}" />
     <string id="ZcybPatO" text="Длина" />
+    <string id="ZjaSde0X" text="Owned settlements are returned to the kingdom. This will avert a war and nobles will dislike you less for abandoning your fealty." />
     <string id="zMMqgxb1" text="Тип: " />
     <string id="zrhr4rDA" text="Вы уверены, что хотите распустить эту армию? Это приведет к ухудшению отношений." />
     <string id="ZUgoQ1Ws" text="Тип" />

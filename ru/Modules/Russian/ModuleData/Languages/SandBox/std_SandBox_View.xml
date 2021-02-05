@@ -4,6 +4,7 @@
     <tag language="Русский" />
   </tags>
   <strings>
+    <string id="0tJ1oarX" text="Continue Campaign" />
     <string id="171fTtIN" text="Песочница" />
     <string id="6mN03uTP" text="Продолжить игру" />
     <string id="9NuttOBC" text="Загрузить" />
@@ -15,6 +16,7 @@
     <string id="NqarFr4P" text="Настройки" />
     <string id="PXT6aA4J" text="Настройка кампании" />
     <string id="RamV6yLM" text="Выйти в главное меню" />
+    <string id="u24Jy4At" text="There is no campaign to continue" />
     <string id="VHjIJGja" text="Вы не в королевстве" />
     <string id="XzZFhRwr" text="Вернуться в игру" />
   </strings>

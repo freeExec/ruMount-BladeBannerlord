@@ -8,6 +8,7 @@
     <string id="08KLQa3P" text="Waiting For Party Members" />
     <string id="0af2iQvw" text="Clan doesn't have any announcements" />
     <string id="0B27RrYJ" text="Баттания" />
+    <string id="18yFEEIL" text="Estimated wait time" />
     <string id="1hnq3Kb1" text="Are you sure want to reset all properties? Your changes will be lost." />
     <string id="1pwQgr04" text="Matchmaking Request" />
     <string id="2Q6Mm9Jo" text="Настройка геймпада" />
@@ -19,12 +20,12 @@
     <string id="4Dd2xgPm" text="Вес" />
     <string id="4NaOKslb" text="-" />
     <string id="4OGDnOVE" text="с {OPPONENT_NAME}" />
+    <string id="4PrfimcK" text="Badge" />
     <string id="4ZE6i9nW" text="Leave Clan" />
     <string id="5baU17n0" text="В настоящее время матчмейкинг отключен" />
     <string id="5coyTZOI" text="Game is starting!" />
     <string id="5k4dxUEJ" text="Войска" />
     <string id="5Pea977J" text="Фракция:" />
-    <string id="5UJJLzaL" text="Поиск игроков по вашим критериям:" />
     <string id="5Z0pvuNL" text="Уровень {LEVEL}" />
     <string id="61isYVW0" text="Игрок {USER_NAME} не найден" />
     <string id="65oGXBYQ" text="Create" />
@@ -40,6 +41,7 @@
     <string id="7R0i82Nw" text="Change Sigil" />
     <string id="89t1Bap8" text="This clan wants to join the clan match you created." />
     <string id="8nJFaJio" text="Пароль" />
+    <string id="8OkPHu4f" text="No" />
     <string id="8pLf56db" text="Waiting for an opponent clan" />
     <string id="942B3LfA" text="Decline Friend Request" />
     <string id="9jdHEa0N" text="Запросы в друзья" />
@@ -47,6 +49,7 @@
     <string id="AaAcmalE" text="Вы были приглашены присоединиться в команду" />
     <string id="aalbxe7z" text="Размер армии, установить параметр количества ботов в формирование {OPTION_VALUE}" />
     <string id="aB4Md0if" text="Есть игроки" />
+    <string id="aeouhelq" text="Yes" />
     <string id="Agtv9l7S" text="This Name Already Exists" />
     <string id="ahiBhAqU" text="Броня" />
     <string id="aO3avkK9" text="Матчмейкинг отключен" />
@@ -68,6 +71,7 @@
     <string id="BrYUHFsg" text="ВЫБРАТЬ ИГРУ" />
     <string id="bsiRNJtk" text="{NAME}:" />
     <string id="BSUteZmt" text="Accept Friend Request" />
+    <string id="BXI1ObU8" text="Promote To Clan Officer" />
     <string id="bynNUfSr" text="Your party does not have enough members to create a clan." />
     <string id="c0ZdKSkn" text="Waiting" />
     <string id="C7OHivNl" text="Your friend &lt;a style=&quot;Strong&quot;&gt;&lt;b&gt;{PLAYER_NAME}&lt;/b&gt;&lt;/a&gt; wants you to invite the player below to your party." />
@@ -89,6 +93,7 @@
     <string id="dMdmyb3Y" text="Защищены паролем " />
     <string id="DoDZGYf6" text="Выберите тип голосования" />
     <string id="DQvGNQ0g" text="Нет юнитов под командованием." />
+    <string id="DXczLzml" text="Status" />
     <string id="dxlkHhw5" text="Games Won" />
     <string id="ECb8IPbA" text="Create Clan" />
     <string id="eCOJSSUH" text="({BOT_COUNT} ботов)" />
@@ -119,6 +124,7 @@
     <string id="GGseMDd3" text="Прочность" />
     <string id="GMhOZGnb" text="Нельзя отдать приказ, пока вы мертвы" />
     <string id="GmU1to3Y" text="Статистика" />
+    <string id="gowlLS2b" text="Demote From Clan Officer" />
     <string id="gqNxq11A" text="Цели" />
     <string id="graphics_option" text="Graphics" />
     <string id="GRpGNYHW" text="Promote To Clan Leader" />
@@ -177,8 +183,9 @@
     <string id="macpKFaG" text="Голос" />
     <string id="mAxXKaXp" text="Сброс" />
     <string id="meFS5F4V" text="-{DAMAGE}" />
-    <string id="Met1U45t" text="Мышь и клавиатура" />
+    <string id="mFMPj9zg" text="Searching for matches" />
     <string id="MjnlWhih" text="Tag Length Is Invalid" />
+    <string id="MS4Ng2iw" text="Are you sure want to promote {MEMBER_NAME} as clan officer?" />
     <string id="MsAb6hed" text="{TEAM} команда была уничтожена" />
     <string id="NaZ6xg33" text="Не удалось найти подходящий сервер, чтобы присоединиться." />
     <string id="nFvVw68B" text="Пригласить в отряд" />
@@ -190,6 +197,7 @@
     <string id="NwiYsUwm" text="Clan doesn't have a description" />
     <string id="nWJGjCgy" text="characters" />
     <string id="oBbiVeKE" text="Здоровье" />
+    <string id="oeSrXaKt" text="You need to demote one of the officers" />
     <string id="oFWcihyW" text="Disband Clan" />
     <string id="oHaWR73d" text="ОК" />
     <string id="oibdTnXP" text="Обращение" />
@@ -207,10 +215,12 @@
     <string id="P7moPm3F" text="Установить в качестве лидера группы" />
     <string id="partykick" text="Кикнуть" />
     <string id="PDdh1sBj" text="Имя" />
+    <string id="peUP9ZZj" text="Are you sure? You made some changes and they will be lost." />
     <string id="pguhTmXw" text="Результаты битвы" />
     <string id="photomodefocus" text="Focus" />
     <string id="PjO7oY16" text="Стургия" />
     <string id="Po8jNaXb" text="Can only contain letters" />
+    <string id="pSb1P6ZA" text="Are you sure want to demote {MEMBER_NAME} from clan officers?" />
     <string id="pSheKLB4" text="Зритель" />
     <string id="Pwi1YCjH" text="Copy Bannerlord ID" />
     <string id="q2Y7aHSF" text="Invite Suggestion" />
@@ -223,7 +233,9 @@
     <string id="qe46yXVJ" text="ЗАБЛОКИРОВАНА ДЛЯ БАЛАНСА" />
     <string id="qFPBhVh4" text="Обновить" />
     <string id="QfTt7YRB" text="Скорострельность" />
+    <string id="qmNeO8FG" text="Keybindings" />
     <string id="qTYsYJ9V" text="Послать" />
+    <string id="QvDxB57o" text="{STR1} | {STR2}" />
     <string id="qXxpITdc" text="Цвет Глаз:" />
     <string id="R28ac5ij" text="{NUMBER} игроков" />
     <string id="r5WzivPb" text="Время Раунда" />
@@ -246,6 +258,7 @@
     <string id="socialtab" text="Social" />
     <string id="SoQcsslF" text="НЫНЕШНЯЯ КОМАНДА" />
     <string id="sPmQz21k" text="Враг" />
+    <string id="SrfYbg3x" text="Leader" />
     <string id="SxxxusWS" text="Выберите игрока, чтобы удалить его" />
     <string id="SyklU5aP" text="Information" />
     <string id="sZLd6VHi" text="Кузаиты" />
@@ -259,7 +272,6 @@
     <string id="U4dzbzNb" text="Пожалуйста, подождите, пока вы не подключитесь к серверу" />
     <string id="UfK6ztFl" text="Clan Matches" />
     <string id="ulzyykHO" text="This Tag Already Exists" />
-    <string id="uNBpT3vs" text="Всего игроков в поиске: " />
     <string id="uOrwqeQl" text="You must select a sigil icon" />
     <string id="uoVKchoC" text="Регион" />
     <string id="uTXYEAOg" text="[{STR}]" />
@@ -314,5 +326,6 @@
     <string id="zSXXfnYY" text="Сменить фракцию" />
     <string id="Zv1lg272" text="Оффлайн" />
     <string id="zxBBzoTH" text="Дуэль {DUEL_NAME} начнётся через {DUEL_REMAINING_TIME} секунд." />
+    <string id="ZYF2t1VI" text="Officer" />
   </strings>
 </base>

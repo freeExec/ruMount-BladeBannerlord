@@ -37,6 +37,7 @@
     <string id="3ydKbDmI" text="{PLAY_TIME} минут" />
     <string id="3ZzxddkE" text="Пароль игры" />
     <string id="43L45sjx" text="Количество ботов в формировании" />
+    <string id="4daqsVWG" text="Earn gold to buy higher tier respawns by assisting teammates and killing enemy troops." />
     <string id="4DcNDein" text="Лимит времени на карте (минут)" />
     <string id="4Dd2xgPm" text="Вес" />
     <string id="4jv2sW4U" text="Торговый пост" />
@@ -224,6 +225,7 @@
     <string id="mountverb" text="Оседлать" />
     <string id="MS795wWa" text="Первая помощь" />
     <string id="MW8rlyfL" text="Метательное" />
+    <string id="n6N21Shz" text="Earn gold to buy higher tier respawns by assisting teammates, killing enemy troops and destroying siege engines." />
     <string id="NdQZWHIy" text="·   Возглавьте собственный отряд {newline}·   Удерживайте контрольные точки на карте, чтобы подорвать боевой дух врага{newline}·   Убейте всю вражескую команду или истощите их боевой дух для победы" />
     <string id="NE7PmH7n" text="Условия" />
     <string id="NqarFr4P" text="Настройки" />
@@ -327,8 +329,6 @@
     <string id="UHIZLFBn" text="Убит {TROOP_NAME}" />
     <string id="UJaQuEpD" text="Спешиться/оседлать" />
     <string id="Umb8XsZH" text="Колющий" />
-    <string id="umhwsoqb" text="Выберите желаемый отряд в начале раунда и для дальнейшего возрождения, используйте золото." />
-    <string id="uPLRkTZr" text="Получайте подкрепление используя золото в зависимости от успеха при осаде." />
     <string id="UQabkhbG" text="Лошадь нанесла {DAMAGE} {DAMAGE_TYPE} урона." />
     <string id="uqzA4Q4a" text="Императорская Вилла" />
     <string id="UrZvjCfE" text="Вашей лошади нанесено {DAMAGE} {DAMAGE_TYPE} урона." />
@@ -388,6 +388,7 @@
     <string id="yQtzabbe" text="Рядом" />
     <string id="YRabuUqx" text="Окружение Баравеноса" />
     <string id="YRymCbaa" text="Меня пробило насквозь!" />
+    <string id="YtSQB7rg" text="Choose your desired class at the start of the round and for the further respawns by using gold." />
     <string id="Yvjap05b" text="Скорость передвижения" />
     <string id="YvK6gI6q" text="Окраина города" />
     <string id="yyJejJbO" text="Форма подбородка" />
@@ -396,7 +397,6 @@
     <string id="zHKHwHMr" text="Сельская местность" />
     <string id="zmlCRb1M" text="Максимальное количество игроков" />
     <string id="ZMmrpMPk" text="Шея" />
-    <string id="zpNSyauI" text="Спаун с лучшими войсками, используя золото в зависимости от ваших убийств на поле битвы." />
     <string id="ztGHtRNf" text="Мошенничество" />
     <string id="ZYChhMrO" text="Ничья" />
     <string id="ZZMbAjSU" text="Пробитие насквозь!" />

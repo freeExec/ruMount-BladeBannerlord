@@ -5,7 +5,7 @@
   </tags>
   <strings>
     <string id="07OrsbVH" text="Крепкие Болты" />
-    <string id="0a6Vz7wi" text="Leather Tabard" />
+    <string id="0a6Vz7wi" text="Кожанная гербовая накидка" />
     <string id="0e17RZrZ" text="Арбалет" />
     <string id="0JCBp5i8" text="Северный Топор дровосека" />
     <string id="0n0JmWv0" text="Южный Метательный Топор" />
@@ -81,19 +81,19 @@
     <string id="6Db7aDbF" text="Стрелы Баллисты" />
     <string id="6hwZwODh" text="Клинок" />
     <string id="6n44BIll" text="Остроконечная Кипа с Шнурованным Койфом" />
-    <string id="6XxiMU52" text="Leather Tabard Over Mail" />
+    <string id="6XxiMU52" text="Кожанная гербовая накидка поверх кольчуги" />
     <string id="6YCbEaHK" text="Северный Круглый Щит" />
     <string id="73U5RElj" text="Меховая шапка" />
-    <string id="7566s7pt" text="Infantrymans Mail Over Stripped Leather" />
+    <string id="7566s7pt" text="Кольчуга пехотинцев поверх ободранной кожи" />
     <string id="7b8Cwogx" text="Стёганка" />
     <string id="7D3jvAfS" text="Закрытая Шапка" />
     <string id="7dAy51ln" text="Цервельер Поверх Боевого Койфа" />
-    <string id="7EAEIUIY" text="Heavy Ring Mail" />
+    <string id="7EAEIUIY" text="Тяжолая кольчуга" />
     <string id="7LmUe8fQ" text="Менавлион" />
     <string id="7R8r1WvR" text="Топор для Испытания" />
     <string id="7rhZlXdO" text="Охотничий Длинный Лук" />
     <string id="7zIWNagP" text="Тяжёлый Клинок" />
-    <string id="84gnexLb" text="Desert horse" />
+    <string id="84gnexLb" text="Пустынная лошадь" />
     <string id="8bH8n3Aq" text="Лёгкий высокий треугольный щит" />
     <string id="8DnJls9z" text="Степные кожаные Наручи" />
     <string id="8hDoWBIa" text="Рубашка Простолюдина" />
@@ -135,7 +135,7 @@
     <string id="aGxtOTB8" text="Горный топор" />
     <string id="aHQCG5Tn" text="Бард из Цепей" />
     <string id="Ai7qIb9I" text="Малый треугольный Щит" />
-    <string id="AIu3kKvz" text="Saddle Horse" />
+    <string id="AIu3kKvz" text="Седло для лошади" />
     <string id="ajifXc8I" text="Плюмбата" />
     <string id="AloILntx" text="Южная Обычная Упряжь" />
     <string id="aO4o9a30" text="Восточная Пика" />
@@ -150,7 +150,7 @@
     <string id="aYoIrpe0" text="Пристёгивающиеся Ножные Доспехи" />
     <string id="b1pqUQju" text="Сегментированная Кипа с Подбитой Тканевой Подкладкой" />
     <string id="b2EDkbhD" text="Wrapped Armguards" />
-    <string id="B8p6E8GJ" text="Табар" />
+    <string id="B8p6E8GJ" text="Гербовая накидка" />
     <string id="bABqOxfT" text="Северное Великое Копьё" />
     <string id="bAidg8fV" text="Huscarls Decorated Mail Shirt" />
     <string id="BavVxSoC" text="Дешёвая Цветная Одежда" />
@@ -159,7 +159,7 @@
     <string id="bDfKz5SZ" text="Ремень" />
     <string id="BDGbu59Q" text="Якуланский Конь" />
     <string id="BDkQNwNE" text="Тяжёлые Стрелы" />
-    <string id="bDWgG7Jc" text="Brass Bracers" />
+    <string id="bDWgG7Jc" text="Латунные наручи" />
     <string id="beMSPAOG" text="Кожаный Шипованный Шлем с Подшлемником" />
     <string id="bGSbaT2n" text="Северные Латные Сапоги" />
     <string id="bKBa7ahF" text="Long Simple Robe" />
@@ -168,7 +168,7 @@
     <string id="bQXR1jzG" text="Восточный Шлем Знати с Защитой Шеи" />
     <string id="Bruzcqbm" text="Тяжёлый Клинок" />
     <string id="brvgn9Ja" text="Восточный Вендельский Шлем" />
-    <string id="BryUh6yQ" text="Steel Cap" />
+    <string id="BryUh6yQ" text="Стальная шапка" />
     <string id="bT3veT4T" text="Южное Тяжёлое Копьё" />
     <string id="btrf2AXp" text="Мешковатые Полуштаны" />
     <string id="bubcrmTC" text="Шлем с Наносником и Подбитым Тканевым Подшлемником" />

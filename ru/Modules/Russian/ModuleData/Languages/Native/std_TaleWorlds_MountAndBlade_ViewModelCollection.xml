@@ -50,7 +50,7 @@
     <string id="aalbxe7z" text="Размер армии, установить параметр количества ботов в формирование {OPTION_VALUE}" />
     <string id="aB4Md0if" text="Есть игроки" />
     <string id="aeouhelq" text="Yes" />
-    <string id="Agtv9l7S" text="This Name Already Exists" />
+    <string id="Agtv9l7S" text="Это название уже занято" />
     <string id="ahiBhAqU" text="Броня" />
     <string id="aO3avkK9" text="Матчмейкинг отключен" />
     <string id="ApD0xQXT" text="{STR1}: {STR2}" />
@@ -64,7 +64,7 @@
     <string id="b9PT1Yxc" text="Выберите тип игры " />
     <string id="BAaS5Dkc" text="Применить" />
     <string id="bExIl1A2" text="Name Length Is Invalid" />
-    <string id="bfQLwMUp" text="Clans" />
+    <string id="bfQLwMUp" text="Кланы" />
     <string id="bIcFZT6L" text="Форма бровей " />
     <string id="bON4Kn6B" text="Автоматическое Назначение" />
     <string id="BrjpmaJH" text="Games Lost" />
@@ -111,7 +111,7 @@
     <string id="FhnKJODX" text="Faction A" />
     <string id="FjmxNxZJ" text="Tag Has Invalid Characters In It" />
     <string id="FjwRsf1C" text="Вландия" />
-    <string id="fLddxLjh" text="Invite to Clan" />
+    <string id="fLddxLjh" text="Пригласить в клан" />
     <string id="fM9E7frB" text="Графика" />
     <string id="FRSGOfUJ" text="Включить боевой журнал" />
     <string id="ftoSCQ0x" text="Длина" />
@@ -126,7 +126,7 @@
     <string id="GmU1to3Y" text="Статистика" />
     <string id="gowlLS2b" text="Demote From Clan Officer" />
     <string id="gqNxq11A" text="Цели" />
-    <string id="graphics_option" text="Graphics" />
+    <string id="graphics_option" text="Графика" />
     <string id="GRpGNYHW" text="Promote To Clan Leader" />
     <string id="GXosklej" text="Случайные" />
     <string id="gzdNEM76" text="Создать игру" />
@@ -233,7 +233,7 @@
     <string id="qe46yXVJ" text="ЗАБЛОКИРОВАНА ДЛЯ БАЛАНСА" />
     <string id="qFPBhVh4" text="Обновить" />
     <string id="QfTt7YRB" text="Скорострельность" />
-    <string id="qmNeO8FG" text="Keybindings" />
+    <string id="qmNeO8FG" text="Клавиши" />
     <string id="qTYsYJ9V" text="Послать" />
     <string id="QvDxB57o" text="{STR1} | {STR2}" />
     <string id="qXxpITdc" text="Цвет Глаз:" />

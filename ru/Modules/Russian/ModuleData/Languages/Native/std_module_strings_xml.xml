@@ -632,7 +632,7 @@
     <string id="frt7AmX0" text="Гарнизон {MAJOR_PARTY_LEADER}" />
     <string id="fRu5Y4OT" text="Я был ранен и оставлен умирать" />
     <string id="FRuzuVyO" text="Ни один клан не выбраны" />
-    <string id="FRZfpryn" text="Выдвинуть предложение предполагающее передачу поселка кому-нить другому" />
+    <string id="FRZfpryn" text="Выдвинуть предложение, предполагающее передачу владения кому-нить другому" />
     <string id="FS78CuPs" text="Навыки привязанные к аттрибуту {ATTRIBUTE_NAME}:" />
     <string id="FSo6tf7x" text="barrels of cheese" />
     <string id="FVEvjlis" text="Размер отряда превышен" />
@@ -1012,7 +1012,7 @@
     <string id="mNr84Xm1" text="Не могу открыть окно клана прямо сейчас!" />
     <string id="mOlsoKGK" text="casks of butter" />
     <string id="mountnoun" text="Верхом" />
-    <string id="mPaQzgS0" text="Рад тебя видеть здесь, {PLAYER.LINK}." />
+    <string id="mPaQzgS0" text="{?CONVERSATION_NPC.GENDER}Рада{?}Рад{\?} тебя видеть здесь, {PLAYER.LINK}." />
     <string id="MpDMaBE9" text="Поносит нас? Мы будем пить из твоего черепа!" />
     <string id="MPZ40lEk" text="Называя Новорожденного" />
     <string id="MqCH7R4A" text="Безопасность" />

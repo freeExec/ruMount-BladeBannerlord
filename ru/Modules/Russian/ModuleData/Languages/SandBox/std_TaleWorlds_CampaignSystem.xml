@@ -777,7 +777,7 @@
     <string id="AdK4Ilzw" text="Чалина" />
     <string id="AdkSktd2" text="Вы должны отправить {NUMBER} {?MOUNTED}кавалерию {?}{\?}войск для этого квеста." />
     <string id="AdoaDR26" text="{QUEST_GIVER.LINK} просит вас разведать {SETTLEMENT_1}, {SETTLEMENT_2} и {SETTLEMENT_3}." />
-    <string id="aDQcIGfH" text="Высокий моральный дух" />
+    <string id="aDQcIGfH" text="Высокий боевой дух" />
     <string id="aeKdXKnO" text="{ISSUE_GIVER.LINK}, ремесленник из {SETTLEMENT}, сказал вам, что местный торговец {COUNTER_OFFER.LINK} просит смешные деньги за сырье, которое {?ISSUE_GIVER.GENDER}ей{?}ему{\?} необходимо для продолжения {?ISSUE_GIVER.GENDER}её{?}его{\?} работы. Вы попросили {COMPANION.LINK} остаться с {?ISSUE_GIVER.GENDER}ней {?}ним{\?} и попытаться решить {?ISSUE_GIVER.GENDER}её{?}его{\?} проблемы. Вы ожидаете, что {COMPANION.LINK} отчитается вам в течение {RETURN_DAYS} дней." />
     <string id="aeLgc0cU" text="Актон" />
     <string id="aEmYZadz" text="Фестиваль и игры" />
@@ -863,7 +863,7 @@
     <string id="aT0uYDuo" text="Снайпер" />
     <string id="AT6v10NK" text="Атрибут" />
     <string id="aTeuX4L0" text="Обычный" />
-    <string id="AtFv5RMW" text="Награда королевству" />
+    <string id="AtFv5RMW" text="Выплаты королевству" />
     <string id="AThZtg7U" text="{PEACEMAKER_RULER.NAME} из {KINGDOM_CONSIDERING_PEACE}, решает не заключать мир с фракцией {KINGDOM}, {?PEACEMAKER_RULER.GENDER}ее{?}его{\?} совет по данному вопросу разделен поровну." />
     <string id="atk3PTae" text="Дезертиры вымогают {SETTLEMENT}." />
     <string id="aTPc7AkY" text="Отлично. Но я могу нанять только {MERCENARY_COUNT} из вас. Вот {GOLD_AMOUNT} {GOLD_ICON}" />
@@ -1976,7 +1976,7 @@
     <string id="iBZc9RbE" text="Будем ждать всех" />
     <string id="ICkvftaM" text="Знаменитый стрелок" />
     <string id="iCSVZj2e" text="{HERO.FIRSTNAME} {?NORTHERN}Далёкий{?}Каравансер{\?}" />
-    <string id="IDdyHef9" text="Мы двигаемся к вам!" />
+    <string id="IDdyHef9" text="Тогда мы пойдём по своим делам!" />
     <string id="idwOxnX5" text="Нет, если ты сдашься сейчас. Если нет, готовьтесь к бою!" />
     <string id="iDxygnVF" text="Геротеон" />
     <string id="IefM6uAy" text="Спасибо. Вам хорошо заплатят. Также вы можете оставить себе их незаконно полученную кожу." />
